@@ -1,0 +1,1533 @@
+{
+  "version": 1,
+  "categories": [
+    {
+      "name": "Abstract",
+      "order": 0,
+      "styles": [
+        {
+          "id": "Abstract/A1",
+          "name": "A1",
+          "icon": "Abstract/A1.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Abstract/A1.webp"
+          ]
+        },
+        {
+          "id": "Abstract/A10",
+          "name": "A10",
+          "icon": "Abstract/A10.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Abstract/A10.webp"
+          ]
+        },
+        {
+          "id": "Abstract/A11",
+          "name": "A11",
+          "icon": "Abstract/A11.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Abstract/A11.webp"
+          ]
+        },
+        {
+          "id": "Abstract/A12",
+          "name": "A12",
+          "icon": "Abstract/A12.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Abstract/A12.webp"
+          ]
+        },
+        {
+          "id": "Abstract/A13",
+          "name": "A13",
+          "icon": "Abstract/A13.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Abstract/A13.webp"
+          ]
+        },
+        {
+          "id": "Abstract/A14",
+          "name": "A14",
+          "icon": "Abstract/A14.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Abstract/A14.webp"
+          ]
+        },
+        {
+          "id": "Abstract/A15",
+          "name": "A15",
+          "icon": "Abstract/A15.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Abstract/A15.webp"
+          ]
+        },
+        {
+          "id": "Abstract/A16",
+          "name": "A16",
+          "icon": "Abstract/A16.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Abstract/A16.webp"
+          ]
+        },
+        {
+          "id": "Abstract/A17",
+          "name": "A17",
+          "icon": "Abstract/A17.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Abstract/A17.webp"
+          ]
+        },
+        {
+          "id": "Abstract/A18",
+          "name": "A18",
+          "icon": "Abstract/A18.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Abstract/A18.webp"
+          ]
+        },
+        {
+          "id": "Abstract/A19",
+          "name": "A19",
+          "icon": "Abstract/A19.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Abstract/A19.webp"
+          ]
+        },
+        {
+          "id": "Abstract/A2",
+          "name": "A2",
+          "icon": "Abstract/A2.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Abstract/A2.webp"
+          ]
+        },
+        {
+          "id": "Abstract/A20",
+          "name": "A20",
+          "icon": "Abstract/A20.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Abstract/A20.webp"
+          ]
+        },
+        {
+          "id": "Abstract/A21",
+          "name": "A21",
+          "icon": "Abstract/A21.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Abstract/A21.webp"
+          ]
+        },
+        {
+          "id": "Abstract/A22",
+          "name": "A22",
+          "icon": "Abstract/A22.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Abstract/A22.webp"
+          ]
+        },
+        {
+          "id": "Abstract/A23",
+          "name": "A23",
+          "icon": "Abstract/A23.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Abstract/A23.webp"
+          ]
+        },
+        {
+          "id": "Abstract/A24",
+          "name": "A24",
+          "icon": "Abstract/A24.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Abstract/A24.webp"
+          ]
+        },
+        {
+          "id": "Abstract/A25",
+          "name": "A25",
+          "icon": "Abstract/A25.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Abstract/A25.webp"
+          ]
+        },
+        {
+          "id": "Abstract/A3",
+          "name": "A3",
+          "icon": "Abstract/A3.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Abstract/A3.webp"
+          ]
+        },
+        {
+          "id": "Abstract/A4",
+          "name": "A4",
+          "icon": "Abstract/A4.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Abstract/A4.webp"
+          ]
+        },
+        {
+          "id": "Abstract/A5",
+          "name": "A5",
+          "icon": "Abstract/A5.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Abstract/A5.webp"
+          ]
+        },
+        {
+          "id": "Abstract/A6",
+          "name": "A6",
+          "icon": "Abstract/A6.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Abstract/A6.webp"
+          ]
+        },
+        {
+          "id": "Abstract/A7",
+          "name": "A7",
+          "icon": "Abstract/A7.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Abstract/A7.webp"
+          ]
+        },
+        {
+          "id": "Abstract/A8",
+          "name": "A8",
+          "icon": "Abstract/A8.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Abstract/A8.webp"
+          ]
+        },
+        {
+          "id": "Abstract/A9",
+          "name": "A9",
+          "icon": "Abstract/A9.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Abstract/A9.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Art",
+      "order": 1,
+      "styles": [
+        {
+          "id": "Art/ART-1",
+          "name": "ART-1",
+          "icon": "Art/ART-1.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Art/ART-1.webp"
+          ]
+        },
+        {
+          "id": "Art/ART-10",
+          "name": "ART-10",
+          "icon": "Art/ART-10.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Art/ART-10.webp"
+          ]
+        },
+        {
+          "id": "Art/ART-11",
+          "name": "ART-11",
+          "icon": "Art/ART-11.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Art/ART-11.webp"
+          ]
+        },
+        {
+          "id": "Art/ART-12",
+          "name": "ART-12",
+          "icon": "Art/ART-12.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Art/ART-12.webp"
+          ]
+        },
+        {
+          "id": "Art/ART-13",
+          "name": "ART-13",
+          "icon": "Art/ART-13.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Art/ART-13.webp"
+          ]
+        },
+        {
+          "id": "Art/ART-14",
+          "name": "ART-14",
+          "icon": "Art/ART-14.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Art/ART-14.webp"
+          ]
+        },
+        {
+          "id": "Art/ART-2",
+          "name": "ART-2",
+          "icon": "Art/ART-2.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Art/ART-2.webp"
+          ]
+        },
+        {
+          "id": "Art/ART-3",
+          "name": "ART-3",
+          "icon": "Art/ART-3.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Art/ART-3.webp"
+          ]
+        },
+        {
+          "id": "Art/ART-4",
+          "name": "ART-4",
+          "icon": "Art/ART-4.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Art/ART-4.webp"
+          ]
+        },
+        {
+          "id": "Art/ART-5",
+          "name": "ART-5",
+          "icon": "Art/ART-5.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Art/ART-5.webp"
+          ]
+        },
+        {
+          "id": "Art/ART-6",
+          "name": "ART-6",
+          "icon": "Art/ART-6.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Art/ART-6.webp"
+          ]
+        },
+        {
+          "id": "Art/ART-7",
+          "name": "ART-7",
+          "icon": "Art/ART-7.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Art/ART-7.webp"
+          ]
+        },
+        {
+          "id": "Art/ART-8",
+          "name": "ART-8",
+          "icon": "Art/ART-8.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Art/ART-8.webp"
+          ]
+        },
+        {
+          "id": "Art/ART-9",
+          "name": "ART-9",
+          "icon": "Art/ART-9.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Art/ART-9.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bloom",
+      "order": 2,
+      "styles": [
+        {
+          "id": "Bloom/B1",
+          "name": "B1",
+          "icon": "Bloom/B1.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Bloom/B1.webp"
+          ]
+        },
+        {
+          "id": "Bloom/B2",
+          "name": "B2",
+          "icon": "Bloom/B2.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Bloom/B2.webp"
+          ]
+        },
+        {
+          "id": "Bloom/B3",
+          "name": "B3",
+          "icon": "Bloom/B3.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Bloom/B3.webp"
+          ]
+        },
+        {
+          "id": "Bloom/B4",
+          "name": "B4",
+          "icon": "Bloom/B4.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Bloom/B4.webp"
+          ]
+        },
+        {
+          "id": "Bloom/B5",
+          "name": "B5",
+          "icon": "Bloom/B5.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Bloom/B5.webp"
+          ]
+        },
+        {
+          "id": "Bloom/B6",
+          "name": "B6",
+          "icon": "Bloom/B6.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Bloom/B6.webp"
+          ]
+        },
+        {
+          "id": "Bloom/B7",
+          "name": "B7",
+          "icon": "Bloom/B7.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Bloom/B7.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Brushwork",
+      "order": 3,
+      "styles": [
+        {
+          "id": "Brushwork/BW-1",
+          "name": "BW-1",
+          "icon": "Brushwork/BW-1.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Brushwork/BW-1.webp"
+          ]
+        },
+        {
+          "id": "Brushwork/BW-10",
+          "name": "BW-10",
+          "icon": "Brushwork/BW-10.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Brushwork/BW-10.webp"
+          ]
+        },
+        {
+          "id": "Brushwork/BW-11",
+          "name": "BW-11",
+          "icon": "Brushwork/BW-11.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Brushwork/BW-11.webp"
+          ]
+        },
+        {
+          "id": "Brushwork/BW-12",
+          "name": "BW-12",
+          "icon": "Brushwork/BW-12.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Brushwork/BW-12.webp"
+          ]
+        },
+        {
+          "id": "Brushwork/BW-13",
+          "name": "BW-13",
+          "icon": "Brushwork/BW-13.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Brushwork/BW-13.webp"
+          ]
+        },
+        {
+          "id": "Brushwork/BW-14",
+          "name": "BW-14",
+          "icon": "Brushwork/BW-14.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Brushwork/BW-14.webp"
+          ]
+        },
+        {
+          "id": "Brushwork/BW-15",
+          "name": "BW-15",
+          "icon": "Brushwork/BW-15.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Brushwork/BW-15.webp"
+          ]
+        },
+        {
+          "id": "Brushwork/BW-16",
+          "name": "BW-16",
+          "icon": "Brushwork/BW-16.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Brushwork/BW-16.webp"
+          ]
+        },
+        {
+          "id": "Brushwork/BW-17",
+          "name": "BW-17",
+          "icon": "Brushwork/BW-17.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Brushwork/BW-17.webp"
+          ]
+        },
+        {
+          "id": "Brushwork/BW-2",
+          "name": "BW-2",
+          "icon": "Brushwork/BW-2.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Brushwork/BW-2.webp"
+          ]
+        },
+        {
+          "id": "Brushwork/BW-3",
+          "name": "BW-3",
+          "icon": "Brushwork/BW-3.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Brushwork/BW-3.webp"
+          ]
+        },
+        {
+          "id": "Brushwork/BW-4",
+          "name": "BW-4",
+          "icon": "Brushwork/BW-4.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Brushwork/BW-4.webp"
+          ]
+        },
+        {
+          "id": "Brushwork/BW-5",
+          "name": "BW-5",
+          "icon": "Brushwork/BW-5.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Brushwork/BW-5.webp"
+          ]
+        },
+        {
+          "id": "Brushwork/BW-6",
+          "name": "BW-6",
+          "icon": "Brushwork/BW-6.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Brushwork/BW-6.webp"
+          ]
+        },
+        {
+          "id": "Brushwork/BW-7",
+          "name": "BW-7",
+          "icon": "Brushwork/BW-7.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Brushwork/BW-7.webp"
+          ]
+        },
+        {
+          "id": "Brushwork/BW-8",
+          "name": "BW-8",
+          "icon": "Brushwork/BW-8.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Brushwork/BW-8.webp"
+          ]
+        },
+        {
+          "id": "Brushwork/BW-9",
+          "name": "BW-9",
+          "icon": "Brushwork/BW-9.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Brushwork/BW-9.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Classic",
+      "order": 4,
+      "styles": [
+        {
+          "id": "Classic/C1",
+          "name": "C1",
+          "icon": "Classic/C1.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Classic/C1.webp"
+          ]
+        },
+        {
+          "id": "Classic/C10",
+          "name": "C10",
+          "icon": "Classic/C10.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Classic/C10.webp"
+          ]
+        },
+        {
+          "id": "Classic/C11",
+          "name": "C11",
+          "icon": "Classic/C11.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Classic/C11.webp"
+          ]
+        },
+        {
+          "id": "Classic/C12",
+          "name": "C12",
+          "icon": "Classic/C12.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Classic/C12.webp"
+          ]
+        },
+        {
+          "id": "Classic/C13",
+          "name": "C13",
+          "icon": "Classic/C13.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Classic/C13.webp"
+          ]
+        },
+        {
+          "id": "Classic/C14",
+          "name": "C14",
+          "icon": "Classic/C14.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Classic/C14.webp"
+          ]
+        },
+        {
+          "id": "Classic/C15",
+          "name": "C15",
+          "icon": "Classic/C15.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Classic/C15.webp"
+          ]
+        },
+        {
+          "id": "Classic/C16",
+          "name": "C16",
+          "icon": "Classic/C16.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Classic/C16.webp"
+          ]
+        },
+        {
+          "id": "Classic/C17",
+          "name": "C17",
+          "icon": "Classic/C17.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Classic/C17.webp"
+          ]
+        },
+        {
+          "id": "Classic/C18",
+          "name": "C18",
+          "icon": "Classic/C18.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Classic/C18.webp"
+          ]
+        },
+        {
+          "id": "Classic/C19",
+          "name": "C19",
+          "icon": "Classic/C19.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Classic/C19.webp"
+          ]
+        },
+        {
+          "id": "Classic/C2",
+          "name": "C2",
+          "icon": "Classic/C2.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Classic/C2.webp"
+          ]
+        },
+        {
+          "id": "Classic/C20",
+          "name": "C20",
+          "icon": "Classic/C20.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Classic/C20.webp"
+          ]
+        },
+        {
+          "id": "Classic/C21",
+          "name": "C21",
+          "icon": "Classic/C21.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Classic/C21.webp"
+          ]
+        },
+        {
+          "id": "Classic/C22",
+          "name": "C22",
+          "icon": "Classic/C22.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Classic/C22.webp"
+          ]
+        },
+        {
+          "id": "Classic/C23",
+          "name": "C23",
+          "icon": "Classic/C23.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Classic/C23.webp"
+          ]
+        },
+        {
+          "id": "Classic/C24",
+          "name": "C24",
+          "icon": "Classic/C24.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Classic/C24.webp"
+          ]
+        },
+        {
+          "id": "Classic/C25",
+          "name": "C25",
+          "icon": "Classic/C25.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Classic/C25.webp"
+          ]
+        },
+        {
+          "id": "Classic/C26",
+          "name": "C26",
+          "icon": "Classic/C26.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Classic/C26.webp"
+          ]
+        },
+        {
+          "id": "Classic/C27",
+          "name": "C27",
+          "icon": "Classic/C27.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Classic/C27.webp"
+          ]
+        },
+        {
+          "id": "Classic/C28",
+          "name": "C28",
+          "icon": "Classic/C28.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Classic/C28.webp"
+          ]
+        },
+        {
+          "id": "Classic/C29",
+          "name": "C29",
+          "icon": "Classic/C29.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Classic/C29.webp"
+          ]
+        },
+        {
+          "id": "Classic/C3",
+          "name": "C3",
+          "icon": "Classic/C3.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Classic/C3.webp"
+          ]
+        },
+        {
+          "id": "Classic/C30",
+          "name": "C30",
+          "icon": "Classic/C30.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Classic/C30.webp"
+          ]
+        },
+        {
+          "id": "Classic/C31",
+          "name": "C31",
+          "icon": "Classic/C31.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Classic/C31.webp"
+          ]
+        },
+        {
+          "id": "Classic/C32",
+          "name": "C32",
+          "icon": "Classic/C32.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Classic/C32.webp"
+          ]
+        },
+        {
+          "id": "Classic/C33",
+          "name": "C33",
+          "icon": "Classic/C33.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Classic/C33.webp"
+          ]
+        },
+        {
+          "id": "Classic/C34",
+          "name": "C34",
+          "icon": "Classic/C34.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Classic/C34.webp"
+          ]
+        },
+        {
+          "id": "Classic/C35",
+          "name": "C35",
+          "icon": "Classic/C35.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Classic/C35.webp"
+          ]
+        },
+        {
+          "id": "Classic/C36",
+          "name": "C36",
+          "icon": "Classic/C36.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Classic/C36.webp"
+          ]
+        },
+        {
+          "id": "Classic/C37",
+          "name": "C37",
+          "icon": "Classic/C37.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Classic/C37.webp"
+          ]
+        },
+        {
+          "id": "Classic/C38",
+          "name": "C38",
+          "icon": "Classic/C38.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Classic/C38.webp"
+          ]
+        },
+        {
+          "id": "Classic/C39",
+          "name": "C39",
+          "icon": "Classic/C39.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Classic/C39.webp"
+          ]
+        },
+        {
+          "id": "Classic/C4",
+          "name": "C4",
+          "icon": "Classic/C4.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Classic/C4.webp"
+          ]
+        },
+        {
+          "id": "Classic/C40",
+          "name": "C40",
+          "icon": "Classic/C40.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Classic/C40.webp"
+          ]
+        },
+        {
+          "id": "Classic/C41",
+          "name": "C41",
+          "icon": "Classic/C41.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Classic/C41.webp"
+          ]
+        },
+        {
+          "id": "Classic/C42",
+          "name": "C42",
+          "icon": "Classic/C42.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Classic/C42.webp"
+          ]
+        },
+        {
+          "id": "Classic/C43",
+          "name": "C43",
+          "icon": "Classic/C43.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Classic/C43.webp"
+          ]
+        },
+        {
+          "id": "Classic/C44",
+          "name": "C44",
+          "icon": "Classic/C44.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Classic/C44.webp"
+          ]
+        },
+        {
+          "id": "Classic/C45",
+          "name": "C45",
+          "icon": "Classic/C45.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Classic/C45.webp"
+          ]
+        },
+        {
+          "id": "Classic/C46",
+          "name": "C46",
+          "icon": "Classic/C46.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Classic/C46.webp"
+          ]
+        },
+        {
+          "id": "Classic/C47",
+          "name": "C47",
+          "icon": "Classic/C47.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Classic/C47.webp"
+          ]
+        },
+        {
+          "id": "Classic/C48",
+          "name": "C48",
+          "icon": "Classic/C48.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Classic/C48.webp"
+          ]
+        },
+        {
+          "id": "Classic/C5",
+          "name": "C5",
+          "icon": "Classic/C5.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Classic/C5.webp"
+          ]
+        },
+        {
+          "id": "Classic/C6",
+          "name": "C6",
+          "icon": "Classic/C6.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Classic/C6.webp"
+          ]
+        },
+        {
+          "id": "Classic/C7",
+          "name": "C7",
+          "icon": "Classic/C7.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Classic/C7.webp"
+          ]
+        },
+        {
+          "id": "Classic/C8",
+          "name": "C8",
+          "icon": "Classic/C8.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Classic/C8.webp"
+          ]
+        },
+        {
+          "id": "Classic/C9",
+          "name": "C9",
+          "icon": "Classic/C9.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Classic/C9.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Drawing",
+      "order": 5,
+      "styles": [
+        {
+          "id": "Drawing/D1",
+          "name": "D1",
+          "icon": "Drawing/D1.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Drawing/D1.webp"
+          ]
+        },
+        {
+          "id": "Drawing/D2",
+          "name": "D2",
+          "icon": "Drawing/D2.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Drawing/D2.webp"
+          ]
+        },
+        {
+          "id": "Drawing/D3",
+          "name": "D3",
+          "icon": "Drawing/D3.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Drawing/D3.webp"
+          ]
+        },
+        {
+          "id": "Drawing/D4",
+          "name": "D4",
+          "icon": "Drawing/D4.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Drawing/D4.webp"
+          ]
+        },
+        {
+          "id": "Drawing/D5",
+          "name": "D5",
+          "icon": "Drawing/D5.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Drawing/D5.webp"
+          ]
+        },
+        {
+          "id": "Drawing/D6",
+          "name": "D6",
+          "icon": "Drawing/D6.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Drawing/D6.webp"
+          ]
+        },
+        {
+          "id": "Drawing/D7",
+          "name": "D7",
+          "icon": "Drawing/D7.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Drawing/D7.webp"
+          ]
+        },
+        {
+          "id": "Drawing/D8",
+          "name": "D8",
+          "icon": "Drawing/D8.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Drawing/D8.webp"
+          ]
+        },
+        {
+          "id": "Drawing/D9",
+          "name": "D9",
+          "icon": "Drawing/D9.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Drawing/D9.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Landscape",
+      "order": 6,
+      "styles": [
+        {
+          "id": "Landscape/LS-1",
+          "name": "LS-1",
+          "icon": "Landscape/LS-1.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Landscape/LS-1.webp"
+          ]
+        },
+        {
+          "id": "Landscape/LS-10",
+          "name": "LS-10",
+          "icon": "Landscape/LS-10.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Landscape/LS-10.webp"
+          ]
+        },
+        {
+          "id": "Landscape/LS-11",
+          "name": "LS-11",
+          "icon": "Landscape/LS-11.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Landscape/LS-11.webp"
+          ]
+        },
+        {
+          "id": "Landscape/LS-12",
+          "name": "LS-12",
+          "icon": "Landscape/LS-12.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Landscape/LS-12.webp"
+          ]
+        },
+        {
+          "id": "Landscape/LS-13",
+          "name": "LS-13",
+          "icon": "Landscape/LS-13.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Landscape/LS-13.webp"
+          ]
+        },
+        {
+          "id": "Landscape/LS-14",
+          "name": "LS-14",
+          "icon": "Landscape/LS-14.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Landscape/LS-14.webp"
+          ]
+        },
+        {
+          "id": "Landscape/LS-15",
+          "name": "LS-15",
+          "icon": "Landscape/LS-15.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Landscape/LS-15.webp"
+          ]
+        },
+        {
+          "id": "Landscape/LS-16",
+          "name": "LS-16",
+          "icon": "Landscape/LS-16.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Landscape/LS-16.webp"
+          ]
+        },
+        {
+          "id": "Landscape/LS-17",
+          "name": "LS-17",
+          "icon": "Landscape/LS-17.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Landscape/LS-17.webp"
+          ]
+        },
+        {
+          "id": "Landscape/LS-18",
+          "name": "LS-18",
+          "icon": "Landscape/LS-18.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Landscape/LS-18.webp"
+          ]
+        },
+        {
+          "id": "Landscape/LS-19",
+          "name": "LS-19",
+          "icon": "Landscape/LS-19.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Landscape/LS-19.webp"
+          ]
+        },
+        {
+          "id": "Landscape/LS-2",
+          "name": "LS-2",
+          "icon": "Landscape/LS-2.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Landscape/LS-2.webp"
+          ]
+        },
+        {
+          "id": "Landscape/LS-20",
+          "name": "LS-20",
+          "icon": "Landscape/LS-20.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Landscape/LS-20.webp"
+          ]
+        },
+        {
+          "id": "Landscape/LS-21",
+          "name": "LS-21",
+          "icon": "Landscape/LS-21.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Landscape/LS-21.webp"
+          ]
+        },
+        {
+          "id": "Landscape/LS-22",
+          "name": "LS-22",
+          "icon": "Landscape/LS-22.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Landscape/LS-22.webp"
+          ]
+        },
+        {
+          "id": "Landscape/LS-3",
+          "name": "LS-3",
+          "icon": "Landscape/LS-3.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Landscape/LS-3.webp"
+          ]
+        },
+        {
+          "id": "Landscape/LS-4",
+          "name": "LS-4",
+          "icon": "Landscape/LS-4.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Landscape/LS-4.webp"
+          ]
+        },
+        {
+          "id": "Landscape/LS-5",
+          "name": "LS-5",
+          "icon": "Landscape/LS-5.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Landscape/LS-5.webp"
+          ]
+        },
+        {
+          "id": "Landscape/LS-6",
+          "name": "LS-6",
+          "icon": "Landscape/LS-6.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Landscape/LS-6.webp"
+          ]
+        },
+        {
+          "id": "Landscape/LS-7",
+          "name": "LS-7",
+          "icon": "Landscape/LS-7.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Landscape/LS-7.webp"
+          ]
+        },
+        {
+          "id": "Landscape/LS-8",
+          "name": "LS-8",
+          "icon": "Landscape/LS-8.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Landscape/LS-8.webp"
+          ]
+        },
+        {
+          "id": "Landscape/LS-9",
+          "name": "LS-9",
+          "icon": "Landscape/LS-9.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Landscape/LS-9.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Marker Pen",
+      "order": 7,
+      "styles": [
+        {
+          "id": "Marker Pen/MP-1",
+          "name": "MP-1",
+          "icon": "Marker Pen/MP-1.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Marker%20Pen/MP-1.webp"
+          ]
+        },
+        {
+          "id": "Marker Pen/MP-2",
+          "name": "MP-2",
+          "icon": "Marker Pen/MP-2.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Marker%20Pen/MP-2.webp"
+          ]
+        },
+        {
+          "id": "Marker Pen/MP-3",
+          "name": "MP-3",
+          "icon": "Marker Pen/MP-3.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Marker%20Pen/MP-3.webp"
+          ]
+        },
+        {
+          "id": "Marker Pen/MP-4",
+          "name": "MP-4",
+          "icon": "Marker Pen/MP-4.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Marker%20Pen/MP-4.webp"
+          ]
+        },
+        {
+          "id": "Marker Pen/MP-5",
+          "name": "MP-5",
+          "icon": "Marker Pen/MP-5.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Marker%20Pen/MP-5.webp"
+          ]
+        },
+        {
+          "id": "Marker Pen/MP-6",
+          "name": "MP-6",
+          "icon": "Marker Pen/MP-6.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Marker%20Pen/MP-6.webp"
+          ]
+        },
+        {
+          "id": "Marker Pen/MP-7",
+          "name": "MP-7",
+          "icon": "Marker Pen/MP-7.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Marker%20Pen/MP-7.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pop Art",
+      "order": 8,
+      "styles": [
+        {
+          "id": "Pop Art/PA-1",
+          "name": "PA-1",
+          "icon": "Pop Art/PA-1.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Pop%20Art/PA-1.webp"
+          ]
+        },
+        {
+          "id": "Pop Art/PA-2",
+          "name": "PA-2",
+          "icon": "Pop Art/PA-2.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Pop%20Art/PA-2.webp"
+          ]
+        },
+        {
+          "id": "Pop Art/PA-3",
+          "name": "PA-3",
+          "icon": "Pop Art/PA-3.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Pop%20Art/PA-3.webp"
+          ]
+        },
+        {
+          "id": "Pop Art/PA-4",
+          "name": "PA-4",
+          "icon": "Pop Art/PA-4.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Pop%20Art/PA-4.webp"
+          ]
+        },
+        {
+          "id": "Pop Art/PA-5",
+          "name": "PA-5",
+          "icon": "Pop Art/PA-5.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Pop%20Art/PA-5.webp"
+          ]
+        },
+        {
+          "id": "Pop Art/PA-6",
+          "name": "PA-6",
+          "icon": "Pop Art/PA-6.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Pop%20Art/PA-6.webp"
+          ]
+        },
+        {
+          "id": "Pop Art/PA-7",
+          "name": "PA-7",
+          "icon": "Pop Art/PA-7.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Pop%20Art/PA-7.webp"
+          ]
+        },
+        {
+          "id": "Pop Art/PA-8",
+          "name": "PA-8",
+          "icon": "Pop Art/PA-8.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Pop%20Art/PA-8.webp"
+          ]
+        },
+        {
+          "id": "Pop Art/PA-9",
+          "name": "PA-9",
+          "icon": "Pop Art/PA-9.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Pop%20Art/PA-9.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Scene",
+      "order": 9,
+      "styles": [
+        {
+          "id": "Scene/S1",
+          "name": "S1",
+          "icon": "Scene/S1.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Scene/S1.webp"
+          ]
+        },
+        {
+          "id": "Scene/S10",
+          "name": "S10",
+          "icon": "Scene/S10.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Scene/S10.webp"
+          ]
+        },
+        {
+          "id": "Scene/S11",
+          "name": "S11",
+          "icon": "Scene/S11.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Scene/S11.webp"
+          ]
+        },
+        {
+          "id": "Scene/S2",
+          "name": "S2",
+          "icon": "Scene/S2.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Scene/S2.webp"
+          ]
+        },
+        {
+          "id": "Scene/S3",
+          "name": "S3",
+          "icon": "Scene/S3.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Scene/S3.webp"
+          ]
+        },
+        {
+          "id": "Scene/S4",
+          "name": "S4",
+          "icon": "Scene/S4.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Scene/S4.webp"
+          ]
+        },
+        {
+          "id": "Scene/S5",
+          "name": "S5",
+          "icon": "Scene/S5.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Scene/S5.webp"
+          ]
+        },
+        {
+          "id": "Scene/S6",
+          "name": "S6",
+          "icon": "Scene/S6.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Scene/S6.webp"
+          ]
+        },
+        {
+          "id": "Scene/S7",
+          "name": "S7",
+          "icon": "Scene/S7.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Scene/S7.webp"
+          ]
+        },
+        {
+          "id": "Scene/S8",
+          "name": "S8",
+          "icon": "Scene/S8.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Scene/S8.webp"
+          ]
+        },
+        {
+          "id": "Scene/S9",
+          "name": "S9",
+          "icon": "Scene/S9.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Scene/S9.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sketch",
+      "order": 10,
+      "styles": [
+        {
+          "id": "Sketch/Sketch-1",
+          "name": "Sketch-1",
+          "icon": "Sketch/Sketch-1.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Sketch/Sketch-1.webp"
+          ]
+        },
+        {
+          "id": "Sketch/Sketch-2",
+          "name": "Sketch-2",
+          "icon": "Sketch/Sketch-2.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Sketch/Sketch-2.webp"
+          ]
+        },
+        {
+          "id": "Sketch/Sketch-3",
+          "name": "Sketch-3",
+          "icon": "Sketch/Sketch-3.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Sketch/Sketch-3.webp"
+          ]
+        },
+        {
+          "id": "Sketch/Sketch-4",
+          "name": "Sketch-4",
+          "icon": "Sketch/Sketch-4.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Sketch/Sketch-4.webp"
+          ]
+        },
+        {
+          "id": "Sketch/Sketch-5",
+          "name": "Sketch-5",
+          "icon": "Sketch/Sketch-5.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Sketch/Sketch-5.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Winter",
+      "order": 11,
+      "styles": [
+        {
+          "id": "Winter/W1",
+          "name": "W1",
+          "icon": "Winter/W1.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Winter/W1.webp"
+          ]
+        },
+        {
+          "id": "Winter/W2",
+          "name": "W2",
+          "icon": "Winter/W2.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Winter/W2.webp"
+          ]
+        },
+        {
+          "id": "Winter/W3",
+          "name": "W3",
+          "icon": "Winter/W3.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Winter/W3.webp"
+          ]
+        },
+        {
+          "id": "Winter/W4",
+          "name": "W4",
+          "icon": "Winter/W4.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Winter/W4.webp"
+          ]
+        },
+        {
+          "id": "Winter/W5",
+          "name": "W5",
+          "icon": "Winter/W5.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Winter/W5.webp"
+          ]
+        },
+        {
+          "id": "Winter/W6",
+          "name": "W6",
+          "icon": "Winter/W6.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Winter/W6.webp"
+          ]
+        },
+        {
+          "id": "Winter/W7",
+          "name": "W7",
+          "icon": "Winter/W7.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Winter/W7.webp"
+          ]
+        },
+        {
+          "id": "Winter/W8",
+          "name": "W8",
+          "icon": "Winter/W8.webp",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/styles/Winter/W8.webp"
+          ]
+        }
+      ]
+    }
+  ]
+}
