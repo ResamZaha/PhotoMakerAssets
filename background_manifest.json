@@ -1,5 +1,5 @@
 {
-  "version": 20,
+  "version": 239,
   "categories": [
     {
       "name": "Abstract",
@@ -213,6 +213,2429 @@
           ],
           "author": "Anna Evans",
           "authorUrl": "https://unsplash.com/@anevans?utm_source=PhotoMaker&utm_medium=referral"
+        }
+      ]
+    },
+    {
+      "name": "Nature",
+      "order": 1,
+      "backgrounds": [
+        {
+          "id": "pixabay_8433815",
+          "name": "snow, leaves, fall, forest floor, forest, nature, winter",
+          "thumb": "https://pixabay.com/get/g04d66310fbd24672a9f923ebaf4737859b3103491da99c02782a1ed6cece48d8f59814636cad1d21a7888179e9a82f0f2f6afb1c72df57531dddeef3e05f7494_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/pixabay_8433815.jpg",
+            "https://pixabay.com/get/gf14a50f21b97635c736e6c32a95f916a88eeb433f83ae6b34de76142e2626ac6a7feabdc1be66364784ee3138fc15100ee2f36db3e03622917717b2f4d2c91f0_1280.jpg"
+          ],
+          "author": "Mylene2401",
+          "authorUrl": "https://pixabay.com/users/Mylene2401-10328767/"
+        },
+        {
+          "id": "pixabay_5663324",
+          "name": "fishing, lake, trees, forest, human, person, solitary, solitude, conifers, coniferous, conifer forest, mountains, fall, autumn, nature, fishing, fishing, fishing, fishing, lake, solitude, solitude, solitude, solitude, solitude, fall, autumn, nature",
+          "thumb": "https://pixabay.com/get/g87ec4d4d0b21f9285187bf78553b2b5675bfb7107764047d7db6741183e94433e0e10b94a06c560a20e6cdead562bf8f9e2f7478a573a558809bfa78a31f36d0_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/pixabay_5663324.jpg",
+            "https://pixabay.com/get/ge26a77c91d7e12ea882c1b45596ae7a609ad3f1e5acd3d1de7a26401f635fe963099ad3472d771b8c53500a385b33007c288658c7f02ab603ecca976dfd2e8f3_1280.jpg"
+          ],
+          "author": "MichaelKirk",
+          "authorUrl": "https://pixabay.com/users/MichaelKirk-17283768/"
+        },
+        {
+          "id": "pixabay_7514966",
+          "name": "autumn, nature, fall, road, alps, landscape, mountain, forest, woods, trees",
+          "thumb": "https://pixabay.com/get/g62fa8dc898c25a0422495c57280f4cd6376616af0835e8a3f058d32470c4eea149d61bbb046eb548438a5e685fd3640dd00b7ba3102eaa69b87fd95ad3b411d4_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/pixabay_7514966.jpg",
+            "https://pixabay.com/get/g6fe692f3cda851e73ca692a1eb1415d69ebe26dce439a5421eb1c961d030b9fb3126d23aed9d58aaa95b54962269fbf357604c09dbe38f66abb75dfbdb393f20_1280.jpg"
+          ],
+          "author": "WaleedKhalid",
+          "authorUrl": "https://pixabay.com/users/WaleedKhalid-23462068/"
+        },
+        {
+          "id": "pixabay_10072702",
+          "name": "curved road, autumn forest, samsung wallpaper, fall adventure, ipad wallpaper, nature escape, picturesque scenery, golden trees, travel goals, tranquil journey, leaf season, mobile wallpaper, explore outdoors, lock screen wallpaper, beautiful wallpaper, peaceful trail, road less traveled, phone wallpaper, wallpaper, iphone wallpaper, background images, background, 4k, desktop wallpaper, mobile wallpaper 4k, desktop background",
+          "thumb": "https://pixabay.com/get/gc1c43c5bfcee65450e5465c448c5eea63508649d120e5d6c1b2724be0f2a6a6de6637efd2c70cc90ce1fa3691b735c68ec602fabc4e5784b05aa938d4c041475_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/pixabay_10072702.jpg",
+            "https://pixabay.com/get/g2de552b9d80401659c6262e25314fda742c2275e18f443b8e0702b25d130b528c8d95d658472022e927c65860e3e4e242a1c3c36a41a7f9925e932fa23aa5c6f_1280.jpg"
+          ],
+          "author": "ahmetyuksek",
+          "authorUrl": "https://pixabay.com/users/ahmetyuksek-45995253/"
+        },
+        {
+          "id": "pixabay_8356402",
+          "name": "autumn, nature, reflection, lake, forest, woods, peaceful, canada, alberta, fall, colorful",
+          "thumb": "https://pixabay.com/get/g00363e8eff22cf7a0b30258d4d42c6e14ef32fc11cc08423cd83845de80e504c1a36ba68be74fa155badc32f52e27cee48c1fe93edf7cc59727725cf366377c5_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/pixabay_8356402.jpg",
+            "https://pixabay.com/get/gc449fe0bd194c25fb8b404b8965455f7ffce906b0f70b9bf7e71171e47b0d680342f64b877a38bd105680e953f59c99dff9fe0cbac0c5a4bcc1765fe34199e6f_1280.jpg"
+          ],
+          "author": "stills_by_suki",
+          "authorUrl": "https://pixabay.com/users/stills_by_suki-40173626/"
+        },
+        {
+          "id": "pixabay_7986771",
+          "name": "hall, trees, nature, forest, path, pathway, leaves, green",
+          "thumb": "https://pixabay.com/get/g1f0c6f274fa8dba837813c62b6fcf84cb6c7d96d03c6c32e294318fecc55cdbc1281a5e34f43dd0d030edcbfeec96bda089dbd2d4b526187d40dd7a16a89f88e_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/pixabay_7986771.jpg",
+            "https://pixabay.com/get/g30ec0a97d26ef548b3b47b0c5291e40a7eb0da50b4e246969616014c82cf0f57eb614c468832b72a62105d0ffe7f2694410c7958c438b3cf08ecbd0a3fbc2f9a_1280.jpg"
+          ],
+          "author": "Lenzatic",
+          "authorUrl": "https://pixabay.com/users/Lenzatic-15400574/"
+        },
+        {
+          "id": "pixabay_10285907",
+          "name": "forest, sequoia, trees, tall trees, nature, plantation, californian, dark forest, mystical, atmospheric, mood, victoria, australia, forest floor, cool, ecosystem, travel, hiking, fresh air",
+          "thumb": "https://pixabay.com/get/gdb97879b1d63a751c351e70eb5c0f5abe7c68c6f0179421ad178131b55482ba6fdf642ddcc9cda30fa71e72dd7e087707e36b1c200d33a8037feaea515b02cc0_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/pixabay_10285907.jpg",
+            "https://pixabay.com/get/g04fb2e0f867523d45a75bfab065ad924137540d7c40928c52d84db05ba42bd92b3e9dddad5c670515ad3a46e5e51da0a8b772826eb49f8bbfaa7e52cfe4f3720_1280.jpg"
+          ],
+          "author": "pen_ash",
+          "authorUrl": "https://pixabay.com/users/pen_ash-5526837/"
+        },
+        {
+          "id": "pixabay_8259351",
+          "name": "witch, mobile wallpaper 4k, trees, ipad wallpaper, beautiful wallpaper, magical, magical forest, samsung wallpaper, nature, mystical, lock screen wallpaper, mobile wallpaper, mysterious, magical lights, fantasy, phone wallpaper, 4k, fairytale, black magic, iphone wallpaper, wallpaper",
+          "thumb": "https://pixabay.com/get/g1137b6266b4dc699bc5164fcf15022f88f06622de8e72da1311066a622758ba3a614641b120ebecf6ee8e29cc7773778ad57dfc65b702c73fac89da167a499d9_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/pixabay_8259351.jpg",
+            "https://pixabay.com/get/gce2f7eeddfbff37244667b9ab78269b412299ae124541c3d174bd1d8c69b3fdfe21671f228b1551eeb736de10b92b1e5e60abbea0524be5a409cb227f1c6c44a_1280.jpg"
+          ],
+          "author": "REXANDROS",
+          "authorUrl": "https://pixabay.com/users/REXANDROS-37979266/"
+        },
+        {
+          "id": "pixabay_5555938",
+          "name": "trees, forest, woods, trail, path, fall season, autumn season, nature, fallen leaves, canada, scenery, orange leaves, autumn, trees, trees, trees, trees, trees, forest, forest, canada, canada, canada, scenery, scenery, autumn, autumn",
+          "thumb": "https://pixabay.com/get/g14f77c30dfbb4fec5e16edefa3ec8c1dc8f45e81eed1c9ccd0562f82c4b88d6d41a13f30447b0366e18f5592247ec6e3c0ce2114858b67ffe21a7fc5008433be_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/pixabay_5555938.jpg",
+            "https://pixabay.com/get/g76b07779b771f04a9965649bb5268ccc7a90f24dec2267bf206ba71ae56d12aedc068ad22371d080d8394239d74a0cb188ec5ec8ea0a6abc109efed57acd76a9_1280.jpg"
+          ],
+          "author": "IdeaMajesty",
+          "authorUrl": "https://pixabay.com/users/IdeaMajesty-12760169/"
+        },
+        {
+          "id": "pixabay_7467503",
+          "name": "street, trees, exploration, travel, outdoors, forest, nature, mountain, chill, learn, children, treeline",
+          "thumb": "https://pixabay.com/get/g1a297d5b3c447d53c9245bee82047de7adc91446c5061a3f98af62392bb66d74c6474ad142aded78d4fdf750e44228e7ca17164b42aca7cb1f3e8ac5d8b908b2_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/pixabay_7467503.jpg",
+            "https://pixabay.com/get/g21135cb0f640f77b1f4036061d2a0d2953c4c3b6352475140ad934a8057037cbdb293e916a3a392773b6a3dfb8a214f45719f77d80682db67604a46604d1c18e_1280.jpg"
+          ],
+          "author": "Leino194",
+          "authorUrl": "https://pixabay.com/users/Leino194-29666205/"
+        },
+        {
+          "id": "pixabay_8292685",
+          "name": "mountains, trees, forest, fog, haze, clouds, nature, outdoors, trees, trees, trees, trees, trees, forest",
+          "thumb": "https://pixabay.com/get/gff01ba3a2ece8b43be1bdcc5dfe8123f23a99741136c1ffd20190d8df7869d93fac11825b3c2f1a21505ad14a37077a73696161e130af79baa213f16779f48cf_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/pixabay_8292685.jpg",
+            "https://pixabay.com/get/g53fb36a8813ce9f2568e03ae93745aa2b14d5df2e65d69a56ec9a6fe53fd4ea1375f59ad4f15d84d2abdda91227c561680cd058544f5bd045ff5a8a425c4111c_1280.jpg"
+          ],
+          "author": "danny51chen",
+          "authorUrl": "https://pixabay.com/users/danny51chen-27069374/"
+        },
+        {
+          "id": "pixabay_4551678",
+          "name": "red deer, deer, meadow, animal, mammal, stag, wildlife, wilderness, forest, nature, deer, deer, deer, deer, deer",
+          "thumb": "https://pixabay.com/get/g883a8a9e6c78b7ac735f7ef0977f65efb23b4b46361fb011b3d66559c4580441636bc400bc2de3fe4dfd0ac2bbc2c08434afcf7c3462311ae18a5a2d1cbe3d42_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/pixabay_4551678.jpg",
+            "https://pixabay.com/get/g6cd2848abc3580c3bda6b9c7c8ca3119fd0fd7ecad2aff5492078a521f83663ad5081e53cfd6e647fc63e94da5918402852abf4f15b344723c60424e15dcaf5c_1280.jpg"
+          ],
+          "author": "dianaparkhouse",
+          "authorUrl": "https://pixabay.com/users/dianaparkhouse-9868127/"
+        },
+        {
+          "id": "pixabay_4591082",
+          "name": "lake, forest, trees, woods, water, waterfall, sunlight, sunbeam, morning, fog, mist, scenery, scenic, nature, forest, waterfall, waterfall, waterfall, waterfall, waterfall",
+          "thumb": "https://pixabay.com/get/gf3d34de93b878745b84f0c42d3603ee1faf8d329edf005f1024f5c8194947d75c6a6954c98a1de467fe2298363cc2233f5dd807f407e901a0840239d55ccdc57_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/pixabay_4591082.jpg",
+            "https://pixabay.com/get/gbba3b9796471b918ca2423e05d21af9f5a49e479370a8e7ed5644067ab0daddee6844958063a364ef895363619acf53116b982987bfa8de6b8218a888c9ad643_1280.jpg"
+          ],
+          "author": "EvgeniT",
+          "authorUrl": "https://pixabay.com/users/EvgeniT-4930349/"
+        },
+        {
+          "id": "pixabay_5312889",
+          "name": "aurora borealis, nature, sky, night sky, norway, the phenomenon of, night, scandinavia, aurora, green, polar, lights",
+          "thumb": "https://pixabay.com/get/g8dc5f06489eb9a9ca97d91cd3d8980951bd4a0ce98a984b4ef8b58a983a6a03938e597b7d1a846edaeee00b594267ac21a1857f6b6f6d80644742b2b17753709_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/pixabay_5312889.jpg",
+            "https://pixabay.com/get/gc245e1a5d36af7194e8efdfe5481d99fc74bd4c4d65a4fb85c9ccb6da563425f1b944e0cbc8620e11a605c28684e5eb7e1dd04c2aedc6498319ba64e5cfcd3ae_1280.jpg"
+          ],
+          "author": "er_adamson",
+          "authorUrl": "https://pixabay.com/users/er_adamson-16995049/"
+        },
+        {
+          "id": "pixabay_8978421",
+          "name": "father and child, family, silhouette, northern lights, aurora, aurora borealis, colorful, night, stars",
+          "thumb": "https://pixabay.com/get/g75f9fc91292ef73ec130b7db577acf8604b4210bd222e1f3f5c70bbb722ceb7e336b97554d3947064f0a8b7cdfb09bddd1f611756869532adecdb229f6f36666_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/pixabay_8978421.jpg",
+            "https://pixabay.com/get/g06af62996acb9c3bd72c3d07a0f843198fd0bcea72adce5d88a9da36c275b4edf86d96372ef1ff7156868e44874db46906bdbb69ed479e37ada8e089dcc4f71d_1280.jpg"
+          ],
+          "author": "JillWellington",
+          "authorUrl": "https://pixabay.com/users/JillWellington-334088/"
+        },
+        {
+          "id": "pixabay_8978425",
+          "name": "trees, nature, silhouette, northern lights, aurora, aurora borealis, colorful, night, stars",
+          "thumb": "https://pixabay.com/get/gc9a3db9a6fff001a1e3694db2298f4cff3f13bb8ca328c3611babebcd00801f332dc73d02e3a8f67d05e9dfa08fed4d08bc43f70042717a99d6381aa4593fa54_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/pixabay_8978425.jpg",
+            "https://pixabay.com/get/gb999d9b5166b9c29abeceff18cece3490882a762e368c49810dcca58d1e26740002f9dfa78378db30fec9f220b1a5f8727370bb54345851c35dda42acb45e09c_1280.jpg"
+          ],
+          "author": "JillWellington",
+          "authorUrl": "https://pixabay.com/users/JillWellington-334088/"
+        },
+        {
+          "id": "pixabay_8102395",
+          "name": "sky, mobile wallpaper, northern lights, aurora borealis, night, reflection, boat, samsung wallpaper, seascape, clouds, sky background, nature, night sky, lock screen wallpaper, wallpaper, view, ipad wallpaper, mobile wallpaper 4k, moody, iphone wallpaper, phenomenon, tendrils, green, phone wallpaper, beautiful wallpaper, bright",
+          "thumb": "https://pixabay.com/get/g05f8aba6be7740adf73fe77fca602931be5a6342f18b86ac9c87e4e42c371664a8d9207f03a80e85b9801bc3250845ae3f2d02db979065e9a1f94bf1213b2d41_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/pixabay_8102395.jpg",
+            "https://pixabay.com/get/g2791d6b553136c104f1d0810fdd516da50c34d3c8da807433dd807319761c5edd0e1b9873ea9c397592973b166d80ec3435e95c970896c0cab09608c94a9e3ce_1280.jpg"
+          ],
+          "author": "flutie8211",
+          "authorUrl": "https://pixabay.com/users/flutie8211-17475707/"
+        },
+        {
+          "id": "pixabay_5399467",
+          "name": "aurora borealis, night, nature, landscape, phenomenon, aurora, stars, aurora borealis, aurora borealis, aurora borealis, aurora borealis, aurora, aurora, aurora, aurora, aurora",
+          "thumb": "https://pixabay.com/get/gcdf6d47a9c917d42b7b9f3d7d137f1439137bbb5c9ef35ea0b22f9af374f6b1dbc0e5407253292504a0f256a72d48ece1103cbbeb38ac7ffcec0c9c8412c2718_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/pixabay_5399467.jpg",
+            "https://pixabay.com/get/gd988a3364d09ea2afe42c4673e1918979cbc801c1ea022fab404f64fb322492cf05796152e05712a84214a2201755d5811376747026f887eeef5510671628022_1280.jpg"
+          ],
+          "author": "RaniRamli",
+          "authorUrl": "https://pixabay.com/users/RaniRamli-731298/"
+        },
+        {
+          "id": "pixabay_2876795",
+          "name": "aurora, northern lights, sky, borealis, tree, night, stars",
+          "thumb": "https://pixabay.com/get/gb06afcfaa784381ca93951197406abb1b7b759c1bad4ad00e3874487260cb9877879034623e410365dd41f54f0c2a93446cfaa123f5936982608d09ad63bd904_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/pixabay_2876795.jpg",
+            "https://pixabay.com/get/gbef59185bac4fee32732bf68bf423ff83f1747f7f3f4bf63acec21d68ded2c08ea7b7e27ede0bd9d9d149c545d481d9b78b695079f8a7ffea89de2d8d2911241_1280.jpg"
+          ],
+          "author": "MattHPhotos",
+          "authorUrl": "https://pixabay.com/users/MattHPhotos-5195356/"
+        },
+        {
+          "id": "pixabay_6067139",
+          "name": "northern lights, beach, sea, aurora borealis, coast, ocean, sand, seashore, sky, stars, night sky, nature, winter, lofoten, nordland, tromso, norway, arctic, scandinavia, phenomenon, lighting, scenery, scenic, northern lights, northern lights, northern lights, northern lights, northern lights, aurora borealis, aurora borealis, norway",
+          "thumb": "https://pixabay.com/get/ge0e77c6457491eb60edb8f0747febe3740aa93d2d0cd218a69e1047f131f70253c8bca73fa8295ae6a8ad8ea2d91901735fc30d03625e3eefa6e37f8f77be18b_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/pixabay_6067139.jpg",
+            "https://pixabay.com/get/g090a9eccd18a35aeac7f27db4058077c9fc3e11cb5732ea952dd0978946dbcc59b9f6d5e695ccc89e45f7dca42cf1b52d73e88efcd019573e73048d519834269_1280.jpg"
+          ],
+          "author": "NicoBecker59",
+          "authorUrl": "https://pixabay.com/users/NicoBecker59-19845444/"
+        },
+        {
+          "id": "pixabay_1192019",
+          "name": "galaxy, northen lights, auroras, arctic, snow, longyearbyen, luminous phenomenon, magical night, nature, lights, aurora, polar aurora, alaska, north pole, snowy landscape, aurora borealis, svalbard, blue starry sky, naturen adventures, space, night, nothern lights, northen lights, northen lights, aurora borealis, aurora borealis, aurora borealis, aurora borealis, aurora borealis, svalbard, nothern lights",
+          "thumb": "https://pixabay.com/get/g774be2fce87bfdbfd3a445a79a3a3e860be94b050076ca2c529fead307fa01825c03d656bf253757417eaaab6a360ab50212e669b198f79d1b9e33014415edef_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/pixabay_1192019.jpg",
+            "https://pixabay.com/get/gb630f597e9dbf5e8939386dcf0c648cf06ce3c7da8425c5686f8b3f475bd4aa44efc5722df14f018acebeeedc0c2eeb3500d41751fc0cbba49296e1ef1f3c903_1280.jpg"
+          ],
+          "author": "Noel_Bauza",
+          "authorUrl": "https://pixabay.com/users/Noel_Bauza-2019050/"
+        },
+        {
+          "id": "pixabay_7886178",
+          "name": "aurora, norway, landscape, astro, night, stars, galaxy, nature, mountain",
+          "thumb": "https://pixabay.com/get/g3066d6819caddcc7f709832a3746517077df3fa93a48023c6af494680e3d493af68cd384bb842d87944116e4571a9f1511c45fcf94dc552eda43335fa2138100_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/pixabay_7886178.jpg",
+            "https://pixabay.com/get/g6d96bb7e8f15e4f87b3528594d2f2cfe21cdd46f502e1e9118a9e35cb45c76e47b12a40af98f52794bb5f7f60f165796537a46a79eed90b18efc79c880b6124d_1280.jpg"
+          ],
+          "author": "jociujvari",
+          "authorUrl": "https://pixabay.com/users/jociujvari-20167871/"
+        },
+        {
+          "id": "pixabay_606121",
+          "name": "aurora, night, natural, aurora, aurora, aurora, aurora, aurora",
+          "thumb": "https://pixabay.com/get/g089f6bd38cfa9879816d740b6ace858bf25a90cd6bb08d76df7acf7151cf1222ebbb91244a7d6281dde88e85fa4e3c72_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/pixabay_606121.jpg",
+            "https://pixabay.com/get/gd7652b4376102c569d0d815d51522b00a477361fd17fb3fd62a5b1bb0ae166a4542b56205688b338075395b0b1ebe2eecffaa2713b205d2e77aed2f6abdc854a_1280.jpg"
+          ],
+          "author": "frankincense",
+          "authorUrl": "https://pixabay.com/users/frankincense-715395/"
+        },
+        {
+          "id": "pixabay_2160347",
+          "name": "night, northern lights, light, nature, winter, norway, house, sea, star, snow, aurora",
+          "thumb": "https://pixabay.com/get/ge5be7787c6d11be934dd8c3cb1732937ca9f6621e1ad2367970994c49d9c9a785c2d2e56a187aecda2a392be77f403332615b95a9fb26984dc8bdc9d29a794a6_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/pixabay_2160347.jpg",
+            "https://pixabay.com/get/gbb99b676ed809cc76d39a87a3f663e721d7b530bbe3a69e05299ee5917b28117a4c9f84938112f3a540f8c248ea3ea59e8eb8865bc7c26e1a5521af41d8a8aa4_1280.jpg"
+          ],
+          "author": "zoltantot",
+          "authorUrl": "https://pixabay.com/users/zoltantot-3023202/"
+        },
+        {
+          "id": "pixabay_10218740",
+          "name": "aurora, night sky, night, nature, sky, ai generated",
+          "thumb": "https://pixabay.com/get/g98652c7dc079b19e48370dfee11159d87223fc99212669bcca08656445c67596d6f325febfdad22f56518bd7d04eef10921799749760676e06ecb04d1a219a5f_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/pixabay_10218740.jpg",
+            "https://pixabay.com/get/g25d6731974b22c57bef1097c02b47a46cc3804ff141936eddf0da244f88c69f0dc7c47523b13184a976926f1379f21d97312c9a7595acfe4a92dfedf09fa2b6b_1280.jpg"
+          ],
+          "author": "Ashika006",
+          "authorUrl": "https://pixabay.com/users/Ashika006-54870487/"
+        },
+        {
+          "id": "pixabay_9768540",
+          "name": "milky way, galaxy, starry sky, universe, stars, night sky, heaven, cosmos, night, landscape, star park, winklmoosalm, upper bavaria",
+          "thumb": "https://pixabay.com/get/gb275128cbb88dcc857008da406089368b77487ef3240c3c98aab2911149f014667be25bd41520c5c20e5fb3a87d28468526650bc4d73f96a5eca70196da27e3d_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/pixabay_9768540.jpg",
+            "https://pixabay.com/get/g0f4156dfbb571f77c9bf83f44ec17f42e429b6bca8e55b1950e9b7fff2dc6aa7dadf30cb6e9236b9d26d09a3ef626e7eaa545a86c9e2fab976461ed5d2c0490d_1280.jpg"
+          ],
+          "author": "ChiemSeherin",
+          "authorUrl": "https://pixabay.com/users/ChiemSeherin-1425977/"
+        },
+        {
+          "id": "pixabay_8190240",
+          "name": "truck, night, night sky, sky, nature, vehicle, transport, space, cosmic",
+          "thumb": "https://pixabay.com/get/g27873dd3e0bbca95ede1c6d12dd3541cec08dac3e96b63fffc1fb78e71bf7b0d5faff310e0ad76f2b8385a8c3cf64110f220046103af580f098b99382446c7cc_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/pixabay_8190240.jpg",
+            "https://pixabay.com/get/gf111716300bad40082661ae16f30de4c11e8bb959aac6c5294502b5b7266f94c0b372245aa2eb2709dcc3e31c2e50d3a622150b6c020675dd5237663e66da9af_1280.jpg"
+          ],
+          "author": "RonaldPlett",
+          "authorUrl": "https://pixabay.com/users/RonaldPlett-5139674/"
+        },
+        {
+          "id": "pixabay_2594539",
+          "name": "aurora, green, light, atmosphere, sky, trees, plant, nature, outdoor, forest, aurora, aurora, aurora, aurora, aurora",
+          "thumb": "https://pixabay.com/get/g2087c7b3cc75c97c9b45fce56b7f6a94f94ad1afdea6d6db9cf3f8158d881304bcc12de5162ae176559b46c93abfabd5e0dac96f280db0b713540db96db3720e_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/pixabay_2594539.jpg",
+            "https://pixabay.com/get/g6dc3eda1ec7ca0811d8c72aaed0686cc711de27fad56be0049da4e981b36179c2b3e3ede39c95da2b1a3113ec6510d547a856db329560674cb19e2655c63bde6_1280.jpg"
+          ],
+          "author": "StockSnap",
+          "authorUrl": "https://pixabay.com/users/StockSnap-894430/"
+        }
+      ]
+    },
+    {
+      "name": "Artistic & Quirky",
+      "order": 2,
+      "backgrounds": [
+        {
+          "id": "pixabay_7577898",
+          "name": "jellyfish, animal, nature, underwater, sea, medusa-phase, cnidarians, contrast, malay jellyfish",
+          "thumb": "https://pixabay.com/get/g068fe59c56d595cb0033a98ab7788d23a2ce30955674a00a678289be92d7d7c40a6b39f66daed3ae310bed8def524d8e1cfe5774b363cba0313a0e8f5164acbf_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Artistic%20%26%20Quirky/pixabay_7577898.jpg",
+            "https://pixabay.com/get/g0957f763033e525bbb821db57731bc2de463bb212f5692f04982c1c7cd48e13f359874324efdd0264689b36140c22377a5ba379a4c648017bc819c0887a44d0d_1280.jpg"
+          ],
+          "author": "Pixel-Sepp",
+          "authorUrl": "https://pixabay.com/users/Pixel-Sepp-69900/"
+        },
+        {
+          "id": "pixabay_1043956",
+          "name": "dandelion, contrast, high contrast, dandelion, dandelion, dandelion, dandelion, dandelion",
+          "thumb": "https://pixabay.com/get/g41508ac0985864f342be866f1c94858682a48089fa9f53a308120e9311c27093434c95f63966bce83afebfae1ad0eaaa9ec0098268a24ce2ab306027c74489bc_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Artistic%20%26%20Quirky/pixabay_1043956.jpg",
+            "https://pixabay.com/get/g06ef3cebc1b8b8a854d31cbd5e66200666c37a65751970e64892c11cef3283cce27a64e1881e336a08dd9722480c4a54cd5464b4c1d7be1354a4b7d0a1bae3b6_1280.jpg"
+          ],
+          "author": "figgo",
+          "authorUrl": "https://pixabay.com/users/figgo-1222044/"
+        },
+        {
+          "id": "pixabay_3598951",
+          "name": "london, shard, skyscraper, architecture, skyline, landmark, city, perspective, road, emotion, pavement, cobblestone, view, contrast, modern, opposites, london, london, london, london, london",
+          "thumb": "https://pixabay.com/get/g01a9a25bf4249b44bf2a9c399009204c8ae0960566b67f144b860a80f1e35c148a002df6142a6c09ae13c490ce8abb9db1a38724659c84828d08797124695f99_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Artistic%20%26%20Quirky/pixabay_3598951.jpg",
+            "https://pixabay.com/get/g21d804a695f6a897d7f0079967f8b5c863cf926c20c08e7bc5897196be6bc1319da32526ce3baa913b02043b654004aa2fb6b28f9edd243591136fa9d91470ad_1280.jpg"
+          ],
+          "author": "jplenio",
+          "authorUrl": "https://pixabay.com/users/jplenio-7645255/"
+        },
+        {
+          "id": "pixabay_6620619",
+          "name": "blue flower, wildflower, meadow, nature, nature, nature, nature, nature, nature",
+          "thumb": "https://pixabay.com/get/gd2312af1e70a8225f5e9d132718874c45a45bcaaf8e650189f7b7519801f3d5b5048ab2edc31b5ae1ce50467ebf08f52bdf5bdce0ff4cbf5ee4a295bace6e583_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Artistic%20%26%20Quirky/pixabay_6620619.jpg",
+            "https://pixabay.com/get/g0a0a951bfb2d691dea886d458b8f5e942e9eb5a597510cd33ab837196aaf9d3d0efa0dcecbda0301f87b1a0cb865204266d69598257ac7018083ccc6aa181d6a_1280.jpg"
+          ],
+          "author": "NiklasErnst",
+          "authorUrl": "https://pixabay.com/users/NiklasErnst-23289250/"
+        },
+        {
+          "id": "pixabay_8035746",
+          "name": "woman, model, silhouette, star, colorful, light, acting, portrait, woman, star, star, star, star, star, light, light, acting",
+          "thumb": "https://pixabay.com/get/g7e6c732377d9e21c583cb0a48ad4cf94fdb499ec61f43de7c985dfcea3b8c0ff521b5fb69b4b4ce05378ba9c91fedce4827972ec98cd868d502c7cf026f82f25_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Artistic%20%26%20Quirky/pixabay_8035746.jpg",
+            "https://pixabay.com/get/g3811cea83e681da5d5eebd6787a37b8acfe7e40411c82b4aef598c766c7af049afa1922a150632711857e61fe763211ec51045bba777ba4a59dd6683402c8bf8_1280.jpg"
+          ],
+          "author": "imperioame",
+          "authorUrl": "https://pixabay.com/users/imperioame-6404363/"
+        },
+        {
+          "id": "pixabay_2619216",
+          "name": "cup, coffee cup, mug, steaming, smoke, coffee, tea, drink, beverage, black wallpaper, tea cup, black",
+          "thumb": "https://pixabay.com/get/g92396180caf3f4e5c85016fe0f6ebde10a818d75f284bf46a80339239eb3eb138c9ea41d68bed1877499a330d1f95ff2a7e87b65f65e76965f69c26bc0ee66e0_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Artistic%20%26%20Quirky/pixabay_2619216.jpg",
+            "https://pixabay.com/get/g866906e2b17b7c86b1ace6ff6e6e641e72cfaa9029b18bfdb280bd9d1ef51064933be609977da544063d018ea0556cf66bdb04cc3acfb8d45c4692dc52c87caa_1280.jpg"
+          ],
+          "author": "StockSnap",
+          "authorUrl": "https://pixabay.com/users/StockSnap-894430/"
+        },
+        {
+          "id": "pixabay_7105626",
+          "name": "moon, clouds, sky background, first, quarter, poster, space wallpaper, half, mobile wallpaper 4k, mobile wallpaper, samsung wallpaper, full moon, ipad wallpaper, satellite, night sky, sky, night, iphone wallpaper, lock screen wallpaper, background, nature, wallpaper, moonlight, reflected, space, phase, vertical, beautiful wallpaper, aesthetic wallpaper, phone wallpaper",
+          "thumb": "https://pixabay.com/get/g297aca07489bc6fdaf5f6cc82e213f38845eb726e875b17f52e1ac7ea2bbeffc2009c54e4327b3e377f2156ea16bb9e16f4d7ca0a39dc668dac162a9790dca6c_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Artistic%20%26%20Quirky/pixabay_7105626.jpg",
+            "https://pixabay.com/get/g18c2771a5a29e8e58f85c7c8ee23b21866c58b9db89372422759335361bd72c33cf1264b386f360427765c7b4e3aeb7f392e1c513f7bb6a583db9cd458279640_1280.jpg"
+          ],
+          "author": "sharkolot",
+          "authorUrl": "https://pixabay.com/users/sharkolot-25467781/"
+        },
+        {
+          "id": "pixabay_4950141",
+          "name": "subway stairs, stair handrail, subway exit, subway station entrance, steps, phone wallpaper, city, iphone wallpaper, aesthetic wallpaper",
+          "thumb": "https://pixabay.com/get/ge0d8ff4419d1527f45c86b9a6ffe55a79c0e87fe1fa59fa30f5db0416e37fcf1d104026fd90f4f7796677eaf58144e3bf359bec268a1fac414ba360ca76842b0_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Artistic%20%26%20Quirky/pixabay_4950141.jpg",
+            "https://pixabay.com/get/g5caa9df967e7908b748455868ed5c0a8d35a19284b5b7b053ead212fee70980046fd749ba7264e9c3e7ea008de66f064ef97abcbca5a159bc3ed5531b2307fc0_1280.jpg"
+          ],
+          "author": "zj900430",
+          "authorUrl": "https://pixabay.com/users/zj900430-15669462/"
+        },
+        {
+          "id": "pixabay_8878566",
+          "name": "bird, animal, wildlife, vietnam, nature, cuckoo, minimal",
+          "thumb": "https://pixabay.com/get/gef3dc80adc373f86d024ca59c715a443ac5bf6dbd5603bb637b48956f45c2dbf5681319ffdef5c09da2c1ecf0593dad4c480a33eec9a02f68e50ac6b90dfeadf_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Artistic%20%26%20Quirky/pixabay_8878566.jpg",
+            "https://pixabay.com/get/gc734318df8a810d731f02dcf77cb9823e1b4f4f9ab2c14c62ed24bb7e53544641f64306f4cda06afceceea1c6a6e8f15890ad7d000ae7a3e0ef9e981f2e6d4af_1280.jpg"
+          ],
+          "author": "BenjiTran",
+          "authorUrl": "https://pixabay.com/users/BenjiTran-24010328/"
+        }
+      ]
+    },
+    {
+      "name": "Atmospheric",
+      "order": 3,
+      "backgrounds": [
+        {
+          "id": "pixabay_5373320",
+          "name": "tree, fog, foggy, landscape, foggy landscape, the atmosphere, atmospheric, morning mood, nature, backlighting",
+          "thumb": "https://pixabay.com/get/g267a56bb41d875a0ee7dfdcea13482b5d07558f900bb9536557f40a21f3f23d171716c3af4a33c50e9e1838c74eaa81b679f6b14a6e841ba54c918e6e34113a4_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Atmospheric/pixabay_5373320.jpg",
+            "https://pixabay.com/get/gbda655828e6e703e7fe96674ef5a47d9e9dc6777cba3bff7b5bd12f5df87531c76defe3013761606bff83a14ab1dfb021e915a3ff57b56e62c02bec44dbc8392_1280.jpg"
+          ],
+          "author": "Antige",
+          "authorUrl": "https://pixabay.com/users/Antige-14028540/"
+        },
+        {
+          "id": "pixabay_4002440",
+          "name": "switzerland, lake, landscape, outlook, nature, travel, exploration, outdoors",
+          "thumb": "https://pixabay.com/get/g3d676405a64907a1fe90a0ec7a387709651577ae38c0d87d6f32ea7abecff586e98005928084c7f6de3ed31a1f900d55fe80b8d2a094ba4fae8402be6a4dd670_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Atmospheric/pixabay_4002440.jpg",
+            "https://pixabay.com/get/g039a41244f7c5bfa269775c32e7c0033a212dcdce23debe585971c35df6ec4fd9447bbba9477a34c7a29f7a1d01cfda8e81c0977a9b73d2506ff66caaa235642_1280.jpg"
+          ],
+          "author": "Wanderfrust",
+          "authorUrl": "https://pixabay.com/users/Wanderfrust-9981930/"
+        },
+        {
+          "id": "pixabay_7544451",
+          "name": "trees, forest, sunset, nature, sunrise, landscape",
+          "thumb": "https://pixabay.com/get/gbbf3d9dd98bdcee13a62b6dfd4b1e0d66e76c06342a9050757b509ed504713fc7f9cb019adb87529133d3f160cb2dff6ab7a452b7c35983f14c3f22072d70a20_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Atmospheric/pixabay_7544451.jpg",
+            "https://pixabay.com/get/g911494293303f1a6365d92e1331bf6c3ed4d69197c18cbfc8355b312a4442944397c2bc3be3f7ad5ba282dcf97bbe059e010820377abfebbf3c48122e3d4dc2c_1280.jpg"
+          ],
+          "author": "yoshitaka2",
+          "authorUrl": "https://pixabay.com/users/yoshitaka2-24545143/"
+        },
+        {
+          "id": "pixabay_5860108",
+          "name": "bay, mountains, sunrise, morning, mist, fog, foggy, trees, beach, sea, coast, coastline, seashore, shore, mountain range, scenic, nature",
+          "thumb": "https://pixabay.com/get/geabb0f8ab6faa3e76a8d46a174d50c2ab12a656729e4324d8fd37bccf64b32fcb76cd5e1aa89c916b79630ebae2cf874bfce23e96c13edd59ff42f9614679c93_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Atmospheric/pixabay_5860108.jpg",
+            "https://pixabay.com/get/g74a8cb77b17adc0de83e619124708f578dffd402c0e01db694ff03f5518ad1238178c0150a8529ccaed8c8886cdf59095e0de033f5c549cd39bfd99acb7b7264_1280.jpg"
+          ],
+          "author": "karaskye",
+          "authorUrl": "https://pixabay.com/users/karaskye-15461880/"
+        },
+        {
+          "id": "pixabay_2948225",
+          "name": "sunrise, early morning, sun, tree, morning, nature, sunlight, sunny, day, early, fog, foggy",
+          "thumb": "https://pixabay.com/get/g184eea2b5073a5781b824cf2f3d6ef4074c42314c093f155817b503b047c6a7e540f5a24a827ffcc39d5e3de99f704274fe2ef456f82386e936af79fa63fd487_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Atmospheric/pixabay_2948225.jpg",
+            "https://pixabay.com/get/gfee8bdf5eed5b8cd0d65b6a851cc225190c376c5042e4945de6b5b0e9806faeb8a3db619271cc0b2b197008ad6b467cf21b13bdd300da7f7f1f5e730381dfb62_1280.jpg"
+          ],
+          "author": "TuhinGates",
+          "authorUrl": "https://pixabay.com/users/TuhinGates-2045132/"
+        },
+        {
+          "id": "pixabay_2660864",
+          "name": "mountain, mist, sunrise, flower, pretty, foggy, landscape, nature, flower background, flower wallpaper, sky, beautiful flowers, morning, dawn, flora, plant, color",
+          "thumb": "https://pixabay.com/get/ge32c2252dae25131bf6ae6e0adee794d7eaabce3afbbc3c5c3c7b7bb2bb89939eea72bc5b186b4307809bdcdf9bd24564aca06c2aa988c1afb3b561e09e8473e_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Atmospheric/pixabay_2660864.jpg",
+            "https://pixabay.com/get/g19b7548e6b06aec5ac42700bd9323e05aee65e17b331d0880a6b9225c6a289b2bc185772d5ec76d2c09e7b8b48cf973d714ee17d4ccc522989ed07dfa6afc678_1280.jpg"
+          ],
+          "author": "devillish69",
+          "authorUrl": "https://pixabay.com/users/devillish69-6216850/"
+        },
+        {
+          "id": "pixabay_6484591",
+          "name": "winding road, clouds, mountains, sunrise, nature, aerial view, foggy, morning mist",
+          "thumb": "https://pixabay.com/get/gd643fc2b7b4d4c386f94a06536b5dbd0fab981a462fb158388ddc5d47a27f8fbcf96f72b6b56b3a24ea21b2c1c29e656bc2f4d8becab29845fd7c02975836613_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Atmospheric/pixabay_6484591.jpg",
+            "https://pixabay.com/get/g1ca35abe9551ad1ffcd95d84f2507edb673211f5daff14660ce9d219683cbd59cd69b5e6cb0be38dcf5f6ba0c73e9eaf409fc4854262f83580349b9b14543f02_1280.jpg"
+          ],
+          "author": "Travis21",
+          "authorUrl": "https://pixabay.com/users/Travis21-22531650/"
+        },
+        {
+          "id": "pixabay_6724514",
+          "name": "waterfall, foggy mountain, romania, mountain, rocky mountain, fog, nature, mountains, landscape, falls, waterfall, romania, mountain, mountain, mountain, mountain, mountains, mountains, mountains, mountains, mountains",
+          "thumb": "https://pixabay.com/get/g363e28fcc0161b4d3bc08ba0810daa9a59e7406cf80ab837a3e63619661b476c263fdc5985965a1226540c7844af8c281b225d5c795e3a2dd3c512c0ee15312c_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Atmospheric/pixabay_6724514.jpg",
+            "https://pixabay.com/get/g6084f244fffd8add85a0ec7c513463b2a6c7146edcd1e1efbf435034ff1262c5505d200ab2687240a6c63804d69ec9f75123ddfe72bb46c02ef15dbfc1fba963_1280.jpg"
+          ],
+          "author": "alexman89",
+          "authorUrl": "https://pixabay.com/users/alexman89-10638719/"
+        },
+        {
+          "id": "pixabay_5852482",
+          "name": "river, snow, sunrise, fog, mist, sun, sunlight, reflection, water, morning, winter, trees, nature, foggy morning, southborough, massachusetts, usa, morning, morning, morning, morning, morning, trees",
+          "thumb": "https://pixabay.com/get/ge6efccb913415b903b515d202a39e5307074ddd970a48e10b86f7883fdb4e0284f27430e36dad8518823fa5909015ce4dc59b3f655157145372e7e92fc494cd3_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Atmospheric/pixabay_5852482.jpg",
+            "https://pixabay.com/get/gea3fbfae93cb2bb5a1597a4bf8b543403fd235eee8482d995264d8198224278439e29f38667d09cb14a51d49ddf3045005db176fcfaa24d586849482f5e3320e_1280.jpg"
+          ],
+          "author": "MOHANN",
+          "authorUrl": "https://pixabay.com/users/MOHANN-8137807/"
+        },
+        {
+          "id": "pixabay_4242391",
+          "name": "mountain, nature, trees, forest, autumn, woods, wilderness, outdoors, mountain, mountain, nature, forest, forest, forest, autumn, autumn, autumn, autumn, autumn",
+          "thumb": "https://pixabay.com/get/g1157e3ad7e4bf0faed0e5ae19222947167e44faa1e5fa19711a958ed151994c1b6363163a22e626f3cceaad93855b7b9e5affd83bff5949adb710fcba01f028d_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Atmospheric/pixabay_4242391.jpg",
+            "https://pixabay.com/get/g95d72fe338912b2de61f504e84157904b9d5a7b3a6f00db411f04fe1d7a1aa6f885efe7879200e6168a942878fa9fbb223e815b5c3a21f8f495d66c6545684ea_1280.jpg"
+          ],
+          "author": "Phghvvcftyyufj",
+          "authorUrl": "https://pixabay.com/users/Phghvvcftyyufj-12646982/"
+        },
+        {
+          "id": "pixabay_6559941",
+          "name": "sunrise, glade, cattle trough, farm, fog, foggy, quiet, peaceful, pasture, field, nature, landscape, sunbeams",
+          "thumb": "https://pixabay.com/get/g54098e7b4d1d62e8548e2bcc5e09adf185806d37287f5691c0ccbe03765bf8b933558857c167abeffcb9af66a2c8bf9f8f32ce342ba605f0e478b80b24538695_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Atmospheric/pixabay_6559941.jpg",
+            "https://pixabay.com/get/g6dd59aadf2a502f2fd30f70241997bac96572087d94174126bf7957614cb1727efcaa3b8b213361f3e6210478f4bbde94f9110538052a4453ce7cf69e7c0491a_1280.jpg"
+          ],
+          "author": "DaniM20",
+          "authorUrl": "https://pixabay.com/users/DaniM20-12613846/"
+        },
+        {
+          "id": "pixabay_7464192",
+          "name": "foggy, lake, early morning, dawn, sunrise, nature, landscape",
+          "thumb": "https://pixabay.com/get/gf854caa1b3d18f4db6df655b40e982bc074a8635dc4fe7f875e81a665d26c0f556d968a64a36eef3edfd765df2b593d62d6e6919e24799fd51d7a762a66d244e_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Atmospheric/pixabay_7464192.jpg",
+            "https://pixabay.com/get/gc76e713739abfdc01afd35c910ca574d451f5fc9090682606476218295b94ec92436550ea4771981038a962688a4607e28254af214f2ea04ac2c1e2f99212c0e_1280.jpg"
+          ],
+          "author": "nootkan",
+          "authorUrl": "https://pixabay.com/users/nootkan-1945111/"
+        },
+        {
+          "id": "pixabay_7359002",
+          "name": "boat, fog, sea, haze, nature, foggy, ocean",
+          "thumb": "https://pixabay.com/get/g3c9e1bc952f6ab14e9e188ee2f2bfe0d40dea21127305dde87c063d5dae1be88aa0b0781385ddde9a950e280e80f5727165092dd07a8fd2ea1155c81ca6722f1_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Atmospheric/pixabay_7359002.jpg",
+            "https://pixabay.com/get/g876c49117884c11b544714ed87392f3a25397668abbaaba7a1cf729553a56fbd484ee1a8f949eb844893afa5802b7e5fc0325d30a61bc9b316488b7b146df769_1280.jpg"
+          ],
+          "author": "sashamatic",
+          "authorUrl": "https://pixabay.com/users/sashamatic-22026961/"
+        }
+      ]
+    },
+    {
+      "name": "Floral",
+      "order": 4,
+      "backgrounds": [
+        {
+          "id": "pixabay_10268182",
+          "name": "rose, flower, pink, rose flower, fresh dew, dew drops, macro photography, nature, beauty, delicate rose, gardening, flower background, natural beauty, unique, gentle beauty, purity, beautiful flowers, flower wallpaper, blooming, romantic, garden, calm",
+          "thumb": "https://pixabay.com/get/g4b501d1c35072b9e785215974394ccd66b7beaa5bedabe6ed878fe506ed1e8753f1037639ac082c949244f3dc0f8a44414ffb4c1f46b61996f1dbc8994615337_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Floral/pixabay_10268182.jpg",
+            "https://pixabay.com/get/ged842669fd1f3f96fc172f43c42276b7bdab3ee0fcf9aa2704b5f9ab631204d3732cba0073d2868fc33e09434609cf0a49a306e112004d5d0da9947270121208_1280.jpg"
+          ],
+          "author": "RuslanSikunov",
+          "authorUrl": "https://pixabay.com/users/RuslanSikunov-11647343/"
+        },
+        {
+          "id": "pixabay_8587940",
+          "name": "dahlia, flower, plant, petals, flower wallpaper, bloom, blossom, nature, closeup, wildlife, flower background, flora, garden, autumn, beautiful flowers, red",
+          "thumb": "https://pixabay.com/get/g7fe06dc7c8d1bfc049a3089c3cdc64419d97f3d71d13eff336954e6868b59bcd1863d5c2fa9074c1dd9cd581afbfc0ce254daf78eab2f54b2a6be2e8bb54b43d_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Floral/pixabay_8587940.jpg",
+            "https://pixabay.com/get/g12755f5e40607227a079b409ae1f728c8f24f5231b076a23ebb06a2c25f2f5b799a90021ee42d46553a9ee686a4b9c9957ab7753a4206b1c9939533faf58eb67_1280.jpg"
+          ],
+          "author": "HeiKiwi",
+          "authorUrl": "https://pixabay.com/users/HeiKiwi-35444888/"
+        },
+        {
+          "id": "pixabay_9326948",
+          "name": "dragonfly, insect, wings, nature, animal, environment, closeup, sympetrum fonscolombii",
+          "thumb": "https://pixabay.com/get/g5823b610247ff8f57f7245cadd2fb11251fe4e7fde35ea07733957d83f0259ba59f919f49073046bc985e12c5b63ea058fada29d405b9d34a5848ee746f03936_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Floral/pixabay_9326948.jpg",
+            "https://pixabay.com/get/g5525a6381319c4fe81e12673c72e4b1e452325812dee75ef1fbbc2c94ad4c0bdc9a88057c096ffe101332e736eb16a626394e97d18d34dce217d19c6fa439ce2_1280.jpg"
+          ],
+          "author": "sanek10",
+          "authorUrl": "https://pixabay.com/users/sanek10-48171220/"
+        },
+        {
+          "id": "pixabay_8197027",
+          "name": "dahlia, flower, plant, ipad wallpaper, orange flower, phone wallpaper, mobile wallpaper 4k, flower wallpaper, iphone wallpaper, petals, flower background, beautiful wallpaper, lock screen wallpaper, beautiful flowers, bloom, blossom, summer, garden, samsung wallpaper, mobile wallpaper, nature, closeup, macro, floral background, wallpaper, background",
+          "thumb": "https://pixabay.com/get/g7ffc224f6037a7ee4f70ee89cac6fe2d7a464db7fe659daec13c1c89887f9b255975fc6f51e9c18940f9cf82e701fa2b184017ac4e9a50a480e54f206187e7eb_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Floral/pixabay_8197027.jpg",
+            "https://pixabay.com/get/g66224906e0f69febebb3c27dd46d8b5bfdd71363b99372858b4e19764cad6968292a5b74512426c0b427c84d3304fc9d1d2f4cd081090eaa3249a290d0479df7_1280.jpg"
+          ],
+          "author": "HeiKiwi",
+          "authorUrl": "https://pixabay.com/users/HeiKiwi-35444888/"
+        },
+        {
+          "id": "pixabay_7878054",
+          "name": "flower, petals, drops, garden, beautiful flowers, flower background, flower wallpaper, nature, orange flower, phone wallpaper, aesthetic wallpaper",
+          "thumb": "https://pixabay.com/get/gcc41fad5174873cf3acca6a06c33a871ffcadcbce6b64e9f803ff057a9237e7fa116c532a8c69820785340d0ee7616763103091f853a77cf886e8406ad15429f_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Floral/pixabay_7878054.jpg",
+            "https://pixabay.com/get/g9b9066b4c1937f21cbbdb4b1fbb8a27712481f5c6fec3e09153eb3a113b6ebf9db14bf34f3bd7f7d5841f238adc0c50df3695dde38bd3c8ef5526d8188ab44ac_1280.jpg"
+          ],
+          "author": "Créaclic",
+          "authorUrl": "https://pixabay.com/users/Créaclic-28516597/"
+        },
+        {
+          "id": "pixabay_9453063",
+          "name": "flower, herb, beautiful wallpaper, flower wallpaper, botanical, nature, flower background, floral background, macro, pollen, beautiful flowers, garden, background",
+          "thumb": "https://pixabay.com/get/g26aa70ec4b982ae9c3251fc166fdb90117d9b08f5aa0311ba580bd0f8f4269ec7a516d32f06ac936f2e4a2dfad3649fd734c4ff3fb9ebc993ecd27cfdeaf2656_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Floral/pixabay_9453063.jpg",
+            "https://pixabay.com/get/g54c6e9ab9b60506e8301ab558a1d0dfdb006e8993d474e4816201326406aa4f91cf1eb32806629d580ea63ddaa39f23e6f3bb8e2bddadcfc4a724faeb681d147_1280.jpg"
+          ],
+          "author": "Engin_Akyurt",
+          "authorUrl": "https://pixabay.com/users/Engin_Akyurt-3656355/"
+        },
+        {
+          "id": "pixabay_7914868",
+          "name": "butterfly, flower, flower wallpaper, pollination, flower background, insect, nature, bloom, beautiful flowers, spring, close up, hibiscus",
+          "thumb": "https://pixabay.com/get/ged04ce00a30710613d607047c98a17681c429ca3cd33ddd367bc86a71387f42c174a7c602172687d559604034770566ec9613160bb0466295c2ed73067d2bd03_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Floral/pixabay_7914868.jpg",
+            "https://pixabay.com/get/g903e59ad8d2185df3a1c250aad6d2f82a7a79ec31002a4f2953da7e8fa39b8eb6e15b71353af5a4db50903c6b98c8f4999c9c0dcf9195af36cee1b64cd1303eb_1280.jpg"
+          ],
+          "author": "dmarr515",
+          "authorUrl": "https://pixabay.com/users/dmarr515-16334776/"
+        },
+        {
+          "id": "pixabay_3827374",
+          "name": "butterfly, flower, pollinate, pollination, flower background, insect, winged insect, butterfly wings, flower wallpaper, bloom, blossom, beautiful flowers, flora, fauna, nature, close up",
+          "thumb": "https://pixabay.com/get/gbdc1f489d5a2785213dd5bf14a48ed956e02a343b47fec86186aca559861fa9d4a45d9e642ae9549666ab731fd4fd5a1f58f91e98d6f0226cb066975b8444e13_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Floral/pixabay_3827374.jpg",
+            "https://pixabay.com/get/g78cbc4426e35f78d73618b5cde3b3454c4f5275a25f0c25b7f3c89c763fe5d1f13d9969ddf325ea03725de758a147de7b0f327e312765e59fc969e8669eb617f_1280.jpg"
+          ],
+          "author": "AdinaVoicu",
+          "authorUrl": "https://pixabay.com/users/AdinaVoicu-485024/"
+        },
+        {
+          "id": "pixabay_7958534",
+          "name": "large marble, large marble butterfly, flowers, pollination, variegated butterfly, winged insect, insect, flower background, insect world, nature, flower wallpaper, beautiful flowers, butterfly, wings",
+          "thumb": "https://pixabay.com/get/g728a95223f3ebc1b224b445b52b47a148aa7e579e59da66baf20616510fd56ed6a6f2969a8d211be290323bea05530897332dc4c1dfc87e5ff6c2e17030fb2e7_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Floral/pixabay_7958534.jpg",
+            "https://pixabay.com/get/gd9f8fc70432aa04d6cae8ea0a7450c1cf0225aa314fce03dcabce4d53d43520820a5e52ac03af215f68336b2f3eccac34f8aacd237d75b76aff0fd9c33bd8351_1280.jpg"
+          ],
+          "author": "IstvánKopeczny",
+          "authorUrl": "https://pixabay.com/users/IstvánKopeczny-21229886/"
+        },
+        {
+          "id": "pixabay_7252980",
+          "name": "allium, flower background, flower, plant, beautiful flowers, ball leek, flower wallpaper, ornamental onion, blossom, bloom, nature, garden, evening light, sunset",
+          "thumb": "https://pixabay.com/get/gc24cd5495a10f38dbf2a03c41afcac934a6c9398a6f917e7ae789020c00884a1760ae88348352db8b156a6034645adb1af03093f3cb52eaa4a85775d7d0d28ba_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Floral/pixabay_7252980.jpg",
+            "https://pixabay.com/get/g227599065a0788ba6188fedfe7bba7b0d1251ec3226952e86371fa86d9b77387e0f8cb238f5dca782d89eb8d5e42e072263b14cd01dfb3bc93fb448e1800ba9b_1280.jpg"
+          ],
+          "author": "mariya_m",
+          "authorUrl": "https://pixabay.com/users/mariya_m-12752456/"
+        },
+        {
+          "id": "pixabay_9627222",
+          "name": "peony, flower, pink flower, nature, ontario flower, flower wallpaper, beautiful flowers, pink peony, artistic floral, contrast flower, bloom, flower background, spring",
+          "thumb": "https://pixabay.com/get/gecb6e21335d62933ec727a8a04aebdb929fff3b516a43a0c2a80d2b970277f77655d947480dc9f9f8ee507ac619198dbefdfb54d304aafd8df909972bcabf0c1_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Floral/pixabay_9627222.jpg",
+            "https://pixabay.com/get/g4f2b3441069c089f1afdda40b37a6ad5da63ccb0304c3162e90032c142f7291c40135b7ecab71f1afd10ea92140b4523953d8cb805c3e0b4198511e230f47b34_1280.jpg"
+          ],
+          "author": "crystal_diane",
+          "authorUrl": "https://pixabay.com/users/crystal_diane-50501614/"
+        },
+        {
+          "id": "pixabay_452491",
+          "name": "lily, stamens, flower wallpaper, pistils, macro, close up, petals, flower, beautiful flowers, bloom, flower background, blossom, flora, floriculture, pollen, nature, plant",
+          "thumb": "https://pixabay.com/get/g6534069fe146a6b6a02516b4ccc612824d7e0febeb564f0a265c3e365a79b0164f7c8780a9b615fe10fd41984ef5df36_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Floral/pixabay_452491.jpg",
+            "https://pixabay.com/get/gd8211c877f9734a25768a9f786f262dbe8018d330324aa1e92c6fc1bebb74096d8fbce0bcb298d39394c714f7ee95480accb134c496c19a6caafa6887550c3c0_1280.jpg"
+          ],
+          "author": "InspiredImages",
+          "authorUrl": "https://pixabay.com/users/InspiredImages-57296/"
+        },
+        {
+          "id": "pixabay_8027028",
+          "name": "peonies, flower wallpaper, beautiful flowers, petals, to flourish, flower background, bloom, nature, flower, closeup, pink flower, aesthetic wallpaper, phone wallpaper, iphone wallpaper",
+          "thumb": "https://pixabay.com/get/g52a4c09496f25db9728d0f0b1176e09895056cf6260a92bc434deb949f4db18d070a96c93e544ef0f933f776dc48cd4c1fad99f93f5d10db615285a2cfb9d537_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Floral/pixabay_8027028.jpg",
+            "https://pixabay.com/get/g3b083187ed17ae0a801e3596e46ce206652e9680ce05cfa76408ff973f32e389d0b2a677888b047956a9158e000fbc55ffaf6b5fdbd0c757f47bbbef2a223334_1280.jpg"
+          ],
+          "author": "fietzfotos",
+          "authorUrl": "https://pixabay.com/users/fietzfotos-6795508/"
+        },
+        {
+          "id": "pixabay_234952",
+          "name": "flower, nature, beautiful flowers, plant, tender, fine, flower background, blossom, bloom, orange, red, greenish, flower wallpaper, cool wallpaper, phone wallpaper, iphone wallpaper",
+          "thumb": "https://pixabay.com/get/g2d73757f773a1142760ce14326fbd4e4f5e2d67a1973dd271cebcf5537640b581693d14d93d557897c90d38a6249d996_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Floral/pixabay_234952.jpg",
+            "https://pixabay.com/get/gcf861b9e540cda42c1de0553054fdfcab8149a6ef1203f53b76c08277b1795efe84ce5e235d06d09ce102375ee945d9005a4221a0b9f222726b3eee6076a6e1d_1280.jpg"
+          ],
+          "author": "stux",
+          "authorUrl": "https://pixabay.com/users/stux-12364/"
+        },
+        {
+          "id": "pixabay_7188503",
+          "name": "flowers, nature, forest, spring, bloom, flora, blossom, growth, botany, beautiful flowers, plant, petals, flower background, macro, aesthetic wallpaper, flower wallpaper, phone wallpaper, iphone wallpaper",
+          "thumb": "https://pixabay.com/get/g2cfdc5df321f5363a06cabb2c4831fb4de86c8ae275117db89d0b4cc2377961c060db0519e9a37a988fdb73fa19930cc7ce5a754d3ea0b6fb516af046e90c389_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Floral/pixabay_7188503.jpg",
+            "https://pixabay.com/get/gaaed9075b2d163d9553eff7fb1546b5d43cce26e30cbbd080e72673ee381476735a3c744c0b18669514fb36f7f52395d3098dfb32ac2670bdf17b1c07bc7763f_1280.jpg"
+          ],
+          "author": "shapkasushami",
+          "authorUrl": "https://pixabay.com/users/shapkasushami-2537915/"
+        },
+        {
+          "id": "pixabay_5841251",
+          "name": "flowers, flower wallpaper, petals, beautiful flowers, flower background, stem, flora, plant, colorful, blossom, blooming, garden, nature",
+          "thumb": "https://pixabay.com/get/g431cd0514628f2def5b48e52c2ccc1a14ba4bf49f23448d4a76443d11a63b0b44062cfe19080d84339977520f5f37854a3cca9f3d0e64cdbc6cca6f8b47166ca_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Floral/pixabay_5841251.jpg",
+            "https://pixabay.com/get/g8afcc7260da7792f69d5c70c2cd0daf24eed543af88e389eaf744b9d32f37e68ab1b4bd39aa9760abdeea63d7f3d5808dccaaa73b63eedaac8c094d8edd25856_1280.jpg"
+          ],
+          "author": "RezaAskarii",
+          "authorUrl": "https://pixabay.com/users/RezaAskarii-18404671/"
+        },
+        {
+          "id": "pixabay_5704690",
+          "name": "butterfly, common blue, insect, animal, lepidoptera, biology, grass, bloom, nature, fauna, biology, biology, biology, biology, biology",
+          "thumb": "https://pixabay.com/get/g37a1b9d01bd64e6ebae5f48ae95b7c18adb3b9798cb05f2a91257affd36f1d6b793da02d6836d9776d0eb5a542830cef8531f0677aee54961e85118708f0751c_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Floral/pixabay_5704690.jpg",
+            "https://pixabay.com/get/gf421eeac0875630e80d49b76c01ae76b38550287f1acc4e560c2fafde3d5b7ce1b25ca8940df59d5fe13dccba67aa19cf00691c1ed3daa6e7c8824310c1f156b_1280.jpg"
+          ],
+          "author": "fran_junebug",
+          "authorUrl": "https://pixabay.com/users/fran_junebug-18625362/"
+        }
+      ]
+    },
+    {
+      "name": "Space",
+      "order": 5,
+      "backgrounds": [
+        {
+          "id": "pixabay_2601927",
+          "name": "stars, galaxy, night sky, milky way, space, sky, nature, blue stars, blue galaxy",
+          "thumb": "https://pixabay.com/get/gd3a834e0f13e39bbb0e6f4dbf2f0eb5f3a19c3229046e850115e86fdcb0737c565d080fb7c787e1c859b57cb965e1a6307ce3a4b02d22266cc22005b6f218a97_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Space/pixabay_2601927.jpg",
+            "https://pixabay.com/get/gb7fff4583bc72e6ed5803eea6de4bf5704ea5d6f534b13b677bd80635c6d68d17ab06d0b12e4d70db383ec7aa92e8c754a29470f8837e721894e39d8df234c8e_1280.jpg"
+          ],
+          "author": "StockSnap",
+          "authorUrl": "https://pixabay.com/users/StockSnap-894430/"
+        },
+        {
+          "id": "pixabay_559641",
+          "name": "milky way, night sky, stars, starry sky, landscape, night, sky, space, star, astronomy, universe, starry, sparkle, galaxy, nature, cosmos, nebula, moonlight, astrology, evening, blue sky, blue stars, blue galaxy, blue night, blue universe",
+          "thumb": "https://pixabay.com/get/gd6d19e1cc0dbb2153e3de66aedea96fdeb10dfa3e642f7e3a0aad16b0494623ba7f975ed51ff004d6953fba9ec913803_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Space/pixabay_559641.jpg",
+            "https://pixabay.com/get/g4603f9acc084e9831be1f98c5af29f7bc5a8a1319593086622e0e89cd41171b7e4e4c3e700577ff5d983ebb89c98475a05fefdec7b06f5a6a460eb3c12054182_1280.jpg"
+          ],
+          "author": "promo25",
+          "authorUrl": "https://pixabay.com/users/promo25-630416/"
+        },
+        {
+          "id": "pixabay_8258264",
+          "name": "milky way, starry sky, night sky, universe, galaxy, japan, long exposure, landscape, nature, universe, universe, universe, universe, universe, galaxy, galaxy",
+          "thumb": "https://pixabay.com/get/g72f39c5e4b79f401c060f01c6d2f5a7475577a1ea3c59b2110ea9c3b29fb5d5baf1f5b0bad4421bf000f06b519b8b5b1149cbfe674953b20ee66e30e992072c2_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Space/pixabay_8258264.jpg",
+            "https://pixabay.com/get/g92b29de99fda70cb28763755b7da74c296d4e57343b0504e8c8e3e7af827acdd5122f664e2e6f80ff4689827daa0d92973a7fb9ebdbcc073058b308f015ab567_1280.jpg"
+          ],
+          "author": "atsushi1984",
+          "authorUrl": "https://pixabay.com/users/atsushi1984-27841665/"
+        },
+        {
+          "id": "pixabay_8204368",
+          "name": "night, night sky, sky, nature, stars, milky way, space, cosmic",
+          "thumb": "https://pixabay.com/get/g22e22c7983a8586d5b3e6d8c0e1ceeec3a45d816ce50d6747510df070f83241bd08b31e3997fb240a73922f73be80ea7974c5c0aeae43c167cf45cfba92e360a_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Space/pixabay_8204368.jpg",
+            "https://pixabay.com/get/ge432401739cc0392c65b5c7d0beb334d86b7eff5d86668e2b971d67d83c9161ceeea3ce245f6655e1fa1f22e2476c7c60e9924e023c808067f4c5034bf421c78_1280.jpg"
+          ],
+          "author": "SchoergPet",
+          "authorUrl": "https://pixabay.com/users/SchoergPet-38962368/"
+        },
+        {
+          "id": "pixabay_4416194",
+          "name": "milky way, galaxy, stars, night, sky, cosmos, night sky, nature, bakground",
+          "thumb": "https://pixabay.com/get/gaebd3dea756faa058c573353e767087eab9287e4d05f6106486d49c608c2bdd66f29b27acc1fae1861c259fba82faf33779db4f751f2947329f943efd247212e_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Space/pixabay_4416194.jpg",
+            "https://pixabay.com/get/gbbd800c62c9fc49f544ebee3b8958cd1acb7000207619e2fdf937ada6a3c8290632576f44983afe2361adfd7d5b23b754a854ec10f605ab351f3cd3f1e53e643_1280.jpg"
+          ],
+          "author": "EvgeniT",
+          "authorUrl": "https://pixabay.com/users/EvgeniT-4930349/"
+        },
+        {
+          "id": "pixabay_2842676",
+          "name": "bovist, dusting, umbrinum, mushroom, dust mushroom, forest mushroom, fruiting bodies, mushroom time",
+          "thumb": "https://pixabay.com/get/gb537623c832ed4bb84ee5bd7961cd6ead8aa085d99aa01ab7f89da7e235d3f4bfb5474b120c8412986ec71ee1c180e86b656309aff45a186a844e897ba4963c5_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Space/pixabay_2842676.jpg",
+            "https://pixabay.com/get/g0de779b5c1fa4d72406be91ca1acae7535f363875af7217c378b8d3519e7d2ff7e1f4bb0e035d7e6b49cce9576b1336e1f10855662151b385faaf339a80de6d4_1280.jpg"
+          ],
+          "author": "adege",
+          "authorUrl": "https://pixabay.com/users/adege-4994132/"
+        },
+        {
+          "id": "pixabay_7023919",
+          "name": "cosmetics, brush, makeup, dust, glamour, paint, powder, splash, beauty, blusher, studio, closeup, blusher, blusher, blusher, blusher, blusher",
+          "thumb": "https://pixabay.com/get/ge5052b8f07104012d00580d570476148fb41a2f220e36c6b41f64d770ff8cda3b5cb5011469f5d842e83fb3bb14214fc1f4a9d35d6f6c04aba395bdf98d9e180_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Space/pixabay_7023919.jpg",
+            "https://pixabay.com/get/g98ae68e514d1cafbc89107a98b380dc5a5c454252d58edfe7d561653209384cd38cfd464ab83a2b282c78d8f5ba58ad4bd8c2e5a0a1d7bc77e7a650f1fcb8f5c_1280.jpg"
+          ],
+          "author": "MurrrPhoto",
+          "authorUrl": "https://pixabay.com/users/MurrrPhoto-7908956/"
+        },
+        {
+          "id": "pixabay_7080834",
+          "name": "sea, coast, sandstorm, sahara, dust, cascais, nature, portugal, stormy",
+          "thumb": "https://pixabay.com/get/gc04c7f7a1027912ec0da8485ab3371ebb0a3a730c4b392815593a753b0ff84b9dbb12f89bf22fb159e50928e21ac70e5dfdf18bced04c5d3db784e5dbc8ef23f_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Space/pixabay_7080834.jpg",
+            "https://pixabay.com/get/gc206818108d1b4fe532a3b921bfdf3754f7fa6f4cdb112bd1890da7712325f76b619cb04e2de7df42df59a5aed6f082368caac5d8c6ba87e7611191178a99c90_1280.jpg"
+          ],
+          "author": "makabera",
+          "authorUrl": "https://pixabay.com/users/makabera-6773476/"
+        },
+        {
+          "id": "pixabay_5742416",
+          "name": "night sky, mountains, stars, galaxy, milky way, starry sky, constellations, star gazing, skyscape, astronomy, starry night, landscape, sky, night, nature, starry, night sky, night sky, stars, stars, stars, stars, stars, galaxy, galaxy, galaxy, milky way, milky way, starry sky, star gazing, starry night, night, night",
+          "thumb": "https://pixabay.com/get/geab8a5c5a579a05336f4ea120e621ec2a76b194a6bcc2ebfb9ce51bae0bb47449f441d2635fd5aceb51438dc321d436a98d18be2ada02aba42e73ccac9616869_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Space/pixabay_5742416.jpg",
+            "https://pixabay.com/get/gc6ca8f8116916b954bb2b36f54ecc018893609369822d3709849dee78047116f13ac3bc4ca3047524ff9d4c7eb99e6ee5c382cc2db1a0ad97cb21352e902c6f2_1280.jpg"
+          ],
+          "author": "andrecosso",
+          "authorUrl": "https://pixabay.com/users/andrecosso-9883315/"
+        },
+        {
+          "id": "pixabay_4353332",
+          "name": "mountain, rocks, milky way, gangwon do, sokcho, mt seolark, ulsanbawi rock, landscape, sky, night view, korea, nature, milky way, milky way, milky way, milky way, night view, night view, korea, korea, korea, korea, korea",
+          "thumb": "https://pixabay.com/get/g35fdc5a60a52640424170a0c69e1364ca06074087ca3ec92e10597075691993a3739ecc224257ebcacdaff574dd08fcdb92579c010952390c5e6fe3e3cd6e963_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Space/pixabay_4353332.jpg",
+            "https://pixabay.com/get/g3b17845489fcdd9a9f138a94e01cb846a8a381bff3ad0045cdd9fb16433a350587b5b7d0260789b4fe2762dde7f45f44cdc97513f739a31156678ba1b8c08509_1280.jpg"
+          ],
+          "author": "coffeeNwaffle",
+          "authorUrl": "https://pixabay.com/users/coffeeNwaffle-2040277/"
+        },
+        {
+          "id": "pixabay_6628354",
+          "name": "night, milky way, space, galaxy, astronomy, countryside, night sky, starry sky",
+          "thumb": "https://pixabay.com/get/ga689b952053207f3f927d6d3486d61e6d1c5a3d912134ff5aca145647b18972180443ed56328f60b2e2689182b9f02b8a5caf33868fbb9afe3af9cdf6a0069ee_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Space/pixabay_6628354.jpg",
+            "https://pixabay.com/get/g9e866dfa9b0b9350a2efe1f805e35442d822d52f0a85eae73cb9e6cb624b17de7125448e4d240e3ba4156ae7384311530cdcfaec77c485ee9ba6560f201c13cd_1280.jpg"
+          ],
+          "author": "강춘성",
+          "authorUrl": "https://pixabay.com/users/강춘성-15738132/"
+        },
+        {
+          "id": "pixabay_6489016",
+          "name": "mountains, night sky, milky way, alpine, night, snow, nature, lake, starry sky, sky, landscape, scenic",
+          "thumb": "https://pixabay.com/get/g0f5a56e0c184d255cac038301217954c701fd18a7106af9bb9585a85caae3870424be83cf36ba94c1777aecbc2d6ee33518e071b8c6a97fd30b1733c4845f4aa_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Space/pixabay_6489016.jpg",
+            "https://pixabay.com/get/gb7450b5c4eaad31eec321103aeaff40b2e3b4401fd4c2e153542867c2781a28d7b8c580cce85c4b64e365019fd19070379c8e5a47ddbfde8461d5512fb7afd42_1280.jpg"
+          ],
+          "author": "EvgeniT",
+          "authorUrl": "https://pixabay.com/users/EvgeniT-4930349/"
+        },
+        {
+          "id": "pixabay_6780160",
+          "name": "stars, milky way, ahn bo-hyun, starry sky, night sky, astrophotography",
+          "thumb": "https://pixabay.com/get/g40fb132156ac147f246b859eda195ec229547cdecb423ab75df15d663a361df23b87ff282b3d2437301ceae9cc69b87cddc96c848ce8772b1eb6acfd9224a009_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Space/pixabay_6780160.jpg",
+            "https://pixabay.com/get/g5175bbfe57259c6c9105fb841e7ed43474c578c868a5797591ab0d81fa6ebaab25d0da7dfcca7701bd85fd72dfbbb7533b4de14a7a62295217b2693514cc1be3_1280.jpg"
+          ],
+          "author": "Saubär",
+          "authorUrl": "https://pixabay.com/users/Saubär-19713534/"
+        },
+        {
+          "id": "pixabay_5708887",
+          "name": "milky way, stars, galaxy, cosmos, trees, constellations, night sky, astronomy, astrophotography, space, sky, starry, nature, starry night, starry sky",
+          "thumb": "https://pixabay.com/get/gdf4f838e047048b031e30799b89bcc20df96bdea95a0254994209fd6ff63ab35d69ea2eacbf902fd0cf7c64eab32dd39ac9f376f9499144e82abaaca28c1fd04_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Space/pixabay_5708887.jpg",
+            "https://pixabay.com/get/g043050c663ce5ac51f277aa80890ac87a1782a748896828cba7053d4bfe2fa245850dc7dc7424ff95197267d15eb54fdf796690ce59debe7cd4fe09db7c945dd_1280.jpg"
+          ],
+          "author": "Baptiste_lheurette",
+          "authorUrl": "https://pixabay.com/users/Baptiste_lheurette-15407445/"
+        },
+        {
+          "id": "pixabay_7010442",
+          "name": "tree, field, starry sky, night sky, nature, farmland, milky way, farm field, stars, field, nature, milky way, stars, stars, stars, stars, stars",
+          "thumb": "https://pixabay.com/get/g444dbd944d26a9ae32ef43c36e53dc487aa1fbf9b2e1bf6a81239b8a8f956a181440ef409ee6879b5eb8c85c90c9ccd22393f1bbc45038a8e271f2c6da53fda7_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Space/pixabay_7010442.jpg",
+            "https://pixabay.com/get/g380858f3d7553645005bfd96c93edfb5f260034a7a72fa0758c7a3ae2d7f1d11cfb13dab2b998adc0e65af66dab8c0e19effee866af16e8d5916762443e7939d_1280.jpg"
+          ],
+          "author": "saundelr",
+          "authorUrl": "https://pixabay.com/users/saundelr-19095212/"
+        },
+        {
+          "id": "pixabay_7760803",
+          "name": "mountain, nature, outdoors, travel, exploration, adventure, night, stars, milky way, reflection, starry sky",
+          "thumb": "https://pixabay.com/get/g0b410cada7eca2106a22e0edbb0003882bb59f3c99e461b00211f25bbec88ab01c412dbb7e90e51b5590faf888259b821420eeb97a763a5c2537690ce92bff13_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Space/pixabay_7760803.jpg",
+            "https://pixabay.com/get/g7097923f63dea260638e98a13c7b1a351d701d8ace232fd40b698ba94a3ddea7348486704ae6dd4b0b3e603eedc7f9eb4d85c0970a985285e544d1e285792038_1280.jpg"
+          ],
+          "author": "ValterM",
+          "authorUrl": "https://pixabay.com/users/ValterM-24820004/"
+        },
+        {
+          "id": "pixabay_6613380",
+          "name": "sky, galaxy, milky way, stars, starry sky, cosmos, constellation, space, nature, night sky, universe",
+          "thumb": "https://pixabay.com/get/g659efceba6f6e8088566281a3c5a66cfbc2f96cb50a9363294d55a3fcae2ada2ead6af578a2f23150c8ff941ae3c5bbfca8efdeeff18819694293eef39377a15_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Space/pixabay_6613380.jpg",
+            "https://pixabay.com/get/g7155588e94b72b57647bf99e1bf27c92b4540a1ac695da78a01f7c3ac564fb7ce31fde9b64e65786719b03030f6cbb3f1c0401b3bf8e1f2d3e8866c0b9ab7e7c_1280.jpg"
+          ],
+          "author": "gauravkhulbe7",
+          "authorUrl": "https://pixabay.com/users/gauravkhulbe7-8714495/"
+        },
+        {
+          "id": "pixabay_7371732",
+          "name": "sky, milky way, nature, night, stars, space, night sky, field, landscape, starry, meadow, evening",
+          "thumb": "https://pixabay.com/get/gada116b9ece8e3e3c1b7eaa04a234af0fc579bf804638e38e395d33162f9f99cc52b4730d85ff240254f1cdf9537bdf90dfe1ec68bab1c955e08942b69b5a934_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Space/pixabay_7371732.jpg",
+            "https://pixabay.com/get/g3e3cd1735b06119a47e8733adc727311e447781f3ad39efe730129eb16e1d0e8664257c7fc81657b9bb07b12cdc83c715164fd5ac5249a1a3b8a1c29504f90c4_1280.jpg"
+          ],
+          "author": "Qooooo",
+          "authorUrl": "https://pixabay.com/users/Qooooo-12117970/"
+        }
+      ]
+    },
+    {
+      "name": "Studio",
+      "order": 6,
+      "backgrounds": [
+        {
+          "id": "pixabay_10216710",
+          "name": "silhouette, stage, lighting, neon light, studio photography, pose, portrait, fashion, model, black, blue, orange, darkness, atmosphere, artistic, performance, woman, creativity, emotional, person, chair",
+          "thumb": "https://pixabay.com/get/g7d453e6618c2d9b36724eff77cef97ab4d7471ff93acf4fdb57aa6e710b77b298d6a15f3509803010a6a65c10c45612dd1e0d9b8dde0829e21625a3c346a9be0_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_10216710.jpg",
+            "https://pixabay.com/get/gf7c88b6598f73d0ce08e78ac46bbf5c42d907dbedd560b54630f76d98d706836ca8fceeb6beb1b8fa2941c763b303ff4e5d4c9fe5a51c9cf2b8413df6a47ed5c_1280.jpg"
+          ],
+          "author": "Daniil_Kondrashin",
+          "authorUrl": "https://pixabay.com/users/Daniil_Kondrashin-19909203/"
+        },
+        {
+          "id": "pixabay_8215514",
+          "name": "dahlias, flowers, orange dahlias, orange flowers, lock screen wallpaper, floral background, iphone wallpaper, flower wallpaper, blossom, mobile wallpaper 4k, beautiful wallpaper, beautiful flowers, background, samsung wallpaper, flower background, wallpaper, garden, hd wallpaper, mobile wallpaper, ipad wallpaper, close up, macro, aesthetic wallpaper, nature, phone wallpaper",
+          "thumb": "https://pixabay.com/get/gfb433671ae29ef1881f0fa9467f484f98746d9a25cfc0390700bb8dcd01d7fcb85c1aef868c74926602084b07fe0f686ad325dc9a1789d429ce4040bb5c5971d_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_8215514.jpg",
+            "https://pixabay.com/get/g6a436ec54acadb5b56ea6e1e7a0b42287a9e0f34de1b7cc36af42cca72a4abc9f4993a1e807e2c828226ea3b3326031f42c345207ae4db179a0292cce6ebfbee_1280.jpg"
+          ],
+          "author": "HeiKiwi",
+          "authorUrl": "https://pixabay.com/users/HeiKiwi-35444888/"
+        },
+        {
+          "id": "pixabay_5847758",
+          "name": "stars, lantern, ice skates, fir tree, indoor, holly, studio, christmas, season, decoration, decor, studio, christmas, christmas, christmas, christmas, christmas",
+          "thumb": "https://pixabay.com/get/g59cf61d4c812f7ee6f2f1b0ab2389abda2f419e60226ac2a051d080b94c9a7542f7d12d8db0f900b001827dd098f19138f237a060850713a63efb0660efc0701_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_5847758.jpg",
+            "https://pixabay.com/get/g077b46bf3939d67bfe9a0d8261354f05bfc0e36203f3d6931e4a2636224dbb18ad9236e198d44a122ea6fc26644257f42b982d2a0cbdea45430bc13ad9db679e_1280.jpg"
+          ],
+          "author": "millionhope",
+          "authorUrl": "https://pixabay.com/users/millionhope-9777716/"
+        },
+        {
+          "id": "pixabay_2001912",
+          "name": "water, nature, glass bottles, bottles, drinking water, drink, water bottles, glass, black and white",
+          "thumb": "https://pixabay.com/get/geb71ad875ff9dbf97a59468f8727a81df5cc0d793b58673f9762c4b7ec611f91e9c220f18f460344eea94a17604167e54afdae355e5011cdb2703904ce0a40fa_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_2001912.jpg",
+            "https://pixabay.com/get/g0694dfd345cb70f84c9b9e914d48826f7bdd813363a372acb5618ae3758afd4a0d3fb98fc99c017fd9bcd523cecc4f9b9b8f003dea0ebf23ab4b2dd988bf31ff_1280.jpg"
+          ],
+          "author": "mrganso",
+          "authorUrl": "https://pixabay.com/users/mrganso-607585/"
+        },
+        {
+          "id": "pixabay_9181557",
+          "name": "sofa, side table, aesthetic, wall, texture, room",
+          "thumb": "https://pixabay.com/get/ge08baffa7d17d2b7077abfa68c6f7c89c140382561e5bd7c0ab4f2a9c18e49401b6fff6c2b5e847c1bbe5b74deeff03bf8bbf05756d140944e06517cb0eac7bf_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_9181557.jpg",
+            "https://pixabay.com/get/g035a65dd28e27f1e9eca9a678f4105f82b891e497c3cbdcfb5149f9dd0c5e7cb215324dda1da7c54ca00a7f222acdc428c6d5cab66d17009261e1c00ba7ad5e1_1280.jpg"
+          ],
+          "author": "rahucare",
+          "authorUrl": "https://pixabay.com/users/rahucare-46954953/"
+        },
+        {
+          "id": "pixabay_9596799",
+          "name": "architecture, church, facade, brick facade, towers, wall",
+          "thumb": "https://pixabay.com/get/gcee6ed2133ceeb37ca211c3b0723250d31d54905f43c43db44d917e65bd935c11321a6881ec80ee01720e988b49f831bb0ad0911f470b402a6da6eac08f4a5ca_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_9596799.jpg",
+            "https://pixabay.com/get/ga4cd53caa8ebe7d9b69d7633bd89bcbbe4ff363f73795015192c08ec81614f13dc1c6d44a26f922b326a8cd7fa12b115122cb59cba31b58256a7bf074d7797be_1280.jpg"
+          ],
+          "author": "wal_172619",
+          "authorUrl": "https://pixabay.com/users/wal_172619-12138562/"
+        },
+        {
+          "id": "pixabay_1640593",
+          "name": "the framework, drawing, color, texture, paint, wall, tints, graphics, pastels, artist, drawing, drawing, texture, texture, texture, texture, texture, paint, paint, paint, paint",
+          "thumb": "https://pixabay.com/get/g6bb2b81a40cfa4bf3ed3972c1caff17cb53ec7ad299ddef390a88e4b28e6aa063778b374c57612943d36a2ac005c18b085e3ad9eb761f4eb55dad6bd4b4fd8c1_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_1640593.jpg",
+            "https://pixabay.com/get/g952f369b7bf78c90e4fc993d0e2ff54d3c4d0a709c065b283dc358381923fd6c87d14b2c883b428e38d704f5153cd5de57482fd0e71cdff7f4f8d8bc5f0938db_1280.jpg"
+          ],
+          "author": "Hannibal8height",
+          "authorUrl": "https://pixabay.com/users/Hannibal8height-2964991/"
+        },
+        {
+          "id": "pixabay_1629392",
+          "name": "the framework, drawing, color, texture, paint, wall, tints, graphics, pastels, artist, paint, paint, paint, paint, paint",
+          "thumb": "https://pixabay.com/get/g1635f07f16cabb7be81b8f0ee4acef92746d832e058bbcf52d70bd343ae6b950b862de4db8405574cb4a902dd0c706c915d017b27dd6758c5605b95313c4b103_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_1629392.jpg",
+            "https://pixabay.com/get/gfbf495336e6740f821ce3169229d1aa28431998e87ab3f1a6aa3ab3ed2b2494d22d5e0959d269c5ebea48e71577d8164afbeaad091a52b60147aec5cfa4f5e39_1280.jpg"
+          ],
+          "author": "Hannibal8height",
+          "authorUrl": "https://pixabay.com/users/Hannibal8height-2964991/"
+        },
+        {
+          "id": "pixabay_1670768",
+          "name": "window, wood, texture, paint, wall, color",
+          "thumb": "https://pixabay.com/get/g7a9d2cd6e502539ac5784f9af6d7cfc1318cc45d05aa60f06d309cae7df642e48033fb2ea20826afeb51c377e70ecff57eb56de270da1cc3145e934978258ecf_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_1670768.jpg",
+            "https://pixabay.com/get/g11ef77a40d0868bc604edd8d36360ff350e239810343d8a43b286b908aed366c7d9190805e72ee79b38b99344065bc584c004a1f7774195d0ec64564d5a96e6c_1280.jpg"
+          ],
+          "author": "Hannibal8height",
+          "authorUrl": "https://pixabay.com/users/Hannibal8height-2964991/"
+        },
+        {
+          "id": "pixabay_5772706",
+          "name": "cacti, floral background, plant, wall, cereus, yellow wall, beautiful wallpaper, decorative, decoration, decor, closeup, background, nature, iphone wallpaper",
+          "thumb": "https://pixabay.com/get/g078f1c5dcb419cc816b8cad824bdc47ec6057425e88526bb389917860b32885720ba057578f5d760e953a1483804a39321e0504d27ce03f0f1cfcaa90e773308_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_5772706.jpg",
+            "https://pixabay.com/get/g9fbaedddb0147d26c6bf7b404e933ad56f2a7de356f3233f2a34f55ce7872fe9f4f2e8ba39211d24be6286ddcbf5ec9c954cb1a7b195b898188615625cf7d639_1280.jpg"
+          ],
+          "author": "rotekirsche20",
+          "authorUrl": "https://pixabay.com/users/rotekirsche20-18445331/"
+        },
+        {
+          "id": "pixabay_4664858",
+          "name": "blue, paint, white, wall, painting, creative, creativity, painted, artistic, color, brush, arts",
+          "thumb": "https://pixabay.com/get/g4e21bcfa6ef6cd05190a350d7c6ef32225eb2030af1ee331f0390b8e39da6deb0ca00270a1f78ce6b9384c83e2d1d6366ae3a9de9134aedca0c10358d5757679_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_4664858.jpg",
+            "https://pixabay.com/get/gf180ece885b0bb0dfc97fdda52630ebe9a4f731d5fc0ab964039f07be6a2981073103baa1509a05af034dba5b4d60e9427f47eb6f0f1c67cd9865afb0b0024df_1280.jpg"
+          ],
+          "author": "Nika_Akin",
+          "authorUrl": "https://pixabay.com/users/Nika_Akin-13521770/"
+        },
+        {
+          "id": "pixabay_3616270",
+          "name": "rope, tissue, red, yarn, maritime, solid, connect, node, dock, background, weaving, abstract, model, design, colour, beautiful wallpaper, pattern, color, boat, ship, detail, iphone wallpaper",
+          "thumb": "https://pixabay.com/get/g2395e7f606fb6fae7dbbc470eb5431f65840503380bb2e40613d554108c7c6098e9adba53ca4d9e0f10164b8c2753010913fcdb5e1e9cb21bad0d9c4f7b91ee0_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_3616270.jpg",
+            "https://pixabay.com/get/gd164a9206ecbb2407ec352d8ec8d0565b4d2e45b9bac64a9fdeb4d0faf2f8c49d59d00ac3e7c25d9e63a5f22ba71f67da8c464faeb3718ee2b27c9302d885841_1280.jpg"
+          ],
+          "author": "Engin_Akyurt",
+          "authorUrl": "https://pixabay.com/users/Engin_Akyurt-3656355/"
+        },
+        {
+          "id": "pixabay_1629400",
+          "name": "the framework, drawing, color, texture, paint, wall, tints, graphics, pastels, artist",
+          "thumb": "https://pixabay.com/get/g7bc1cab5976f5c4a7d21423f876f5fa8e18cc48bfaad48e63a9c1961782e6cc1f91cdbcb626806cb0e141ae2c96c4b289c7d8a7fffefa7e4912f310333421c7a_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_1629400.jpg",
+            "https://pixabay.com/get/g323d32d7d27176a5cad1d43c0f338fd93d6e3c01cff88758bfc6ef71e322b35732857adb0a21d2cea20f916f979a63b338ff1cb8423bd38c4a435c62ff345b7f_1280.jpg"
+          ],
+          "author": "Hannibal8height",
+          "authorUrl": "https://pixabay.com/users/Hannibal8height-2964991/"
+        },
+        {
+          "id": "pixabay_1675367",
+          "name": "stones, sassi, rocks, wall, color, texture, marble",
+          "thumb": "https://pixabay.com/get/gf9247dc628986d1a711e4fda0ffd226796387d00b324989a92b5df4acbe44ed8239738f752e4ff1caad90f5cddb0b2473850695f765d9495dfdc1544c2df9fca_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_1675367.jpg",
+            "https://pixabay.com/get/g49f952f824748e1e090f6de77e74f5dd2d54d534e71628456ed1140e3c4fd46436691d06feb3b03f6e87836ec8460c01e17d8d68d983cd7708c8a941fb89301c_1280.jpg"
+          ],
+          "author": "Hannibal8height",
+          "authorUrl": "https://pixabay.com/users/Hannibal8height-2964991/"
+        },
+        {
+          "id": "pixabay_4358985",
+          "name": "cat, sleep, wall, animal, blue, grey, leisure, relax, minimal, blue sleep, blue wall, pet, blue sleeping",
+          "thumb": "https://pixabay.com/get/g7b573f15b53074feb31cd5d8d690ec0ac2ccc50ca0d9351efc3187e2941467e9586bdf86a6da2a01c72ed90d9f2db3c2a9186faaf17ce733d486326ab3cdd56c_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_4358985.jpg",
+            "https://pixabay.com/get/g6b061ad45037017a76ff881c7d9ca7d0fd33dbb580b1129f7f91e4ae40dc16ccc6add870daa52911608c6f0d6c2c13415289e6bc9cecd18d9290def82abc7de2_1280.jpg"
+          ],
+          "author": "marcinjozwiak",
+          "authorUrl": "https://pixabay.com/users/marcinjozwiak-12652484/"
+        },
+        {
+          "id": "pixabay_1640594",
+          "name": "the framework, drawing, color, texture, paint, wall, tints, graphics, pastels, artist",
+          "thumb": "https://pixabay.com/get/gdf18a5c4d11e9b6327f6888d6d371bd35acca42aef447cb1480ae60888f9ca73e0b3bba4e534b9316de77de815dd9339c9a359845629c592c3d5758034bde2c1_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_1640594.jpg",
+            "https://pixabay.com/get/gf11f8451567200c87916ab3e151ca68308292b9f724a978afe45e974fbf7919b2de852f01b80a1803d87557c6b5c253aad4f79c35aa4cb0ed07642a97c95db86_1280.jpg"
+          ],
+          "author": "Hannibal8height",
+          "authorUrl": "https://pixabay.com/users/Hannibal8height-2964991/"
+        },
+        {
+          "id": "pixabay_7393268",
+          "name": "paving stones, cobblestone, road, path, texture, solid, concrete",
+          "thumb": "https://pixabay.com/get/gaedcc5ca408630a1ded120b99a9b5b392fc859f88c7d4dd16d0c4c62f4209ef0db168c55ea32e058cc21210244fc77480196404e01dac7fe68ba0403374d9b0b_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_7393268.jpg",
+            "https://pixabay.com/get/g9c19bc4cc561ebe961f1121d2840c58e4abd24c86f33541a6b4850e17924855041ce0dd87ab0a1a7c612b24a6bb4d2f1b1a2f239d7f09ffbb45ee7ca88eaec51_1280.jpg"
+          ],
+          "author": "Himmelstraeume",
+          "authorUrl": "https://pixabay.com/users/Himmelstraeume-28503001/"
+        },
+        {
+          "id": "pixabay_794775",
+          "name": "lock, key, wall, color",
+          "thumb": "https://pixabay.com/get/gcf28643610002e3a65dc4568eaed3543c751a9ee7c87c654a6eb164d72f012247eb96f3267e6653f02fe2d4e6edd3c87_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_794775.jpg",
+            "https://pixabay.com/get/g0ae1100feacf67816f54b1a758fe033082cec5009dc110c73786903ea3dfc8bb1b99fe9c74236c94452f74f1ce604cf2bd17c2c0c960f48db2bcbc8a65829180_1280.jpg"
+          ],
+          "author": "smccw3160",
+          "authorUrl": "https://pixabay.com/users/smccw3160-1077776/"
+        },
+        {
+          "id": "pixabay_4690291",
+          "name": "spray, art, graffiti, wall, artistic, paint, color, creative, tagging, grafitti, grafitti, grafitti, grafitti, grafitti, grafitti",
+          "thumb": "https://pixabay.com/get/g7535111be04c5ab9a241b70336b42dcd15725e5098658ff212bdd32ad3b562f0b7ce0e1da4895c0af5152954566ca8991a485435bc04315ec1739ff937126f25_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_4690291.jpg",
+            "https://pixabay.com/get/gd9b34bb746a02a607590c2f72213dfefd61e3fa663504adaebd281daffeec60e03ee269da5728b75fe6ebe2328afaf44c6ff9d50b85638418bc024318c239b7f_1280.jpg"
+          ],
+          "author": "KulturNeustadt",
+          "authorUrl": "https://pixabay.com/users/KulturNeustadt-14599327/"
+        },
+        {
+          "id": "pixabay_4564600",
+          "name": "virginia creeper, parthenocissus veitchii, creeper, nature, wall, autumn color, red, autumn, leaves, october",
+          "thumb": "https://pixabay.com/get/g96996dcde6ccea5d8f33db0f5a265431787823124de9d27b8680bbd65398e941f7b7c7554723bd09b471af66d7d9024316b2846e95db29299d451debc7d8dacb_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_4564600.jpg",
+            "https://pixabay.com/get/g4d3438a7678fbba2fa0d83e182df562d631ffc2e3968cd12219bffa19dd85128e501f3cf96348007aed7eec7d2ba3bc4e738171b9e51fe4ef2e859879e1af10d_1280.jpg"
+          ],
+          "author": "Sonja-Kalee",
+          "authorUrl": "https://pixabay.com/users/Sonja-Kalee-10341199/"
+        },
+        {
+          "id": "pixabay_1886005",
+          "name": "women, tshirt, female, fashion, top, tshirt, tshirt, tshirt, tshirt, tshirt",
+          "thumb": "https://pixabay.com/get/ga5d13726f8cfc04210af90503c1ccab1f22fb512815825dc5dc23c90023b01af3984cc7bee9a8cc7287bf4fda4d8e4dd2126f3917ac9bca66e0066d8294aaff0_640.png",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_1886005.jpg",
+            "https://pixabay.com/get/gb875749bd94ac0f06ec2fcc8981af374244111e3bdb2d4740ef151ef54a14c406842296cc25bf520a1ed461f3a4a71e468a0d80f710492a0bfc699177d42c232_1280.png"
+          ],
+          "author": "nattyjeff",
+          "authorUrl": "https://pixabay.com/users/nattyjeff-1836617/"
+        },
+        {
+          "id": "pixabay_1676326",
+          "name": "wall, color, texture, paint, the framework, peeling, plaster",
+          "thumb": "https://pixabay.com/get/gcba7a080929176961fb6ef0b520ca706cf8481d7f75d1c8eeb63f30026205e05390b6ce9d1452d74d90a0f835a157a301fafa4e38b4a83523d0e58bbeea25e33_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_1676326.jpg",
+            "https://pixabay.com/get/gdbaf2722512ed8322ed496fcc32243f424893a3b2a52e1f3c00c0cd4e43c18ccab4d4e6f975779dac7f41397c83575baff592450633c2f82b0054928e74704e8_1280.jpg"
+          ],
+          "author": "Hannibal8height",
+          "authorUrl": "https://pixabay.com/users/Hannibal8height-2964991/"
+        },
+        {
+          "id": "pixabay_8805389",
+          "name": "graffiti, art, wall painting, painting, spray, wall, wall painting, painting, painting, painting, painting, painting, wall, wall",
+          "thumb": "https://pixabay.com/get/g61476b69770ba03fb4eb5addc0640ecf4dcc905fb5f1937ea3b343d4f4ae7d37e1d38923dccecd46292f6e626f771c15b06d29ae89b5644ef2b4905c001593a9_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_8805389.jpg",
+            "https://pixabay.com/get/g4d68bcac40df9e3cd72fd91e95fb6b22965fa95da81546038fce7932f4e1a1073d6a49c5b52b02b0b33c6c76b646bcd632f534ad8c0deca62c226aaf963b4cce_1280.jpg"
+          ],
+          "author": "Tho-Ge",
+          "authorUrl": "https://pixabay.com/users/Tho-Ge-113537/"
+        },
+        {
+          "id": "pixabay_550503",
+          "name": "roof panels, roof tiles, red, wall, brick, wall bricks, orange, roof tiles, roof tiles, roof tiles, roof tiles, roof tiles",
+          "thumb": "https://pixabay.com/get/g7e8ac89a7c13861da0d45fdce16814a12f1e18566c4568ec6c19f881ab6b0d548c4cd42147ffde65b65a39941cb9ed92_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_550503.jpg",
+            "https://pixabay.com/get/gcfcb6a3c9704fee4e22de1d4511d00d59d2366240a6b3ddf2d8fba558eb6ac71cc28732f9a4f955c0ae341425ae034055aae273e75f7d943b6865c89262f52c2_1280.jpg"
+          ],
+          "author": "blickpixel",
+          "authorUrl": "https://pixabay.com/users/blickpixel-52945/"
+        },
+        {
+          "id": "pixabay_1251716",
+          "name": "textile, textures, background, fabric, raw, decor, material, beautiful wallpaper, cloth, pattern, art, iphone wallpaper",
+          "thumb": "https://pixabay.com/get/ge84af3b1cf324944a9b1afad37874610a723920db31b1beb8178be244135c149e05f80df9b2649c0d6881af0325d04f6f07e5c0172e26ded197f7d9036b03126_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_1251716.jpg",
+            "https://pixabay.com/get/g54fc3911287b80497067c17eff4532b6a37bf39d48521905880d1e3a26bcd6a2b58c7b0f93a88c36da5c6233845eede2094df6d0881f3862b0725d3400b8f52a_1280.jpg"
+          ],
+          "author": "ha11ok",
+          "authorUrl": "https://pixabay.com/users/ha11ok-1785462/"
+        },
+        {
+          "id": "pixabay_314525",
+          "name": "bricks, walls, surfaces, flat, hard, solid, rough, structures, textures, backgrounds, exterior, buildings, architecture, construction, baked, clay, red, grey, old, patterns, iphone wallpaper",
+          "thumb": "https://pixabay.com/get/gf051fb24da1c352c2b5b4fbd30167c036e8a0dc872e3610506aa0ad46bd34eeb08197aa3e9764b2ed57c42125d5cf356_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_314525.jpg",
+            "https://pixabay.com/get/g45b6537de9009393ae2c7e24e6852889bf320203cd2193ebb3c4e33f0d230635e85908a5cb75a95ecfa274bcd835448b833509f5f9ba1908053bba5a4879aa68_1280.jpg"
+          ],
+          "author": "PublicDomainPictures",
+          "authorUrl": "https://pixabay.com/users/PublicDomainPictures-14/"
+        },
+        {
+          "id": "pixabay_8336864",
+          "name": "handcuffs, halloween, prisoner, jail, crime, slavery, struggle, freedom, slavery, freedom, freedom, freedom, freedom, freedom",
+          "thumb": "https://pixabay.com/get/gd3af70c66f99ab7516974b7844aeefdf9a0fa5fd2e92c486f3cab6c044795eff22b0def224792cec6d2f0b0d7221d99546c00279400b3177523beee07c995b49_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_8336864.jpg",
+            "https://pixabay.com/get/gce99efc07645401497f33779b1064a69af7a2ca3c436931c9a7683c598d433c31ba6dbdb6a11d1056c01ac702283dbc77d706e3388cb8d8be8964afb5c9ad9b8_1280.jpg"
+          ],
+          "author": "AnnMarieYeager",
+          "authorUrl": "https://pixabay.com/users/AnnMarieYeager-34301495/"
+        },
+        {
+          "id": "pixabay_1189959",
+          "name": "bricks, wall, brick wall, orange wall",
+          "thumb": "https://pixabay.com/get/g6b1df425bdfaaf32bb49a708f3b2be994348aae36444580197f33690e576588e6b42cdfc4575f294ceec56e7b4eb5903ac11e01f72dcc5d13ec8d768adcbe0c3_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_1189959.jpg",
+            "https://pixabay.com/get/g82a74354970d2e7e914dbdeb2be11e641729cc94dcf86ee38cbdfc936183f47539d2ee861b071d80dd57f85c51f822bf08682017e0884e47afce727933824385_1280.jpg"
+          ],
+          "author": "Yakir",
+          "authorUrl": "https://pixabay.com/users/Yakir-750358/"
+        },
+        {
+          "id": "pixabay_2356325",
+          "name": "paint, gel, art",
+          "thumb": "https://pixabay.com/get/geec60adda17ce3e92caf48dc3ed67edccec4b34678a324a9315e999d73e86f7d2a3ea9a9ecfe87184d4bb1ae24b3f174db2326bfd7a3d23eb0b06742b7c6d608_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_2356325.jpg",
+            "https://pixabay.com/get/gcec989e77878b0cf02055320f465f4c0c8846a44293ab6dadf1999d55a30427424689993d875d02e0c76907f90fd3d793d3eeed0802a9423a02d3cf044f15336_1280.jpg"
+          ],
+          "author": "GiselaFotografie",
+          "authorUrl": "https://pixabay.com/users/GiselaFotografie-2364908/"
+        },
+        {
+          "id": "pixabay_2356330",
+          "name": "paint, gel, art",
+          "thumb": "https://pixabay.com/get/g15a1487ecef83c6565936030fa63f9247c245b1ee1aa25da4f27147c6630195f1e0f55d350e718f7dd5eeb5516d2feb9508169a08339f164495d59f07a37344b_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_2356330.jpg",
+            "https://pixabay.com/get/g5d36e9b155b647e74431ae6965d2e0ccd77b7553718fd72cbb1c1fc7d8e1c8d9a13a37f1509ff2415b39fe972b35defbf16a6e97e2f20f7ceb8ed4868a14de9a_1280.jpg"
+          ],
+          "author": "GiselaFotografie",
+          "authorUrl": "https://pixabay.com/users/GiselaFotografie-2364908/"
+        },
+        {
+          "id": "pixabay_4157892",
+          "name": "art, dark, gel, fantasy, shadow, dream, light",
+          "thumb": "https://pixabay.com/get/g7e82a0c697223791543cb1d97b537b6e9b8b2099ab84a4a17661e79d8f5bbf70c1bfd465776b878c30045e0f6da3c83b2e5b674311d3e29b03304d128dca2e1a_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_4157892.jpg",
+            "https://pixabay.com/get/gaa89b34856ac63cbf3c9c0c3c59323ae8bbc57cb824a650a12c7b376fab8a4a49a768bbf636140dd560692a5c2631968babdc04c6f1d736fcb8786758ba48155_1280.jpg"
+          ],
+          "author": "giselaatje",
+          "authorUrl": "https://pixabay.com/users/giselaatje-5659706/"
+        },
+        {
+          "id": "pixabay_2983550",
+          "name": "makeup, face, woman, portrait, girl, female, cosmetics, color, creativity, red, eye, model, beauty, beautiful, artistic, body paint, paint, makeup, makeup, face, face, cosmetics, color, color, color, color, creativity, creativity, creativity, eye, eye, eye, eye, eye, beauty, beauty, beauty, paint, paint",
+          "thumb": "https://pixabay.com/get/g62e4411bb18b97ffbb7931c548650949fa0cd6505d0bfa2b7c1f2db9d5207323b3316e55b5cc63147533f72f2fe12cf776f58ee0c65117e0c5b2376ba88b1bcd_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_2983550.jpg",
+            "https://pixabay.com/get/g4a91fb99355ac6fb0ee4f1b46b97a9ee9c08fbdb89817a1afe97a934aefbe58b9899736b5997aa66fc2b779e69608550db3c6bd0c307d0efff32075a8eb720d0_1280.jpg"
+          ],
+          "author": "whitedaemon",
+          "authorUrl": "https://pixabay.com/users/whitedaemon-1982503/"
+        },
+        {
+          "id": "pixabay_1324903",
+          "name": "expocosmetics, nail gel, colors, pots, gel, nail gel, nail gel, nail gel, nail gel, nail gel, gel",
+          "thumb": "https://pixabay.com/get/ge22febb17a3f1cdb76c4bfb18f34207ccc214640bdd11b1852c99d651984a754e2dc6aefd0cb725fa84e1d753f85f049a794d9e3d7ebdf220a95e509eaf2402f_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_1324903.jpg",
+            "https://pixabay.com/get/gdfc14bfad044118c681fd2081a73620698e21b128c4105a9373c631fc6ec842126d35403d5e3906a7e454e0497a1e826c96030852b12044bf0f773b24dc0b3e6_1280.jpg"
+          ],
+          "author": "nuno_lopes",
+          "authorUrl": "https://pixabay.com/users/nuno_lopes-27925/"
+        },
+        {
+          "id": "pixabay_7761459",
+          "name": "microphone, recording, condenser microphone, studio, recording studio, music studio, neon, neon lights, product, devices, technology, audio, microphone, studio, studio, recording studio, recording studio, recording studio, recording studio, recording studio, neon",
+          "thumb": "https://pixabay.com/get/gb2d47133a7c691508f8851513a54beeca174ed00f781b0f3e84de599d9de7a6c72ca752a65bd3ff908f08bb2706104eaad01e6dc44900b21889b69a959de6d58_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_7761459.jpg",
+            "https://pixabay.com/get/g3ace85012cede1eca718a85e84daaa0fed9ae267dc3c652b2a6c2bbd454c888cd659da66b92882b0dbb229025bb8d34849318ebd132123d68fd7a80caa7ab8f9_1280.jpg"
+          ],
+          "author": "xt7core",
+          "authorUrl": "https://pixabay.com/users/xt7core-25887563/"
+        },
+        {
+          "id": "pixabay_4141581",
+          "name": "japan, asia, neon, streetm city, travel, architecture, tokyo, lights, night, buildings, urban, lighting, people, woman, lady, nightlife, japan, japan, japan, tokyo, tokyo, tokyo, tokyo, tokyo",
+          "thumb": "https://pixabay.com/get/gf480f8b170c43ae7cd8296612e4c851fc20fcb20e1f9b121b7f9fb55699af2628e24f2740dada01b564580ff4093b5816e227a49a07fb9841aacb588230f2a34_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_4141581.jpg",
+            "https://pixabay.com/get/g5de6367767cfb0c4e65d1f615a459ec153711933cde6a2d9a5799a439def7b30379ee33dd42bd5d3cabc7d671bbb76fdaf41fbc7a20796909dab021022004bb7_1280.jpg"
+          ],
+          "author": "sofi5t",
+          "authorUrl": "https://pixabay.com/users/sofi5t-6957643/"
+        },
+        {
+          "id": "pixabay_3713473",
+          "name": "asia, rain, street, illumination, umbrella, water, travel, city, thailand, nature, urban, relax, tumblr wallpaper, blue city",
+          "thumb": "https://pixabay.com/get/g5d5fc96cb7c75a0e0e7377cd176c86c759e8a35bf85d9486d7f63eb9b1cd17f8df89d647efd08ef1e2da9ccb3935a57233e7c5b193f69ef3f094968da1341880_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_3713473.jpg",
+            "https://pixabay.com/get/g9145029de5224fe830e330b644ea997a10561b9e670514aa667a206161b8dac01bcec065a0394b45dc090e054f839207bc882d050f845e7e5af71170c040fd38_1280.jpg"
+          ],
+          "author": "4601460",
+          "authorUrl": "https://pixabay.com/users/4601460-4601460/"
+        },
+        {
+          "id": "pixabay_6884534",
+          "name": "street, autumn, japan, city, travel, shinjuku, japan, japan, japan, japan, japan, city",
+          "thumb": "https://pixabay.com/get/g926cbf50a014ca2e2a5db2afe36608385120ab8768fc33e208d1417eae44b8767d3ee30f6758fe6e35e97e79524c79651b43acdd723a3584c75915e5eaf3e56a_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_6884534.jpg",
+            "https://pixabay.com/get/g799caf29cbdb5139e2e9d45cd0e3eb29f18cafc15c110ce4c09b37d9eeaab5814e43612e659d95db9872a66ea30be15cc6e4d180837e8ed4d15560f43954151a_1280.jpg"
+          ],
+          "author": "yoonason23",
+          "authorUrl": "https://pixabay.com/users/yoonason23-24910824/"
+        },
+        {
+          "id": "pixabay_9865766",
+          "name": "hydrangea, flower, nature, plant, flower wallpaper, petals, garden, close up, blossom, beautiful flowers, bloom, wilted, past, flower background, transience, backlighting",
+          "thumb": "https://pixabay.com/get/g7b0cbfe695859b34620cd407806f24f7f21439a11f4ded6f26f95fa9b651c91f38b1953ff3e2aa0df7e387e50d66616c63028a4a6743a23f41abe88206deb54f_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_9865766.jpg",
+            "https://pixabay.com/get/gbd127611dbb2d6da3ff416c5f8015168c75173edaa5e95040bbd2606f968cdb6b46dfef774f9e8c6793173026616ae2432e6cb74adadf1e4315dc2d2a080621d_1280.jpg"
+          ],
+          "author": "Couleur",
+          "authorUrl": "https://pixabay.com/users/Couleur-1195798/"
+        },
+        {
+          "id": "pixabay_2786358",
+          "name": "butterfly, black, red, colored, vane, the shadow",
+          "thumb": "https://pixabay.com/get/g9962d0a0f17bb2d9a9418b8a6c706551798b5adf140a990f83be68f5ae14733bbaf33ba301faf1ffe29a59a99507ccc226375675739284fedd85acf685546ee8_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_2786358.jpg",
+            "https://pixabay.com/get/gd1c0b2c1cf498004cba27412a6d40572c6527db0e655e1563f8bb2f46fa86cbdbba807f89ba3c0951a536f711c7a138b1efdce5bb7eae5e2289a3c4ebf8a7622_1280.jpg"
+          ],
+          "author": "AdinaVoicu",
+          "authorUrl": "https://pixabay.com/users/AdinaVoicu-485024/"
+        },
+        {
+          "id": "pixabay_6017581",
+          "name": "man, wall, dark, monochrome, leading lines, groom, hat, suit, emotional, wedding, art, composition, black wallpaper, black, black wallpaper, black wallpaper, black wallpaper, black wallpaper, black wallpaper, black",
+          "thumb": "https://pixabay.com/get/g829f77d9d82d0f9c9c383ec0d10fb0a21d5237809cd4d16c756f0d80bffc2dc42c63e4eb1843acde93c6dfb7f48655c73fac121f5872c676e63ce58791307818_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_6017581.jpg",
+            "https://pixabay.com/get/gd7eb98be4e840ac206421c2b64b47200f2afad6b233d2d2a07e8a7659e5d943d60ee31c16c0c69d2adc4d858a846137a031b3801c807920eb12230ced8a1bd5c_1280.jpg"
+          ],
+          "author": "rdmphotosltd",
+          "authorUrl": "https://pixabay.com/users/rdmphotosltd-20034449/"
+        },
+        {
+          "id": "pixabay_1835823",
+          "name": "cave, cavern, dark, daylight, landscape, moss, rocks, stone cave, sunlight, underground, spelunking, iphone wallpaper, cave, cave, cave, cave, cave",
+          "thumb": "https://pixabay.com/get/g99585a24c3bc332154aa96753864b888430a36d4eb7b831935fe50130cfdb8c586d91572d1fc068b6f7499b1e6b0160f9c576b8098a0cd098709ff37ab2462c4_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_1835823.jpg",
+            "https://pixabay.com/get/ga730d5d8c187db5ce2878c494ad28555e989c42c18e46652ad93d5c8eee70e3ba404696ee2edba2d4eca15a38995ca940b4c2e35e5218e189468a0e1215a7a2a_1280.jpg"
+          ],
+          "author": "Pexels",
+          "authorUrl": "https://pixabay.com/users/Pexels-2286921/"
+        },
+        {
+          "id": "pixabay_8122959",
+          "name": "activity, color, friends, painted, graffiti, art, graffiti, art, art, art, art, art",
+          "thumb": "https://pixabay.com/get/g9d18187f415182f10a8f332483273bfb1adc53f5107fc46d0a0fd3a06b1471441afa102abbd84c91317b841f61f19468aa9728ba463b950f2af8d220d6e66b45_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_8122959.jpg",
+            "https://pixabay.com/get/g8d8ffc2068868592dcc5c00f84047984c2440f0caa34ca2101e478f09dbb2f1257cd9ea35e13b38ab3d556bc101d1a3d8d6493635af4637e92f60839cf4154a5_1280.jpg"
+          ],
+          "author": "JymLens",
+          "authorUrl": "https://pixabay.com/users/JymLens-38221552/"
+        },
+        {
+          "id": "pixabay_4020984",
+          "name": "flowers, paper, colorful, beautiful flowers, nature, decoration, party, flower wallpaper, creativity, colors, flower background, iphone wallpaper",
+          "thumb": "https://pixabay.com/get/g3c716b43ec3fa83c609bccd7f83bdbcd379ed4e6b83d0353e1a37498cab7d0c100217885c275d83acd1a7151cafcc5b9d9f4a506922ef5a765ba842b5022bfd4_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_4020984.jpg",
+            "https://pixabay.com/get/gdf9264d89a8aa5d46627994e6c2fe73d35ee6d83e957aa662cfb6f349fc095d876b5dd0e5eae0cbee79a71792377137fc181180637bb2a56f30418371eee22fc_1280.jpg"
+          ],
+          "author": "agustinbg",
+          "authorUrl": "https://pixabay.com/users/agustinbg-5813382/"
+        },
+        {
+          "id": "pixabay_8172933",
+          "name": "geometric, pattern, seamless, squares, lines, illusion, bokeh, beautiful wallpaper, texture, lights, digital paper, abstract, colorful, background, multicolored",
+          "thumb": "https://pixabay.com/get/gbfff3de40237cf59ae7c33760ca87fe755ff3a9e45cb6bfde4be77271e002c811a024746be313303d65f473406b999a3b4b80a6224e243aa2bfc3ab76b4883d9_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_8172933.jpg",
+            "https://pixabay.com/get/gab4c8e3eaf5f522dffb08f8e4ecc905c7e81862035425e9915006cbfedeed00b2c8a98ed3263d66f50056ab601ac3b46c9b99bdd35aa236bf2c85983e4e53f8f_1280.jpg"
+          ],
+          "author": "flutie8211",
+          "authorUrl": "https://pixabay.com/users/flutie8211-17475707/"
+        },
+        {
+          "id": "pixabay_3089859",
+          "name": "wall paper, colour, live, wet, shining, light, beautiful, dark, blue, color image",
+          "thumb": "https://pixabay.com/get/g54fdd70aaf26caf4b9543cae9d1ee6c01bc58548db75f443c36fba07d6868a22f756eaf89b1d3ff3213941c37c97a874d8c9a0ca1e3666f0621ca09e6c56996f_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_3089859.jpg",
+            "https://pixabay.com/get/g6264d536b4ef5d781df8fad1ac8ffd1b6ae11a1b3442988aae4b4db202308e72bf33c1bf5ad72152631b018ca53459ddddf89bfec90d97adfdd36e89b9309e3a_1280.jpg"
+          ],
+          "author": "zandoche",
+          "authorUrl": "https://pixabay.com/users/zandoche-7504191/"
+        },
+        {
+          "id": "pixabay_9460143",
+          "name": "bokeh, pattern, texture, design, background, beautiful wallpaper, green pattern, seamless",
+          "thumb": "https://pixabay.com/get/g7c365ae8b2c52499794396835c9201cee446d1bf7695e076e9a2ad6e174ad162fcb4af4f25883079f9ebc76851b8c8b0d18d6c0adc460fad282fc8caa339a6d4_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_9460143.jpg",
+            "https://pixabay.com/get/gce6bf12b265be7390a4edc9c7dd3f45d14d363a25d306eb5ee253465a6cd56bab4928b3eff1ac48e14aac340f23d2d160c447b75c1f0519f13e2a3164845819a_1280.jpg"
+          ],
+          "author": "Mollyroselee",
+          "authorUrl": "https://pixabay.com/users/Mollyroselee-9214707/"
+        },
+        {
+          "id": "pixabay_4937479",
+          "name": "toilet paper, toilet, loo, hygiene, role, wc, paper, paper roll, toilet paper, toilet paper, toilet paper, toilet paper, toilet paper",
+          "thumb": "https://pixabay.com/get/g4716da7129f09135426f7e0c3c609520b24b8c4c8f505e2df0e65527327a78db0b8c8332ddf7061f86f6cc3a0cbc4cd7737c9885cf65e6c1b6c32f6f1c5ee621_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_4937479.jpg",
+            "https://pixabay.com/get/g87e62f6f121ad97a797a583b1e0fadff4973d1d9b219ef88b662a563072a5f966ba9fbd741255653fa1fd1b6bf2a7b92c0859c952a4afd4d8338010b181afb90_1280.jpg"
+          ],
+          "author": "Alexandra_Koch",
+          "authorUrl": "https://pixabay.com/users/Alexandra_Koch-621802/"
+        },
+        {
+          "id": "pixabay_2583339",
+          "name": "bicycle, bike, aesthetic, stickers, vandalism, paper, sign, wall, stickers, stickers, stickers, stickers, stickers, vandalism",
+          "thumb": "https://pixabay.com/get/gdde2c08f487d46b936366487834fcc48ad114326ab51937b96a77b796687a3f49fe92a70a75cb5734a9c85c40943b847c286e04fd18d1d432c6680e56219ad49_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_2583339.jpg",
+            "https://pixabay.com/get/g42b534918eb70ed18ba1562de340c3aa3e45b8c579f1129f7bfb995d29dab24770971d98a96fefd0b5230a65884811c5a7945eab0b705c6cfd0201fbab963490_1280.jpg"
+          ],
+          "author": "StockSnap",
+          "authorUrl": "https://pixabay.com/users/StockSnap-894430/"
+        },
+        {
+          "id": "pixabay_1332008",
+          "name": "paper, handmade, laid paper, texture, papyrus, rau, parchment, structure, background, bow, old, letter, template, unlabeled, creative paper, handcraft, yellowed, old paper, type of paper, paper art, thin, beautiful wallpaper, antique, iphone wallpaper",
+          "thumb": "https://pixabay.com/get/ge7b8d2507a5e6b4296ee349e562770e2bd6b607d19e1793d54d8b9eb0b43e092f0ca58f72ba6a9380eea8ab68a020344557e371364f19fe8ff4e09bbff88f775_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_1332008.jpg",
+            "https://pixabay.com/get/g30dec56d5219ee8864158dc430d55c0bc19abd43f6535f5bf25fd3f76165e51140d0bee83cf68ee0e54f5a857622a741a8276a7bc850c1b16d6e7c027122afed_1280.jpg"
+          ],
+          "author": "andreas160578",
+          "authorUrl": "https://pixabay.com/users/andreas160578-2383079/"
+        },
+        {
+          "id": "pixabay_1891218",
+          "name": "gingham, fabric, red, pattern, cloth, picnic, classic, red pattern, gingham, picnic, picnic, picnic, picnic, picnic",
+          "thumb": "https://pixabay.com/get/gf391091ddc048406bf887a7923384dab85539c1c5a5351bab2986f4d4e74da173403e316a111bae58073934d248694f2c742b232b2d44b3db9fed04042d03722_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_1891218.jpg",
+            "https://pixabay.com/get/g6a8f05846af6eff16e1300fe6ce01c42d605a9e5b1c73676aab0d70039a80f9ee5c7437eb831d3008a606cc67999b012fd2717c6f3870652928bc4e84e182307_1280.jpg"
+          ],
+          "author": "cateyz",
+          "authorUrl": "https://pixabay.com/users/cateyz-3745550/"
+        },
+        {
+          "id": "pixabay_1892462",
+          "name": "black and white, floral, wall, rose flower, texture, white, black, pattern, rose, design, decor, graphics, gray texture, gray wall, gray design, gray pattern",
+          "thumb": "https://pixabay.com/get/gcff9515e242c49b9dc3fc6446a5220e6a30e926ffc183465683bc369609dc2c237252adabdfb04d21a1a9c12cba4d93ef7731fa3f9e32c654a16986d4a0a3b67_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_1892462.jpg",
+            "https://pixabay.com/get/g0c700c6cffa8e0b1dfce35ed6a1045ba4c3d4de1436fae3acf71da8a6036e2fa023bb0746003af08004c69fad23ba51322bd51b25330dc2542df939700604a7b_1280.jpg"
+          ],
+          "author": "LaurBadea",
+          "authorUrl": "https://pixabay.com/users/LaurBadea-2202950/"
+        },
+        {
+          "id": "pixabay_942529",
+          "name": "kashi, iran, islamic, art, islamicart, mosaic, wall art, colorful, pattern, iran, iran, iran, iran, iran, islamic, islamic",
+          "thumb": "https://pixabay.com/get/g286aa5e655cb142737538114dd66656489d0cc8f09243bef2edbd3f6187b58bede5846cbb780ae618457fdb9614454ad_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_942529.jpg",
+            "https://pixabay.com/get/g054dd0e3cc22b7b497733835922c37139a0f680106ecfbca1ea28993f312e5ec1c2f4d62a769312c41b0fc8be3c7c7681fcdece2dc125ff8f4f5e5037a13bdf4_1280.jpg"
+          ],
+          "author": "gomnam",
+          "authorUrl": "https://pixabay.com/users/gomnam-1414206/"
+        },
+        {
+          "id": "pixabay_89185",
+          "name": "blank, board, business, cork board, corkboard, empty, memo, message, note, notice board, noticeboard, office, pad, paper, pin, post, remember, reminder, sheet, thumbtack, orange business, orange office, orange paper, orange email, orange company, orange note, orange board, cork board, cork board, cork board, cork board, cork board, corkboard, corkboard, memo, memo, memo, memo, notice board, notice board, notice board, noticeboard, pin, pin, post, remember, remember, reminder, reminder, thumbtack, thumbtack, thumbtack",
+          "thumb": "https://pixabay.com/get/gba04e9f1d1ad66a2a31015aa8da75cc6587d30c34ad21799059bc2ed6d6b8dfc0e2aa199f605733767fbd6865f2b20fd_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_89185.jpg",
+            "https://pixabay.com/get/g9cbba860fa4ccd8095c9e60597380b0ef92eda6c282ce1b3501f14b613e1d8f41dd2dee9fcc89493dd28c6e2d1b67eaf_1280.jpg"
+          ],
+          "author": "PublicDomainPictures",
+          "authorUrl": "https://pixabay.com/users/PublicDomainPictures-14/"
+        },
+        {
+          "id": "pixabay_5840086",
+          "name": "paper, colored paper, mockup, beautiful wallpaper, blank, closeup, background, iphone wallpaper",
+          "thumb": "https://pixabay.com/get/ga64ef8ebe2c65c6f85ab7dc45873b7fb55084792aceb358c8718a24f685d6ca24b53fe92e88f9950aa1ceb2cf6cde7dd07ff6711ab5b6cfe912de3bce9c7ccc7_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_5840086.jpg",
+            "https://pixabay.com/get/gb4c4e1056c3609a855b5ca7405fd8a6299637bb5df09a1b80af88086beea6d9db8d34d93072ea3041904a96b804a5b3dc4b1ccdd648b22b50833479182c49357_1280.jpg"
+          ],
+          "author": "jerryboot100",
+          "authorUrl": "https://pixabay.com/users/jerryboot100-17099626/"
+        },
+        {
+          "id": "pixabay_10145500",
+          "name": "painting, butterfly, nature, living room, wall art, decoration, interior, flower, orange, couch, pillow, beautiful flowers, modern, colorful, flower background, flower wallpaper, artistic, vase, home, harmonious, calming ambiance, design, fresh",
+          "thumb": "https://pixabay.com/get/g07597370adb0aa8dfb0b7983d82f17beb246f76288d3bb737d8a8407d9b710f0d72434e57683ed6d9eb787ac0db3f7dde9b25c9d1a1f81f387089473ecc1533b_640.png",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_10145500.jpg",
+            "https://pixabay.com/get/g432d52526132410d87bdb16a602b1bd3753b00e81862fbf662a3f4445649f5d18a434c72d701809efbbd9d0579602a1f1b7d0d202f1378b018e7dec499424331_1280.png"
+          ],
+          "author": "Sameervxrma",
+          "authorUrl": "https://pixabay.com/users/Sameervxrma-54612703/"
+        },
+        {
+          "id": "pixabay_7012648",
+          "name": "smoking, woman, addiction, vaping, to smoke, portrait, cigarette, smoke, colored smoke, smoker, woman with smoke, pernicious habits, cigarettes, cigarette smoke, neon, colored light, exhale smoke, cloud of smoke, clouds of smoke, addiction, vaping, vaping, vaping, vaping, vaping",
+          "thumb": "https://pixabay.com/get/g6c447feda943ccd68646e3e0b75397e2a0c35bef10cd43f12e0a52962497432af68eed7d26c389aba825e55d33370f58dac03f0ebd85de7f5163a05c6eb21101_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_7012648.jpg",
+            "https://pixabay.com/get/ga41f7622ec4d2e6b013c30add1d328415463f04ba00a2933d4ce0b3ce76d70a68a9d32ac426cd28f59a820595c03040e9511891942d8649aefd7dda3edf8a904_1280.jpg"
+          ],
+          "author": "Sunriseforever",
+          "authorUrl": "https://pixabay.com/users/Sunriseforever-6314823/"
+        },
+        {
+          "id": "pixabay_6806374",
+          "name": "halloowen, monster, bomb, pumpkin, autumn, creative, halloowen, monster, monster, monster, monster, monster, bomb",
+          "thumb": "https://pixabay.com/get/gff35e2e6fddc73caf5c2edf605b9b725ba564f4dcd1efd1848386ec0fd03656035699b147fcbcb391996c4502495844253f384910fe6d622178ee7f7a72f9a60_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_6806374.jpg",
+            "https://pixabay.com/get/g4b639a514b43111bbcd4c18456ede426c70391e6e28efc01d49c712642562858103add19d4be6aab602b398a0cbe7d34a97d626b0bdf15d83b55e9dd86c055c9_1280.jpg"
+          ],
+          "author": "sebestyehunor",
+          "authorUrl": "https://pixabay.com/users/sebestyehunor-15190004/"
+        },
+        {
+          "id": "pixabay_5096532",
+          "name": "floral, abstract, beautiful flowers, flower, colorful, blue, fantasy, smoke, dream, nature, blue flower, blue abstract, blue fantasy, blue smoke, flower wallpaper, flower background, blue dream",
+          "thumb": "https://pixabay.com/get/g5d7b901090db3e9665d790b4bc24f3b905544b3be9d52f62b28cbec747fedca5a00fffe3a40b9916243b22cd89f53582922f827a39f81ae7b5abebcf712394e7_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_5096532.jpg",
+            "https://pixabay.com/get/gae1cdffc03d54319a9add5a07f769b59eb46b2ff686175ec26081b50aa672c2fdba35efd86083eddb3fbfad136025de52939d836189a602bdbf63828f39f085c_1280.jpg"
+          ],
+          "author": "jonwicksphotography",
+          "authorUrl": "https://pixabay.com/users/jonwicksphotography-16244489/"
+        },
+        {
+          "id": "pixabay_298243",
+          "name": "smoke, abstract, background, fumes, beautiful wallpaper, vapor, iphone wallpaper, phone wallpaper, aesthetic wallpaper",
+          "thumb": "https://pixabay.com/get/ge04b280a1589c0f55dcd6b4fa51e08d1bd49df2a697008d280b957b2e59328cb5d9e252df430039c7c04aadb4e711b18_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_298243.jpg",
+            "https://pixabay.com/get/g8c73a5e8a3028d26e84726f84870451b83c8fd746afdd9f96ad9e1a57860e0bc7b59d93f455425bf2edf47177db633e42ebaa2b999100b8666186edd8dca76e9_1280.jpg"
+          ],
+          "author": "goranmx",
+          "authorUrl": "https://pixabay.com/users/goranmx-168090/"
+        },
+        {
+          "id": "pixabay_7543677",
+          "name": "color, water, orange, smoke, flow, paint, paint in water, nature, color cloud",
+          "thumb": "https://pixabay.com/get/gb8261280ccd3cca231b0c98839fca5ce095d90d910d500d0a1b69c4723843a9de2576e7f950428f3cfcca1d95bedec66888332e1670841422fdac3f90ee1036b_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_7543677.jpg",
+            "https://pixabay.com/get/g0f6823413149d08792cbf031df0e5bb308659a1913301161cd6523d7d9b332c7581bebc6d601dfe538a6bb71d47400ebf5230558df50fe87015bbb55e45c2ddb_1280.jpg"
+          ],
+          "author": "AssGuard",
+          "authorUrl": "https://pixabay.com/users/AssGuard-744063/"
+        },
+        {
+          "id": "pixabay_1678414",
+          "name": "white and black, window, girl, black and white, light, darkness, monochrome, woman, room, dark, shadow, window, window, window, window, window, shadow",
+          "thumb": "https://pixabay.com/get/g7476d3c53a6a253f4e2713954650d031ec4feb58ec2c0de64d4533b5b4acbde2020e1fe6612f0e25a0a30d3a2f27e93903005745b7c66d9a3f3b3de12b7b5149_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_1678414.jpg",
+            "https://pixabay.com/get/gd1c248eff4325d27a81f9659e42734fa3c6ad359c999545ae1ac5598f3ebbf32f26ca0ed91dfce975c828afd3ecea5bd53367a83f8997916cd5d2b7b23695458_1280.jpg"
+          ],
+          "author": "abigail2resident",
+          "authorUrl": "https://pixabay.com/users/abigail2resident-3330194/"
+        },
+        {
+          "id": "pixabay_8687668",
+          "name": "road, fog, mist, asphalt, travel, monochrome",
+          "thumb": "https://pixabay.com/get/gf67724841c65896ea3476e16351ecb9225fe131247b438bd2e8eda41f2eeaa3d7572451aba1adda56048ab8b20dfa25b69e5b5fab78cbd96c10b5f86915d1858_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_8687668.jpg",
+            "https://pixabay.com/get/g5cf50e265b60825b55de0b636d676c58012b16124253f76ace8992ce8a9efddaa4d37c35e946c2b6a4d7b973d2e768f66c81c14f289232c58358c66fb8fa3992_1280.jpg"
+          ],
+          "author": "took_a_snap",
+          "authorUrl": "https://pixabay.com/users/took_a_snap-40580063/"
+        },
+        {
+          "id": "pixabay_8594719",
+          "name": "palais-royal, architecture, paris, columns, building, historical, landmark, monochrome",
+          "thumb": "https://pixabay.com/get/g30b6bd537f3046036c71d81f2a029d995f644a66def9897f044c1019426fc79336883290602c9f95ea390afc765dd269abf683181a580ea5c7f334ba1295e568_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_8594719.jpg",
+            "https://pixabay.com/get/g92bf0c2e6ae0b08b8f6e436ded2464d14675ed0f2e62502774b32c7e74e98fdeeb6b9e8fda3d3b36f0c773fccd1168141b1dc4fb8fcad902f40c6ef1139f5fdf_1280.jpg"
+          ],
+          "author": "analogicus",
+          "authorUrl": "https://pixabay.com/users/analogicus-8164369/"
+        },
+        {
+          "id": "pixabay_924166",
+          "name": "chair, room, dark, gray room, gray dark, chair, chair, chair, chair, chair, room, room, room",
+          "thumb": "https://pixabay.com/get/gd82d5098c066a633d9dfb3eec84cc7f16431f89497ec9dd863d5b19a6dccd68e1e9eb67bd2096e56f0cc81ca3caf1bd8_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_924166.jpg",
+            "https://pixabay.com/get/ge3da725820df3a04ebc0683ad663924c1013f4c53934db99da770f71a8331fde8318b471aa41d7c8ee3e625db377ee450e5b084a3fdcc133d253f93762c80469_1280.jpg"
+          ],
+          "author": "StockSnap",
+          "authorUrl": "https://pixabay.com/users/StockSnap-894430/"
+        },
+        {
+          "id": "pixabay_7915031",
+          "name": "desert, sand, nature, texture, pattern, shadow, minimal, nature dark, landscape, black and white",
+          "thumb": "https://pixabay.com/get/g6cd2671ac64a73995027980aaf4b28e1df22403be96bca3890d5a47834f4737badd8315fa7ed292134a9fdfb1327b64b6e0ff7e2beea05b63174e046e146d703_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_7915031.jpg",
+            "https://pixabay.com/get/gf82013ada49c5732add5af1f51b3c9c809e6ecf44c519cff82aef615998f05f4bc34e9cd777ad59285dae9ea8ee3db3137f8d54f93bfbcfabdd29b372d344de3_1280.jpg"
+          ],
+          "author": "mokhaladmusavi",
+          "authorUrl": "https://pixabay.com/users/mokhaladmusavi-22227492/"
+        },
+        {
+          "id": "pixabay_8320293",
+          "name": "lotus, flower, beautiful flowers, flower background, plant, petals, bloom, wildlife, nature, closeup, pond, flower wallpaper, monochrome",
+          "thumb": "https://pixabay.com/get/g2a95ccb6a668533d61f87722fd935b4865577a41b36ebd685e77dac618315cd8f810accf0aa6ee42bac1a2453d0985a8c2a105d6217f0aad3c67ad8278a348ab_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_8320293.jpg",
+            "https://pixabay.com/get/g6b22fdaf66e17d54949674f24247488a264af362ec1853d2225ce54c9c3b7a98c3a6c0ef452b424c47c5e67e8c5e1f1a57ee8622af59301471da5a3c42b53f85_1280.jpg"
+          ],
+          "author": "YangGuangWu",
+          "authorUrl": "https://pixabay.com/users/YangGuangWu-23578224/"
+        },
+        {
+          "id": "pixabay_7121425",
+          "name": "living room, sitting room, interior design, sofa, home, furniture, apartment, decor, contemporary living room interior, luxury, scandinavian interior, living room, living room, living room, living room, living room, interior design, sofa",
+          "thumb": "https://pixabay.com/get/geb85b82898062e9f00fe69a565e94892141b0b914181fcee9bf996ce4f336e95e0073cb1987f6e1114d1a9d942d822751e3f945a052056345ec107e6925a619c_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_7121425.jpg",
+            "https://pixabay.com/get/g074077f16e54f3b860e3e60d7fc0912315d4eb2953b9bc75543aad2e592a56cd00d180f1e6b30da2db48d01babec9e35267203af3bb16e79a37d4628319d2223_1280.jpg"
+          ],
+          "author": "Javaistan",
+          "authorUrl": "https://pixabay.com/users/Javaistan-16472466/"
+        },
+        {
+          "id": "pixabay_4243898",
+          "name": "plant, design, home, house, nature, lamp, white, wood",
+          "thumb": "https://pixabay.com/get/gdce748a5011ed83fe94c51fa0783189be5eec362c208ae9076827e4f2f6d7c0938f4116025a1cd9635f4d9ce1f2c35410383b1e5008ba24520f11f28a987ebbc_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_4243898.jpg",
+            "https://pixabay.com/get/ge26e1a88f34cb29a0174e2897e15f527a73ba2b68790b3599c9fa2cccdacb5261b94e7cd72e52020fad1a174e09c35c5a19bc9b6dbd6d28e680be5e0ad3a0678_1280.jpg"
+          ],
+          "author": "Phghvvcftyyufj",
+          "authorUrl": "https://pixabay.com/users/Phghvvcftyyufj-12646982/"
+        },
+        {
+          "id": "pixabay_246224",
+          "name": "skyscrapers, new york, city centre, buildings, architecture, wall street, manhattan, city, new york, new york, new york, new york, new york, wall street, wall street, wall street, city",
+          "thumb": "https://pixabay.com/get/ga9ef6d700ffc9f99f7eb72e9d989ac27d72ae63840df6104d89d1727e37a2b60c6ec1c49dbb4a6124aead14b732cf3a4_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_246224.jpg",
+            "https://pixabay.com/get/g9e69d0af715dbf83ba8b43eddcd4d6f8a5c6ce4ac82e8b38603075b3a7f18c59933f1c56650883ee796e4be4f37fb776cf5ec8c76fef12b4aaafbda127fa2105_1280.jpg"
+          ],
+          "author": "Ichigo121212",
+          "authorUrl": "https://pixabay.com/users/Ichigo121212-11728/"
+        },
+        {
+          "id": "pixabay_7868140",
+          "name": "set table, cover, cutlery, plate, meal, table, dinner, lunch, cover, table, dinner, dinner, dinner, dinner, dinner, lunch, lunch",
+          "thumb": "https://pixabay.com/get/gd90c07b15782c2feec295e7ecaadb4281c4bc9c95b5edfcadbc121a85efe65ac62cf1449ec1ebd3cf8fecddfad0ad4f2f861974e901518c6e1e326a3d572336d_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_7868140.jpg",
+            "https://pixabay.com/get/g9f746e30cbe929ce663a7b0b936c2d14eca0ea7a926f303f6ec4b9b0a5567d421a727dd1bd3bd2a7ab2290f2259def6d8c2d7cd7b1b8c934bde1dc7414bcc598_1280.jpg"
+          ],
+          "author": "wal_172619",
+          "authorUrl": "https://pixabay.com/users/wal_172619-12138562/"
+        },
+        {
+          "id": "pixabay_3485547",
+          "name": "work, write, working, create, work, work, work, write, write, write, working, working, working, working, working",
+          "thumb": "https://pixabay.com/get/gb731c3520aed34abd66f9137e9941d84707588780e8246724e94ce9c6845fd72b8813182b89496e236ed997faca3c23ed293c18e80fb9a96af6a51cb5db3f886_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_3485547.jpg",
+            "https://pixabay.com/get/g7e811d38d46b9b68f8a60993a622f01910e2ebeb010b9b1c79970712dce10f0f009a7b7d984cbe1d42d3df901cd02b295d56d6147c1bead9a76f9bba4e2c9cb8_1280.jpg"
+          ],
+          "author": "JessBaileyDesign",
+          "authorUrl": "https://pixabay.com/users/JessBaileyDesign-7369896/"
+        },
+        {
+          "id": "pixabay_2607291",
+          "name": "still, items, things, camera, notebook, journal, pastel, top, view, styling, pink laptop, pink camera, journal, journal, journal, journal, journal",
+          "thumb": "https://pixabay.com/get/gdb0d5de77879ce8cf96f692830f7701ce4ab84e844f99e272973df7cd7e59cbfd6c925eff5886ce61cd246a2da8f7fe55d0a2c0a2ab0492fd0b7f0aff3a889be_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_2607291.jpg",
+            "https://pixabay.com/get/gda6c08f136a4b56a80eb50c8ae35e8ad3624bf53e729694dfa96b63bd527c349366326d8b38b4dfc4c4c5cd710fbea74b51598f08f8344663f1f7c90d09f9688_1280.jpg"
+          ],
+          "author": "StockSnap",
+          "authorUrl": "https://pixabay.com/users/StockSnap-894430/"
+        },
+        {
+          "id": "pixabay_8045083",
+          "name": "flowers, samsung wallpaper, vase, flower background, ipad wallpaper, phone wallpaper, mobile wallpaper 4k, beautiful flowers, beautiful wallpaper, mobile wallpaper, iphone wallpaper, lock screen wallpaper, flower wallpaper, pink background, nature, decor, wallpaper",
+          "thumb": "https://pixabay.com/get/ga51a3778e8a14dfc7f5faedd22ccffd1b847ba61d8a580f522a950737afbc31461cc6fb70e868783cf5047bf6d6fd002af3210febfe96cd88e6461e202d4425b_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_8045083.jpg",
+            "https://pixabay.com/get/g6f66d7efa48d534c31d61c950129b1272a8abd1f8f5dcfb149b4735881155a84416e0c7fe13c3af15793077dee5da31ee81f4fe83c19844840aac4b57bda6a37_1280.jpg"
+          ],
+          "author": "HeiKiwi",
+          "authorUrl": "https://pixabay.com/users/HeiKiwi-35444888/"
+        },
+        {
+          "id": "pixabay_8211521",
+          "name": "rabbit, butterfly, samsung wallpaper, ipad wallpaper, bush, greeting card, nature, mobile wallpaper, cute, cartoon, watercolor, painting, minimalist, phone wallpaper, copy space, iphone wallpaper, invitation, lock screen wallpaper, scrapbooking, digital paper, mobile wallpaper 4k, beautiful wallpaper, wallpaper",
+          "thumb": "https://pixabay.com/get/gc4b67f64d36603c394a32bff172e74947ceab353dee7e3a17d46a301bda7185bf150ef14323228ef695274333f57828fa608bf34f7d96b1def677054513239a9_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_8211521.jpg",
+            "https://pixabay.com/get/g4af90164160689c1c85a1511ada497143b8065ead99f858479a3d9c614ac69ad5b0bf519cffe6c84bb45131addc9a3f2880c781462ab59dfea03425dba08b8ba_1280.jpg"
+          ],
+          "author": "flutie8211",
+          "authorUrl": "https://pixabay.com/users/flutie8211-17475707/"
+        },
+        {
+          "id": "pixabay_2261093",
+          "name": "bulb, rosa, blue, colors, background, forms, beautiful wallpaper, pink, beauty, android wallpaper, pink background, pink beauty, pink wallpaper, pink color, iphone wallpaper",
+          "thumb": "https://pixabay.com/get/g3d02ad974be7fc6b6ae359422f081989651b1d4cce2908daab2cdcde92f1befdc5966cd54f10f8c5d44b579aa96e945dd258210c3d1012c98e49d07397c37ebb_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_2261093.jpg",
+            "https://pixabay.com/get/gd0988ea887b2e01311705f7739a1e7109185fcd77b84e7fb5aafa811aaa3d45d98449b7dfe6cb525ff7471d287eba8cdef6a55bf3e47c3cde144271d407e5ff8_1280.jpg"
+          ],
+          "author": "5023100",
+          "authorUrl": "https://pixabay.com/users/5023100-5023100/"
+        },
+        {
+          "id": "pixabay_6087059",
+          "name": "copyright, jackie matthews, anemone, copyright, copyright, copyright, copyright, copyright, anemone, anemone, anemone, anemone",
+          "thumb": "https://pixabay.com/get/g1c78fb2a0bfae3a4e9351044ea0f1473e7cff998ea17104d4fc217ec44c54ba99e5205a6012e767b7e97bb32f51275493244aa6b54723ad358ff2c11bb616267_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_6087059.jpg",
+            "https://pixabay.com/get/ge6972515698319ec8107af1ea41373afc968506ace3e922fc517be79b6c7f8f773ae2bf72e5e0e3956af05244228cefec27c50c6f4bb1e39283d36ff4d163797_1280.jpg"
+          ],
+          "author": "matthewsjackie",
+          "authorUrl": "https://pixabay.com/users/matthewsjackie-20584384/"
+        },
+        {
+          "id": "pixabay_4705200",
+          "name": "sun, set, nature, bangladesh, bangladesh, bangladesh, bangladesh, bangladesh, bangladesh",
+          "thumb": "https://pixabay.com/get/g108fe940b0473b800633792db83479965f573b142f4f9feaf0b529030d9b161b63c54a75b4a0e7e7ae3755d750f4c246c716a5d9a54234b50bbe953b28b2d470_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_4705200.jpg",
+            "https://pixabay.com/get/gcb7f3db2fe9a85ea65dcadec825c21a0f4ed7f56525f4f9348735038c2eeabe6be95a8ecce0397abab91ad9b4a7c155abe331d220a807643395800dc429830fb_1280.jpg"
+          ],
+          "author": "RAJA-cse",
+          "authorUrl": "https://pixabay.com/users/RAJA-cse-11406712/"
+        },
+        {
+          "id": "pixabay_10126681",
+          "name": "art, portrait, abstract, floral, modern, pink, feminine, beauty, aesthetic, minimalism, dream, pastel, fantasy, dramatic, creative, nature elements, symmetry, fine art, delicate",
+          "thumb": "https://pixabay.com/get/gcde0f09ea8f8f5c274568befc275dcb406ef8381115f06a988e21b904de9ff13d86a9ad41abcf97ca1c4a4bfc10f405c91fa42d041ebd94fc9dcdcc064febfb3_640.png",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_10126681.jpg",
+            "https://pixabay.com/get/g77cbc146c110e12746e2516fb0d18374a734400f631682b53d1f96f7aaae9a08df1491c3b4b19f6ef499734db96648d25cf3d5e3439217b6779be4cbf8d776d4_1280.png"
+          ],
+          "author": "FNur99",
+          "authorUrl": "https://pixabay.com/users/FNur99-53528402/"
+        },
+        {
+          "id": "pixabay_5645005",
+          "name": "tea set, silverware, antique, silver tea set, silver teapot, teapot",
+          "thumb": "https://pixabay.com/get/ga22956fae357478b37c8e9cd5a82dbbb464afdae5becab35e48dee9970e6ebff055c2bd68250d9a0ba79f91f3a958ae5739488ab6d5c01506a64f01f7a81d127_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_5645005.jpg",
+            "https://pixabay.com/get/g7078bfaee5f913e86c1b0605a83327bf7f9adc31f671f7bc6b72cb8adcc51c542777d37f62cc53f079c14e0611dba9b1924905d3c53d1346f007f3354e36e946_1280.jpg"
+          ],
+          "author": "geminierica",
+          "authorUrl": "https://pixabay.com/users/geminierica-18660582/"
+        },
+        {
+          "id": "pixabay_7638368",
+          "name": "lavender, flowers, flower wallpaper, vase, flower background, ornament, beautiful flowers, nature, christmas",
+          "thumb": "https://pixabay.com/get/g4d1bab7e9e759d30bd6b73fc00ce4dc2dcc990e292dfe84c82e99c4a44e9ec14d5553b5798a43cc5a03abc3efebc176ab54e0e9e547300aeb1fdd95e6d329de7_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_7638368.jpg",
+            "https://pixabay.com/get/g6bf07deae15a920223105c8767340f8986fbdd380f31b2e97d454bd179e4e7fec8e43313dbb3ebbd0e7dec5b2fbd5888a67a806509a183ee708d4d936c8f104a_1280.jpg"
+          ],
+          "author": "u_77amngw648",
+          "authorUrl": "https://pixabay.com/users/u_77amngw648-31864596/"
+        },
+        {
+          "id": "pixabay_4943194",
+          "name": "gift, cover, mobile case",
+          "thumb": "https://pixabay.com/get/g6c97f383823b2a9382bea34db74edbba902b5fb1f5bba4196e7c1b9b98ef48bb69225b5db91f156aca324fc5516fc06b506b32d746074b24385e3da1337410ee_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_4943194.jpg",
+            "https://pixabay.com/get/g3ced6761ca0db80cfaf003151f4d48b6ff377f183e771ead100ff5b499b25f4e88464938bd5fa9fe4983b5ce6e7165ca86902e2d4a50d97c3bec83c168b0f02c_1280.jpg"
+          ],
+          "author": "va703b",
+          "authorUrl": "https://pixabay.com/users/va703b-15619518/"
+        },
+        {
+          "id": "pixabay_1225188",
+          "name": "cosmos, flowers, plant, pink flowers, petals, flower wallpaper, bloom, blossom, beautiful wallpaper, flower background, beautiful flowers, meadow, garden, nature, floral background, background, iphone wallpaper",
+          "thumb": "https://pixabay.com/get/g3bfff03eba6efc35ba203eed6dd0f68c9dcace59b22cd6634067859e9e9fddadc0d0e89d96adb4ffe0bd9074fc652ade7f3741ca001719c86939f75cd53132cc_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_1225188.jpg",
+            "https://pixabay.com/get/gad5aa969c284a035f3a26a9c763dde5a745734268fe0444d20f8a232c413eb5d3654b9bf87646e30d8c02a931eeca7d5969dee497959a5ab20dd9f52bc3d9a2c_1280.jpg"
+          ],
+          "author": "shell_ghostcage",
+          "authorUrl": "https://pixabay.com/users/shell_ghostcage-2016503/"
+        },
+        {
+          "id": "pixabay_1245719",
+          "name": "eggs, easter eggs, candy, easter, speckled, speckles, sweet, holiday, colorful, colors, easter egg hunt, tradition, painted, hidden, april, celebration, eggs, easter eggs, easter, easter, easter, easter, easter, april",
+          "thumb": "https://pixabay.com/get/g1ab22c5b65b062243801071ee11f4448635ed3a333fa0a40e9454c70b20d404d0fa41bc5efc1a0b8990538b4ef3ed501e67ac0da5065784c99518b1fe74ec072_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_1245719.jpg",
+            "https://pixabay.com/get/ge603b57b85206d80d336d8a79affa8e77a9bc47353e0c7b7ff0fe87b16c90457cd619f86ebd858bf3c99ab9bd5c5500e2366068f6061161ec2c716d2f7a6de7f_1280.jpg"
+          ],
+          "author": "AnnieSpratt",
+          "authorUrl": "https://pixabay.com/users/AnnieSpratt-4900708/"
+        },
+        {
+          "id": "pixabay_4238686",
+          "name": "rose, pink flower, flower, rose bloom, rose flower, flower background, petals, rose petals, flower wallpaper, bloom, blossom, flora, beautiful flowers, nature, plant, aesthetic wallpaper, iphone wallpaper, phone wallpaper",
+          "thumb": "https://pixabay.com/get/g46b25ffa2d82c94cd2906be70b7aac1cf7718bb70001d5c00a5fca10ee6894e50564c33a5ceb6fd48c93cbe01815710eb9dcce3a69bd59dc4f800d2e5cf7572d_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_4238686.jpg",
+            "https://pixabay.com/get/g1ee988bbc253e1370ecfb29a3362864ababd8c427a26f16cad18e95a609c4a49ae2712e2af5686bd8ec38268084340f287ac36c264929cd41346be72543e6125_1280.jpg"
+          ],
+          "author": "9011956",
+          "authorUrl": "https://pixabay.com/users/9011956-9011956/"
+        },
+        {
+          "id": "pixabay_10212379",
+          "name": "nature, ipad wallpaper, phone wallpaper, iphone wallpaper, landscape, scenery, samsung wallpaper, wilderness, environment, outdoors, forest, trees, mountain, sky, cloud, valley, mobile wallpaper, horizon, flora, sunlight, sunrise, beautiful wallpaper, sky background, sunset, golden hour, scenic, lock screen wallpaper, bright, mobile wallpaper 4k, beautiful, peaceful, serene, background, wallpaper",
+          "thumb": "https://pixabay.com/get/g6c23e753cebc5c470dadfb1f3ab1c290ff92e8127483daa3d511f1f604fa03f9cfdef0b85d9428e5c28688bd5e1f187bb1223b25e2e877dc7641bdcf419c7792_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_10212379.jpg",
+            "https://pixabay.com/get/g5827e18216ae6c98a862ce64f85c4033ba639566beec62152f97f6f5334f023f092d0aea0acd0084876e1ac8dd02c7056e2864913830207afdd2f822ea49a421_1280.jpg"
+          ],
+          "author": "Raimun",
+          "authorUrl": "https://pixabay.com/users/Raimun-55292843/"
+        },
+        {
+          "id": "pixabay_9553838",
+          "name": "cupcake, dessert, muffin, food, bakery, nature, easter, rabbit, colorful, spring",
+          "thumb": "https://pixabay.com/get/gb8f4365fb0d490e26a7304043e0be79062309ebf9f7c2f31de6ee42a20f54ab5d653f13fe07aedf8c61749cc6cf1f6a84386d047a3b8849f5be0685ce4b0f55b_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_9553838.jpg",
+            "https://pixabay.com/get/gc1aa39a13ad7bf48a15da3ea2ccdd404ff7dd75311c6cb552b0a8deaa0e6839cde236d65ead0b9d1aabb0d113bbbaa3eda7f04c6276dea5001adb981f14c1129_1280.jpg"
+          ],
+          "author": "blandinejoannic",
+          "authorUrl": "https://pixabay.com/users/blandinejoannic-15617008/"
+        },
+        {
+          "id": "pixabay_2153956",
+          "name": "curtain, sides, interior, design, apartment, window, elegance, decoration, curtain, curtain, curtain, curtain, curtain",
+          "thumb": "https://pixabay.com/get/ga8c88290a87e4d58e81aa42040d834bbc7abcb9d5d16eba22a1596507ea0336eb2dbe4e513fb63a8ec8315b2bca84e0257102b07ae0a9214b24600c0feb0f5dd_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_2153956.jpg",
+            "https://pixabay.com/get/g5df13f82a67c0dc61c72b41f1761a4d0a0da49880716adef3ec3c12144dd7b8b1ca0f7653514e0fd5578c6a48fc052b00f2b178fb129f48bb0815cc9d96e57db_1280.jpg"
+          ],
+          "author": "dantex1",
+          "authorUrl": "https://pixabay.com/users/dantex1-4852702/"
+        },
+        {
+          "id": "pixabay_3503712",
+          "name": "elephant, circus, shy, red, curtain, funny, circus, circus, circus, circus, circus",
+          "thumb": "https://pixabay.com/get/g6c3f6ec5a0b80e49adcd641d8deb557af1fa7b7cee428aaba482ce443063b42447589a777f0dc8b77a72fc128ab06895c94b751a5b49f365d13fd9630f333e6f_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_3503712.jpg",
+            "https://pixabay.com/get/g484e45eb0e6ee155aafab3e366d428f508a9bb22bf951adc3d8ae44075d2700bbcfe2f0d90dec42a57d1f180e31c85441fde7ce9c0dca5d4225fd7c210f39835_1280.jpg"
+          ],
+          "author": "marinabridger",
+          "authorUrl": "https://pixabay.com/users/marinabridger-3318445/"
+        },
+        {
+          "id": "pixabay_6877999",
+          "name": "table, work, room, rest, sofa, chair, curtain, window, sofa, sofa, curtain, curtain, curtain, curtain, curtain",
+          "thumb": "https://pixabay.com/get/g44b244a9546b50354a0340e2508414088236c81d7ad63d489ab26077e2acdac2d153ebe49b7ae39b0bc752ef8a16a4fb3a8650987ef65e180edd29b8034eca85_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_6877999.jpg",
+            "https://pixabay.com/get/g87c0ef5e464fb20b56f6b49d6d4305dd772c20e21723666d3ee0d4406914a3c89b3b6ba2ae39a004cc8c6d3792eb8da9545769c7710ad14fe4738ec771db7b05_1280.jpg"
+          ],
+          "author": "tianya1223",
+          "authorUrl": "https://pixabay.com/users/tianya1223-4833799/"
+        },
+        {
+          "id": "pixabay_56008",
+          "name": "curtain, material, tissue, textile",
+          "thumb": "https://pixabay.com/get/g087f98f8ae89651c488781a8ebde54b650ad8d04d2c3d75fbc9aa70cad2e93201f66a6e2ef36d6190f476c8b06bf69e1_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_56008.jpg",
+            "https://pixabay.com/get/g1d1c46a758468d0c19dda328cf35c6d816d349d9af149ab1cf77e50d610888950a93b50d47d2515096c860e92177ed07_1280.jpg"
+          ],
+          "author": "Hans",
+          "authorUrl": "https://pixabay.com/users/Hans-2/"
+        },
+        {
+          "id": "pixabay_6885494",
+          "name": "window, wooden windows, curtain, window sill",
+          "thumb": "https://pixabay.com/get/gc5e6308920b6dc1a7a727ef98343bc98fabf82a02dc34f08dbefd75e0e168b0f45da06597a381850787f286678032f498aaac9189d1d250164639942bab24039_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_6885494.jpg",
+            "https://pixabay.com/get/ge8b888edf6cfe7e40bf95e04b22e2fe22e14cc51ff93792d48b85f05977f1c70158879adc09fb525d406d33d01e0833b83de8bfd454bdc90a62f4679b1a58ab1_1280.jpg"
+          ],
+          "author": "Pezibear",
+          "authorUrl": "https://pixabay.com/users/Pezibear-526143/"
+        },
+        {
+          "id": "pixabay_7616053",
+          "name": "window, lace, curtain, black, nature, white, trees, bedroom",
+          "thumb": "https://pixabay.com/get/g92d11724f1cb8067f40d63a25da71b159a09bfd16f8a5bff9233b94dae814c876e913f739e4e7c2d1ca18ba3e81ff56a613e65de3d2b893a3392af45ab7ba079_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_7616053.jpg",
+            "https://pixabay.com/get/g2b0a232cc785da38fac2dd38a2161902b9d8f4e029bf8d4a6002b5bc4d2844bde7bb07397a81b08a173276279eb67cc9bbaa2e9e5aff8a015c04a5c14b1ea8e1_1280.jpg"
+          ],
+          "author": "BabetteLYannacey",
+          "authorUrl": "https://pixabay.com/users/BabetteLYannacey-26514889/"
+        },
+        {
+          "id": "pixabay_7911528",
+          "name": "master bedroom, bed, console table, glass, curtain, carpet, ceiling, ceiling lights, bookshelf, master bedroom, curtain, carpet, carpet, carpet, carpet, carpet, ceiling, ceiling, ceiling, ceiling, ceiling",
+          "thumb": "https://pixabay.com/get/g4e8b445d41de0674cc916a4e4c583f9c536cd39a0ea7bac84fcab26d756d09f2e02f4a64d5743f463f9d6468b25fafbccc8b9726e73436fe5a74fea3b8c462ee_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_7911528.jpg",
+            "https://pixabay.com/get/ge071d94bc92679de6d26a6b7abe4280eea9c591323b307fb4386ee503ba007eac22087d4ee4e3cf7c8e69f73678e8c7ba51b6be6995be68c97c88b15c8b15ff3_1280.jpg"
+          ],
+          "author": "tuanarch87",
+          "authorUrl": "https://pixabay.com/users/tuanarch87-22113552/"
+        },
+        {
+          "id": "pixabay_8223637",
+          "name": "flower, flower wallpaper, plant, beautiful flowers, composites, flora, close up, flower background, velvet flower, nature",
+          "thumb": "https://pixabay.com/get/gd5d774819aea92d895fa2a1c20389e400036e4e79b3e218876b906cbadaf511efa99abbb484163cc9280d1b9583d06425a4ed369485dfc774e5329c2a4e60f02_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_8223637.jpg",
+            "https://pixabay.com/get/g40539fdb610ee1250f44551ed128675beb043833b1e02eee5638380bd041b2e484f80c2940fd71e562ce46b240e03cd5abfee515979d67311955c8703b85957a_1280.jpg"
+          ],
+          "author": "Dana1201",
+          "authorUrl": "https://pixabay.com/users/Dana1201-34149475/"
+        },
+        {
+          "id": "pixabay_1633622",
+          "name": "curtain, caps, colors, door",
+          "thumb": "https://pixabay.com/get/gbf14a2c327ce1ce76c43ea2cc203c739f48bc50a704602c6eb800ce3382771d13f95969739cc3fddbfae2d02248fbd5c067e65e8410c4650a2a1442df0fd6913_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_1633622.jpg",
+            "https://pixabay.com/get/gecd9c7f045c316afea712ecc0b5036483a0e4c04c93ffcae16aecccd21ecf3bd71cad196b0cde1e3c68f34f94dd26d735606775ee279f6db5cfa98fdda4af93a_1280.jpg"
+          ],
+          "author": "glucosala",
+          "authorUrl": "https://pixabay.com/users/glucosala-1418986/"
+        },
+        {
+          "id": "pixabay_7280217",
+          "name": "shade, contrast, blinds, curtain, background, beautiful wallpaper, sharpness",
+          "thumb": "https://pixabay.com/get/g07626780fd9fc5a0a9a99030e52a9ec973dd253ed1bd5c3fdfaebc041cf22ba4974be396dc78fcca2f7f70e18712211614fe5bd2add4f90c93ca8d33c5db2798_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_7280217.jpg",
+            "https://pixabay.com/get/g88b510b7ae2ae7f606128843d5529ced74105b4568cc4ab5b460680c0af70d8af327552e62ee95db5ef1a2588bfd9f23f5e73fc0a862dcda8d1c86dc27aebf15_1280.jpg"
+          ],
+          "author": "kalyanayahaluwo",
+          "authorUrl": "https://pixabay.com/users/kalyanayahaluwo-1767926/"
+        },
+        {
+          "id": "pixabay_7855975",
+          "name": "deer, buck, stag, fallow deer, nature, mammal, wildlife, antlers, louisiana, animal, velvet antlers",
+          "thumb": "https://pixabay.com/get/g6a389df2a3f258b511f1cf9a7bcacfdbd240de49752f6817cce39a929423a36d922a76ac83fb4e53864e95c293384bbd37ce7c7fb26a4e2754c0e9913caece79_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_7855975.jpg",
+            "https://pixabay.com/get/gb0876d6d1ce6ddf35b219fce8aca85d92c958ef7e3b36c38e81ff37562f4b1b881a24dd70500ac19d99a9aeaa1589c0f218e55338428141170e45c04b538dc1d_1280.jpg"
+          ],
+          "author": "Lightbox_Magic",
+          "authorUrl": "https://pixabay.com/users/Lightbox_Magic-34446100/"
+        },
+        {
+          "id": "pixabay_346242",
+          "name": "mushrooms, macro, strawberries, velvet penny, grass, moss, nature, forest",
+          "thumb": "https://pixabay.com/get/gae1a5ddf7b59ddc88ba98780d883d7d25bdffdaa667ba395d63d81e0431af3939e2f3e2b3c2e5a2b8605824a556844a5_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_346242.jpg",
+            "https://pixabay.com/get/g36b77c5d51bee00d81c3f6d94719f188f9703b9837691b51723217b3b614639fcf5424024ac69c6a297382a18f30006322366703a17f7489f40760ff772b9c6c_1280.jpg"
+          ],
+          "author": "zdenet",
+          "authorUrl": "https://pixabay.com/users/zdenet-4137/"
+        },
+        {
+          "id": "pixabay_2639973",
+          "name": "buildings, facade, modern, tower, curtain",
+          "thumb": "https://pixabay.com/get/gd18387cb30516fefc278165de161b917bd3f3b39a0ce553c86b7149b3a54a5959c139273328f945108a8d1903458098ffb0834bfc2d7e3c391a44fe18c9fb19e_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_2639973.jpg",
+            "https://pixabay.com/get/g7595c58e7426e69a6a102f511ad55fdd5d75f2a1d676d09e1b01ffeb0c67e0d85927a780ac85e238a7df00438a6170d4d3e93c78c3da51f499a898a799cf50da_1280.jpg"
+          ],
+          "author": "pisauikan",
+          "authorUrl": "https://pixabay.com/users/pisauikan-4552082/"
+        },
+        {
+          "id": "pixabay_3150832",
+          "name": "house, window, ornament, architecture, retro, building, nostalgic, painting, facade, shutters, lüftlmalerei, curtains",
+          "thumb": "https://pixabay.com/get/g80dde5ea0da26af4802d22d66eccd5776261376f913414c80a28dc0977df12b2e5f2808a1c76da60acba30cae77b4f17bf8070d9c6be0e011eb2c23cc9bd28a1_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_3150832.jpg",
+            "https://pixabay.com/get/g40aab27046c69fca7dc58b6418826474c74d359b8f70e27c2bb4d6f1833e8dae8af949c74b04eb1170f29d6a4c4a2e1f346a0a98b648332949bfd1ca94858158_1280.jpg"
+          ],
+          "author": "stux",
+          "authorUrl": "https://pixabay.com/users/stux-12364/"
+        },
+        {
+          "id": "pixabay_7531025",
+          "name": "mushroom, fungus, nature, tree trunk, forest, autumn, light, trees, spider web, dew drops, landscape, gloomy velvet fungus",
+          "thumb": "https://pixabay.com/get/g023eb5e87f0c046065dfaea51868b9014d42f0ba777c7a263df676c90c1618b7d35ec2858ea24c1597dc120332dc77df22ce98cd76c244cda99b0ae474d418a3_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_7531025.jpg",
+            "https://pixabay.com/get/g802b919d846ed09f905b7de6cc04b90bae4e1336fb0d53613bcf03b4272ecaf0030fabb6eee2bd125eae60b3cb80d058c30364423c1d99fd3eb88e8f27fe99fc_1280.jpg"
+          ],
+          "author": "FotoRieth",
+          "authorUrl": "https://pixabay.com/users/FotoRieth-837884/"
+        },
+        {
+          "id": "pixabay_3037211",
+          "name": "mushroom, mini mushroom, velvet foot oyster mushroom, winter mushroom, moss, tree, nature, close up, plant, season, forest, edible",
+          "thumb": "https://pixabay.com/get/ga7100d816e80672852821ce642c8b519649d908fab69d7315456f52b218cecc5a98759858f2620ad646aad89bf2d38d116cec661bc12bbb2705cbc8c7a88a47c_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_3037211.jpg",
+            "https://pixabay.com/get/g131653aef79a3719ff33dc3819223eab1673c36803b0dd201e05aa95fe3a7c16e34b4259e342292b6ecb4727b9e00a75b7738f9551412dce129e0257c0210478_1280.jpg"
+          ],
+          "author": "adege",
+          "authorUrl": "https://pixabay.com/users/adege-4994132/"
+        },
+        {
+          "id": "pixabay_16574",
+          "name": "ice cave, ice curtain, icicle, ice formations, cave, cold, stalactites, ice stalactites, mysterious, ice cave, ice cave, ice cave, cave, cave, cave, cave, cave",
+          "thumb": "https://pixabay.com/get/gddc4c797fa5af768b954671ac3fd66788f4d1d48bde728a1b00f4eccdd9f1df2926205b3c446720f4fd089fe00a28c13_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_16574.jpg",
+            "https://pixabay.com/get/gc6e16e96f36c74dd925399c2ee2b1bd2d1d015976756d688deeb35d1e38bd2022e95f1798511f69a51da3270198c6dc7_1280.jpg"
+          ],
+          "author": "Hans",
+          "authorUrl": "https://pixabay.com/users/Hans-2/"
+        },
+        {
+          "id": "pixabay_16568",
+          "name": "ice curtain, icicle, ice formations, cave, cold, stalactites, ice stalactites",
+          "thumb": "https://pixabay.com/get/g9bc87e9ebc058e2b7ceea9f7ac66c4c48cf18daad79a663630b351913c1a1e361dffeeb8bb07ddc9df35649fb6ccf99e_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_16568.jpg",
+            "https://pixabay.com/get/g13e0eaf4d6a6ac3dc23104b1f6220d56415acdf28409a399d8244094656a8551bad66b23e2ce5eab4004420b193271ba_1280.jpg"
+          ],
+          "author": "Hans",
+          "authorUrl": "https://pixabay.com/users/Hans-2/"
+        },
+        {
+          "id": "pixabay_426448",
+          "name": "theatre, drama, colors, armchairs, public, box, loneliness, scenario, hall, curtain",
+          "thumb": "https://pixabay.com/get/g6fe8ec2c1a44746b3c3010809f821665bdc47b6249e48787208566e41b7fe4f7301919346b023fdc38c86843c9091311_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_426448.jpg",
+            "https://pixabay.com/get/ga942a4c806f89bf9e8420d28eefdbcac58eb281626d6c4079cb88eae89e954dd41aa0f765e49a5f8d61dab375bcbdd6aa6da4b1f3576ca833dc48f0d94b29f28_1280.jpg"
+          ],
+          "author": "Carlos_R_Bonilla_Miranda",
+          "authorUrl": "https://pixabay.com/users/Carlos_R_Bonilla_Miranda-30101/"
+        },
+        {
+          "id": "pixabay_192242",
+          "name": "window, frame, wood, wall, white, glass, pane, shiny, lace curtain, ornate, pretty, wall, lace curtain, lace curtain, lace curtain, lace curtain, lace curtain",
+          "thumb": "https://pixabay.com/get/g8bf45652eef0b7d1ad9fa0d9f2375274ab013f124f19c9194eeec1eac8fce4642cd82c58b77694c07ae0766a30dce7d9_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_192242.jpg",
+            "https://pixabay.com/get/g46951109834b9db919e496a0786a11f48f0df58ee9f69ea7c57fffc19537e978fd040869eb0f13a404178a9b0865c9640882d1aaa6ae2ff38a830ec7df525a47_1280.jpg"
+          ],
+          "author": "Bluesnap",
+          "authorUrl": "https://pixabay.com/users/Bluesnap-43950/"
+        },
+        {
+          "id": "pixabay_16571",
+          "name": "icicle, ice curtain, ice formations, cave, cold, stalactites, ice stalactites",
+          "thumb": "https://pixabay.com/get/g8506f4a1fa997887b10e07673b6c6cc6600e49933601cc6c1473bed772d6b592b451120324036bdd36ff57a9c9aa212d_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_16571.jpg",
+            "https://pixabay.com/get/g224dabc1164f5c8941f3269e106600009ded918ccc7f64eac6b26a54bacbbd5d281abe330d526766b398a9cb8058485f_1280.jpg"
+          ],
+          "author": "Hans",
+          "authorUrl": "https://pixabay.com/users/Hans-2/"
+        },
+        {
+          "id": "pixabay_4969263",
+          "name": "tall building, building, modern building, glass curtain wall, building group, city, modern, blue sky, business",
+          "thumb": "https://pixabay.com/get/g67099c850b8e8b752af1c245fca35f82ae5eb34d243c9a77abc6b3731990da6862e2a7ac56f807d4ac138cac13a2db12c22e7b9c69566c43ebf224fc665b0642_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_4969263.jpg",
+            "https://pixabay.com/get/gbeb549ad00554b9923ee029a34a14659884e3e81a7bbb4b6ad7180609ff81129a618dc6c93e35a126371e43da72ad8ea95bac454981bbd2c63eb352d64f0b33d_1280.jpg"
+          ],
+          "author": "fondesy",
+          "authorUrl": "https://pixabay.com/users/fondesy-15501885/"
+        },
+        {
+          "id": "pixabay_2394572",
+          "name": "abstract, pattern, abstract pattern, gray abstract, gray pattern, abstract, abstract, abstract, abstract, abstract",
+          "thumb": "https://pixabay.com/get/g0fdd8940f73300f8de78dc975184e7922972bab70f360d64ee68a072110c6ab4c7f1c610313ca3c7a1d5b218cb76a83a623d3f5c10b307b46f5a4e4ab883b059_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_2394572.jpg",
+            "https://pixabay.com/get/gafd5720c8c623c396ec8636d1d1477c04e0164a2d70a781b35d117d9061500565eeb4f26fbe3c3ddacafedef830f6bbc67db4033524a7b615bf9c7d49f427c66_1280.jpg"
+          ],
+          "author": "Engin_Akyurt",
+          "authorUrl": "https://pixabay.com/users/Engin_Akyurt-3656355/"
+        },
+        {
+          "id": "pixabay_1867395",
+          "name": "abstract, pattern, surface, texture, cracked, paint, dry, dried paint, cracks, white, phone wallpaper, iphone wallpaper, abstract, pattern, texture, texture, texture, texture, texture, phone wallpaper, phone wallpaper, phone wallpaper",
+          "thumb": "https://pixabay.com/get/g5f1c5950d67285be7d0b890277ace931217398a66fd5a037144460a721d72b7e734008c3c3169393d34108ee3330e5cdb5582cbfa6b445be237f104c70e315a6_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_1867395.jpg",
+            "https://pixabay.com/get/g7493e50d6779d4c32f256cfd16cd83e14a221935b1407629c101ed28d054b3557cb01a4dd6c2edab07560d561ef2e0a8900679765ab2675224739bbd1e056396_1280.jpg"
+          ],
+          "author": "Pexels",
+          "authorUrl": "https://pixabay.com/users/Pexels-2286921/"
+        },
+        {
+          "id": "pixabay_8332729",
+          "name": "window, church, structure, abstract, shape, sunshine, incidence of light, architecture, black-and-white, window, window, window, church, structure, abstract, abstract, abstract, abstract, abstract, shape, architecture, architecture, architecture, architecture, black-and-white",
+          "thumb": "https://pixabay.com/get/gd9aed5515426d4e5519465a53c382910d2c3a3acff5098d8859247d40c98464e3387c2a06d84b243e77dfcf39c7545cf7538b4f7363e5a845720f3617ae10235_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_8332729.jpg",
+            "https://pixabay.com/get/g50a0b725dc4d26cb872124dc1ea6c56c588009893ca73575b1f2fde120978bd2146c2acc1cf4824c7ceae196b05afac8c4f90612bbedc1a0a564788833c782bf_1280.jpg"
+          ],
+          "author": "analogicus",
+          "authorUrl": "https://pixabay.com/users/analogicus-8164369/"
+        },
+        {
+          "id": "pixabay_6199828",
+          "name": "frames, decoration, sunlight, sunset, light, wall, nature, interior, home",
+          "thumb": "https://pixabay.com/get/gba6a8572646899f6b42c8bedc128c332829f40d73947235916e4d704c7056141d6d9dce52336bacfdb077701272807f7ef1f004860c75dc26fa05294088dcdbe_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_6199828.jpg",
+            "https://pixabay.com/get/g5b107bc56ef873aa306b994b87e46c3c52a31384427545035efed29d67ed4f967a7ec7543899e1f8450c15eebcb1fcb324e1d7526a23ddcbe9304f679b18065f_1280.jpg"
+          ],
+          "author": "RyanK14",
+          "authorUrl": "https://pixabay.com/users/RyanK14-20825243/"
+        },
+        {
+          "id": "pixabay_7369404",
+          "name": "coffee shop, cafe, restaurant, dining, coffee shop, coffee shop, cafe, cafe, cafe, cafe, restaurant, restaurant, restaurant, restaurant, restaurant",
+          "thumb": "https://pixabay.com/get/gc268d17a8390a3e0eab7440a50b4c2eef17da3ca6530761ef27bf39809df98afbd2e596cb4f0901ef977f135bcf37a7fbcce42ee9a1731a872bb979f7aa5a27f_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_7369404.jpg",
+            "https://pixabay.com/get/g7efdc25cf2f3645cfcb190bb1247d2bca2416f0416617c1d1f748bc4f82d806b2765495d56b552ffe8a9a309f1cdae5c26e622de7a899c841d0329a207518c4f_1280.jpg"
+          ],
+          "author": "mariya_m",
+          "authorUrl": "https://pixabay.com/users/mariya_m-12752456/"
+        },
+        {
+          "id": "pixabay_5414043",
+          "name": "tree, single, sky, cloud, sunrise, sunset, fog, mist, silhouette, shadow, outdoor, colour, scenic, nature, plants, solitude, patterns, abstract, without people, no people, morning, dawn, field",
+          "thumb": "https://pixabay.com/get/gc2baf7fbeab6a448782e01772e10118d6ce64e07bbd8eed8da8214e73a28eaf743c7ae2a3827a9c2d060770e89ed1b1d5289a980e4ebedc2cc1bb33809b0f9d1_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_5414043.jpg",
+            "https://pixabay.com/get/ge5d8abff49ec353ee129f71a3abd6ce322ec1a624265d73d0ef099709fd205d485e538dffcf7c969083e0e05820c1133fb8d19dccdca9932e7fde25eeb155a01_1280.jpg"
+          ],
+          "author": "Adriansart",
+          "authorUrl": "https://pixabay.com/users/Adriansart-17279720/"
+        },
+        {
+          "id": "pixabay_9913611",
+          "name": "facade, windows, shadows, architecture, building, structure, urban, office",
+          "thumb": "https://pixabay.com/get/g40b696a3c6c697a2883915ae97c3201161bcb74a1314ab6ec9ed1fc9264cc6f253ec28ef6993e158405853e402efde17695bbfedd4443885a5d549a3108f4543_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_9913611.jpg",
+            "https://pixabay.com/get/gfd0c99743cf4c1581e8836d8fe41ddd5a5e08ff189ba8785d57d4ee36bf9cde068d5fdaeb3cd88d5ea7f81801c6ae94171c4e4b33b6beac759884b1090888862_1280.jpg"
+          ],
+          "author": "photoeightyeight",
+          "authorUrl": "https://pixabay.com/users/photoeightyeight-5790668/"
+        },
+        {
+          "id": "pixabay_5414025",
+          "name": "tree, single, sky, cloud, sunrise, sunset, fog, mist, path, silhouette, shadow, outdoor, colour, scenic, nature, plants, solitude, patterns, abstract, without people, no people, morning, dawn, field, sunset, shadow, solitude, solitude, solitude, solitude, solitude",
+          "thumb": "https://pixabay.com/get/gefc79fe814d618589841e916d57fcbb024e38acebb7df0173a58f0495b25e190a598e91ea7c0620875732d17719c8d37e1cde835f7d588a228888d994645b34a_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_5414025.jpg",
+            "https://pixabay.com/get/gb9a4b4b62f45efe39d768a9eee5d809f043ac29ea8d3b9bc440d3956809130e0d8af8f7f3db28868d20c5b0c65071251884538fd27d62d4ae007390dfa9197c0_1280.jpg"
+          ],
+          "author": "Adriansart",
+          "authorUrl": "https://pixabay.com/users/Adriansart-17279720/"
+        },
+        {
+          "id": "pixabay_4375639",
+          "name": "structure, beautiful wallpaper, texture, gold, shine, dress, background, golf, pattern, design, brand, light, shadow, abstract, iphone wallpaper",
+          "thumb": "https://pixabay.com/get/g0bdd93c6e0acfea8404497cd382f59b0bffc3cc34d598aa656dcff32c8315c98744bdea71234bd64c6d01760e78d1abf7e6ede8d8f4d1448ddb86a7aeb74640b_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_4375639.jpg",
+            "https://pixabay.com/get/g546e1d37beb29e2f116a579b61ab6a33376d237ce38fab06b10ae34a3d5b8ee795705987ed782921d7171273731a3905ecce21b79e7362c9c5d1d12b758cefe7_1280.jpg"
+          ],
+          "author": "MrsBrown",
+          "authorUrl": "https://pixabay.com/users/MrsBrown-692504/"
+        },
+        {
+          "id": "pixabay_7155181",
+          "name": "feather, bird feather, dark background, nature, swan feather, close up, black wallpaper, black, feather, feather, dark background, dark background, dark background, dark background, dark background",
+          "thumb": "https://pixabay.com/get/g785ca624d45f561794f09743576772fe289cd55001a00b5639b4a0de319d255fcdb17a408dfa35c95d3b409e564ef3ede3eccb8804db4e9971773f5eadbe238f_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_7155181.jpg",
+            "https://pixabay.com/get/ge27a23fdd5fa94bb4bd092b9021960967eb283bed6d7314bd3336db81c808ab0584982c2a718305fcefc091bc385b04799ea2109ed23b9402e9974af9b97f075_1280.jpg"
+          ],
+          "author": "maticmatti",
+          "authorUrl": "https://pixabay.com/users/maticmatti-16769351/"
+        },
+        {
+          "id": "pixabay_7228118",
+          "name": "architecture, dubai, middle east, hallway, arches, dubai, dubai, dubai, dubai, dubai",
+          "thumb": "https://pixabay.com/get/gc4b53e737bb7178cd00b28bad52dad3516738add16eb348147adf6a8b362d32ea6eca08ac64456c5936464aa8da8ff208107c794937e2d6c0a7d96b4913e3a5c_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_7228118.jpg",
+            "https://pixabay.com/get/gd97b91fdab7b6aa1b712427c5e0eabf6174b13cf969f056683f692d6d8d193e1a93878843eed37a054d2b45e75b34d689fe48eea62f497777595bda72f06cd42_1280.jpg"
+          ],
+          "author": "LifeOfDapo",
+          "authorUrl": "https://pixabay.com/users/LifeOfDapo-5673500/"
+        },
+        {
+          "id": "pixabay_2695277",
+          "name": "abstract, texture, tree, nature, macro, pattern, brown abstract, brown pattern",
+          "thumb": "https://pixabay.com/get/g429f116ada5fbe236e72b996e9498546bee6e8bd48fbffe1ffc81e11a4d83f714c058b0769929c00d46b56c7c3ed7eae91d845b2104efd4d5358694d713878b5_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_2695277.jpg",
+            "https://pixabay.com/get/g56e0a306531e189eda97bcd1d1716851e5be5d8b84c7f74e086ea1ccbcbb4897b3ea9acf840c258b324fc0e7200985da0642d2f229e6690fba00df8cedbd541f_1280.jpg"
+          ],
+          "author": "Engin_Akyurt",
+          "authorUrl": "https://pixabay.com/users/Engin_Akyurt-3656355/"
+        },
+        {
+          "id": "pixabay_2700532",
+          "name": "grey, fabric, textile, design, abstract pattern, gray abstract, gray pattern, fabric, fabric, fabric, fabric, fabric",
+          "thumb": "https://pixabay.com/get/g0f592d3f8e9e3e2aadd1cbe1abb3174c68122def53f0ba5eed4820881bd69ed9aec006b68a3f0d69f24f97f8ce2eb664aaced2e82e35d3c319f33248ab25ab24_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_2700532.jpg",
+            "https://pixabay.com/get/gcc242331bc21591c2bdea159c42946eebfd1bf17e445db02d1f3a0c42dc1872cad9b2c982b983d0a2d7e18f21ca6081ea052401ed359d2726febf8e24d42aaa6_1280.jpg"
+          ],
+          "author": "Engin_Akyurt",
+          "authorUrl": "https://pixabay.com/users/Engin_Akyurt-3656355/"
+        },
+        {
+          "id": "pixabay_5426581",
+          "name": "archway, passage, round arch, goal, archway, goal, goal, goal, goal, goal",
+          "thumb": "https://pixabay.com/get/gf8bbe5f062cac58d9515aba0cc30512f098279d369ece99c012dce643191255e9eda2fddd3ec8c82c2d591a88c29367d61969aaaed21b7279f5c09a97a0f326f_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_5426581.jpg",
+            "https://pixabay.com/get/geb178ab7e5d86be09c2feed24d6e767f0ae3c660233e48afda38ca3fdc95ba998445edb7279e258e31174f385cdb1497d0c293a63aa8c70961c801ce38af0bef_1280.jpg"
+          ],
+          "author": "pdimaria",
+          "authorUrl": "https://pixabay.com/users/pdimaria-203261/"
+        },
+        {
+          "id": "pixabay_6218882",
+          "name": "building, stairs, ladder, aesthetic wallpaper, phone wallpaper, iphone wallpaper",
+          "thumb": "https://pixabay.com/get/g99a72cdb5bf47b311517b0e76f50c320dcc6cb953b41d9409a2dd6e8a2287f4d0be3888ceb33fa75552f00866315fb80dce4d6fb4fb3d3e33ca72758588c0f8b_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_6218882.jpg",
+            "https://pixabay.com/get/g9b821053a09c2d98649b08b9ccc520032e6a8862614451a8cd69553089273f4823090617c2c6299b9e8a74b7ca0a8e9c39366e4d253b39622f8bbd6de28db8bc_1280.jpg"
+          ],
+          "author": "绾枫华",
+          "authorUrl": "https://pixabay.com/users/绾枫华-21408700/"
+        },
+        {
+          "id": "pixabay_3107009",
+          "name": "fabric, desktop, cotton, pattern, abstract, textile, catalog, fiber, closeup, fabric, cotton, cotton, textile, catalog, catalog, catalog, catalog, catalog, fiber",
+          "thumb": "https://pixabay.com/get/g64ebd13f4c25e1506a11a5abd54ce8c98e2a9b5bad5c841a1a251dc5d26e99bc0254592303d13a82e2114dda57e74b67753fced2aaaf3b4fbf1b10e0243972f7_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_3107009.jpg",
+            "https://pixabay.com/get/g2891cf3b3f023255cd7a86d98e74e83fb72ad8418f662976f088b2939acbd3adc36450c2876783bd8c848462a17bd1c6714bfae52b5aa20ae35bf9e515212fa4_1280.jpg"
+          ],
+          "author": "masatisc",
+          "authorUrl": "https://pixabay.com/users/masatisc-6384626/"
+        },
+        {
+          "id": "pixabay_7543646",
+          "name": "forest, darkness, trees, dark, nature, path, fog, sadness, depression, lonely, scary, black wallpaper, black, black wallpaper, black wallpaper, black wallpaper, black wallpaper, black wallpaper, black, black",
+          "thumb": "https://pixabay.com/get/gd929be74204a4bc3f7247689f6160386855a7802cb3ccadd5b370ccf3f8979a1d950763f4307e87cd546c7444a71d8ecc67190f75cb6e6c783cf8b08bcdb0195_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_7543646.jpg",
+            "https://pixabay.com/get/g5464624f73d3103b6e65bd67d7907133e64f45c928362beb1cd2c6c0913bc815727cd0f2877d3d633a28264bcfc198dac953d9683cd9f6ed8a1773f22c0b9168_1280.jpg"
+          ],
+          "author": "Tomegos",
+          "authorUrl": "https://pixabay.com/users/Tomegos-16441763/"
+        },
+        {
+          "id": "pixabay_9603171",
+          "name": "arcades, few, seniors, love, architecture, people, road, old couple",
+          "thumb": "https://pixabay.com/get/gd0379b8057c88054099604562d7ca8f540728d47a438475c3bd03953141959efac13efdd8dc2eb629017b22e2ba8472ae75279f78c00d1b2830dfb6403995315_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_9603171.jpg",
+            "https://pixabay.com/get/gcec2f6555c03fe3b01dd5eabc6bdc911b07447c0b53b3ee2943166c49d7e9d4687b36dd5c5c37f8d0147047646182c5951887081b7f24d342cab7ef2c9283680_1280.jpg"
+          ],
+          "author": "wal_172619",
+          "authorUrl": "https://pixabay.com/users/wal_172619-12138562/"
+        },
+        {
+          "id": "pixabay_1846713",
+          "name": "abstract, architecture, building, design, low angle shot, modern, pattern, perspective, abstract, abstract, abstract, abstract, abstract, architecture, design, modern, pattern, pattern, perspective",
+          "thumb": "https://pixabay.com/get/g9908e63a8b67c2e2280eae7b7574b3d45d0a110e65197349476a484b84b9a5b418c5200ab82d548fba9df26edbc6e986daf5d00c6a3750c1989a535419312ba2_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_1846713.jpg",
+            "https://pixabay.com/get/gc364bedfcd78b4af8c716cfd9791b54fbfab1d1f45c83520e376f62524c751be8d0ddc6cce0d8f2fd176f727306a60167247021fb7b6d326fcd3fe7954d2ef73_1280.jpg"
+          ],
+          "author": "Pexels",
+          "authorUrl": "https://pixabay.com/users/Pexels-2286921/"
+        },
+        {
+          "id": "pixabay_7562289",
+          "name": "autumn, road, trees, avenue, village, kuyavian-pomeranian voivodeship, nature, alley, poland, landscape, fall, road, village, nature, nature, nature, nature, nature, landscape",
+          "thumb": "https://pixabay.com/get/gd933ad26906dbfff5cb929daf7c8a1e3c0b179c5bc2c82e79685acec8b38159f485768641e119bd498ecea4be05e4c580d12be443e2f1cff66f5a9c7a6c37465_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_7562289.jpg",
+            "https://pixabay.com/get/ga7cd265f993e7969709d6d3ca5c23887088dd1732a07ba23cafe57c150e5675984ec795185f43a0c63e0c35248d6da155a5326b1a498c9d9f257367713f8226d_1280.jpg"
+          ],
+          "author": "ZbigniewMilewski",
+          "authorUrl": "https://pixabay.com/users/ZbigniewMilewski-23482405/"
+        },
+        {
+          "id": "pixabay_8615302",
+          "name": "church, church tower, dusk, bell tower, faith, village, clouds, road, pavement, grim, dark, nature, trees, mystical",
+          "thumb": "https://pixabay.com/get/g920cad39812db4c08cfc337a8242bd588dedf89b35dbcde8f8c459bfef34912ac0f0736fd9a7b31a7c97b2e68295e460c8896fc9457e21c856440af98d02a505_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_8615302.jpg",
+            "https://pixabay.com/get/g4d07ee40549a9997bb1de5b6445a80f11056db837f885d044b48829588fa9256f70211cad9727603045428391ab5f2b3252f8c4a2e0f7680324a068c5b61eb95_1280.jpg"
+          ],
+          "author": "fietzfotos",
+          "authorUrl": "https://pixabay.com/users/fietzfotos-6795508/"
+        },
+        {
+          "id": "pixabay_9390809",
+          "name": "peacock, nature, feather, bird, colorful",
+          "thumb": "https://pixabay.com/get/g5d559f338d4ecc11e201b81f4c386985815547c171ebf3a3072e8bb6ac06b635a0cb7f95e6761e3b0a72c5429ef706c6cbd5f542eea6a61a1bfb561fe910f53d_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_9390809.jpg",
+            "https://pixabay.com/get/gb2728ccfdb916a783ba09adf36ec3ed5b5f9fae77554cc48d0cb6b6ebd65c6d744710dd85d336d979209ad7f160eece9edae8cb6a901994a0568ee604973ef17_1280.jpg"
+          ],
+          "author": "ignartonosbg",
+          "authorUrl": "https://pixabay.com/users/ignartonosbg-21428489/"
+        },
+        {
+          "id": "pixabay_4270853",
+          "name": "arch, castle, architecture, building, archway, masonry, nature, fortress, staircase, doorway, gothic architecture, courtyard, sunset",
+          "thumb": "https://pixabay.com/get/gb20e13f3b301552fb02374c2df37965bd12c06cd14b4e6b87171873481573e41787b36aaebacfef152f4da6eff88e9ff79804d878fc775ff27d8b43aabc9f93e_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_4270853.jpg",
+            "https://pixabay.com/get/g03f1ed8bc7cb7f52768a4ac957d6f8aaf6e4e17d913677ea4cb8631583aa4ee83dded8c1e65edcb333544894f3034ebfe1d19f8bee39b39cc3b1f289ec800eab_1280.jpg"
+          ],
+          "author": "vrolanas",
+          "authorUrl": "https://pixabay.com/users/vrolanas-7124588/"
+        },
+        {
+          "id": "pixabay_7427386",
+          "name": "wall, architecture, building, facade, wall, wall, wall, wall, wall",
+          "thumb": "https://pixabay.com/get/gebe47f1c051e24e26ec649c4ed6a09e9a4b16a4cad2273025c597f2b476e18610dccf9bbc6e3647f11d72a07b2705ecd54ecceb0aa4edd51d2a2c01a18aa6b13_640.jpg",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/pixabay_7427386.jpg",
+            "https://pixabay.com/get/gc8a0e03456cc055cfc11b100473a3ecd3f75f6f07e8ebd14ec00c8440ae89c6d298062904412b1bb539eb91c7aea0c3c932f9e13c454541c8e60d03f7a463438_1280.jpg"
+          ],
+          "author": "wal_172619",
+          "authorUrl": "https://pixabay.com/users/wal_172619-12138562/"
         }
       ]
     }
