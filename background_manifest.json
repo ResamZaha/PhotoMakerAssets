@@ -1,5 +1,5 @@
 {
-  "version": 904,
+  "version": 986,
   "categories": [
     {
       "name": "Abstract",
@@ -1088,6 +1088,908 @@
           ],
           "author": "Shakib Uzzaman",
           "authorUrl": "https://unsplash.com/@shakib2777?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_3mKvNE_Aav0",
+          "name": "an underwater view of corals and seaweed on a rocky reef",
+          "thumb": "https://images.unsplash.com/photo-1697826208801-6082a2222a07?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwNDV8MHwxfHNlYXJjaHw0fHxjb2xvcmZ1bCUyMGNvcmFsJTIwcmVlZnxlbnwwfDF8fHwxNzgzMTc0NTQyfDA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/unsplash_3mKvNE_Aav0.jpg",
+            "https://images.unsplash.com/photo-1697826208801-6082a2222a07?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwNDV8MHwxfHNlYXJjaHw0fHxjb2xvcmZ1bCUyMGNvcmFsJTIwcmVlZnxlbnwwfDF8fHwxNzgzMTc0NTQyfDA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Mateusz Górecki",
+          "authorUrl": "https://unsplash.com/@mgorecki?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_RPOqTHzBpbI",
+          "name": "red and black abstract painting",
+          "thumb": "https://images.unsplash.com/photo-1628944682134-ac69fcd9cfd3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwNDV8MHwxfHNlYXJjaHwxfHxjb2xvcmZ1bCUyMGNvcmFsJTIwcmVlZnxlbnwwfDF8fHwxNzgzMTc0NTQyfDA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/unsplash_RPOqTHzBpbI.jpg",
+            "https://images.unsplash.com/photo-1628944682134-ac69fcd9cfd3?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwNDV8MHwxfHNlYXJjaHwxfHxjb2xvcmZ1bCUyMGNvcmFsJTIwcmVlZnxlbnwwfDF8fHwxNzgzMTc0NTQyfDA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Diane Picchiottino",
+          "authorUrl": "https://unsplash.com/@diane_soko?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_CNdMGaVEozQ",
+          "name": "an underwater view of a coral reef and a sea fan",
+          "thumb": "https://images.unsplash.com/photo-1633205719979-e47958ff6d93?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwNDV8MHwxfHNlYXJjaHwzfHxjb2xvcmZ1bCUyMGNvcmFsJTIwcmVlZnxlbnwwfDF8fHwxNzgzMTc0NTQyfDA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/unsplash_CNdMGaVEozQ.jpg",
+            "https://images.unsplash.com/photo-1633205719979-e47958ff6d93?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwNDV8MHwxfHNlYXJjaHwzfHxjb2xvcmZ1bCUyMGNvcmFsJTIwcmVlZnxlbnwwfDF8fHwxNzgzMTc0NTQyfDA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Pascal van de Vendel",
+          "authorUrl": "https://unsplash.com/@pascalvendel?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_yk1IndmsP9s",
+          "name": "brown bare trees on brown dirt road during daytime",
+          "thumb": "https://images.unsplash.com/photo-1605454526000-ad0ffcf31cad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwNDV8MHwxfHNlYXJjaHwxOXx8YXV0dW1uJTIwZm9yZXN0JTIwc3VubGlnaHR8ZW58MHwxfHx8MTc4MzE3NDQ5N3ww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/unsplash_yk1IndmsP9s.jpg",
+            "https://images.unsplash.com/photo-1605454526000-ad0ffcf31cad?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwNDV8MHwxfHNlYXJjaHwxOXx8YXV0dW1uJTIwZm9yZXN0JTIwc3VubGlnaHR8ZW58MHwxfHx8MTc4MzE3NDQ5N3ww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Steffen Lemmerzahl",
+          "authorUrl": "https://unsplash.com/@steffen_l?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_TgUkaNDDNCo",
+          "name": "a group of colorful corals on a coral reef",
+          "thumb": "https://images.unsplash.com/photo-1703221291880-303643093c22?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwNDV8MHwxfHNlYXJjaHwyfHxjb2xvcmZ1bCUyMGNvcmFsJTIwcmVlZnxlbnwwfDF8fHwxNzgzMTc0NTQyfDA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/unsplash_TgUkaNDDNCo.jpg",
+            "https://images.unsplash.com/photo-1703221291880-303643093c22?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwNDV8MHwxfHNlYXJjaHwyfHxjb2xvcmZ1bCUyMGNvcmFsJTIwcmVlZnxlbnwwfDF8fHwxNzgzMTc0NTQyfDA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "David Clode",
+          "authorUrl": "https://unsplash.com/@davidclode?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_170nlOjVvR0",
+          "name": "A large group of fish swimming around a coral reef",
+          "thumb": "https://images.unsplash.com/photo-1718632286285-cd7e6a43e6e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwNDV8MHwxfHNlYXJjaHw1fHxjb2xvcmZ1bCUyMGNvcmFsJTIwcmVlZnxlbnwwfDF8fHwxNzgzMTc0NTQyfDA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/unsplash_170nlOjVvR0.jpg",
+            "https://images.unsplash.com/photo-1718632286285-cd7e6a43e6e0?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwNDV8MHwxfHNlYXJjaHw1fHxjb2xvcmZ1bCUyMGNvcmFsJTIwcmVlZnxlbnwwfDF8fHwxNzgzMTc0NTQyfDA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Artists Eyes",
+          "authorUrl": "https://unsplash.com/@artistseyes?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_Y92UPRDq6OA",
+          "name": "a large aquarium filled with lots of colorful corals",
+          "thumb": "https://images.unsplash.com/photo-1565799556899-4a1aaf9c7a5e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwNDV8MHwxfHNlYXJjaHw2fHxjb2xvcmZ1bCUyMGNvcmFsJTIwcmVlZnxlbnwwfDF8fHwxNzgzMTc0NTQyfDA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/unsplash_Y92UPRDq6OA.jpg",
+            "https://images.unsplash.com/photo-1565799556899-4a1aaf9c7a5e?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwNDV8MHwxfHNlYXJjaHw2fHxjb2xvcmZ1bCUyMGNvcmFsJTIwcmVlZnxlbnwwfDF8fHwxNzgzMTc0NTQyfDA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Eugenia Clara @fleetingstill",
+          "authorUrl": "https://unsplash.com/@eugeniaclara?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_u6hmsqFdtiw",
+          "name": "a fish is swimming in the water near some corals",
+          "thumb": "https://images.unsplash.com/photo-1696693886265-e73512cdf712?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwNDV8MHwxfHNlYXJjaHw4fHxjb2xvcmZ1bCUyMGNvcmFsJTIwcmVlZnxlbnwwfDF8fHwxNzgzMTc0NTQyfDA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/unsplash_u6hmsqFdtiw.jpg",
+            "https://images.unsplash.com/photo-1696693886265-e73512cdf712?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwNDV8MHwxfHNlYXJjaHw4fHxjb2xvcmZ1bCUyMGNvcmFsJTIwcmVlZnxlbnwwfDF8fHwxNzgzMTc0NTQyfDA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Mateusz Górecki",
+          "authorUrl": "https://unsplash.com/@mgorecki?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_WXAVs-ymQEg",
+          "name": "black and white fish in water",
+          "thumb": "https://images.unsplash.com/photo-1584267130233-da3218502a81?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwNDV8MHwxfHNlYXJjaHw3fHxjb2xvcmZ1bCUyMGNvcmFsJTIwcmVlZnxlbnwwfDF8fHwxNzgzMTc0NTQyfDA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/unsplash_WXAVs-ymQEg.jpg",
+            "https://images.unsplash.com/photo-1584267130233-da3218502a81?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwNDV8MHwxfHNlYXJjaHw3fHxjb2xvcmZ1bCUyMGNvcmFsJTIwcmVlZnxlbnwwfDF8fHwxNzgzMTc0NTQyfDA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "NOAA",
+          "authorUrl": "https://unsplash.com/@noaa?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_XRrRwG4YvIA",
+          "name": "Vibrant coral reef teeming with small fish underwater.",
+          "thumb": "https://images.unsplash.com/photo-1778707037203-1bec4ae8f192?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwNDV8MHwxfHNlYXJjaHwxMXx8Y29sb3JmdWwlMjBjb3JhbCUyMHJlZWZ8ZW58MHwxfHx8MTc4MzE3NDU0Mnww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/unsplash_XRrRwG4YvIA.jpg",
+            "https://images.unsplash.com/photo-1778707037203-1bec4ae8f192?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwNDV8MHwxfHNlYXJjaHwxMXx8Y29sb3JmdWwlMjBjb3JhbCUyMHJlZWZ8ZW58MHwxfHx8MTc4MzE3NDU0Mnww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Pascal van de Vendel",
+          "authorUrl": "https://unsplash.com/@pascalvendel?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_9ByCv8zGaCA",
+          "name": "Vibrant coral reef teeming with small orange fish.",
+          "thumb": "https://images.unsplash.com/photo-1760556415132-533affdd9ccf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwNDV8MHwxfHNlYXJjaHwxM3x8Y29sb3JmdWwlMjBjb3JhbCUyMHJlZWZ8ZW58MHwxfHx8MTc4MzE3NDU0Mnww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/unsplash_9ByCv8zGaCA.jpg",
+            "https://images.unsplash.com/photo-1760556415132-533affdd9ccf?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwNDV8MHwxfHNlYXJjaHwxM3x8Y29sb3JmdWwlMjBjb3JhbCUyMHJlZWZ8ZW58MHwxfHx8MTc4MzE3NDU0Mnww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Pascal van de Vendel",
+          "authorUrl": "https://unsplash.com/@pascalvendel?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_fwYrUNCjZus",
+          "name": "A single fish swims near a coral reef underwater.",
+          "thumb": "https://images.unsplash.com/photo-1770535849287-f0b36681784e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwNDV8MHwxfHNlYXJjaHw5fHxjb2xvcmZ1bCUyMGNvcmFsJTIwcmVlZnxlbnwwfDF8fHwxNzgzMTc0NTQyfDA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/unsplash_fwYrUNCjZus.jpg",
+            "https://images.unsplash.com/photo-1770535849287-f0b36681784e?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwNDV8MHwxfHNlYXJjaHw5fHxjb2xvcmZ1bCUyMGNvcmFsJTIwcmVlZnxlbnwwfDF8fHwxNzgzMTc0NTQyfDA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Nuraini Arsad",
+          "authorUrl": "https://unsplash.com/@tejaonthehorizon?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_iBTj66vdqvg",
+          "name": "Vibrant coral reef aquarium with small fish under purple light.",
+          "thumb": "https://images.unsplash.com/photo-1782811560113-4491e27e4db2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwNDV8MHwxfHNlYXJjaHwxMnx8Y29sb3JmdWwlMjBjb3JhbCUyMHJlZWZ8ZW58MHwxfHx8MTc4MzE3NDU0Mnww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/unsplash_iBTj66vdqvg.jpg",
+            "https://images.unsplash.com/photo-1782811560113-4491e27e4db2?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwNDV8MHwxfHNlYXJjaHwxMnx8Y29sb3JmdWwlMjBjb3JhbCUyMHJlZWZ8ZW58MHwxfHx8MTc4MzE3NDU0Mnww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Hanna Lazar",
+          "authorUrl": "https://unsplash.com/@potokvarte?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_CDfu-gAwWAM",
+          "name": "A yellow fish swims among vibrant purple coral and anemones.",
+          "thumb": "https://images.unsplash.com/photo-1782811559960-cd7c291053f7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwNDV8MHwxfHNlYXJjaHwxMHx8Y29sb3JmdWwlMjBjb3JhbCUyMHJlZWZ8ZW58MHwxfHx8MTc4MzE3NDU0Mnww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/unsplash_CDfu-gAwWAM.jpg",
+            "https://images.unsplash.com/photo-1782811559960-cd7c291053f7?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwNDV8MHwxfHNlYXJjaHwxMHx8Y29sb3JmdWwlMjBjb3JhbCUyMHJlZWZ8ZW58MHwxfHx8MTc4MzE3NDU0Mnww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Hanna Lazar",
+          "authorUrl": "https://unsplash.com/@potokvarte?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_LycNl2VDzyY",
+          "name": "Vibrant pink sea anemones under purple light.",
+          "thumb": "https://images.unsplash.com/photo-1782811559947-1a683600f741?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwNDV8MHwxfHNlYXJjaHwxNnx8Y29sb3JmdWwlMjBjb3JhbCUyMHJlZWZ8ZW58MHwxfHx8MTc4MzE3NDU0Mnww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/unsplash_LycNl2VDzyY.jpg",
+            "https://images.unsplash.com/photo-1782811559947-1a683600f741?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwNDV8MHwxfHNlYXJjaHwxNnx8Y29sb3JmdWwlMjBjb3JhbCUyMHJlZWZ8ZW58MHwxfHx8MTc4MzE3NDU0Mnww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Hanna Lazar",
+          "authorUrl": "https://unsplash.com/@potokvarte?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_uyfXhdszJm0",
+          "name": "Colorful fish swim among coral in a vibrant blue aquarium.",
+          "thumb": "https://images.unsplash.com/photo-1782811559995-98dbf2d1a6ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwNDV8MHwxfHNlYXJjaHwxOHx8Y29sb3JmdWwlMjBjb3JhbCUyMHJlZWZ8ZW58MHwxfHx8MTc4MzE3NDU0Mnww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/unsplash_uyfXhdszJm0.jpg",
+            "https://images.unsplash.com/photo-1782811559995-98dbf2d1a6ec?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwNDV8MHwxfHNlYXJjaHwxOHx8Y29sb3JmdWwlMjBjb3JhbCUyMHJlZWZ8ZW58MHwxfHx8MTc4MzE3NDU0Mnww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Hanna Lazar",
+          "authorUrl": "https://unsplash.com/@potokvarte?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_sr12AZDzi9o",
+          "name": "Colorful tropical fish swim among coral reefs.",
+          "thumb": "https://images.unsplash.com/photo-1761634853050-5300a09c223a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwNDV8MHwxfHNlYXJjaHwxNHx8Y29sb3JmdWwlMjBjb3JhbCUyMHJlZWZ8ZW58MHwxfHx8MTc4MzE3NDU0Mnww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/unsplash_sr12AZDzi9o.jpg",
+            "https://images.unsplash.com/photo-1761634853050-5300a09c223a?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwNDV8MHwxfHNlYXJjaHwxNHx8Y29sb3JmdWwlMjBjb3JhbCUyMHJlZWZ8ZW58MHwxfHx8MTc4MzE3NDU0Mnww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Nuno Alves",
+          "authorUrl": "https://unsplash.com/@nunoviegasalves?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_LwPBHZIRThs",
+          "name": "Vibrant pink sea anemones in a dark underwater environment.",
+          "thumb": "https://images.unsplash.com/photo-1782811560163-6aa08c60b5ed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwNDV8MHwxfHNlYXJjaHwxN3x8Y29sb3JmdWwlMjBjb3JhbCUyMHJlZWZ8ZW58MHwxfHx8MTc4MzE3NDU0Mnww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/unsplash_LwPBHZIRThs.jpg",
+            "https://images.unsplash.com/photo-1782811560163-6aa08c60b5ed?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwNDV8MHwxfHNlYXJjaHwxN3x8Y29sb3JmdWwlMjBjb3JhbCUyMHJlZWZ8ZW58MHwxfHx8MTc4MzE3NDU0Mnww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Hanna Lazar",
+          "authorUrl": "https://unsplash.com/@potokvarte?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_ZUVudzX-n6c",
+          "name": "Vibrant coral reef with sea anemones under purple light.",
+          "thumb": "https://images.unsplash.com/photo-1782811560042-826d1ed854e4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwNDV8MHwxfHNlYXJjaHwxOXx8Y29sb3JmdWwlMjBjb3JhbCUyMHJlZWZ8ZW58MHwxfHx8MTc4MzE3NDU0Mnww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/unsplash_ZUVudzX-n6c.jpg",
+            "https://images.unsplash.com/photo-1782811560042-826d1ed854e4?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwNDV8MHwxfHNlYXJjaHwxOXx8Y29sb3JmdWwlMjBjb3JhbCUyMHJlZWZ8ZW58MHwxfHx8MTc4MzE3NDU0Mnww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Hanna Lazar",
+          "authorUrl": "https://unsplash.com/@potokvarte?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_t0ZvHKQM7gE",
+          "name": "Colorful fish swim among vibrant coral in a marine aquarium.",
+          "thumb": "https://images.unsplash.com/photo-1779033235650-f6230f4bf826?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwNDV8MHwxfHNlYXJjaHwyMnx8Y29sb3JmdWwlMjBjb3JhbCUyMHJlZWZ8ZW58MHwxfHx8MTc4MzE3NDU0Mnww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/unsplash_t0ZvHKQM7gE.jpg",
+            "https://images.unsplash.com/photo-1779033235650-f6230f4bf826?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwNDV8MHwxfHNlYXJjaHwyMnx8Y29sb3JmdWwlMjBjb3JhbCUyMHJlZWZ8ZW58MHwxfHx8MTc4MzE3NDU0Mnww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Jonas Gerlach",
+          "authorUrl": "https://unsplash.com/@jonasgerlach?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_RFHPThgmofA",
+          "name": "a yellow and pink fish swimming in the ocean",
+          "thumb": "https://images.unsplash.com/photo-1634813806393-88dde2cf6713?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwNDV8MHwxfHNlYXJjaHwxNXx8Y29sb3JmdWwlMjBjb3JhbCUyMHJlZWZ8ZW58MHwxfHx8MTc4MzE3NDU0Mnww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/unsplash_RFHPThgmofA.jpg",
+            "https://images.unsplash.com/photo-1634813806393-88dde2cf6713?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwNDV8MHwxfHNlYXJjaHwxNXx8Y29sb3JmdWwlMjBjb3JhbCUyMHJlZWZ8ZW58MHwxfHx8MTc4MzE3NDU0Mnww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "David Clode",
+          "authorUrl": "https://unsplash.com/@davidclode?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_wTPEZvS1DQE",
+          "name": "A dirt road in the middle of a forest",
+          "thumb": "https://images.unsplash.com/photo-1728042632615-3fd2a0ef001c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwNDV8MHwxfHNlYXJjaHw3fHxhdXR1bW4lMjBmb3Jlc3QlMjBzdW5saWdodHxlbnwwfDF8fHwxNzgzMTc0NDk3fDA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/unsplash_wTPEZvS1DQE.jpg",
+            "https://images.unsplash.com/photo-1728042632615-3fd2a0ef001c?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwNDV8MHwxfHNlYXJjaHw3fHxhdXR1bW4lMjBmb3Jlc3QlMjBzdW5saWdodHxlbnwwfDF8fHwxNzgzMTc0NDk3fDA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Alexandra",
+          "authorUrl": "https://unsplash.com/@alexandra_p_d?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_ccyqOUsj6rI",
+          "name": "a fish swimming in the water",
+          "thumb": "https://images.unsplash.com/photo-1660849266126-5de39102c739?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwNDV8MHwxfHNlYXJjaHwyM3x8Y29sb3JmdWwlMjBjb3JhbCUyMHJlZWZ8ZW58MHwxfHx8MTc4MzE3NDU0Mnww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/unsplash_ccyqOUsj6rI.jpg",
+            "https://images.unsplash.com/photo-1660849266126-5de39102c739?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwNDV8MHwxfHNlYXJjaHwyM3x8Y29sb3JmdWwlMjBjb3JhbCUyMHJlZWZ8ZW58MHwxfHx8MTc4MzE3NDU0Mnww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Jakub Pabis",
+          "authorUrl": "https://unsplash.com/@jakubpabis?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_wL0MyhhzgT8",
+          "name": "a fish swimming in water",
+          "thumb": "https://images.unsplash.com/photo-1660849266075-8dde49bda616?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwNDV8MHwxfHNlYXJjaHwyNHx8Y29sb3JmdWwlMjBjb3JhbCUyMHJlZWZ8ZW58MHwxfHx8MTc4MzE3NDU0Mnww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/unsplash_wL0MyhhzgT8.jpg",
+            "https://images.unsplash.com/photo-1660849266075-8dde49bda616?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwNDV8MHwxfHNlYXJjaHwyNHx8Y29sb3JmdWwlMjBjb3JhbCUyMHJlZWZ8ZW58MHwxfHx8MTc4MzE3NDU0Mnww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Jakub Pabis",
+          "authorUrl": "https://unsplash.com/@jakubpabis?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_feb0I9rijwU",
+          "name": "A small, colorful fish swims in a coral reef.",
+          "thumb": "https://images.unsplash.com/photo-1768826117310-9a248609080d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwNDV8MHwxfHNlYXJjaHwyMXx8Y29sb3JmdWwlMjBjb3JhbCUyMHJlZWZ8ZW58MHwxfHx8MTc4MzE3NDU0Mnww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/unsplash_feb0I9rijwU.jpg",
+            "https://images.unsplash.com/photo-1768826117310-9a248609080d?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwNDV8MHwxfHNlYXJjaHwyMXx8Y29sb3JmdWwlMjBjb3JhbCUyMHJlZWZ8ZW58MHwxfHx8MTc4MzE3NDU0Mnww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Tobias Arweiler",
+          "authorUrl": "https://unsplash.com/@tarweiler?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_xNqwo1lH3kc",
+          "name": "Many fish swim around coral reefs in blue water.",
+          "thumb": "https://images.unsplash.com/photo-1782811559972-84c9fbefacd5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwNDV8MHwxfHNlYXJjaHwyMHx8Y29sb3JmdWwlMjBjb3JhbCUyMHJlZWZ8ZW58MHwxfHx8MTc4MzE3NDU0Mnww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/unsplash_xNqwo1lH3kc.jpg",
+            "https://images.unsplash.com/photo-1782811559972-84c9fbefacd5?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwNDV8MHwxfHNlYXJjaHwyMHx8Y29sb3JmdWwlMjBjb3JhbCUyMHJlZWZ8ZW58MHwxfHx8MTc4MzE3NDU0Mnww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Hanna Lazar",
+          "authorUrl": "https://unsplash.com/@potokvarte?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_DsSk4ZP6iSI",
+          "name": "green trees near mountain under white clouds during daytime",
+          "thumb": "https://images.unsplash.com/photo-1604069871151-23761eebcb7d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHw1fHx0cm9waWNhbCUyMHJhaW5mb3Jlc3QlMjBsdXNofGVufDB8MXx8fDE3ODMxNzQ2NDJ8MA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/unsplash_DsSk4ZP6iSI.jpg",
+            "https://images.unsplash.com/photo-1604069871151-23761eebcb7d?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHw1fHx0cm9waWNhbCUyMHJhaW5mb3Jlc3QlMjBsdXNofGVufDB8MXx8fDE3ODMxNzQ2NDJ8MA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Polina Kuzovkova",
+          "authorUrl": "https://unsplash.com/@p_kuzovkova?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_AekvEsOsApA",
+          "name": "a forest filled with lots of trees covered in moss",
+          "thumb": "https://images.unsplash.com/photo-1691038834425-0968bdb038f0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHw4fHx0cm9waWNhbCUyMHJhaW5mb3Jlc3QlMjBsdXNofGVufDB8MXx8fDE3ODMxNzQ2NDJ8MA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/unsplash_AekvEsOsApA.jpg",
+            "https://images.unsplash.com/photo-1691038834425-0968bdb038f0?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHw4fHx0cm9waWNhbCUyMHJhaW5mb3Jlc3QlMjBsdXNofGVufDB8MXx8fDE3ODMxNzQ2NDJ8MA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Jan Canty",
+          "authorUrl": "https://unsplash.com/@jcanty123?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_jRp60R7ogNQ",
+          "name": "green palm tree during daytime",
+          "thumb": "https://images.unsplash.com/photo-1621849400072-f554417f7051?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHwxfHx0cm9waWNhbCUyMHJhaW5mb3Jlc3QlMjBsdXNofGVufDB8MXx8fDE3ODMxNzQ2NDJ8MA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/unsplash_jRp60R7ogNQ.jpg",
+            "https://images.unsplash.com/photo-1621849400072-f554417f7051?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHwxfHx0cm9waWNhbCUyMHJhaW5mb3Jlc3QlMjBsdXNofGVufDB8MXx8fDE3ODMxNzQ2NDJ8MA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Krystal Ng",
+          "authorUrl": "https://unsplash.com/@bykrystal?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_H7JiEU8Slnw",
+          "name": "green trees on forest during daytime",
+          "thumb": "https://images.unsplash.com/photo-1592288801240-7b18bb06e94f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHwyfHx0cm9waWNhbCUyMHJhaW5mb3Jlc3QlMjBsdXNofGVufDB8MXx8fDE3ODMxNzQ2NDJ8MA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/unsplash_H7JiEU8Slnw.jpg",
+            "https://images.unsplash.com/photo-1592288801240-7b18bb06e94f?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHwyfHx0cm9waWNhbCUyMHJhaW5mb3Jlc3QlMjBsdXNofGVufDB8MXx8fDE3ODMxNzQ2NDJ8MA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Justin Clark",
+          "authorUrl": "https://unsplash.com/@imjustintime?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_kYqk5kxs6uA",
+          "name": "a wooden walkway in the middle of a forest",
+          "thumb": "https://images.unsplash.com/photo-1699771913117-a747414bafd2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHw5fHx0cm9waWNhbCUyMHJhaW5mb3Jlc3QlMjBsdXNofGVufDB8MXx8fDE3ODMxNzQ2NDJ8MA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/unsplash_kYqk5kxs6uA.jpg",
+            "https://images.unsplash.com/photo-1699771913117-a747414bafd2?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHw5fHx0cm9waWNhbCUyMHJhaW5mb3Jlc3QlMjBsdXNofGVufDB8MXx8fDE3ODMxNzQ2NDJ8MA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Vidhunnan Murugan",
+          "authorUrl": "https://unsplash.com/@vidhunnan?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_FA2Dohuo00E",
+          "name": "green leaves on brown tree trunk",
+          "thumb": "https://images.unsplash.com/photo-1579571157206-351f50eb3046?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHw2fHx0cm9waWNhbCUyMHJhaW5mb3Jlc3QlMjBsdXNofGVufDB8MXx8fDE3ODMxNzQ2NDJ8MA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/unsplash_FA2Dohuo00E.jpg",
+            "https://images.unsplash.com/photo-1579571157206-351f50eb3046?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHw2fHx0cm9waWNhbCUyMHJhaW5mb3Jlc3QlMjBsdXNofGVufDB8MXx8fDE3ODMxNzQ2NDJ8MA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "David Clode",
+          "authorUrl": "https://unsplash.com/@davidclode?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_z2d8HxTBdKw",
+          "name": "a stream running through a lush green forest",
+          "thumb": "https://images.unsplash.com/photo-1706698259693-af42242cadba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHwxMHx8dHJvcGljYWwlMjByYWluZm9yZXN0JTIwbHVzaHxlbnwwfDF8fHwxNzgzMTc0NjQyfDA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/unsplash_z2d8HxTBdKw.jpg",
+            "https://images.unsplash.com/photo-1706698259693-af42242cadba?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHwxMHx8dHJvcGljYWwlMjByYWluZm9yZXN0JTIwbHVzaHxlbnwwfDF8fHwxNzgzMTc0NjQyfDA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Benjamin Knöll",
+          "authorUrl": "https://unsplash.com/@bennik01?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_DX_8Uv9l1-A",
+          "name": "a river running through a lush green forest",
+          "thumb": "https://images.unsplash.com/photo-1654026491861-9b7ebe0f3660?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHwxNXx8dHJvcGljYWwlMjByYWluZm9yZXN0JTIwbHVzaHxlbnwwfDF8fHwxNzgzMTc0NjQyfDA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/unsplash_DX_8Uv9l1-A.jpg",
+            "https://images.unsplash.com/photo-1654026491861-9b7ebe0f3660?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHwxNXx8dHJvcGljYWwlMjByYWluZm9yZXN0JTIwbHVzaHxlbnwwfDF8fHwxNzgzMTc0NjQyfDA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Greg Keelen",
+          "authorUrl": "https://unsplash.com/@greg_keelen?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_HeMKj8mCEQ4",
+          "name": "a lush green forest filled with lots of trees",
+          "thumb": "https://images.unsplash.com/photo-1687304527563-74c180d8ced7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHwxNHx8dHJvcGljYWwlMjByYWluZm9yZXN0JTIwbHVzaHxlbnwwfDF8fHwxNzgzMTc0NjQyfDA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/unsplash_HeMKj8mCEQ4.jpg",
+            "https://images.unsplash.com/photo-1687304527563-74c180d8ced7?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHwxNHx8dHJvcGljYWwlMjByYWluZm9yZXN0JTIwbHVzaHxlbnwwfDF8fHwxNzgzMTc0NjQyfDA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Elianna Gill",
+          "authorUrl": "https://unsplash.com/@elianna_gill03?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_N-4uP3uZrEg",
+          "name": "A calm river flows through a lush green forest.",
+          "thumb": "https://images.unsplash.com/photo-1769795070346-0b7895cc9f89?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHwyMnx8dHJvcGljYWwlMjByYWluZm9yZXN0JTIwbHVzaHxlbnwwfDF8fHwxNzgzMTc0NjQyfDA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/unsplash_N-4uP3uZrEg.jpg",
+            "https://images.unsplash.com/photo-1769795070346-0b7895cc9f89?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHwyMnx8dHJvcGljYWwlMjByYWluZm9yZXN0JTIwbHVzaHxlbnwwfDF8fHwxNzgzMTc0NjQyfDA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Rohit Tandon",
+          "authorUrl": "https://unsplash.com/@sepoys?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_mjny37R57xM",
+          "name": "Lush green rolling hills with banana leaves in foreground",
+          "thumb": "https://images.unsplash.com/photo-1762787862841-56a99f91ac67?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHwyMXx8dHJvcGljYWwlMjByYWluZm9yZXN0JTIwbHVzaHxlbnwwfDF8fHwxNzgzMTc0NjQyfDA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/unsplash_mjny37R57xM.jpg",
+            "https://images.unsplash.com/photo-1762787862841-56a99f91ac67?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHwyMXx8dHJvcGljYWwlMjByYWluZm9yZXN0JTIwbHVzaHxlbnwwfDF8fHwxNzgzMTc0NjQyfDA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Angelica Teran",
+          "authorUrl": "https://unsplash.com/@angelicateranp?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_JHKg1sYrAPo",
+          "name": "Close-up of a palm tree trunk surrounded by lush foliage.",
+          "thumb": "https://images.unsplash.com/photo-1761138785221-e1f618d8785e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHwzOXx8dHJvcGljYWwlMjByYWluZm9yZXN0JTIwbHVzaHxlbnwwfDF8fHwxNzgzMTc0NjY0fDA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/unsplash_JHKg1sYrAPo.jpg",
+            "https://images.unsplash.com/photo-1761138785221-e1f618d8785e?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHwzOXx8dHJvcGljYWwlMjByYWluZm9yZXN0JTIwbHVzaHxlbnwwfDF8fHwxNzgzMTc0NjY0fDA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Bundo Kim",
+          "authorUrl": "https://unsplash.com/@bundo?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_bmgIasxhr9s",
+          "name": "A stream running through a lush green forest",
+          "thumb": "https://images.unsplash.com/photo-1738003106320-cd7aa81ee4f9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHw0M3x8dHJvcGljYWwlMjByYWluZm9yZXN0JTIwbHVzaHxlbnwwfDF8fHwxNzgzMTc0NjY0fDA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/unsplash_bmgIasxhr9s.jpg",
+            "https://images.unsplash.com/photo-1738003106320-cd7aa81ee4f9?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHw0M3x8dHJvcGljYWwlMjByYWluZm9yZXN0JTIwbHVzaHxlbnwwfDF8fHwxNzgzMTc0NjY0fDA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Clément Duguerre",
+          "authorUrl": "https://unsplash.com/@clementduguerre?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_d1qEzYYAtF4",
+          "name": "A stream flows through lush green forest.",
+          "thumb": "https://images.unsplash.com/photo-1749055489301-32bcc3eecdda?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHw0NXx8dHJvcGljYWwlMjByYWluZm9yZXN0JTIwbHVzaHxlbnwwfDF8fHwxNzgzMTc0NjY0fDA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/unsplash_d1qEzYYAtF4.jpg",
+            "https://images.unsplash.com/photo-1749055489301-32bcc3eecdda?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHw0NXx8dHJvcGljYWwlMjByYWluZm9yZXN0JTIwbHVzaHxlbnwwfDF8fHwxNzgzMTc0NjY0fDA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Hanna Lazar",
+          "authorUrl": "https://unsplash.com/@potokvarte?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_qgcCzXv6oz4",
+          "name": "burning fire on fire pit",
+          "thumb": "https://images.unsplash.com/photo-1628591808593-117d46c6cc7b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHwyM3x8dm9sY2FuaWMlMjBlcnVwdGlvbiUyMGxhdmF8ZW58MHwxfHx8MTc4MzE3NDY3Nnww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/unsplash_qgcCzXv6oz4.jpg",
+            "https://images.unsplash.com/photo-1628591808593-117d46c6cc7b?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHwyM3x8dm9sY2FuaWMlMjBlcnVwdGlvbiUyMGxhdmF8ZW58MHwxfHx8MTc4MzE3NDY3Nnww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Alfred Lockwood",
+          "authorUrl": "https://unsplash.com/@alfred_lockwood?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_-zrMXErqBwA",
+          "name": "a volcano erupting at night",
+          "thumb": "https://images.unsplash.com/photo-1661977767522-a48a932cb070?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHwyMHx8dm9sY2FuaWMlMjBlcnVwdGlvbiUyMGxhdmF8ZW58MHwxfHx8MTc4MzE3NDY3Nnww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/unsplash_-zrMXErqBwA.jpg",
+            "https://images.unsplash.com/photo-1661977767522-a48a932cb070?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHwyMHx8dm9sY2FuaWMlMjBlcnVwdGlvbiUyMGxhdmF8ZW58MHwxfHx8MTc4MzE3NDY3Nnww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Xihao Liu",
+          "authorUrl": "https://unsplash.com/@xihao_liu?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_b_ojGoSH3eA",
+          "name": "An aerial view of a lava flow in the ocean",
+          "thumb": "https://images.unsplash.com/photo-1721297015103-9573d440043b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHwxOXx8dm9sY2FuaWMlMjBlcnVwdGlvbiUyMGxhdmF8ZW58MHwxfHx8MTc4MzE3NDY3Nnww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/unsplash_b_ojGoSH3eA.jpg",
+            "https://images.unsplash.com/photo-1721297015103-9573d440043b?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHwxOXx8dm9sY2FuaWMlMjBlcnVwdGlvbiUyMGxhdmF8ZW58MHwxfHx8MTc4MzE3NDY3Nnww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Tomáš Malík",
+          "authorUrl": "https://unsplash.com/@malcoo?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_EUjMkBtBRNo",
+          "name": "A volcano erupts smoke as it erupts into the sky",
+          "thumb": "https://images.unsplash.com/photo-1723771106486-eb5fceb082a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHwxN3x8dm9sY2FuaWMlMjBlcnVwdGlvbiUyMGxhdmF8ZW58MHwxfHx8MTc4MzE3NDY3Nnww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/unsplash_EUjMkBtBRNo.jpg",
+            "https://images.unsplash.com/photo-1723771106486-eb5fceb082a9?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHwxN3x8dm9sY2FuaWMlMjBlcnVwdGlvbiUyMGxhdmF8ZW58MHwxfHx8MTc4MzE3NDY3Nnww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Simone Bianchini",
+          "authorUrl": "https://unsplash.com/@simonbianchins?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_7yacUnbMTTw",
+          "name": "Dense green foliage fills the tropical landscape.",
+          "thumb": "https://images.unsplash.com/photo-1750628268242-5e48aaee591f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHw0NHx8dHJvcGljYWwlMjByYWluZm9yZXN0JTIwbHVzaHxlbnwwfDF8fHwxNzgzMTc0NjY0fDA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/unsplash_7yacUnbMTTw.jpg",
+            "https://images.unsplash.com/photo-1750628268242-5e48aaee591f?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHw0NHx8dHJvcGljYWwlMjByYWluZm9yZXN0JTIwbHVzaHxlbnwwfDF8fHwxNzgzMTc0NjY0fDA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Farnaz Kohankhaki",
+          "authorUrl": "https://unsplash.com/@farnaz________?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_Hs1b-H6GRwA",
+          "name": "an aerial view of a volcano in the middle of nowhere",
+          "thumb": "https://images.unsplash.com/photo-1646287908358-f51a513ede4f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHwyMXx8dm9sY2FuaWMlMjBlcnVwdGlvbiUyMGxhdmF8ZW58MHwxfHx8MTc4MzE3NDY3Nnww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/unsplash_Hs1b-H6GRwA.jpg",
+            "https://images.unsplash.com/photo-1646287908358-f51a513ede4f?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHwyMXx8dm9sY2FuaWMlMjBlcnVwdGlvbiUyMGxhdmF8ZW58MHwxfHx8MTc4MzE3NDY3Nnww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Miha Rekar",
+          "authorUrl": "https://unsplash.com/@miharekar?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_f_knaWveAGk",
+          "name": "a large crater with lava and smoke coming out of it",
+          "thumb": "https://images.unsplash.com/photo-1632243012256-f69669492878?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHwxM3x8dm9sY2FuaWMlMjBlcnVwdGlvbiUyMGxhdmF8ZW58MHwxfHx8MTc4MzE3NDY3Nnww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/unsplash_f_knaWveAGk.jpg",
+            "https://images.unsplash.com/photo-1632243012256-f69669492878?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHwxM3x8dm9sY2FuaWMlMjBlcnVwdGlvbiUyMGxhdmF8ZW58MHwxfHx8MTc4MzE3NDY3Nnww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Philipp Ollmann",
+          "authorUrl": "https://unsplash.com/@ollmph?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_9UFbTQiDgKI",
+          "name": "a volcano erupting with lava",
+          "thumb": "https://images.unsplash.com/photo-1667118398360-a838b2ca1307?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHw5fHx2b2xjYW5pYyUyMGVydXB0aW9uJTIwbGF2YXxlbnwwfDF8fHwxNzgzMTc0Njc2fDA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/unsplash_9UFbTQiDgKI.jpg",
+            "https://images.unsplash.com/photo-1667118398360-a838b2ca1307?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHw5fHx2b2xjYW5pYyUyMGVydXB0aW9uJTIwbGF2YXxlbnwwfDF8fHwxNzgzMTc0Njc2fDA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Jacques Dillies",
+          "authorUrl": "https://unsplash.com/@jacques_dillies?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_b9Sn-kymBhY",
+          "name": "people standing on rock formation with fire during daytime",
+          "thumb": "https://images.unsplash.com/photo-1620649332832-45f944292179?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHwxMXx8dm9sY2FuaWMlMjBlcnVwdGlvbiUyMGxhdmF8ZW58MHwxfHx8MTc4MzE3NDY3Nnww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/unsplash_b9Sn-kymBhY.jpg",
+            "https://images.unsplash.com/photo-1620649332832-45f944292179?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHwxMXx8dm9sY2FuaWMlMjBlcnVwdGlvbiUyMGxhdmF8ZW58MHwxfHx8MTc4MzE3NDY3Nnww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Jonatan Pie",
+          "authorUrl": "https://unsplash.com/@r3dmax?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_VeZkIyAlOAk",
+          "name": "a red and black photo of a volcano",
+          "thumb": "https://images.unsplash.com/photo-1672526220243-467bec7bbaf7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHwxMnx8dm9sY2FuaWMlMjBlcnVwdGlvbiUyMGxhdmF8ZW58MHwxfHx8MTc4MzE3NDY3Nnww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/unsplash_VeZkIyAlOAk.jpg",
+            "https://images.unsplash.com/photo-1672526220243-467bec7bbaf7?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHwxMnx8dm9sY2FuaWMlMjBlcnVwdGlvbiUyMGxhdmF8ZW58MHwxfHx8MTc4MzE3NDY3Nnww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Jeferson Argueta",
+          "authorUrl": "https://unsplash.com/@srjefers?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_SeinNCxzbok",
+          "name": "a large plume of smoke coming out of the top of a mountain",
+          "thumb": "https://images.unsplash.com/photo-1649774576282-f2ef3c48d278?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHw3fHx2b2xjYW5pYyUyMGVydXB0aW9uJTIwbGF2YXxlbnwwfDF8fHwxNzgzMTc0Njc2fDA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/unsplash_SeinNCxzbok.jpg",
+            "https://images.unsplash.com/photo-1649774576282-f2ef3c48d278?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHw3fHx2b2xjYW5pYyUyMGVydXB0aW9uJTIwbGF2YXxlbnwwfDF8fHwxNzgzMTc0Njc2fDA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Renee Verberne",
+          "authorUrl": "https://unsplash.com/@reneeverberne?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_07scxdyg8Qw",
+          "name": "a silhouette of a person with a fire in the background",
+          "thumb": "https://images.unsplash.com/photo-1663640171543-9eef40a4b320?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHw1fHx2b2xjYW5pYyUyMGVydXB0aW9uJTIwbGF2YXxlbnwwfDF8fHwxNzgzMTc0Njc2fDA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/unsplash_07scxdyg8Qw.jpg",
+            "https://images.unsplash.com/photo-1663640171543-9eef40a4b320?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHw1fHx2b2xjYW5pYyUyMGVydXB0aW9uJTIwbGF2YXxlbnwwfDF8fHwxNzgzMTc0Njc2fDA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Jeferson Argueta",
+          "authorUrl": "https://unsplash.com/@srjefers?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_gyh6c4PnJgQ",
+          "name": "a volcano erupting at night",
+          "thumb": "https://images.unsplash.com/photo-1666091863721-54331a5db52d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHw2fHx2b2xjYW5pYyUyMGVydXB0aW9uJTIwbGF2YXxlbnwwfDF8fHwxNzgzMTc0Njc2fDA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/unsplash_gyh6c4PnJgQ.jpg",
+            "https://images.unsplash.com/photo-1666091863721-54331a5db52d?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHw2fHx2b2xjYW5pYyUyMGVydXB0aW9uJTIwbGF2YXxlbnwwfDF8fHwxNzgzMTc0Njc2fDA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Jeferson Argueta",
+          "authorUrl": "https://unsplash.com/@srjefers?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_RwkBCZhG9LU",
+          "name": "silhouette of mountain under cloudy sky during daytime",
+          "thumb": "https://images.unsplash.com/photo-1628632577468-645afac21c82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHwyfHx2b2xjYW5pYyUyMGVydXB0aW9uJTIwbGF2YXxlbnwwfDF8fHwxNzgzMTc0Njc2fDA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/unsplash_RwkBCZhG9LU.jpg",
+            "https://images.unsplash.com/photo-1628632577468-645afac21c82?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHwyfHx2b2xjYW5pYyUyMGVydXB0aW9uJTIwbGF2YXxlbnwwfDF8fHwxNzgzMTc0Njc2fDA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Toby Elliott",
+          "authorUrl": "https://unsplash.com/@tobyelliott?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_g6tqHx0ME1o",
+          "name": "fire coming from mountain during daytime",
+          "thumb": "https://images.unsplash.com/photo-1616628950295-d3288bd7a96d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHw0fHx2b2xjYW5pYyUyMGVydXB0aW9uJTIwbGF2YXxlbnwwfDF8fHwxNzgzMTc0Njc2fDA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/unsplash_g6tqHx0ME1o.jpg",
+            "https://images.unsplash.com/photo-1616628950295-d3288bd7a96d?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHw0fHx2b2xjYW5pYyUyMGVydXB0aW9uJTIwbGF2YXxlbnwwfDF8fHwxNzgzMTc0Njc2fDA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Jonatan Pie",
+          "authorUrl": "https://unsplash.com/@r3dmax?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_JChyrFPcWd4",
+          "name": "a volcano erupting at night",
+          "thumb": "https://images.unsplash.com/photo-1663640397122-d50df280b1db?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHwzfHx2b2xjYW5pYyUyMGVydXB0aW9uJTIwbGF2YXxlbnwwfDF8fHwxNzgzMTc0Njc2fDA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/unsplash_JChyrFPcWd4.jpg",
+            "https://images.unsplash.com/photo-1663640397122-d50df280b1db?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHwzfHx2b2xjYW5pYyUyMGVydXB0aW9uJTIwbGF2YXxlbnwwfDF8fHwxNzgzMTc0Njc2fDA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Jeferson Argueta",
+          "authorUrl": "https://unsplash.com/@srjefers?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_WQ5HOvrDZ6Y",
+          "name": "brown and black rock formation",
+          "thumb": "https://images.unsplash.com/photo-1582721478779-0ae163c05a60?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHwxfHx2b2xjYW5pYyUyMGVydXB0aW9uJTIwbGF2YXxlbnwwfDF8fHwxNzgzMTc0Njc2fDA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/unsplash_WQ5HOvrDZ6Y.jpg",
+            "https://images.unsplash.com/photo-1582721478779-0ae163c05a60?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHwxfHx2b2xjYW5pYyUyMGVydXB0aW9uJTIwbGF2YXxlbnwwfDF8fHwxNzgzMTc0Njc2fDA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "USGS",
+          "authorUrl": "https://unsplash.com/@usgs?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_4mmGxLTYZnw",
+          "name": "black and red abstract painting",
+          "thumb": "https://images.unsplash.com/photo-1582721534293-c005ee2f09d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHw4fHx2b2xjYW5pYyUyMGVydXB0aW9uJTIwbGF2YXxlbnwwfDF8fHwxNzgzMTc0Njc2fDA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/unsplash_4mmGxLTYZnw.jpg",
+            "https://images.unsplash.com/photo-1582721534293-c005ee2f09d5?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHw4fHx2b2xjYW5pYyUyMGVydXB0aW9uJTIwbGF2YXxlbnwwfDF8fHwxNzgzMTc0Njc2fDA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "USGS",
+          "authorUrl": "https://unsplash.com/@usgs?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_XQqU97eXGvU",
+          "name": "a large bonfire at night",
+          "thumb": "https://images.unsplash.com/photo-1668595146039-919f2f288f80?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHwxNnx8dm9sY2FuaWMlMjBlcnVwdGlvbiUyMGxhdmF8ZW58MHwxfHx8MTc4MzE3NDY3Nnww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/unsplash_XQqU97eXGvU.jpg",
+            "https://images.unsplash.com/photo-1668595146039-919f2f288f80?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHwxNnx8dm9sY2FuaWMlMjBlcnVwdGlvbiUyMGxhdmF8ZW58MHwxfHx8MTc4MzE3NDY3Nnww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Music Meets Heaven",
+          "authorUrl": "https://unsplash.com/@musicmeetsheaven?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_-Ab5BX8Lf2U",
+          "name": "person standing on gray sand near sea waves during daytime",
+          "thumb": "https://images.unsplash.com/photo-1621897100070-055b183ead92?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHwxNHx8dm9sY2FuaWMlMjBlcnVwdGlvbiUyMGxhdmF8ZW58MHwxfHx8MTc4MzE3NDY3Nnww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/unsplash_-Ab5BX8Lf2U.jpg",
+            "https://images.unsplash.com/photo-1621897100070-055b183ead92?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHwxNHx8dm9sY2FuaWMlMjBlcnVwdGlvbiUyMGxhdmF8ZW58MHwxfHx8MTc4MzE3NDY3Nnww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Martin Sanchez",
+          "authorUrl": "https://unsplash.com/@zekedrone?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_VPRt-yIeJEg",
+          "name": "a group of people on a rock",
+          "thumb": "https://images.unsplash.com/photo-1647778677538-19a8dfc1f5b4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHwxOHx8dm9sY2FuaWMlMjBlcnVwdGlvbiUyMGxhdmF8ZW58MHwxfHx8MTc4MzE3NDY3Nnww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/unsplash_VPRt-yIeJEg.jpg",
+            "https://images.unsplash.com/photo-1647778677538-19a8dfc1f5b4?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHwxOHx8dm9sY2FuaWMlMjBlcnVwdGlvbiUyMGxhdmF8ZW58MHwxfHx8MTc4MzE3NDY3Nnww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Dmitri Zotov",
+          "authorUrl": "https://unsplash.com/@raldoc?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_QySVujTNxFY",
+          "name": "a fire in the water",
+          "thumb": "https://images.unsplash.com/photo-1663408807461-da2134c4726c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHwyMnx8dm9sY2FuaWMlMjBlcnVwdGlvbiUyMGxhdmF8ZW58MHwxfHx8MTc4MzE3NDY3Nnww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/unsplash_QySVujTNxFY.jpg",
+            "https://images.unsplash.com/photo-1663408807461-da2134c4726c?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHwyMnx8dm9sY2FuaWMlMjBlcnVwdGlvbiUyMGxhdmF8ZW58MHwxfHx8MTc4MzE3NDY3Nnww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Jeferson Argueta",
+          "authorUrl": "https://unsplash.com/@srjefers?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_l-z44pz4mlM",
+          "name": "a large mushroom cloud in the dark",
+          "thumb": "https://images.unsplash.com/photo-1664671617698-1fc91cabfb33?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHwyNHx8dm9sY2FuaWMlMjBlcnVwdGlvbiUyMGxhdmF8ZW58MHwxfHx8MTc4MzE3NDY3Nnww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/unsplash_l-z44pz4mlM.jpg",
+            "https://images.unsplash.com/photo-1664671617698-1fc91cabfb33?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHwyNHx8dm9sY2FuaWMlMjBlcnVwdGlvbiUyMGxhdmF8ZW58MHwxfHx8MTc4MzE3NDY3Nnww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Jeferson Argueta",
+          "authorUrl": "https://unsplash.com/@srjefers?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_v8rsWF61vgk",
+          "name": "person in the desert during daytime",
+          "thumb": "https://images.unsplash.com/photo-1617382899403-ff3d42c054fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHwyfHxkZXNlcnQlMjBzdW5zZXQlMjBkdW5lc3xlbnwwfDF8fHwxNzgzMTc0NzA2fDA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/unsplash_v8rsWF61vgk.jpg",
+            "https://images.unsplash.com/photo-1617382899403-ff3d42c054fd?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHwyfHxkZXNlcnQlMjBzdW5zZXQlMjBkdW5lc3xlbnwwfDF8fHwxNzgzMTc0NzA2fDA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Mohammad Marjani",
+          "authorUrl": "https://unsplash.com/@coralville?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_p8BM14LpLF0",
+          "name": "silhouette of person standing on desert",
+          "thumb": "https://images.unsplash.com/photo-1567713002938-648baf71966e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHwzfHxkZXNlcnQlMjBzdW5zZXQlMjBkdW5lc3xlbnwwfDF8fHwxNzgzMTc0NzA2fDA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/unsplash_p8BM14LpLF0.jpg",
+            "https://images.unsplash.com/photo-1567713002938-648baf71966e?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHwzfHxkZXNlcnQlMjBzdW5zZXQlMjBkdW5lc3xlbnwwfDF8fHwxNzgzMTc0NzA2fDA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "David Billings",
+          "authorUrl": "https://unsplash.com/@dav_billings?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_V7IrIHMzBjc",
+          "name": "Camel caravan traversing desert dunes at sunset.",
+          "thumb": "https://images.unsplash.com/photo-1760779887188-a49c256860d6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHw2fHxkZXNlcnQlMjBzdW5zZXQlMjBkdW5lc3xlbnwwfDF8fHwxNzgzMTc0NzA2fDA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/unsplash_V7IrIHMzBjc.jpg",
+            "https://images.unsplash.com/photo-1760779887188-a49c256860d6?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHw2fHxkZXNlcnQlMjBzdW5zZXQlMjBkdW5lc3xlbnwwfDF8fHwxNzgzMTc0NzA2fDA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Abhijith Pn",
+          "authorUrl": "https://unsplash.com/@abhijithpn?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_wkMd_DylG8I",
+          "name": "brown desert under blue sky",
+          "thumb": "https://images.unsplash.com/photo-1559767180-47d8f4919e5d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHwxfHxkZXNlcnQlMjBzdW5zZXQlMjBkdW5lc3xlbnwwfDF8fHwxNzgzMTc0NzA2fDA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/unsplash_wkMd_DylG8I.jpg",
+            "https://images.unsplash.com/photo-1559767180-47d8f4919e5d?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHwxfHxkZXNlcnQlMjBzdW5zZXQlMjBkdW5lc3xlbnwwfDF8fHwxNzgzMTc0NzA2fDA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Matteo Di Iorio",
+          "authorUrl": "https://unsplash.com/@shot_by_teo?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash__kXKQ3Gi1LY",
+          "name": "green plants on brown sand",
+          "thumb": "https://images.unsplash.com/photo-1619131274423-cec74e50ea7e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHw1fHxkZXNlcnQlMjBzdW5zZXQlMjBkdW5lc3xlbnwwfDF8fHwxNzgzMTc0NzA2fDA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/unsplash__kXKQ3Gi1LY.jpg",
+            "https://images.unsplash.com/photo-1619131274423-cec74e50ea7e?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHw1fHxkZXNlcnQlMjBzdW5zZXQlMjBkdW5lc3xlbnwwfDF8fHwxNzgzMTc0NzA2fDA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Mojave Jeff",
+          "authorUrl": "https://unsplash.com/@jwphil?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_DGLS8yO6ZD0",
+          "name": "green grass on the sand",
+          "thumb": "https://images.unsplash.com/photo-1544670671-1e368f851d7c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHw3fHxkZXNlcnQlMjBzdW5zZXQlMjBkdW5lc3xlbnwwfDF8fHwxNzgzMTc0NzA2fDA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/unsplash_DGLS8yO6ZD0.jpg",
+            "https://images.unsplash.com/photo-1544670671-1e368f851d7c?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHw3fHxkZXNlcnQlMjBzdW5zZXQlMjBkdW5lc3xlbnwwfDF8fHwxNzgzMTc0NzA2fDA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Kevin Wenning",
+          "authorUrl": "https://unsplash.com/@kevinwenning?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_fzjDHoZOHvU",
+          "name": "the shadow of a person standing on a sand dune",
+          "thumb": "https://images.unsplash.com/photo-1716847214845-9ee0e0c6aa3b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHw4fHxkZXNlcnQlMjBzdW5zZXQlMjBkdW5lc3xlbnwwfDF8fHwxNzgzMTc0NzA2fDA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/unsplash_fzjDHoZOHvU.jpg",
+            "https://images.unsplash.com/photo-1716847214845-9ee0e0c6aa3b?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHw4fHxkZXNlcnQlMjBzdW5zZXQlMjBkdW5lc3xlbnwwfDF8fHwxNzgzMTc0NzA2fDA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Peter Thomas",
+          "authorUrl": "https://unsplash.com/@lifeof_peter_?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_8FARyQ4s0zk",
+          "name": "silhouette of mountain during sunset",
+          "thumb": "https://images.unsplash.com/photo-1618225038927-9cfa4c1d8197?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHwxMHx8ZGVzZXJ0JTIwc3Vuc2V0JTIwZHVuZXN8ZW58MHwxfHx8MTc4MzE3NDcwNnww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/unsplash_8FARyQ4s0zk.jpg",
+            "https://images.unsplash.com/photo-1618225038927-9cfa4c1d8197?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHwxMHx8ZGVzZXJ0JTIwc3Vuc2V0JTIwZHVuZXN8ZW58MHwxfHx8MTc4MzE3NDcwNnww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Seif Amr",
+          "authorUrl": "https://unsplash.com/@seifamro?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_8U4qJzAw8iY",
+          "name": "brown and white bird on brown sand",
+          "thumb": "https://images.unsplash.com/photo-1617382900149-3b7cadfdfdb3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHwxMXx8ZGVzZXJ0JTIwc3Vuc2V0JTIwZHVuZXN8ZW58MHwxfHx8MTc4MzE3NDcwNnww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/unsplash_8U4qJzAw8iY.jpg",
+            "https://images.unsplash.com/photo-1617382900149-3b7cadfdfdb3?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHwxMXx8ZGVzZXJ0JTIwc3Vuc2V0JTIwZHVuZXN8ZW58MHwxfHx8MTc4MzE3NDcwNnww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Mohammad Marjani",
+          "authorUrl": "https://unsplash.com/@coralville?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_7wlCw4qG31E",
+          "name": "a sandy desert landscape",
+          "thumb": "https://images.unsplash.com/photo-1656917051695-8a6d8df727f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHw0fHxkZXNlcnQlMjBzdW5zZXQlMjBkdW5lc3xlbnwwfDF8fHwxNzgzMTc0NzA2fDA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/unsplash_7wlCw4qG31E.jpg",
+            "https://images.unsplash.com/photo-1656917051695-8a6d8df727f2?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHw0fHxkZXNlcnQlMjBzdW5zZXQlMjBkdW5lc3xlbnwwfDF8fHwxNzgzMTc0NzA2fDA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Marios Gkortsilas",
+          "authorUrl": "https://unsplash.com/@mr_mgk?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_pK-5nouxH34",
+          "name": "a desert landscape with sand dunes and mountains in the background",
+          "thumb": "https://images.unsplash.com/photo-1650511503497-f09930f2e10a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHwxMnx8ZGVzZXJ0JTIwc3Vuc2V0JTIwZHVuZXN8ZW58MHwxfHx8MTc4MzE3NDcwNnww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/unsplash_pK-5nouxH34.jpg",
+            "https://images.unsplash.com/photo-1650511503497-f09930f2e10a?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHwxMnx8ZGVzZXJ0JTIwc3Vuc2V0JTIwZHVuZXN8ZW58MHwxfHx8MTc4MzE3NDcwNnww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "David Jowanka",
+          "authorUrl": "https://unsplash.com/@jodawei?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_qYVNAbXaBXE",
+          "name": "Camels traverse the desert dunes at sunset.",
+          "thumb": "https://images.unsplash.com/photo-1753625810250-661584b38f28?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHwxM3x8ZGVzZXJ0JTIwc3Vuc2V0JTIwZHVuZXN8ZW58MHwxfHx8MTc4MzE3NDcwNnww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/unsplash_qYVNAbXaBXE.jpg",
+            "https://images.unsplash.com/photo-1753625810250-661584b38f28?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHwxM3x8ZGVzZXJ0JTIwc3Vuc2V0JTIwZHVuZXN8ZW58MHwxfHx8MTc4MzE3NDcwNnww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Sanjana Laddha",
+          "authorUrl": "https://unsplash.com/@sanjanaladdha?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_c3Ow7Jz2_Bc",
+          "name": "A man walking up a sand dune at sunset",
+          "thumb": "https://images.unsplash.com/photo-1734963180200-b2e4716f5bc3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHwxOHx8ZGVzZXJ0JTIwc3Vuc2V0JTIwZHVuZXN8ZW58MHwxfHx8MTc4MzE3NDcwNnww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/unsplash_c3Ow7Jz2_Bc.jpg",
+            "https://images.unsplash.com/photo-1734963180200-b2e4716f5bc3?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHwxOHx8ZGVzZXJ0JTIwc3Vuc2V0JTIwZHVuZXN8ZW58MHwxfHx8MTc4MzE3NDcwNnww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Blake Cheek",
+          "authorUrl": "https://unsplash.com/@blakecheekk?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_Cfm3Mx1prGg",
+          "name": "the sun is setting over a sandy area",
+          "thumb": "https://images.unsplash.com/photo-1688297398833-309a331a941d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHwxN3x8ZGVzZXJ0JTIwc3Vuc2V0JTIwZHVuZXN8ZW58MHwxfHx8MTc4MzE3NDcwNnww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/unsplash_Cfm3Mx1prGg.jpg",
+            "https://images.unsplash.com/photo-1688297398833-309a331a941d?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHwxN3x8ZGVzZXJ0JTIwc3Vuc2V0JTIwZHVuZXN8ZW58MHwxfHx8MTc4MzE3NDcwNnww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Ahmed Almakhzanji",
+          "authorUrl": "https://unsplash.com/@bookerboot?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_5ldQObCRv-A",
+          "name": "a vast expanse of sand in the middle of the desert",
+          "thumb": "https://images.unsplash.com/photo-1647456494292-65fb36fa8633?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHwyMnx8ZGVzZXJ0JTIwc3Vuc2V0JTIwZHVuZXN8ZW58MHwxfHx8MTc4MzE3NDcwNnww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/unsplash_5ldQObCRv-A.jpg",
+            "https://images.unsplash.com/photo-1647456494292-65fb36fa8633?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHwyMnx8ZGVzZXJ0JTIwc3Vuc2V0JTIwZHVuZXN8ZW58MHwxfHx8MTc4MzE3NDcwNnww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Sara Calado",
+          "authorUrl": "https://unsplash.com/@scalado?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_WVYvNyzDMsM",
+          "name": "A small waterfall flows through a lush green forest.",
+          "thumb": "https://images.unsplash.com/photo-1749055500447-8ba2828c5a05?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHw0OHx8dHJvcGljYWwlMjByYWluZm9yZXN0JTIwbHVzaHxlbnwwfDF8fHwxNzgzMTc0NjY0fDA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/unsplash_WVYvNyzDMsM.jpg",
+            "https://images.unsplash.com/photo-1749055500447-8ba2828c5a05?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHw0OHx8dHJvcGljYWwlMjByYWluZm9yZXN0JTIwbHVzaHxlbnwwfDF8fHwxNzgzMTc0NjY0fDA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Hanna Lazar",
+          "authorUrl": "https://unsplash.com/@potokvarte?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_UmNl827g6AE",
+          "name": "brown mountain under blue sky during daytime",
+          "thumb": "https://images.unsplash.com/photo-1613854478374-a6b896c9b947?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHwxNHx8ZGVzZXJ0JTIwc3Vuc2V0JTIwZHVuZXN8ZW58MHwxfHx8MTc4MzE3NDcwNnww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/unsplash_UmNl827g6AE.jpg",
+            "https://images.unsplash.com/photo-1613854478374-a6b896c9b947?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHwxNHx8ZGVzZXJ0JTIwc3Vuc2V0JTIwZHVuZXN8ZW58MHwxfHx8MTc4MzE3NDcwNnww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Josh Soriano",
+          "authorUrl": "https://unsplash.com/@joshsoriano?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_yaWjMEqC8Mw",
+          "name": "Sunlight filters through a dense jungle canopy",
+          "thumb": "https://images.unsplash.com/photo-1757906574592-1110464b3dca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHwyNHx8dHJvcGljYWwlMjByYWluZm9yZXN0JTIwbHVzaHxlbnwwfDF8fHwxNzgzMTc0NjQyfDA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/unsplash_yaWjMEqC8Mw.jpg",
+            "https://images.unsplash.com/photo-1757906574592-1110464b3dca?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwNDh8MHwxfHNlYXJjaHwyNHx8dHJvcGljYWwlMjByYWluZm9yZXN0JTIwbHVzaHxlbnwwfDF8fHwxNzgzMTc0NjQyfDA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Rod Long",
+          "authorUrl": "https://unsplash.com/@rodlong?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_jJVeVXnvQEo",
+          "name": "a car driving on a snowy road",
+          "thumb": "https://images.unsplash.com/photo-1664045385585-cc8f1c778c7d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwNTF8MHwxfHNlYXJjaHwxfHxjcnlzdGFsJTIwaWNlJTIwY2F2ZXxlbnwwfDF8fHwxNzgzMTc0Nzc0fDA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Nature/unsplash_jJVeVXnvQEo.jpg",
+            "https://images.unsplash.com/photo-1664045385585-cc8f1c778c7d?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwNTF8MHwxfHNlYXJjaHwxfHxjcnlzdGFsJTIwaWNlJTIwY2F2ZXxlbnwwfDF8fHwxNzgzMTc0Nzc0fDA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Yvon Hoogers",
+          "authorUrl": "https://unsplash.com/@yvonhoogers?utm_source=PhotoMaker&utm_medium=referral"
         }
       ]
     },
