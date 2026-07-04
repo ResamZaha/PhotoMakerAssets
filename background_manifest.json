@@ -1,5 +1,5 @@
 {
-  "version": 1117,
+  "version": 1163,
   "categories": [
     {
       "name": "Abstract",
@@ -2431,6 +2431,512 @@
           ],
           "author": "sashamatic",
           "authorUrl": "https://pixabay.com/users/sashamatic-22026961/"
+        },
+        {
+          "id": "unsplash_09Ds-LMCimI",
+          "name": "mountain covered with fog",
+          "thumb": "https://images.unsplash.com/photo-1532932236674-a8cb2e25be56?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwODV8MHwxfHNlYXJjaHw0fHxjaW5lbWF0aWMlMjBmb2dneSUyMHN1bnJpc2V8ZW58MHwxfHx8MTc4MzE3ODA1MXww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Atmospheric/unsplash_09Ds-LMCimI.jpg",
+            "https://images.unsplash.com/photo-1532932236674-a8cb2e25be56?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwODV8MHwxfHNlYXJjaHw0fHxjaW5lbWF0aWMlMjBmb2dneSUyMHN1bnJpc2V8ZW58MHwxfHx8MTc4MzE3ODA1MXww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Casey Horner",
+          "authorUrl": "https://unsplash.com/@mischievous_penguins?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_XPd-AjxsHXo",
+          "name": "silhouette of mountains during sunset",
+          "thumb": "https://images.unsplash.com/photo-1610381872523-8de23c88fa65?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwODV8MHwxfHNlYXJjaHwzfHxjaW5lbWF0aWMlMjBmb2dneSUyMHN1bnJpc2V8ZW58MHwxfHx8MTc4MzE3ODA1MXww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Atmospheric/unsplash_XPd-AjxsHXo.jpg",
+            "https://images.unsplash.com/photo-1610381872523-8de23c88fa65?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwODV8MHwxfHNlYXJjaHwzfHxjaW5lbWF0aWMlMjBmb2dneSUyMHN1bnJpc2V8ZW58MHwxfHx8MTc4MzE3ODA1MXww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Wes Hicks",
+          "authorUrl": "https://unsplash.com/@sickhews?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_CBjLvRQGzZs",
+          "name": "silhouette of mountain during sunset",
+          "thumb": "https://images.unsplash.com/photo-1630994140678-75e45a637516?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwODV8MHwxfHNlYXJjaHwyfHxjaW5lbWF0aWMlMjBmb2dneSUyMHN1bnJpc2V8ZW58MHwxfHx8MTc4MzE3ODA1MXww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Atmospheric/unsplash_CBjLvRQGzZs.jpg",
+            "https://images.unsplash.com/photo-1630994140678-75e45a637516?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwODV8MHwxfHNlYXJjaHwyfHxjaW5lbWF0aWMlMjBmb2dneSUyMHN1bnJpc2V8ZW58MHwxfHx8MTc4MzE3ODA1MXww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "fabian jones",
+          "authorUrl": "https://unsplash.com/@secondsight?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_ZxnKIntD1ss",
+          "name": "silhouette of trees during sunset",
+          "thumb": "https://images.unsplash.com/photo-1607321617515-484d440f1254?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwODV8MHwxfHNlYXJjaHw2fHxjaW5lbWF0aWMlMjBmb2dneSUyMHN1bnJpc2V8ZW58MHwxfHx8MTc4MzE3ODA1MXww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Atmospheric/unsplash_ZxnKIntD1ss.jpg",
+            "https://images.unsplash.com/photo-1607321617515-484d440f1254?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwODV8MHwxfHNlYXJjaHw2fHxjaW5lbWF0aWMlMjBmb2dneSUyMHN1bnJpc2V8ZW58MHwxfHx8MTc4MzE3ODA1MXww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Annie Spratt",
+          "authorUrl": "https://unsplash.com/@anniespratt?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_sDs8wXtdFmI",
+          "name": "a foggy field with trees",
+          "thumb": "https://images.unsplash.com/photo-1668308847158-3bfad054d05d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwODV8MHwxfHNlYXJjaHwxMXx8Y2luZW1hdGljJTIwZm9nZ3klMjBzdW5yaXNlfGVufDB8MXx8fDE3ODMxNzgwNTF8MA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Atmospheric/unsplash_sDs8wXtdFmI.jpg",
+            "https://images.unsplash.com/photo-1668308847158-3bfad054d05d?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwODV8MHwxfHNlYXJjaHwxMXx8Y2luZW1hdGljJTIwZm9nZ3klMjBzdW5yaXNlfGVufDB8MXx8fDE3ODMxNzgwNTF8MA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Kerri Facey",
+          "authorUrl": "https://unsplash.com/@2wo4our1ne?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_wTUYV8qNSn4",
+          "name": "a black and white photo of a foggy forest",
+          "thumb": "https://images.unsplash.com/photo-1682936586931-8ed31b8e2d43?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwODV8MHwxfHNlYXJjaHw1fHxjaW5lbWF0aWMlMjBmb2dneSUyMHN1bnJpc2V8ZW58MHwxfHx8MTc4MzE3ODA1MXww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Atmospheric/unsplash_wTUYV8qNSn4.jpg",
+            "https://images.unsplash.com/photo-1682936586931-8ed31b8e2d43?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwODV8MHwxfHNlYXJjaHw1fHxjaW5lbWF0aWMlMjBmb2dneSUyMHN1bnJpc2V8ZW58MHwxfHx8MTc4MzE3ODA1MXww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Keller Chewning",
+          "authorUrl": "https://unsplash.com/@kellerchewning?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_mnQY3FgQHQ0",
+          "name": "brown wooden fence near green trees during daytime",
+          "thumb": "https://images.unsplash.com/photo-1617719463242-b39f953f6b91?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwODV8MHwxfHNlYXJjaHwxMHx8Y2luZW1hdGljJTIwZm9nZ3klMjBzdW5yaXNlfGVufDB8MXx8fDE3ODMxNzgwNTF8MA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Atmospheric/unsplash_mnQY3FgQHQ0.jpg",
+            "https://images.unsplash.com/photo-1617719463242-b39f953f6b91?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwODV8MHwxfHNlYXJjaHwxMHx8Y2luZW1hdGljJTIwZm9nZ3klMjBzdW5yaXNlfGVufDB8MXx8fDE3ODMxNzgwNTF8MA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Joshua Salva",
+          "authorUrl": "https://unsplash.com/@joshuasalvs?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_H0efsWaFCyM",
+          "name": "brown mountain with fog during daytime",
+          "thumb": "https://images.unsplash.com/photo-1627973794709-1d9ddf1788e1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwODV8MHwxfHNlYXJjaHwxfHxjaW5lbWF0aWMlMjBmb2dneSUyMHN1bnJpc2V8ZW58MHwxfHx8MTc4MzE3ODA1MXww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Atmospheric/unsplash_H0efsWaFCyM.jpg",
+            "https://images.unsplash.com/photo-1627973794709-1d9ddf1788e1?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwODV8MHwxfHNlYXJjaHwxfHxjaW5lbWF0aWMlMjBmb2dneSUyMHN1bnJpc2V8ZW58MHwxfHx8MTc4MzE3ODA1MXww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Lukáš Konvica",
+          "authorUrl": "https://unsplash.com/@lukaskonvica?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_NK6Fw1rT2ko",
+          "name": "a foggy field with a fence in the foreground",
+          "thumb": "https://images.unsplash.com/photo-1634076904530-dcd00870e202?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwODV8MHwxfHNlYXJjaHwxNnx8Y2luZW1hdGljJTIwZm9nZ3klMjBzdW5yaXNlfGVufDB8MXx8fDE3ODMxNzgwNTF8MA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Atmospheric/unsplash_NK6Fw1rT2ko.jpg",
+            "https://images.unsplash.com/photo-1634076904530-dcd00870e202?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwODV8MHwxfHNlYXJjaHwxNnx8Y2luZW1hdGljJTIwZm9nZ3klMjBzdW5yaXNlfGVufDB8MXx8fDE3ODMxNzgwNTF8MA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Jonas Jaeken",
+          "authorUrl": "https://unsplash.com/@jonasjaekenmedia?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_zTuGmLbHE5c",
+          "name": "green trees under white sky during daytime",
+          "thumb": "https://images.unsplash.com/photo-1600803895403-0f75e6e599ca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwODV8MHwxfHNlYXJjaHwxNXx8Y2luZW1hdGljJTIwZm9nZ3klMjBzdW5yaXNlfGVufDB8MXx8fDE3ODMxNzgwNTF8MA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Atmospheric/unsplash_zTuGmLbHE5c.jpg",
+            "https://images.unsplash.com/photo-1600803895403-0f75e6e599ca?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwODV8MHwxfHNlYXJjaHwxNXx8Y2luZW1hdGljJTIwZm9nZ3klMjBzdW5yaXNlfGVufDB8MXx8fDE3ODMxNzgwNTF8MA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Patrick Untersee",
+          "authorUrl": "https://unsplash.com/@sparki?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_qL40Dx9JM-U",
+          "name": "The sun is shining over a field of crops",
+          "thumb": "https://images.unsplash.com/photo-1728549072149-e9e73e071713?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwODV8MHwxfHNlYXJjaHwxNHx8Y2luZW1hdGljJTIwZm9nZ3klMjBzdW5yaXNlfGVufDB8MXx8fDE3ODMxNzgwNTF8MA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Atmospheric/unsplash_qL40Dx9JM-U.jpg",
+            "https://images.unsplash.com/photo-1728549072149-e9e73e071713?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwODV8MHwxfHNlYXJjaHwxNHx8Y2luZW1hdGljJTIwZm9nZ3klMjBzdW5yaXNlfGVufDB8MXx8fDE3ODMxNzgwNTF8MA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Eduard Delputte",
+          "authorUrl": "https://unsplash.com/@edelputte?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_t7oQGcl5zNc",
+          "name": "Two trees in a foggy field at sunrise",
+          "thumb": "https://images.unsplash.com/photo-1764900350582-9a42df9947cc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwODV8MHwxfHNlYXJjaHwxM3x8Y2luZW1hdGljJTIwZm9nZ3klMjBzdW5yaXNlfGVufDB8MXx8fDE3ODMxNzgwNTF8MA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Atmospheric/unsplash_t7oQGcl5zNc.jpg",
+            "https://images.unsplash.com/photo-1764900350582-9a42df9947cc?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwODV8MHwxfHNlYXJjaHwxM3x8Y2luZW1hdGljJTIwZm9nZ3klMjBzdW5yaXNlfGVufDB8MXx8fDE3ODMxNzgwNTF8MA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Damian Kravchuk",
+          "authorUrl": "https://unsplash.com/@damiankravchuk?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_9uLnY1ecTk0",
+          "name": "a foggy forest with the sun setting",
+          "thumb": "https://images.unsplash.com/photo-1658993918538-a1b2c13e3d8c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwODV8MHwxfHNlYXJjaHwxOXx8Y2luZW1hdGljJTIwZm9nZ3klMjBzdW5yaXNlfGVufDB8MXx8fDE3ODMxNzgwNTF8MA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Atmospheric/unsplash_9uLnY1ecTk0.jpg",
+            "https://images.unsplash.com/photo-1658993918538-a1b2c13e3d8c?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwODV8MHwxfHNlYXJjaHwxOXx8Y2luZW1hdGljJTIwZm9nZ3klMjBzdW5yaXNlfGVufDB8MXx8fDE3ODMxNzgwNTF8MA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Janek Valdsalu",
+          "authorUrl": "https://unsplash.com/@janekvaldsalu?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_fRqh--1aQ_U",
+          "name": "a view of a foggy field with a tree branch in the foreground",
+          "thumb": "https://images.unsplash.com/photo-1685430542598-226f7b30411d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwODV8MHwxfHNlYXJjaHwxN3x8Y2luZW1hdGljJTIwZm9nZ3klMjBzdW5yaXNlfGVufDB8MXx8fDE3ODMxNzgwNTF8MA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Atmospheric/unsplash_fRqh--1aQ_U.jpg",
+            "https://images.unsplash.com/photo-1685430542598-226f7b30411d?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwODV8MHwxfHNlYXJjaHwxN3x8Y2luZW1hdGljJTIwZm9nZ3klMjBzdW5yaXNlfGVufDB8MXx8fDE3ODMxNzgwNTF8MA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "praveen kumar",
+          "authorUrl": "https://unsplash.com/@praveen_01?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_WmMCK1iMuEY",
+          "name": "silhouette of trees during sunset",
+          "thumb": "https://images.unsplash.com/photo-1621546852360-0a9e6e63eab0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwODV8MHwxfHNlYXJjaHwyMHx8Y2luZW1hdGljJTIwZm9nZ3klMjBzdW5yaXNlfGVufDB8MXx8fDE3ODMxNzgwNTF8MA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Atmospheric/unsplash_WmMCK1iMuEY.jpg",
+            "https://images.unsplash.com/photo-1621546852360-0a9e6e63eab0?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwODV8MHwxfHNlYXJjaHwyMHx8Y2luZW1hdGljJTIwZm9nZ3klMjBzdW5yaXNlfGVufDB8MXx8fDE3ODMxNzgwNTF8MA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Pontus Mattisson",
+          "authorUrl": "https://unsplash.com/@pmattisson?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_Zn83I5aqz1I",
+          "name": "the sun is setting over the trees in the distance",
+          "thumb": "https://images.unsplash.com/photo-1635096331537-abe0aeec0eb3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwODV8MHwxfHNlYXJjaHwxOHx8Y2luZW1hdGljJTIwZm9nZ3klMjBzdW5yaXNlfGVufDB8MXx8fDE3ODMxNzgwNTF8MA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Atmospheric/unsplash_Zn83I5aqz1I.jpg",
+            "https://images.unsplash.com/photo-1635096331537-abe0aeec0eb3?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwODV8MHwxfHNlYXJjaHwxOHx8Y2luZW1hdGljJTIwZm9nZ3klMjBzdW5yaXNlfGVufDB8MXx8fDE3ODMxNzgwNTF8MA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Jonas Vandermeiren",
+          "authorUrl": "https://unsplash.com/@jonasvandermeiren?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_KOOFY-Uo2bc",
+          "name": "silhouette of trees during golden hour",
+          "thumb": "https://images.unsplash.com/photo-1546757228-63ebf26ff6ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwODV8MHwxfHNlYXJjaHwyM3x8Y2luZW1hdGljJTIwZm9nZ3klMjBzdW5yaXNlfGVufDB8MXx8fDE3ODMxNzgwNTF8MA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Atmospheric/unsplash_KOOFY-Uo2bc.jpg",
+            "https://images.unsplash.com/photo-1546757228-63ebf26ff6ee?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwODV8MHwxfHNlYXJjaHwyM3x8Y2luZW1hdGljJTIwZm9nZ3klMjBzdW5yaXNlfGVufDB8MXx8fDE3ODMxNzgwNTF8MA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Arindam Saha",
+          "authorUrl": "https://unsplash.com/@hyperickz?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_Ixopp5d6LQ4",
+          "name": "a plane flying over a mountain covered in clouds",
+          "thumb": "https://images.unsplash.com/photo-1709285386123-34e6ebffa691?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwODV8MHwxfHNlYXJjaHwyMXx8Y2luZW1hdGljJTIwZm9nZ3klMjBzdW5yaXNlfGVufDB8MXx8fDE3ODMxNzgwNTF8MA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Atmospheric/unsplash_Ixopp5d6LQ4.jpg",
+            "https://images.unsplash.com/photo-1709285386123-34e6ebffa691?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwODV8MHwxfHNlYXJjaHwyMXx8Y2luZW1hdGljJTIwZm9nZ3klMjBzdW5yaXNlfGVufDB8MXx8fDE3ODMxNzgwNTF8MA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Tim Raudies",
+          "authorUrl": "https://unsplash.com/@timraudies?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_FUXQFsrwWMY",
+          "name": "silhouette of trees on body of water during sunset",
+          "thumb": "https://images.unsplash.com/photo-1618099460583-626e33d4c4e6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwODV8MHwxfHNlYXJjaHwyNHx8Y2luZW1hdGljJTIwZm9nZ3klMjBzdW5yaXNlfGVufDB8MXx8fDE3ODMxNzgwNTF8MA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Atmospheric/unsplash_FUXQFsrwWMY.jpg",
+            "https://images.unsplash.com/photo-1618099460583-626e33d4c4e6?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwODV8MHwxfHNlYXJjaHwyNHx8Y2luZW1hdGljJTIwZm9nZ3klMjBzdW5yaXNlfGVufDB8MXx8fDE3ODMxNzgwNTF8MA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Daniel Morton-Jones",
+          "authorUrl": "https://unsplash.com/@themortz?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_nbqlWhOVu6k",
+          "name": "selective photography of white thunder",
+          "thumb": "https://images.unsplash.com/photo-1492011221367-f47e3ccd77a0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwODV8MHwxfHNlYXJjaHw0fHxkcmFtYXRpYyUyMHRodW5kZXJzdG9ybSUyMGxpZ2h0bmluZ3xlbnwwfDF8fHwxNzgzMTc4MDgxfDA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Atmospheric/unsplash_nbqlWhOVu6k.jpg",
+            "https://images.unsplash.com/photo-1492011221367-f47e3ccd77a0?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwODV8MHwxfHNlYXJjaHw0fHxkcmFtYXRpYyUyMHRodW5kZXJzdG9ybSUyMGxpZ2h0bmluZ3xlbnwwfDF8fHwxNzgzMTc4MDgxfDA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "David Moum",
+          "authorUrl": "https://unsplash.com/@davidmoum?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_wFN9B3s_iik",
+          "name": "thunder through field",
+          "thumb": "https://images.unsplash.com/photo-1511289081-d06dda19034d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwODV8MHwxfHNlYXJjaHwzfHxkcmFtYXRpYyUyMHRodW5kZXJzdG9ybSUyMGxpZ2h0bmluZ3xlbnwwfDF8fHwxNzgzMTc4MDgxfDA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Atmospheric/unsplash_wFN9B3s_iik.jpg",
+            "https://images.unsplash.com/photo-1511289081-d06dda19034d?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwODV8MHwxfHNlYXJjaHwzfHxkcmFtYXRpYyUyMHRodW5kZXJzdG9ybSUyMGxpZ2h0bmluZ3xlbnwwfDF8fHwxNzgzMTc4MDgxfDA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Mélody P",
+          "authorUrl": "https://unsplash.com/@melodyp?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_3qucB7U2l7I",
+          "name": "lightning strike during blue sky",
+          "thumb": "https://images.unsplash.com/photo-1429552077091-836152271555?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwODV8MHwxfHNlYXJjaHwxfHxkcmFtYXRpYyUyMHRodW5kZXJzdG9ybSUyMGxpZ2h0bmluZ3xlbnwwfDF8fHwxNzgzMTc4MDgxfDA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Atmospheric/unsplash_3qucB7U2l7I.jpg",
+            "https://images.unsplash.com/photo-1429552077091-836152271555?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwODV8MHwxfHNlYXJjaHwxfHxkcmFtYXRpYyUyMHRodW5kZXJzdG9ybSUyMGxpZ2h0bmluZ3xlbnwwfDF8fHwxNzgzMTc4MDgxfDA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Brandon Morgan",
+          "authorUrl": "https://unsplash.com/@littleppl85?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_sCrqMG2f6qo",
+          "name": "black and white abstract painting",
+          "thumb": "https://images.unsplash.com/photo-1583459094467-e0db130c0dea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwODV8MHwxfHNlYXJjaHw1fHxkcmFtYXRpYyUyMHRodW5kZXJzdG9ybSUyMGxpZ2h0bmluZ3xlbnwwfDF8fHwxNzgzMTc4MDgxfDA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Atmospheric/unsplash_sCrqMG2f6qo.jpg",
+            "https://images.unsplash.com/photo-1583459094467-e0db130c0dea?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwODV8MHwxfHNlYXJjaHw1fHxkcmFtYXRpYyUyMHRodW5kZXJzdG9ybSUyMGxpZ2h0bmluZ3xlbnwwfDF8fHwxNzgzMTc4MDgxfDA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Michelle McEwen",
+          "authorUrl": "https://unsplash.com/@michellem18?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_K9gxvZsXSD0",
+          "name": "a foggy field with a telephone pole in the distance",
+          "thumb": "https://images.unsplash.com/photo-1633679958303-057eecd39d58?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwODV8MHwxfHNlYXJjaHw5fHxjaW5lbWF0aWMlMjBmb2dneSUyMHN1bnJpc2V8ZW58MHwxfHx8MTc4MzE3ODA1MXww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Atmospheric/unsplash_K9gxvZsXSD0.jpg",
+            "https://images.unsplash.com/photo-1633679958303-057eecd39d58?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwODV8MHwxfHNlYXJjaHw5fHxjaW5lbWF0aWMlMjBmb2dneSUyMHN1bnJpc2V8ZW58MHwxfHx8MTc4MzE3ODA1MXww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Eddie Black",
+          "authorUrl": "https://unsplash.com/@eddiecoyote?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_k-sk07-7vkA",
+          "name": "leafless tree on the beach under white clouds",
+          "thumb": "https://images.unsplash.com/photo-1630348727758-240aea8f99fe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwODV8MHwxfHNlYXJjaHw4fHxkcmFtYXRpYyUyMHRodW5kZXJzdG9ybSUyMGxpZ2h0bmluZ3xlbnwwfDF8fHwxNzgzMTc4MDgxfDA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Atmospheric/unsplash_k-sk07-7vkA.jpg",
+            "https://images.unsplash.com/photo-1630348727758-240aea8f99fe?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwODV8MHwxfHNlYXJjaHw4fHxkcmFtYXRpYyUyMHRodW5kZXJzdG9ybSUyMGxpZ2h0bmluZ3xlbnwwfDF8fHwxNzgzMTc4MDgxfDA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Clayton Malquist",
+          "authorUrl": "https://unsplash.com/@cmalquist?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_EngLPePzg7U",
+          "name": "time lapse photography of lightning during storm",
+          "thumb": "https://images.unsplash.com/photo-1527572232473-494f1e9c7917?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwODV8MHwxfHNlYXJjaHw5fHxkcmFtYXRpYyUyMHRodW5kZXJzdG9ybSUyMGxpZ2h0bmluZ3xlbnwwfDF8fHwxNzgzMTc4MDgxfDA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Atmospheric/unsplash_EngLPePzg7U.jpg",
+            "https://images.unsplash.com/photo-1527572232473-494f1e9c7917?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwODV8MHwxfHNlYXJjaHw5fHxkcmFtYXRpYyUyMHRodW5kZXJzdG9ybSUyMGxpZ2h0bmluZ3xlbnwwfDF8fHwxNzgzMTc4MDgxfDA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Luka Vovk",
+          "authorUrl": "https://unsplash.com/@lukavovk?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_jSADgWPmKDU",
+          "name": "green tree across lightning bolt",
+          "thumb": "https://images.unsplash.com/photo-1551234250-d88208c2ce14?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwODV8MHwxfHNlYXJjaHwxMnx8ZHJhbWF0aWMlMjB0aHVuZGVyc3Rvcm0lMjBsaWdodG5pbmd8ZW58MHwxfHx8MTc4MzE3ODA4MXww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Atmospheric/unsplash_jSADgWPmKDU.jpg",
+            "https://images.unsplash.com/photo-1551234250-d88208c2ce14?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwODV8MHwxfHNlYXJjaHwxMnx8ZHJhbWF0aWMlMjB0aHVuZGVyc3Rvcm0lMjBsaWdodG5pbmd8ZW58MHwxfHx8MTc4MzE3ODA4MXww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Michael D",
+          "authorUrl": "https://unsplash.com/@alienaperture?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_fSSzBTvlbfg",
+          "name": "lightning strike on black clouds",
+          "thumb": "https://images.unsplash.com/photo-1613114016545-8352ff5b8d9c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwODV8MHwxfHNlYXJjaHwxNnx8ZHJhbWF0aWMlMjB0aHVuZGVyc3Rvcm0lMjBsaWdodG5pbmd8ZW58MHwxfHx8MTc4MzE3ODA4MXww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Atmospheric/unsplash_fSSzBTvlbfg.jpg",
+            "https://images.unsplash.com/photo-1613114016545-8352ff5b8d9c?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwODV8MHwxfHNlYXJjaHwxNnx8ZHJhbWF0aWMlMjB0aHVuZGVyc3Rvcm0lMjBsaWdodG5pbmd8ZW58MHwxfHx8MTc4MzE3ODA4MXww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Gleb Lucky",
+          "authorUrl": "https://unsplash.com/@gleblucky?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_nwRln_4Hm9M",
+          "name": "white clouds and blue sky",
+          "thumb": "https://images.unsplash.com/photo-1590767600885-427b16643a8d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwODV8MHwxfHNlYXJjaHwxNXx8ZHJhbWF0aWMlMjB0aHVuZGVyc3Rvcm0lMjBsaWdodG5pbmd8ZW58MHwxfHx8MTc4MzE3ODA4MXww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Atmospheric/unsplash_nwRln_4Hm9M.jpg",
+            "https://images.unsplash.com/photo-1590767600885-427b16643a8d?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwODV8MHwxfHNlYXJjaHwxNXx8ZHJhbWF0aWMlMjB0aHVuZGVyc3Rvcm0lMjBsaWdodG5pbmd8ZW58MHwxfHx8MTc4MzE3ODA4MXww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Rahul Viswanath",
+          "authorUrl": "https://unsplash.com/@rahul_viswanath?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_DQX_yFPE5Js",
+          "name": "thunder light at night",
+          "thumb": "https://images.unsplash.com/photo-1549999498-47e866994843?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwODV8MHwxfHNlYXJjaHwxNHx8ZHJhbWF0aWMlMjB0aHVuZGVyc3Rvcm0lMjBsaWdodG5pbmd8ZW58MHwxfHx8MTc4MzE3ODA4MXww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Atmospheric/unsplash_DQX_yFPE5Js.jpg",
+            "https://images.unsplash.com/photo-1549999498-47e866994843?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwODV8MHwxfHNlYXJjaHwxNHx8ZHJhbWF0aWMlMjB0aHVuZGVyc3Rvcm0lMjBsaWdodG5pbmd8ZW58MHwxfHx8MTc4MzE3ODA4MXww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Gavin Spear",
+          "authorUrl": "https://unsplash.com/@rustyspear11?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_BqKdvJ8a5TI",
+          "name": "brown grass field towards trees",
+          "thumb": "https://images.unsplash.com/photo-1516912481808-3406841bd33c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwODV8MHwxfHNlYXJjaHwxOHx8ZHJhbWF0aWMlMjB0aHVuZGVyc3Rvcm0lMjBsaWdodG5pbmd8ZW58MHwxfHx8MTc4MzE3ODA4MXww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Atmospheric/unsplash_BqKdvJ8a5TI.jpg",
+            "https://images.unsplash.com/photo-1516912481808-3406841bd33c?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwODV8MHwxfHNlYXJjaHwxOHx8ZHJhbWF0aWMlMjB0aHVuZGVyc3Rvcm0lMjBsaWdodG5pbmd8ZW58MHwxfHx8MTc4MzE3ODA4MXww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Jonathan Bowers",
+          "authorUrl": "https://unsplash.com/@jbowersphotography?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_CJSCGyDC4YY",
+          "name": "Bright lightning strikes illuminate a city at night.",
+          "thumb": "https://images.unsplash.com/photo-1758049605332-113cc5575c32?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwODV8MHwxfHNlYXJjaHwyNHx8ZHJhbWF0aWMlMjB0aHVuZGVyc3Rvcm0lMjBsaWdodG5pbmd8ZW58MHwxfHx8MTc4MzE3ODA4MXww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Atmospheric/unsplash_CJSCGyDC4YY.jpg",
+            "https://images.unsplash.com/photo-1758049605332-113cc5575c32?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwODV8MHwxfHNlYXJjaHwyNHx8ZHJhbWF0aWMlMjB0aHVuZGVyc3Rvcm0lMjBsaWdodG5pbmd8ZW58MHwxfHx8MTc4MzE3ODA4MXww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Mary Brennan",
+          "authorUrl": "https://unsplash.com/@marybrennan?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_yJDLiqn_A-0",
+          "name": "lightning strike on trees during night time",
+          "thumb": "https://images.unsplash.com/photo-1618690567713-89b0e7e52b1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwODV8MHwxfHNlYXJjaHwyMnx8ZHJhbWF0aWMlMjB0aHVuZGVyc3Rvcm0lMjBsaWdodG5pbmd8ZW58MHwxfHx8MTc4MzE3ODA4MXww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Atmospheric/unsplash_yJDLiqn_A-0.jpg",
+            "https://images.unsplash.com/photo-1618690567713-89b0e7e52b1b?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwODV8MHwxfHNlYXJjaHwyMnx8ZHJhbWF0aWMlMjB0aHVuZGVyc3Rvcm0lMjBsaWdodG5pbmd8ZW58MHwxfHx8MTc4MzE3ODA4MXww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Brad Mann",
+          "authorUrl": "https://unsplash.com/@bradthemann?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_vGa4f2Oy9kI",
+          "name": "a lightning bolt is seen in the dark sky",
+          "thumb": "https://images.unsplash.com/photo-1695029806433-06ce27fc33b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwODV8MHwxfHNlYXJjaHwyMXx8ZHJhbWF0aWMlMjB0aHVuZGVyc3Rvcm0lMjBsaWdodG5pbmd8ZW58MHwxfHx8MTc4MzE3ODA4MXww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Atmospheric/unsplash_vGa4f2Oy9kI.jpg",
+            "https://images.unsplash.com/photo-1695029806433-06ce27fc33b6?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwODV8MHwxfHNlYXJjaHwyMXx8ZHJhbWF0aWMlMjB0aHVuZGVyc3Rvcm0lMjBsaWdodG5pbmd8ZW58MHwxfHx8MTc4MzE3ODA4MXww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Nikolett Emmert",
+          "authorUrl": "https://unsplash.com/@niki_emmert?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_SuvAY-ndNO4",
+          "name": "silhouette of trees under cloudy sky",
+          "thumb": "https://images.unsplash.com/photo-1590126759486-61d07f267fed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwODV8MHwxfHNlYXJjaHwxOXx8ZHJhbWF0aWMlMjB0aHVuZGVyc3Rvcm0lMjBsaWdodG5pbmd8ZW58MHwxfHx8MTc4MzE3ODA4MXww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Atmospheric/unsplash_SuvAY-ndNO4.jpg",
+            "https://images.unsplash.com/photo-1590126759486-61d07f267fed?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwODV8MHwxfHNlYXJjaHwxOXx8ZHJhbWF0aWMlMjB0aHVuZGVyc3Rvcm0lMjBsaWdodG5pbmd8ZW58MHwxfHx8MTc4MzE3ODA4MXww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": ". .",
+          "authorUrl": "https://unsplash.com/@visualsofdusk?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_Mv3mEpWDhSM",
+          "name": "white clouds and blue sky",
+          "thumb": "https://images.unsplash.com/photo-1601359865491-c47a8d93159d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwODh8MHwxfHNlYXJjaHwyfHxwYXN0ZWwlMjBjb3R0b24lMjBjYW5keSUyMGNsb3Vkc3xlbnwwfDF8fHwxNzgzMTc4MTczfDA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Atmospheric/unsplash_Mv3mEpWDhSM.jpg",
+            "https://images.unsplash.com/photo-1601359865491-c47a8d93159d?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwODh8MHwxfHNlYXJjaHwyfHxwYXN0ZWwlMjBjb3R0b24lMjBjYW5keSUyMGNsb3Vkc3xlbnwwfDF8fHwxNzgzMTc4MTczfDA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Atsadawut Chaiseeha",
+          "authorUrl": "https://unsplash.com/@sadboyhour?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_3WgPZbsDSkE",
+          "name": "brown clouds",
+          "thumb": "https://images.unsplash.com/photo-1560803262-95a9de00a057?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwODh8MHwxfHNlYXJjaHwxfHxwYXN0ZWwlMjBjb3R0b24lMjBjYW5keSUyMGNsb3Vkc3xlbnwwfDF8fHwxNzgzMTc4MTczfDA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Atmospheric/unsplash_3WgPZbsDSkE.jpg",
+            "https://images.unsplash.com/photo-1560803262-95a9de00a057?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwODh8MHwxfHNlYXJjaHwxfHxwYXN0ZWwlMjBjb3R0b24lMjBjYW5keSUyMGNsb3Vkc3xlbnwwfDF8fHwxNzgzMTc4MTczfDA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Andrea Ferrario",
+          "authorUrl": "https://unsplash.com/@andreaferrario?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_U15ZuWxjxYc",
+          "name": "white clouds and blue sky during daytime",
+          "thumb": "https://images.unsplash.com/photo-1609414558965-3bec66c06de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwODh8MHwxfHNlYXJjaHw0fHxwYXN0ZWwlMjBjb3R0b24lMjBjYW5keSUyMGNsb3Vkc3xlbnwwfDF8fHwxNzgzMTc4MTczfDA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Atmospheric/unsplash_U15ZuWxjxYc.jpg",
+            "https://images.unsplash.com/photo-1609414558965-3bec66c06de7?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwODh8MHwxfHNlYXJjaHw0fHxwYXN0ZWwlMjBjb3R0b24lMjBjYW5keSUyMGNsb3Vkc3xlbnwwfDF8fHwxNzgzMTc4MTczfDA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Asa Akmelia",
+          "authorUrl": "https://unsplash.com/@akmeliaasa?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_2BxWBQkRpwU",
+          "name": "a hand holding a pink cotton candy on a stick",
+          "thumb": "https://images.unsplash.com/photo-1693122070191-277d7274cf46?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwODh8MHwxfHNlYXJjaHw1fHxwYXN0ZWwlMjBjb3R0b24lMjBjYW5keSUyMGNsb3Vkc3xlbnwwfDF8fHwxNzgzMTc4MTczfDA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Atmospheric/unsplash_2BxWBQkRpwU.jpg",
+            "https://images.unsplash.com/photo-1693122070191-277d7274cf46?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwODh8MHwxfHNlYXJjaHw1fHxwYXN0ZWwlMjBjb3R0b24lMjBjYW5keSUyMGNsb3Vkc3xlbnwwfDF8fHwxNzgzMTc4MTczfDA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Maxim Yuryshev",
+          "authorUrl": "https://unsplash.com/@maximyuryshev?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_QZIaFR0jQZc",
+          "name": "pink and white cumulus cloud",
+          "thumb": "https://images.unsplash.com/photo-1559060017-445fb9722f2a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwODh8MHwxfHNlYXJjaHwxMXx8cGFzdGVsJTIwY290dG9uJTIwY2FuZHklMjBjbG91ZHN8ZW58MHwxfHx8MTc4MzE3ODE3M3ww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Atmospheric/unsplash_QZIaFR0jQZc.jpg",
+            "https://images.unsplash.com/photo-1559060017-445fb9722f2a?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwODh8MHwxfHNlYXJjaHwxMXx8cGFzdGVsJTIwY290dG9uJTIwY2FuZHklMjBjbG91ZHN8ZW58MHwxfHx8MTc4MzE3ODE3M3ww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Andrea Ferrario",
+          "authorUrl": "https://unsplash.com/@andreaferrario?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_psztvTdcah4",
+          "name": "white clouds on blue sky",
+          "thumb": "https://images.unsplash.com/photo-1624291067255-5602fd940d7f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwODh8MHwxfHNlYXJjaHw5fHxwYXN0ZWwlMjBjb3R0b24lMjBjYW5keSUyMGNsb3Vkc3xlbnwwfDF8fHwxNzgzMTc4MTczfDA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Atmospheric/unsplash_psztvTdcah4.jpg",
+            "https://images.unsplash.com/photo-1624291067255-5602fd940d7f?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwODh8MHwxfHNlYXJjaHw5fHxwYXN0ZWwlMjBjb3R0b24lMjBjYW5keSUyMGNsb3Vkc3xlbnwwfDF8fHwxNzgzMTc4MTczfDA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Toni Tan",
+          "authorUrl": "https://unsplash.com/@tonitan?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_pr0I-DUB5eA",
+          "name": "white clouds and blue sky during daytime",
+          "thumb": "https://images.unsplash.com/photo-1602498456745-e9503b30470b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwODh8MHwxfHNlYXJjaHwxMHx8cGFzdGVsJTIwY290dG9uJTIwY2FuZHklMjBjbG91ZHN8ZW58MHwxfHx8MTc4MzE3ODE3M3ww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Atmospheric/unsplash_pr0I-DUB5eA.jpg",
+            "https://images.unsplash.com/photo-1602498456745-e9503b30470b?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwODh8MHwxfHNlYXJjaHwxMHx8cGFzdGVsJTIwY290dG9uJTIwY2FuZHklMjBjbG91ZHN8ZW58MHwxfHx8MTc4MzE3ODE3M3ww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Jei Lee",
+          "authorUrl": "https://unsplash.com/@babybluecat?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_X3YzPHn3Jus",
+          "name": "white clouds during golden hour",
+          "thumb": "https://images.unsplash.com/photo-1547445958-0f5f66ad4854?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwODh8MHwxfHNlYXJjaHwxNnx8cGFzdGVsJTIwY290dG9uJTIwY2FuZHklMjBjbG91ZHN8ZW58MHwxfHx8MTc4MzE3ODE3M3ww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Atmospheric/unsplash_X3YzPHn3Jus.jpg",
+            "https://images.unsplash.com/photo-1547445958-0f5f66ad4854?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwODh8MHwxfHNlYXJjaHwxNnx8cGFzdGVsJTIwY290dG9uJTIwY2FuZHklMjBjbG91ZHN8ZW58MHwxfHx8MTc4MzE3ODE3M3ww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Jeremy Bishop",
+          "authorUrl": "https://unsplash.com/@jeremybishop?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_XVVQNQphnEg",
+          "name": "white clouds in blue sky",
+          "thumb": "https://images.unsplash.com/photo-1610612127141-bb5689e91e56?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwODh8MHwxfHNlYXJjaHwxOHx8cGFzdGVsJTIwY290dG9uJTIwY2FuZHklMjBjbG91ZHN8ZW58MHwxfHx8MTc4MzE3ODE3M3ww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Atmospheric/unsplash_XVVQNQphnEg.jpg",
+            "https://images.unsplash.com/photo-1610612127141-bb5689e91e56?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwODh8MHwxfHNlYXJjaHwxOHx8cGFzdGVsJTIwY290dG9uJTIwY2FuZHklMjBjbG91ZHN8ZW58MHwxfHx8MTc4MzE3ODE3M3ww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "H&CO",
+          "authorUrl": "https://unsplash.com/@hngstrm?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_0VFrWTX9OAE",
+          "name": "A plane flying through a cloudy sky with pink clouds",
+          "thumb": "https://images.unsplash.com/photo-1723943158218-b4d39f1f074d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwODh8MHwxfHNlYXJjaHwxN3x8cGFzdGVsJTIwY290dG9uJTIwY2FuZHklMjBjbG91ZHN8ZW58MHwxfHx8MTc4MzE3ODE3M3ww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Atmospheric/unsplash_0VFrWTX9OAE.jpg",
+            "https://images.unsplash.com/photo-1723943158218-b4d39f1f074d?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwODh8MHwxfHNlYXJjaHwxN3x8cGFzdGVsJTIwY290dG9uJTIwY2FuZHklMjBjbG91ZHN8ZW58MHwxfHx8MTc4MzE3ODE3M3ww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Jash Sojitra",
+          "authorUrl": "https://unsplash.com/@jashsojitra?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_JZmyLsmpBOs",
+          "name": "white clouds and blue sky during daytime",
+          "thumb": "https://images.unsplash.com/photo-1625922946481-35e545fa8c24?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwODh8MHwxfHNlYXJjaHwxNHx8cGFzdGVsJTIwY290dG9uJTIwY2FuZHklMjBjbG91ZHN8ZW58MHwxfHx8MTc4MzE3ODE3M3ww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Atmospheric/unsplash_JZmyLsmpBOs.jpg",
+            "https://images.unsplash.com/photo-1625922946481-35e545fa8c24?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwODh8MHwxfHNlYXJjaHwxNHx8cGFzdGVsJTIwY290dG9uJTIwY2FuZHklMjBjbG91ZHN8ZW58MHwxfHx8MTc4MzE3ODE3M3ww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "QingYu",
+          "authorUrl": "https://unsplash.com/@kukaka?utm_source=PhotoMaker&utm_medium=referral"
         }
       ]
     },
