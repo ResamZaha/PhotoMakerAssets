@@ -1,5 +1,5 @@
 {
-  "version": 1163,
+  "version": 1174,
   "categories": [
     {
       "name": "Abstract",
@@ -2937,6 +2937,127 @@
           ],
           "author": "QingYu",
           "authorUrl": "https://unsplash.com/@kukaka?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_CoHoyMkt4tA",
+          "name": "the sun shines through the trees in the forest",
+          "thumb": "https://images.unsplash.com/photo-1645601594289-b15fa3f14eea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwODh8MHwxfHNlYXJjaHwxfHxzdW5iZWFtcyUyMHRocm91Z2glMjBtaXN0fGVufDB8MXx8fDE3ODMxNzgxOTh8MA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Atmospheric/unsplash_CoHoyMkt4tA.jpg",
+            "https://images.unsplash.com/photo-1645601594289-b15fa3f14eea?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwODh8MHwxfHNlYXJjaHwxfHxzdW5iZWFtcyUyMHRocm91Z2glMjBtaXN0fGVufDB8MXx8fDE3ODMxNzgxOTh8MA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Ankit Dembla",
+          "authorUrl": "https://unsplash.com/@ankitdembla?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_P_lyT2-TxCE",
+          "name": "sunlight reflecting on trees in the forest",
+          "thumb": "https://images.unsplash.com/photo-1577555695198-590127bcee8b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwODh8MHwxfHNlYXJjaHwyfHxzdW5iZWFtcyUyMHRocm91Z2glMjBtaXN0fGVufDB8MXx8fDE3ODMxNzgxOTh8MA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Atmospheric/unsplash_P_lyT2-TxCE.jpg",
+            "https://images.unsplash.com/photo-1577555695198-590127bcee8b?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwODh8MHwxfHNlYXJjaHwyfHxzdW5iZWFtcyUyMHRocm91Z2glMjBtaXN0fGVufDB8MXx8fDE3ODMxNzgxOTh8MA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Peter Steiner 🇨🇭 1973",
+          "authorUrl": "https://unsplash.com/@pedrino5_official?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_DQdmebiAeFg",
+          "name": "the sun shines through the trees in a foggy forest",
+          "thumb": "https://images.unsplash.com/photo-1671234801513-704e8e786420?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwODh8MHwxfHNlYXJjaHwzfHxzdW5iZWFtcyUyMHRocm91Z2glMjBtaXN0fGVufDB8MXx8fDE3ODMxNzgxOTh8MA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Atmospheric/unsplash_DQdmebiAeFg.jpg",
+            "https://images.unsplash.com/photo-1671234801513-704e8e786420?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwODh8MHwxfHNlYXJjaHwzfHxzdW5iZWFtcyUyMHRocm91Z2glMjBtaXN0fGVufDB8MXx8fDE3ODMxNzgxOTh8MA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Stephanie Klepacki",
+          "authorUrl": "https://unsplash.com/@sklepacki?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_iR5IWIALCfs",
+          "name": "a road that is surrounded by trees and grass",
+          "thumb": "https://images.unsplash.com/photo-1696626531269-bac1b76a1df6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwODh8MHwxfHNlYXJjaHw0fHxzdW5iZWFtcyUyMHRocm91Z2glMjBtaXN0fGVufDB8MXx8fDE3ODMxNzgxOTh8MA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Atmospheric/unsplash_iR5IWIALCfs.jpg",
+            "https://images.unsplash.com/photo-1696626531269-bac1b76a1df6?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwODh8MHwxfHNlYXJjaHw0fHxzdW5iZWFtcyUyMHRocm91Z2glMjBtaXN0fGVufDB8MXx8fDE3ODMxNzgxOTh8MA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Bonbon Maé",
+          "authorUrl": "https://unsplash.com/@bonbon1000?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_50HS3AzJsvQ",
+          "name": "aerial photography of tall trees and house under foggy weather",
+          "thumb": "https://images.unsplash.com/photo-1484402628941-0bb40fc029e7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwODh8MHwxfHNlYXJjaHw1fHxzdW5iZWFtcyUyMHRocm91Z2glMjBtaXN0fGVufDB8MXx8fDE3ODMxNzgxOTh8MA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Atmospheric/unsplash_50HS3AzJsvQ.jpg",
+            "https://images.unsplash.com/photo-1484402628941-0bb40fc029e7?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwODh8MHwxfHNlYXJjaHw1fHxzdW5iZWFtcyUyMHRocm91Z2glMjBtaXN0fGVufDB8MXx8fDE3ODMxNzgxOTh8MA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Neven Krcmarek",
+          "authorUrl": "https://unsplash.com/@nevenkrcmarek?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_-rx0-lftEVs",
+          "name": "Sunbeams stream through misty jungle foliage.",
+          "thumb": "https://images.unsplash.com/photo-1771326848286-020cd4630bf3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwODh8MHwxfHNlYXJjaHw3fHxzdW5iZWFtcyUyMHRocm91Z2glMjBtaXN0fGVufDB8MXx8fDE3ODMxNzgxOTh8MA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Atmospheric/unsplash_-rx0-lftEVs.jpg",
+            "https://images.unsplash.com/photo-1771326848286-020cd4630bf3?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwODh8MHwxfHNlYXJjaHw3fHxzdW5iZWFtcyUyMHRocm91Z2glMjBtaXN0fGVufDB8MXx8fDE3ODMxNzgxOTh8MA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Kyle Hinkson",
+          "authorUrl": "https://unsplash.com/@whereiskylenow?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_tEiz3e6UphQ",
+          "name": "Sunbeams shining through misty trees at sunrise",
+          "thumb": "https://images.unsplash.com/photo-1760891489096-46da9fdcd8a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwODh8MHwxfHNlYXJjaHw5fHxzdW5iZWFtcyUyMHRocm91Z2glMjBtaXN0fGVufDB8MXx8fDE3ODMxNzgxOTh8MA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Atmospheric/unsplash_tEiz3e6UphQ.jpg",
+            "https://images.unsplash.com/photo-1760891489096-46da9fdcd8a7?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwODh8MHwxfHNlYXJjaHw5fHxzdW5iZWFtcyUyMHRocm91Z2glMjBtaXN0fGVufDB8MXx8fDE3ODMxNzgxOTh8MA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Mateusz Kamieniarz",
+          "authorUrl": "https://unsplash.com/@kamieniavz?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_ZWWiV3nkG5k",
+          "name": "Sunbeams pierce through fog over a misty forest.",
+          "thumb": "https://images.unsplash.com/photo-1762755643266-a462bbf63e0b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwODh8MHwxfHNlYXJjaHw4fHxzdW5iZWFtcyUyMHRocm91Z2glMjBtaXN0fGVufDB8MXx8fDE3ODMxNzgxOTh8MA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Atmospheric/unsplash_ZWWiV3nkG5k.jpg",
+            "https://images.unsplash.com/photo-1762755643266-a462bbf63e0b?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwODh8MHwxfHNlYXJjaHw4fHxzdW5iZWFtcyUyMHRocm91Z2glMjBtaXN0fGVufDB8MXx8fDE3ODMxNzgxOTh8MA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Pascal Debrunner",
+          "authorUrl": "https://unsplash.com/@debrupas?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_ssVJ2PPvyzc",
+          "name": "Sunlight streams through a misty forest canopy.",
+          "thumb": "https://images.unsplash.com/photo-1767948156535-2a72564a3377?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwODh8MHwxfHNlYXJjaHwxMHx8c3VuYmVhbXMlMjB0aHJvdWdoJTIwbWlzdHxlbnwwfDF8fHwxNzgzMTc4MTk4fDA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Atmospheric/unsplash_ssVJ2PPvyzc.jpg",
+            "https://images.unsplash.com/photo-1767948156535-2a72564a3377?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwODh8MHwxfHNlYXJjaHwxMHx8c3VuYmVhbXMlMjB0aHJvdWdoJTIwbWlzdHxlbnwwfDF8fHwxNzgzMTc4MTk4fDA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Peter Schulz",
+          "authorUrl": "https://unsplash.com/@visionaryconcepts?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_moHqJmdANys",
+          "name": "Autumn forest with golden leaves and misty atmosphere.",
+          "thumb": "https://images.unsplash.com/photo-1762515993692-7b9946f76858?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwODh8MHwxfHNlYXJjaHwxMXx8c3VuYmVhbXMlMjB0aHJvdWdoJTIwbWlzdHxlbnwwfDF8fHwxNzgzMTc4MTk4fDA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Atmospheric/unsplash_moHqJmdANys.jpg",
+            "https://images.unsplash.com/photo-1762515993692-7b9946f76858?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwODh8MHwxfHNlYXJjaHwxMXx8c3VuYmVhbXMlMjB0aHJvdWdoJTIwbWlzdHxlbnwwfDF8fHwxNzgzMTc4MTk4fDA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Pascal Debrunner",
+          "authorUrl": "https://unsplash.com/@debrupas?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_5PaOqWJM3Hk",
+          "name": "green trees under white sky during daytime",
+          "thumb": "https://images.unsplash.com/photo-1609081838986-5195454ca9f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwODh8MHwxfHNlYXJjaHwxMnx8c3VuYmVhbXMlMjB0aHJvdWdoJTIwbWlzdHxlbnwwfDF8fHwxNzgzMTc4MTk4fDA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Atmospheric/unsplash_5PaOqWJM3Hk.jpg",
+            "https://images.unsplash.com/photo-1609081838986-5195454ca9f1?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwODh8MHwxfHNlYXJjaHwxMnx8c3VuYmVhbXMlMjB0aHJvdWdoJTIwbWlzdHxlbnwwfDF8fHwxNzgzMTc4MTk4fDA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Peter Steiner 🇨🇭 1973",
+          "authorUrl": "https://unsplash.com/@pedrino5_official?utm_source=PhotoMaker&utm_medium=referral"
         }
       ]
     },
