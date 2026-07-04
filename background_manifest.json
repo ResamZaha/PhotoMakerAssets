@@ -1,5 +1,5 @@
 {
-  "version": 749,
+  "version": 759,
   "categories": [
     {
       "name": "Abstract",
@@ -3538,6 +3538,116 @@
           ],
           "author": "Annie Spratt",
           "authorUrl": "https://unsplash.com/@anniespratt?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_fbQPIPIP6L4",
+          "name": "A blurry photo of blue smoke on a black background",
+          "thumb": "https://images.unsplash.com/photo-1722842654958-291f83b91941?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzl8MHwxfHNlYXJjaHwxOXx8c21va2UlMjBib21iJTIwYmFja2dyb3VuZCUyMHRleHR1cmV8ZW58MHwxfHx8MTc4MzE3Mzk2OXww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_fbQPIPIP6L4.jpg",
+            "https://images.unsplash.com/photo-1722842654958-291f83b91941?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzl8MHwxfHNlYXJjaHwxOXx8c21va2UlMjBib21iJTIwYmFja2dyb3VuZCUyMHRleHR1cmV8ZW58MHwxfHx8MTc4MzE3Mzk2OXww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Alexandros Giannakakis",
+          "authorUrl": "https://unsplash.com/@alegi__?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_dPBX3AaqvWQ",
+          "name": "Black and gray abstract pattern creates a smoky effect.",
+          "thumb": "https://images.unsplash.com/photo-1744033416342-614bfac570fe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzl8MHwxfHNlYXJjaHw3fHxzbW9rZSUyMGJvbWIlMjBiYWNrZ3JvdW5kJTIwdGV4dHVyZXxlbnwwfDF8fHwxNzgzMTczOTY5fDA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_dPBX3AaqvWQ.jpg",
+            "https://images.unsplash.com/photo-1744033416342-614bfac570fe?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzl8MHwxfHNlYXJjaHw3fHxzbW9rZSUyMGJvbWIlMjBiYWNrZ3JvdW5kJTIwdGV4dHVyZXxlbnwwfDF8fHwxNzgzMTczOTY5fDA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Heather Green",
+          "authorUrl": "https://unsplash.com/@heathergreengreen?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_e4ju3bJ7rXg",
+          "name": "a close-up of a fetus",
+          "thumb": "https://images.unsplash.com/photo-1656741043639-de693e3cfde0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzl8MHwxfHNlYXJjaHwxNnx8c21va2UlMjBib21iJTIwYmFja2dyb3VuZCUyMHRleHR1cmV8ZW58MHwxfHx8MTc4MzE3Mzk2OXww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_e4ju3bJ7rXg.jpg",
+            "https://images.unsplash.com/photo-1656741043639-de693e3cfde0?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzl8MHwxfHNlYXJjaHwxNnx8c21va2UlMjBib21iJTIwYmFja2dyb3VuZCUyMHRleHR1cmV8ZW58MHwxfHx8MTc4MzE3Mzk2OXww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Thomas Stephan",
+          "authorUrl": "https://unsplash.com/@thomasstephan?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_eotbEljQmS4",
+          "name": "a digital image of a colorful pattern of clouds",
+          "thumb": "https://images.unsplash.com/photo-1641847175139-30aba2e1fc90?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzl8MHwxfHNlYXJjaHwxNHx8c21va2UlMjBib21iJTIwYmFja2dyb3VuZCUyMHRleHR1cmV8ZW58MHwxfHx8MTc4MzE3Mzk2OXww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_eotbEljQmS4.jpg",
+            "https://images.unsplash.com/photo-1641847175139-30aba2e1fc90?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzl8MHwxfHNlYXJjaHwxNHx8c21va2UlMjBib21iJTIwYmFja2dyb3VuZCUyMHRleHR1cmV8ZW58MHwxfHx8MTc4MzE3Mzk2OXww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Marek Piwnicki",
+          "authorUrl": "https://unsplash.com/@marekpiwnicki?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_fcZIyU-nbFE",
+          "name": "a black and white photo of snow on the ground",
+          "thumb": "https://images.unsplash.com/photo-1515387784663-e2e29a23f69e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzl8MHwxfHNlYXJjaHw2fHxzbW9rZSUyMGJvbWIlMjBiYWNrZ3JvdW5kJTIwdGV4dHVyZXxlbnwwfDF8fHwxNzgzMTczOTY5fDA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_fcZIyU-nbFE.jpg",
+            "https://images.unsplash.com/photo-1515387784663-e2e29a23f69e?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzl8MHwxfHNlYXJjaHw2fHxzbW9rZSUyMGJvbWIlMjBiYWNrZ3JvdW5kJTIwdGV4dHVyZXxlbnwwfDF8fHwxNzgzMTczOTY5fDA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Nathan Anderson",
+          "authorUrl": "https://unsplash.com/@nathananderson?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_YbqUpl_Td-I",
+          "name": "green smoke on white clouds",
+          "thumb": "https://images.unsplash.com/photo-1619002313410-75a8f546033b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzl8MHwxfHNlYXJjaHwyM3x8c21va2UlMjBib21iJTIwYmFja2dyb3VuZCUyMHRleHR1cmV8ZW58MHwxfHx8MTc4MzE3Mzk2OXww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_YbqUpl_Td-I.jpg",
+            "https://images.unsplash.com/photo-1619002313410-75a8f546033b?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzl8MHwxfHNlYXJjaHwyM3x8c21va2UlMjBib21iJTIwYmFja2dyb3VuZCUyMHRleHR1cmV8ZW58MHwxfHx8MTc4MzE3Mzk2OXww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Michael Dagonakis",
+          "authorUrl": "https://unsplash.com/@mdagonakis?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_9awtW9gbHU4",
+          "name": "a plane flying through a cloudy blue sky",
+          "thumb": "https://images.unsplash.com/photo-1643372185076-15a8169402e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzl8MHwxfHNlYXJjaHwyMXx8c21va2UlMjBib21iJTIwYmFja2dyb3VuZCUyMHRleHR1cmV8ZW58MHwxfHx8MTc4MzE3Mzk2OXww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_9awtW9gbHU4.jpg",
+            "https://images.unsplash.com/photo-1643372185076-15a8169402e8?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzl8MHwxfHNlYXJjaHwyMXx8c21va2UlMjBib21iJTIwYmFja2dyb3VuZCUyMHRleHR1cmV8ZW58MHwxfHx8MTc4MzE3Mzk2OXww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Eugene Golovesov",
+          "authorUrl": "https://unsplash.com/@eugene_golovesov?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_eXdIHGqPTqo",
+          "name": "A very large orange smoke billowing out of a black background",
+          "thumb": "https://images.unsplash.com/photo-1731940579405-56812bdffda3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzl8MHwxfHNlYXJjaHwyMnx8c21va2UlMjBib21iJTIwYmFja2dyb3VuZCUyMHRleHR1cmV8ZW58MHwxfHx8MTc4MzE3Mzk2OXww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_eXdIHGqPTqo.jpg",
+            "https://images.unsplash.com/photo-1731940579405-56812bdffda3?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzl8MHwxfHNlYXJjaHwyMnx8c21va2UlMjBib21iJTIwYmFja2dyb3VuZCUyMHRleHR1cmV8ZW58MHwxfHx8MTc4MzE3Mzk2OXww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "deep bhullar",
+          "authorUrl": "https://unsplash.com/@the_bhullar?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_IafzlPZi1XQ",
+          "name": "a large explosion in the sky",
+          "thumb": "https://images.unsplash.com/photo-1666172575779-c7044fcee4de?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzl8MHwxfHNlYXJjaHwyNHx8c21va2UlMjBib21iJTIwYmFja2dyb3VuZCUyMHRleHR1cmV8ZW58MHwxfHx8MTc4MzE3Mzk2OXww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_IafzlPZi1XQ.jpg",
+            "https://images.unsplash.com/photo-1666172575779-c7044fcee4de?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzl8MHwxfHNlYXJjaHwyNHx8c21va2UlMjBib21iJTIwYmFja2dyb3VuZCUyMHRleHR1cmV8ZW58MHwxfHx8MTc4MzE3Mzk2OXww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Alex Shuper",
+          "authorUrl": "https://unsplash.com/@alexshuperart?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_BFgL7U4IP8k",
+          "name": "A blurry photo of blue smoke on a black background",
+          "thumb": "https://images.unsplash.com/photo-1722842656720-8025a3620e20?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzl8MHwxfHNlYXJjaHwxN3x8c21va2UlMjBib21iJTIwYmFja2dyb3VuZCUyMHRleHR1cmV8ZW58MHwxfHx8MTc4MzE3Mzk2OXww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_BFgL7U4IP8k.jpg",
+            "https://images.unsplash.com/photo-1722842656720-8025a3620e20?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzl8MHwxfHNlYXJjaHwxN3x8c21va2UlMjBib21iJTIwYmFja2dyb3VuZCUyMHRleHR1cmV8ZW58MHwxfHx8MTc4MzE3Mzk2OXww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Alexandros Giannakakis",
+          "authorUrl": "https://unsplash.com/@alegi__?utm_source=PhotoMaker&utm_medium=referral"
         }
       ]
     },
