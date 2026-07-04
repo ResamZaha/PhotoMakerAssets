@@ -1,5 +1,5 @@
 {
-  "version": 759,
+  "version": 773,
   "categories": [
     {
       "name": "Abstract",
@@ -3648,6 +3648,160 @@
           ],
           "author": "Alexandros Giannakakis",
           "authorUrl": "https://unsplash.com/@alegi__?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_GybmMi0QZV4",
+          "name": "a living room with a painting on the wall",
+          "thumb": "https://images.unsplash.com/photo-1634638415860-cef1aafb60c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzl8MHwxfHNlYXJjaHwxfHxtb25vY2hyb21lJTIwYm9sZCUyMGNvbG9yJTIwcm9vbXxlbnwwfDF8fHwxNzgzMTc0MDE2fDA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_GybmMi0QZV4.jpg",
+            "https://images.unsplash.com/photo-1634638415860-cef1aafb60c4?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzl8MHwxfHNlYXJjaHwxfHxtb25vY2hyb21lJTIwYm9sZCUyMGNvbG9yJTIwcm9vbXxlbnwwfDF8fHwxNzgzMTc0MDE2fDA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Virender Singh",
+          "authorUrl": "https://unsplash.com/@virender833?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_sPW5sPCnOak",
+          "name": "Modern living room with abstract art and archway.",
+          "thumb": "https://images.unsplash.com/photo-1758972581344-85dd3ccb10db?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzl8MHwxfHNlYXJjaHw0fHxtb25vY2hyb21lJTIwYm9sZCUyMGNvbG9yJTIwcm9vbXxlbnwwfDF8fHwxNzgzMTc0MDE2fDA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_sPW5sPCnOak.jpg",
+            "https://images.unsplash.com/photo-1758972581344-85dd3ccb10db?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzl8MHwxfHNlYXJjaHw0fHxtb25vY2hyb21lJTIwYm9sZCUyMGNvbG9yJTIwcm9vbXxlbnwwfDF8fHwxNzgzMTc0MDE2fDA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "SUHER DAA",
+          "authorUrl": "https://unsplash.com/@suher90?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_bqEWYCtvGOs",
+          "name": "a living room with red walls and a blue couch",
+          "thumb": "https://images.unsplash.com/photo-1714924674549-910c8f3fcb33?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzl8MHwxfHNlYXJjaHw1fHxtb25vY2hyb21lJTIwYm9sZCUyMGNvbG9yJTIwcm9vbXxlbnwwfDF8fHwxNzgzMTc0MDE2fDA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_bqEWYCtvGOs.jpg",
+            "https://images.unsplash.com/photo-1714924674549-910c8f3fcb33?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzl8MHwxfHNlYXJjaHw1fHxtb25vY2hyb21lJTIwYm9sZCUyMGNvbG9yJTIwcm9vbXxlbnwwfDF8fHwxNzgzMTc0MDE2fDA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Jejo Jose",
+          "authorUrl": "https://unsplash.com/@tomjejojose?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_w2SBYN3-Lxk",
+          "name": "white bed linen on bed",
+          "thumb": "https://images.unsplash.com/photo-1615800001718-73ba40557cb3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzl8MHwxfHNlYXJjaHw4fHxtb25vY2hyb21lJTIwYm9sZCUyMGNvbG9yJTIwcm9vbXxlbnwwfDF8fHwxNzgzMTc0MDE2fDA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_w2SBYN3-Lxk.jpg",
+            "https://images.unsplash.com/photo-1615800001718-73ba40557cb3?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzl8MHwxfHNlYXJjaHw4fHxtb25vY2hyb21lJTIwYm9sZCUyMGNvbG9yJTIwcm9vbXxlbnwwfDF8fHwxNzgzMTc0MDE2fDA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Julia",
+          "authorUrl": "https://unsplash.com/@beazy?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_TDKe8UlWYQ8",
+          "name": "Modern living room with arched doorway and abstract art.",
+          "thumb": "https://images.unsplash.com/photo-1758972581195-c27b9d3b1c56?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzl8MHwxfHNlYXJjaHw3fHxtb25vY2hyb21lJTIwYm9sZCUyMGNvbG9yJTIwcm9vbXxlbnwwfDF8fHwxNzgzMTc0MDE2fDA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_TDKe8UlWYQ8.jpg",
+            "https://images.unsplash.com/photo-1758972581195-c27b9d3b1c56?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzl8MHwxfHNlYXJjaHw3fHxtb25vY2hyb21lJTIwYm9sZCUyMGNvbG9yJTIwcm9vbXxlbnwwfDF8fHwxNzgzMTc0MDE2fDA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "SUHER DAA",
+          "authorUrl": "https://unsplash.com/@suher90?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_vanw5CHUOE8",
+          "name": "brown wooden table with chairs",
+          "thumb": "https://images.unsplash.com/photo-1620395458832-6436796c2d4c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzl8MHwxfHNlYXJjaHwxMHx8bW9ub2Nocm9tZSUyMGJvbGQlMjBjb2xvciUyMHJvb218ZW58MHwxfHx8MTc4MzE3NDAxNnww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_vanw5CHUOE8.jpg",
+            "https://images.unsplash.com/photo-1620395458832-6436796c2d4c?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzl8MHwxfHNlYXJjaHwxMHx8bW9ub2Nocm9tZSUyMGJvbGQlMjBjb2xvciUyMHJvb218ZW58MHwxfHx8MTc4MzE3NDAxNnww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Braden Collum",
+          "authorUrl": "https://unsplash.com/@bradencollum?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_BBbOGna5zaE",
+          "name": "brown wooden table with chairs",
+          "thumb": "https://images.unsplash.com/photo-1603663249650-ba83e6ad6356?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzl8MHwxfHNlYXJjaHw5fHxtb25vY2hyb21lJTIwYm9sZCUyMGNvbG9yJTIwcm9vbXxlbnwwfDF8fHwxNzgzMTc0MDE2fDA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_BBbOGna5zaE.jpg",
+            "https://images.unsplash.com/photo-1603663249650-ba83e6ad6356?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzl8MHwxfHNlYXJjaHw5fHxtb25vY2hyb21lJTIwYm9sZCUyMGNvbG9yJTIwcm9vbXxlbnwwfDF8fHwxNzgzMTc0MDE2fDA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "davide ragusa",
+          "authorUrl": "https://unsplash.com/@davideragusa?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_F5pTTvz63Bg",
+          "name": "a living room with green walls and a yellow couch",
+          "thumb": "https://images.unsplash.com/photo-1676136449197-babffb1125f0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzl8MHwxfHNlYXJjaHwxNXx8bW9ub2Nocm9tZSUyMGJvbGQlMjBjb2xvciUyMHJvb218ZW58MHwxfHx8MTc4MzE3NDAxNnww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_F5pTTvz63Bg.jpg",
+            "https://images.unsplash.com/photo-1676136449197-babffb1125f0?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzl8MHwxfHNlYXJjaHwxNXx8bW9ub2Nocm9tZSUyMGJvbGQlMjBjb2xvciUyMHJvb218ZW58MHwxfHx8MTc4MzE3NDAxNnww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Elshan Neymatov",
+          "authorUrl": "https://unsplash.com/@neymetov?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_lYLeIM2W-cw",
+          "name": "round white base glass-top coffee table near two black chairs",
+          "thumb": "https://images.unsplash.com/photo-1533008093099-e2681382639a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzl8MHwxfHNlYXJjaHwxM3x8bW9ub2Nocm9tZSUyMGJvbGQlMjBjb2xvciUyMHJvb218ZW58MHwxfHx8MTc4MzE3NDAxNnww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_lYLeIM2W-cw.jpg",
+            "https://images.unsplash.com/photo-1533008093099-e2681382639a?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzl8MHwxfHNlYXJjaHwxM3x8bW9ub2Nocm9tZSUyMGJvbGQlMjBjb2xvciUyMHJvb218ZW58MHwxfHx8MTc4MzE3NDAxNnww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Stefen Tan",
+          "authorUrl": "https://unsplash.com/@stefentan?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_7fQlfXrUmY4",
+          "name": "Modern living room with arched doorway and abstract art.",
+          "thumb": "https://images.unsplash.com/photo-1758972581214-5698c7c4bab3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzl8MHwxfHNlYXJjaHwxN3x8bW9ub2Nocm9tZSUyMGJvbGQlMjBjb2xvciUyMHJvb218ZW58MHwxfHx8MTc4MzE3NDAxNnww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_7fQlfXrUmY4.jpg",
+            "https://images.unsplash.com/photo-1758972581214-5698c7c4bab3?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzl8MHwxfHNlYXJjaHwxN3x8bW9ub2Nocm9tZSUyMGJvbGQlMjBjb2xvciUyMHJvb218ZW58MHwxfHx8MTc4MzE3NDAxNnww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "SUHER DAA",
+          "authorUrl": "https://unsplash.com/@suher90?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_kXg2KRuxcgI",
+          "name": "white ceramic angel figurine on white table",
+          "thumb": "https://images.unsplash.com/photo-1600421719060-f18eba3cba4d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzl8MHwxfHNlYXJjaHwyNHx8bW9ub2Nocm9tZSUyMGJvbGQlMjBjb2xvciUyMHJvb218ZW58MHwxfHx8MTc4MzE3NDAxNnww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_kXg2KRuxcgI.jpg",
+            "https://images.unsplash.com/photo-1600421719060-f18eba3cba4d?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzl8MHwxfHNlYXJjaHwyNHx8bW9ub2Nocm9tZSUyMGJvbGQlMjBjb2xvciUyMHJvb218ZW58MHwxfHx8MTc4MzE3NDAxNnww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Xie Yujie Nick",
+          "authorUrl": "https://unsplash.com/@xieyujie?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_ZxD6fLc91LE",
+          "name": "orange and white metal chair next to wall",
+          "thumb": "https://images.unsplash.com/photo-1554465967-36697f5d78a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzl8MHwxfHNlYXJjaHwyMXx8bW9ub2Nocm9tZSUyMGJvbGQlMjBjb2xvciUyMHJvb218ZW58MHwxfHx8MTc4MzE3NDAxNnww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_ZxD6fLc91LE.jpg",
+            "https://images.unsplash.com/photo-1554465967-36697f5d78a1?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzl8MHwxfHNlYXJjaHwyMXx8bW9ub2Nocm9tZSUyMGJvbGQlMjBjb2xvciUyMHJvb218ZW58MHwxfHx8MTc4MzE3NDAxNnww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Toa Heftiba",
+          "authorUrl": "https://unsplash.com/@heftiba?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_tvvVD9zp9OY",
+          "name": "A purple and white bedroom with a bed",
+          "thumb": "https://images.unsplash.com/photo-1724861233619-0de2412a967a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzl8MHwxfHNlYXJjaHwyMnx8bW9ub2Nocm9tZSUyMGJvbGQlMjBjb2xvciUyMHJvb218ZW58MHwxfHx8MTc4MzE3NDAxNnww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_tvvVD9zp9OY.jpg",
+            "https://images.unsplash.com/photo-1724861233619-0de2412a967a?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzl8MHwxfHNlYXJjaHwyMnx8bW9ub2Nocm9tZSUyMGJvbGQlMjBjb2xvciUyMHJvb218ZW58MHwxfHx8MTc4MzE3NDAxNnww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "The Prototype",
+          "authorUrl": "https://unsplash.com/@theprototype?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_4pr8uZW4DG4",
+          "name": "a woman sitting on a bench in front of a colorful wall",
+          "thumb": "https://images.unsplash.com/photo-1595871465907-19020bb76ad1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzl8MHwxfHNlYXJjaHwyMHx8bW9ub2Nocm9tZSUyMGJvbGQlMjBjb2xvciUyMHJvb218ZW58MHwxfHx8MTc4MzE3NDAxNnww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_4pr8uZW4DG4.jpg",
+            "https://images.unsplash.com/photo-1595871465907-19020bb76ad1?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzl8MHwxfHNlYXJjaHwyMHx8bW9ub2Nocm9tZSUyMGJvbGQlMjBjb2xvciUyMHJvb218ZW58MHwxfHx8MTc4MzE3NDAxNnww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Taylor Heery",
+          "authorUrl": "https://unsplash.com/@taylorheeryphoto?utm_source=PhotoMaker&utm_medium=referral"
         }
       ]
     },
