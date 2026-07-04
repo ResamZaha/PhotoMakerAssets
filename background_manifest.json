@@ -1,5 +1,5 @@
 {
-  "version": 652,
+  "version": 689,
   "categories": [
     {
       "name": "Abstract",
@@ -2636,6 +2636,248 @@
           ],
           "author": "wal_172619",
           "authorUrl": "https://pixabay.com/users/wal_172619-12138562/"
+        },
+        {
+          "id": "unsplash_wDaWqcolhWU",
+          "name": "a man in a suit and tie standing in front of a wall",
+          "thumb": "https://images.unsplash.com/photo-1639430257115-f63af9eab97d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzF8MHwxfHNlYXJjaHwxfHxzb2xpZCUyMGNvbG9yJTIwd2FsbHxlbnwwfDF8fHwxNzgzMTczNjU0fDA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_wDaWqcolhWU.jpg",
+            "https://images.unsplash.com/photo-1639430257115-f63af9eab97d?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzF8MHwxfHNlYXJjaHwxfHxzb2xpZCUyMGNvbG9yJTIwd2FsbHxlbnwwfDF8fHwxNzgzMTczNjU0fDA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Eszter Sólyom",
+          "authorUrl": "https://unsplash.com/@e_solyom?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_-PR9_Thsu6E",
+          "name": "pink concrete surface",
+          "thumb": "https://images.unsplash.com/photo-1532512234395-87844301a51e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzF8MHwxfHNlYXJjaHw2fHxzb2xpZCUyMGNvbG9yJTIwd2FsbHxlbnwwfDF8fHwxNzgzMTczNjU0fDA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_-PR9_Thsu6E.jpg",
+            "https://images.unsplash.com/photo-1532512234395-87844301a51e?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzF8MHwxfHNlYXJjaHw2fHxzb2xpZCUyMGNvbG9yJTIwd2FsbHxlbnwwfDF8fHwxNzgzMTczNjU0fDA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Renee Lin",
+          "authorUrl": "https://unsplash.com/@capsule929?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_NJgS8TCHmPs",
+          "name": "white wall paint with black textile",
+          "thumb": "https://images.unsplash.com/photo-1589307693556-7286ae38293c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzF8MHwxfHNlYXJjaHwzfHxzb2xpZCUyMGNvbG9yJTIwd2FsbHxlbnwwfDF8fHwxNzgzMTczNjU0fDA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_NJgS8TCHmPs.jpg",
+            "https://images.unsplash.com/photo-1589307693556-7286ae38293c?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzF8MHwxfHNlYXJjaHwzfHxzb2xpZCUyMGNvbG9yJTIwd2FsbHxlbnwwfDF8fHwxNzgzMTczNjU0fDA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Andreas Becker",
+          "authorUrl": "https://unsplash.com/@andreasbecker?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_kgqu_qs3B78",
+          "name": "pink and yellow wall paint",
+          "thumb": "https://images.unsplash.com/photo-1560015534-cee980ba7e13?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzF8MHwxfHNlYXJjaHw5fHxzb2xpZCUyMGNvbG9yJTIwd2FsbHxlbnwwfDF8fHwxNzgzMTczNjU0fDA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_kgqu_qs3B78.jpg",
+            "https://images.unsplash.com/photo-1560015534-cee980ba7e13?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzF8MHwxfHNlYXJjaHw5fHxzb2xpZCUyMGNvbG9yJTIwd2FsbHxlbnwwfDF8fHwxNzgzMTczNjU0fDA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Fatih",
+          "authorUrl": "https://unsplash.com/@fatihwashere?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_1QuI4wunn7c",
+          "name": "blue and orange painted wall",
+          "thumb": "https://images.unsplash.com/photo-1579428036809-21c58dcbf455?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzF8MHwxfHNlYXJjaHwxNXx8c29saWQlMjBjb2xvciUyMHdhbGx8ZW58MHwxfHx8MTc4MzE3MzY1NHww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_1QuI4wunn7c.jpg",
+            "https://images.unsplash.com/photo-1579428036809-21c58dcbf455?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzF8MHwxfHNlYXJjaHwxNXx8c29saWQlMjBjb2xvciUyMHdhbGx8ZW58MHwxfHx8MTc4MzE3MzY1NHww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Ricardo Vergilio",
+          "authorUrl": "https://unsplash.com/@ricardovergilio?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_0lEn122_OGA",
+          "name": "green palm tree beside green wall",
+          "thumb": "https://images.unsplash.com/photo-1598648173055-26234607ca11?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzF8MHwxfHNlYXJjaHwxNnx8c29saWQlMjBjb2xvciUyMHdhbGx8ZW58MHwxfHx8MTc4MzE3MzY1NHww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_0lEn122_OGA.jpg",
+            "https://images.unsplash.com/photo-1598648173055-26234607ca11?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzF8MHwxfHNlYXJjaHwxNnx8c29saWQlMjBjb2xvciUyMHdhbGx8ZW58MHwxfHx8MTc4MzE3MzY1NHww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Toa Heftiba",
+          "authorUrl": "https://unsplash.com/@heftiba?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_WNTBJbZL13M",
+          "name": "a red wall with peeling paint on it",
+          "thumb": "https://images.unsplash.com/photo-1717857252651-f991c865285d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzF8MHwxfHNlYXJjaHw3fHxzb2xpZCUyMGNvbG9yJTIwd2FsbHxlbnwwfDF8fHwxNzgzMTczNjU0fDA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_WNTBJbZL13M.jpg",
+            "https://images.unsplash.com/photo-1717857252651-f991c865285d?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzF8MHwxfHNlYXJjaHw3fHxzb2xpZCUyMGNvbG9yJTIwd2FsbHxlbnwwfDF8fHwxNzgzMTczNjU0fDA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Danielle Suijkerbuijk",
+          "authorUrl": "https://unsplash.com/@vandaantje?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_a64KecA1U6k",
+          "name": "pink textile with green paint",
+          "thumb": "https://images.unsplash.com/flagged/photo-1581716579278-6e53ffdd06b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzF8MHwxfHNlYXJjaHwyM3x8c29saWQlMjBjb2xvciUyMHdhbGx8ZW58MHwxfHx8MTc4MzE3MzY1NHww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_a64KecA1U6k.jpg",
+            "https://images.unsplash.com/flagged/photo-1581716579278-6e53ffdd06b8?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzF8MHwxfHNlYXJjaHwyM3x8c29saWQlMjBjb2xvciUyMHdhbGx8ZW58MHwxfHx8MTc4MzE3MzY1NHww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Julien Juanola",
+          "authorUrl": "https://unsplash.com/@jjuanola?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_66ydMRXW-b8",
+          "name": "a green wall with a plant in front of it",
+          "thumb": "https://images.unsplash.com/photo-1687873803593-8dbd3bb5e94d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzF8MHwxfHNlYXJjaHwyMXx8c29saWQlMjBjb2xvciUyMHdhbGx8ZW58MHwxfHx8MTc4MzE3MzY1NHww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_66ydMRXW-b8.jpg",
+            "https://images.unsplash.com/photo-1687873803593-8dbd3bb5e94d?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzF8MHwxfHNlYXJjaHwyMXx8c29saWQlMjBjb2xvciUyMHdhbGx8ZW58MHwxfHx8MTc4MzE3MzY1NHww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Danielle Suijkerbuijk",
+          "authorUrl": "https://unsplash.com/@vandaantje?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_62P0MnGIE9o",
+          "name": "orange wall paint near brown wooden table",
+          "thumb": "https://images.unsplash.com/photo-1619891059344-ee1c029b6347?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzF8MHwxfHNlYXJjaHwxOXx8c29saWQlMjBjb2xvciUyMHdhbGx8ZW58MHwxfHx8MTc4MzE3MzY1NHww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_62P0MnGIE9o.jpg",
+            "https://images.unsplash.com/photo-1619891059344-ee1c029b6347?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzF8MHwxfHNlYXJjaHwxOXx8c29saWQlMjBjb2xvciUyMHdhbGx8ZW58MHwxfHx8MTc4MzE3MzY1NHww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Marcus Lenk",
+          "authorUrl": "https://unsplash.com/@marcuslenk?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_wLKAk3yLlDU",
+          "name": "a man sitting on a bench in front of a red wall",
+          "thumb": "https://images.unsplash.com/photo-1710931088413-274eade380db?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzF8MHwxfHNlYXJjaHwyNHx8c29saWQlMjBjb2xvciUyMHdhbGx8ZW58MHwxfHx8MTc4MzE3MzY1NHww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_wLKAk3yLlDU.jpg",
+            "https://images.unsplash.com/photo-1710931088413-274eade380db?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzF8MHwxfHNlYXJjaHwyNHx8c29saWQlMjBjb2xvciUyMHdhbGx8ZW58MHwxfHx8MTc4MzE3MzY1NHww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Yevhenii Deshko",
+          "authorUrl": "https://unsplash.com/@edeshko?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_vW3RrmPYQpI",
+          "name": "a close up of a red wall with a white clock on it",
+          "thumb": "https://images.unsplash.com/photo-1671494685095-68b5c92963e4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzF8MHwxfHNlYXJjaHwxMHx8c29saWQlMjBjb2xvciUyMHdhbGx8ZW58MHwxfHx8MTc4MzE3MzY1NHww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_vW3RrmPYQpI.jpg",
+            "https://images.unsplash.com/photo-1671494685095-68b5c92963e4?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzF8MHwxfHNlYXJjaHwxMHx8c29saWQlMjBjb2xvciUyMHdhbGx8ZW58MHwxfHx8MTc4MzE3MzY1NHww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "engin akyurt",
+          "authorUrl": "https://unsplash.com/@enginakyurt?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_EvWEHMvOeNA",
+          "name": "blue painted wall with white light",
+          "thumb": "https://images.unsplash.com/photo-1591547878024-b41bc082eb9e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzF8MHwxfHNlYXJjaHwzMHx8c29saWQlMjBjb2xvciUyMHdhbGx8ZW58MHwxfHx8MTc4MzE3MzY3M3ww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_EvWEHMvOeNA.jpg",
+            "https://images.unsplash.com/photo-1591547878024-b41bc082eb9e?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzF8MHwxfHNlYXJjaHwzMHx8c29saWQlMjBjb2xvciUyMHdhbGx8ZW58MHwxfHx8MTc4MzE3MzY3M3ww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Lu Calhoun",
+          "authorUrl": "https://unsplash.com/@kcalhoun?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_qx5fMfa2o4A",
+          "name": "a red and white wall with a white stripe",
+          "thumb": "https://images.unsplash.com/photo-1574573035339-303cffb5b280?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzF8MHwxfHNlYXJjaHwyOXx8c29saWQlMjBjb2xvciUyMHdhbGx8ZW58MHwxfHx8MTc4MzE3MzY3M3ww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_qx5fMfa2o4A.jpg",
+            "https://images.unsplash.com/photo-1574573035339-303cffb5b280?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzF8MHwxfHNlYXJjaHwyOXx8c29saWQlMjBjb2xvciUyMHdhbGx8ZW58MHwxfHx8MTc4MzE3MzY3M3ww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Avinash Kumar",
+          "authorUrl": "https://unsplash.com/@ashishjha?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_2Ymmajya194",
+          "name": "red brick wall",
+          "thumb": "https://images.unsplash.com/photo-1573597093593-ac01c6ff7b5b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzF8MHwxfHNlYXJjaHwyN3x8c29saWQlMjBjb2xvciUyMHdhbGx8ZW58MHwxfHx8MTc4MzE3MzY3M3ww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_2Ymmajya194.jpg",
+            "https://images.unsplash.com/photo-1573597093593-ac01c6ff7b5b?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzF8MHwxfHNlYXJjaHwyN3x8c29saWQlMjBjb2xvciUyMHdhbGx8ZW58MHwxfHx8MTc4MzE3MzY3M3ww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Mario Gogh",
+          "authorUrl": "https://unsplash.com/@mariogogh?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_2yIDex9z_1Q",
+          "name": "white wall paint beside brown concrete wall",
+          "thumb": "https://images.unsplash.com/photo-1620899200990-551e09f458c1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzF8MHwxfHNlYXJjaHwyNnx8c29saWQlMjBjb2xvciUyMHdhbGx8ZW58MHwxfHx8MTc4MzE3MzY3M3ww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_2yIDex9z_1Q.jpg",
+            "https://images.unsplash.com/photo-1620899200990-551e09f458c1?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzF8MHwxfHNlYXJjaHwyNnx8c29saWQlMjBjb2xvciUyMHdhbGx8ZW58MHwxfHx8MTc4MzE3MzY3M3ww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Yash Khanna",
+          "authorUrl": "https://unsplash.com/@imyashkh?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_BQx-V42bm04",
+          "name": "red and white painted wall",
+          "thumb": "https://images.unsplash.com/photo-1624121383476-a6336c08b594?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzF8MHwxfHNlYXJjaHwyOHx8c29saWQlMjBjb2xvciUyMHdhbGx8ZW58MHwxfHx8MTc4MzE3MzY3M3ww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_BQx-V42bm04.jpg",
+            "https://images.unsplash.com/photo-1624121383476-a6336c08b594?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzF8MHwxfHNlYXJjaHwyOHx8c29saWQlMjBjb2xvciUyMHdhbGx8ZW58MHwxfHx8MTc4MzE3MzY3M3ww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Yash Khanna",
+          "authorUrl": "https://unsplash.com/@imyashkh?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_tnD_L-MxaP8",
+          "name": "white light switch on blue wall",
+          "thumb": "https://images.unsplash.com/photo-1629048391764-65d5774da1a8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzF8MHwxfHNlYXJjaHwzM3x8c29saWQlMjBjb2xvciUyMHdhbGx8ZW58MHwxfHx8MTc4MzE3MzY3M3ww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_tnD_L-MxaP8.jpg",
+            "https://images.unsplash.com/photo-1629048391764-65d5774da1a8?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzF8MHwxfHNlYXJjaHwzM3x8c29saWQlMjBjb2xvciUyMHdhbGx8ZW58MHwxfHx8MTc4MzE3MzY3M3ww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "alex",
+          "authorUrl": "https://unsplash.com/@alexzahn?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_QLU3o4Xnp_8",
+          "name": "a bird is perched on top of a building",
+          "thumb": "https://images.unsplash.com/photo-1681041321033-252b89be298c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzF8MHwxfHNlYXJjaHwzN3x8c29saWQlMjBjb2xvciUyMHdhbGx8ZW58MHwxfHx8MTc4MzE3MzY3M3ww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_QLU3o4Xnp_8.jpg",
+            "https://images.unsplash.com/photo-1681041321033-252b89be298c?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzF8MHwxfHNlYXJjaHwzN3x8c29saWQlMjBjb2xvciUyMHdhbGx8ZW58MHwxfHx8MTc4MzE3MzY3M3ww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "aboodi vesakaran",
+          "authorUrl": "https://unsplash.com/@aboodi_vm?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_l_tKX_yJ_yU",
+          "name": "A white and blue wall with a white and blue stripe",
+          "thumb": "https://images.unsplash.com/photo-1739900726068-f613e930c809?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzF8MHwxfHNlYXJjaHwyNXx8c29saWQlMjBjb2xvciUyMHdhbGx8ZW58MHwxfHx8MTc4MzE3MzY3M3ww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_l_tKX_yJ_yU.jpg",
+            "https://images.unsplash.com/photo-1739900726068-f613e930c809?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzF8MHwxfHNlYXJjaHwyNXx8c29saWQlMjBjb2xvciUyMHdhbGx8ZW58MHwxfHx8MTc4MzE3MzY3M3ww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Sankalp Mudaliar",
+          "authorUrl": "https://unsplash.com/@sankalpmudaliar?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_U1x1AHOQFxQ",
+          "name": "blue and purple painted wall",
+          "thumb": "https://images.unsplash.com/photo-1589311265648-806fce159af3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzF8MHwxfHNlYXJjaHwzNHx8c29saWQlMjBjb2xvciUyMHdhbGx8ZW58MHwxfHx8MTc4MzE3MzY3M3ww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_U1x1AHOQFxQ.jpg",
+            "https://images.unsplash.com/photo-1589311265648-806fce159af3?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzF8MHwxfHNlYXJjaHwzNHx8c29saWQlMjBjb2xvciUyMHdhbGx8ZW58MHwxfHx8MTc4MzE3MzY3M3ww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Thomas Louis Camy",
+          "authorUrl": "https://unsplash.com/@saucissedeluxe?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_DFlGqfkVpYY",
+          "name": "white wall scones",
+          "thumb": "https://images.unsplash.com/photo-1568625867282-cd76c678bf9d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzF8MHwxfHNlYXJjaHwzMXx8c29saWQlMjBjb2xvciUyMHdhbGx8ZW58MHwxfHx8MTc4MzE3MzY3M3ww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_DFlGqfkVpYY.jpg",
+            "https://images.unsplash.com/photo-1568625867282-cd76c678bf9d?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzF8MHwxfHNlYXJjaHwzMXx8c29saWQlMjBjb2xvciUyMHdhbGx8ZW58MHwxfHx8MTc4MzE3MzY3M3ww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Claudio Schwarz",
+          "authorUrl": "https://unsplash.com/@purzlbaum?utm_source=PhotoMaker&utm_medium=referral"
         }
       ]
     },
@@ -3797,6 +4039,171 @@
           ],
           "author": "Hannah Denchfield",
           "authorUrl": "https://unsplash.com/@hanlucy_22?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_0CZfZ8LtOyg",
+          "name": "a close up of a pink wooden wall",
+          "thumb": "https://images.unsplash.com/photo-1645542483018-ca1b69579856?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzF8MHwxfHNlYXJjaHwxNnx8cGFpbnRlZCUyMGRpc3RyZXNzZWQlMjB3b29kJTIwdml2aWR8ZW58MHwxfHx8MTc4MzE3MzYwNXww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Textures%20%26%20Patterns/unsplash_0CZfZ8LtOyg.jpg",
+            "https://images.unsplash.com/photo-1645542483018-ca1b69579856?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzF8MHwxfHNlYXJjaHwxNnx8cGFpbnRlZCUyMGRpc3RyZXNzZWQlMjB3b29kJTIwdml2aWR8ZW58MHwxfHx8MTc4MzE3MzYwNXww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "sydney Rae",
+          "authorUrl": "https://unsplash.com/@srz?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_-Lxn5YQeneo",
+          "name": "A close up of a wooden surface with blue paint",
+          "thumb": "https://images.unsplash.com/photo-1737046244872-930c24fc24ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzF8MHwxfHNlYXJjaHwxNXx8cGFpbnRlZCUyMGRpc3RyZXNzZWQlMjB3b29kJTIwdml2aWR8ZW58MHwxfHx8MTc4MzE3MzYwNXww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Textures%20%26%20Patterns/unsplash_-Lxn5YQeneo.jpg",
+            "https://images.unsplash.com/photo-1737046244872-930c24fc24ae?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzF8MHwxfHNlYXJjaHwxNXx8cGFpbnRlZCUyMGRpc3RyZXNzZWQlMjB3b29kJTIwdml2aWR8ZW58MHwxfHx8MTc4MzE3MzYwNXww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Maria Kovalets",
+          "authorUrl": "https://unsplash.com/@marylooo?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_4IuhZpSzadg",
+          "name": "beige painted wooden wall",
+          "thumb": "https://images.unsplash.com/photo-1559951947-d37652bb77d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzF8MHwxfHNlYXJjaHwxMXx8cGFpbnRlZCUyMGRpc3RyZXNzZWQlMjB3b29kJTIwdml2aWR8ZW58MHwxfHx8MTc4MzE3MzYwNXww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Textures%20%26%20Patterns/unsplash_4IuhZpSzadg.jpg",
+            "https://images.unsplash.com/photo-1559951947-d37652bb77d8?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzF8MHwxfHNlYXJjaHwxMXx8cGFpbnRlZCUyMGRpc3RyZXNzZWQlMjB3b29kJTIwdml2aWR8ZW58MHwxfHx8MTc4MzE3MzYwNXww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "John Doyle",
+          "authorUrl": "https://unsplash.com/@hyw1?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_G4F3rs064_Y",
+          "name": "Weathered blue wooden door with peeling paint",
+          "thumb": "https://images.unsplash.com/photo-1773687746116-311b359e29b9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzF8MHwxfHNlYXJjaHwxM3x8cGFpbnRlZCUyMGRpc3RyZXNzZWQlMjB3b29kJTIwdml2aWR8ZW58MHwxfHx8MTc4MzE3MzYwNXww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Textures%20%26%20Patterns/unsplash_G4F3rs064_Y.jpg",
+            "https://images.unsplash.com/photo-1773687746116-311b359e29b9?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzF8MHwxfHNlYXJjaHwxM3x8cGFpbnRlZCUyMGRpc3RyZXNzZWQlMjB3b29kJTIwdml2aWR8ZW58MHwxfHx8MTc4MzE3MzYwNXww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Siem",
+          "authorUrl": "https://unsplash.com/@justsiempie?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_8UbctF9iLwg",
+          "name": "a cat sitting on a bench in front of a window",
+          "thumb": "https://images.unsplash.com/photo-1654362977848-8467e7dd7108?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzF8MHwxfHNlYXJjaHwxNHx8cGFpbnRlZCUyMGRpc3RyZXNzZWQlMjB3b29kJTIwdml2aWR8ZW58MHwxfHx8MTc4MzE3MzYwNXww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Textures%20%26%20Patterns/unsplash_8UbctF9iLwg.jpg",
+            "https://images.unsplash.com/photo-1654362977848-8467e7dd7108?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzF8MHwxfHNlYXJjaHwxNHx8cGFpbnRlZCUyMGRpc3RyZXNzZWQlMjB3b29kJTIwdml2aWR8ZW58MHwxfHx8MTc4MzE3MzYwNXww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Denise Bossarte",
+          "authorUrl": "https://unsplash.com/@dbossarte?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_vryViHY2Qhc",
+          "name": "teal wooden window door",
+          "thumb": "https://images.unsplash.com/photo-1575219697909-ffd1dee0ba34?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzF8MHwxfHNlYXJjaHwxMnx8cGFpbnRlZCUyMGRpc3RyZXNzZWQlMjB3b29kJTIwdml2aWR8ZW58MHwxfHx8MTc4MzE3MzYwNXww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Textures%20%26%20Patterns/unsplash_vryViHY2Qhc.jpg",
+            "https://images.unsplash.com/photo-1575219697909-ffd1dee0ba34?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzF8MHwxfHNlYXJjaHwxMnx8cGFpbnRlZCUyMGRpc3RyZXNzZWQlMjB3b29kJTIwdml2aWR8ZW58MHwxfHx8MTc4MzE3MzYwNXww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Matt Briney",
+          "authorUrl": "https://unsplash.com/@mbriney?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_ZEPYKd_SGbE",
+          "name": "background pattern",
+          "thumb": "https://images.unsplash.com/photo-1657198355177-407c7e107050?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzF8MHwxfHNlYXJjaHwxOXx8cGFpbnRlZCUyMGRpc3RyZXNzZWQlMjB3b29kJTIwdml2aWR8ZW58MHwxfHx8MTc4MzE3MzYwNXww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Textures%20%26%20Patterns/unsplash_ZEPYKd_SGbE.jpg",
+            "https://images.unsplash.com/photo-1657198355177-407c7e107050?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzF8MHwxfHNlYXJjaHwxOXx8cGFpbnRlZCUyMGRpc3RyZXNzZWQlMjB3b29kJTIwdml2aWR8ZW58MHwxfHx8MTc4MzE3MzYwNXww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "muhammad asif",
+          "authorUrl": "https://unsplash.com/@ashoophotography?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash__3aVxjNYrrY",
+          "name": "A close up of a purple wood texture",
+          "thumb": "https://images.unsplash.com/photo-1737046244351-5d37be2e7deb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzF8MHwxfHNlYXJjaHwxOHx8cGFpbnRlZCUyMGRpc3RyZXNzZWQlMjB3b29kJTIwdml2aWR8ZW58MHwxfHx8MTc4MzE3MzYwNXww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Textures%20%26%20Patterns/unsplash__3aVxjNYrrY.jpg",
+            "https://images.unsplash.com/photo-1737046244351-5d37be2e7deb?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzF8MHwxfHNlYXJjaHwxOHx8cGFpbnRlZCUyMGRpc3RyZXNzZWQlMjB3b29kJTIwdml2aWR8ZW58MHwxfHx8MTc4MzE3MzYwNXww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Maria Kovalets",
+          "authorUrl": "https://unsplash.com/@marylooo?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_N4RF-GCrDec",
+          "name": "a close up of a wall",
+          "thumb": "https://images.unsplash.com/photo-1663427900510-acdf4098acf3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzF8MHwxfHNlYXJjaHwyNHx8cGFpbnRlZCUyMGRpc3RyZXNzZWQlMjB3b29kJTIwdml2aWR8ZW58MHwxfHx8MTc4MzE3MzYwNXww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Textures%20%26%20Patterns/unsplash_N4RF-GCrDec.jpg",
+            "https://images.unsplash.com/photo-1663427900510-acdf4098acf3?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzF8MHwxfHNlYXJjaHwyNHx8cGFpbnRlZCUyMGRpc3RyZXNzZWQlMjB3b29kJTIwdml2aWR8ZW58MHwxfHx8MTc4MzE3MzYwNXww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Julia Kun",
+          "authorUrl": "https://unsplash.com/@juliakun?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_QAe6mFRDFuw",
+          "name": "Textured blue paint with cracks and imperfections.",
+          "thumb": "https://images.unsplash.com/photo-1741935724780-6602653c8252?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzF8MHwxfHNlYXJjaHwyMnx8cGFpbnRlZCUyMGRpc3RyZXNzZWQlMjB3b29kJTIwdml2aWR8ZW58MHwxfHx8MTc4MzE3MzYwNXww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Textures%20%26%20Patterns/unsplash_QAe6mFRDFuw.jpg",
+            "https://images.unsplash.com/photo-1741935724780-6602653c8252?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzF8MHwxfHNlYXJjaHwyMnx8cGFpbnRlZCUyMGRpc3RyZXNzZWQlMjB3b29kJTIwdml2aWR8ZW58MHwxfHx8MTc4MzE3MzYwNXww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Julian Rösner",
+          "authorUrl": "https://unsplash.com/@kipfarl?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_Nq4RgzpcKR4",
+          "name": "a close up of a piece of wood with yellow and green paint",
+          "thumb": "https://images.unsplash.com/photo-1577026696753-bb0e14d91368?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzF8MHwxfHNlYXJjaHwxN3x8cGFpbnRlZCUyMGRpc3RyZXNzZWQlMjB3b29kJTIwdml2aWR8ZW58MHwxfHx8MTc4MzE3MzYwNXww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Textures%20%26%20Patterns/unsplash_Nq4RgzpcKR4.jpg",
+            "https://images.unsplash.com/photo-1577026696753-bb0e14d91368?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzF8MHwxfHNlYXJjaHwxN3x8cGFpbnRlZCUyMGRpc3RyZXNzZWQlMjB3b29kJTIwdml2aWR8ZW58MHwxfHx8MTc4MzE3MzYwNXww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Zdeněk Macháček",
+          "authorUrl": "https://unsplash.com/@zmachacek?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_HXOQ5fCKYIE",
+          "name": "brown wooden surface with white paint",
+          "thumb": "https://images.unsplash.com/photo-1590953112901-11ce3e7c5601?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzF8MHwxfHNlYXJjaHwyM3x8cGFpbnRlZCUyMGRpc3RyZXNzZWQlMjB3b29kJTIwdml2aWR8ZW58MHwxfHx8MTc4MzE3MzYwNXww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Textures%20%26%20Patterns/unsplash_HXOQ5fCKYIE.jpg",
+            "https://images.unsplash.com/photo-1590953112901-11ce3e7c5601?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzF8MHwxfHNlYXJjaHwyM3x8cGFpbnRlZCUyMGRpc3RyZXNzZWQlMjB3b29kJTIwdml2aWR8ZW58MHwxfHx8MTc4MzE3MzYwNXww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Ivan Rohovchenko",
+          "authorUrl": "https://unsplash.com/@ivrn?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_3E7ByNYt1Ds",
+          "name": "a wooden wall with peeling paint on it",
+          "thumb": "https://images.unsplash.com/photo-1643117389526-5e8b6abbcde1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzF8MHwxfHNlYXJjaHwyMXx8cGFpbnRlZCUyMGRpc3RyZXNzZWQlMjB3b29kJTIwdml2aWR8ZW58MHwxfHx8MTc4MzE3MzYwNXww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Textures%20%26%20Patterns/unsplash_3E7ByNYt1Ds.jpg",
+            "https://images.unsplash.com/photo-1643117389526-5e8b6abbcde1?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzF8MHwxfHNlYXJjaHwyMXx8cGFpbnRlZCUyMGRpc3RyZXNzZWQlMjB3b29kJTIwdml2aWR8ZW58MHwxfHx8MTc4MzE3MzYwNXww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Killari Hotaru",
+          "authorUrl": "https://unsplash.com/@killari_hotaru?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_8XuDN99UTLw",
+          "name": "green and brown wooden surface",
+          "thumb": "https://images.unsplash.com/photo-1619263873947-ed9fe3d08f27?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzF8MHwxfHNlYXJjaHwyMHx8cGFpbnRlZCUyMGRpc3RyZXNzZWQlMjB3b29kJTIwdml2aWR8ZW58MHwxfHx8MTc4MzE3MzYwNXww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Textures%20%26%20Patterns/unsplash_8XuDN99UTLw.jpg",
+            "https://images.unsplash.com/photo-1619263873947-ed9fe3d08f27?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzF8MHwxfHNlYXJjaHwyMHx8cGFpbnRlZCUyMGRpc3RyZXNzZWQlMjB3b29kJTIwdml2aWR8ZW58MHwxfHx8MTc4MzE3MzYwNXww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Martin de Arriba",
+          "authorUrl": "https://unsplash.com/@martindearriba?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_4XPpSn9hysM",
+          "name": "A close up of a wood texture with red paint",
+          "thumb": "https://images.unsplash.com/photo-1737046274618-b39aae1551bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzF8MHwxfHNlYXJjaHw3fHxwYWludGVkJTIwZGlzdHJlc3NlZCUyMHdvb2QlMjB2aXZpZHxlbnwwfDF8fHwxNzgzMTczNjA1fDA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Textures%20%26%20Patterns/unsplash_4XPpSn9hysM.jpg",
+            "https://images.unsplash.com/photo-1737046274618-b39aae1551bd?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzF8MHwxfHNlYXJjaHw3fHxwYWludGVkJTIwZGlzdHJlc3NlZCUyMHdvb2QlMjB2aXZpZHxlbnwwfDF8fHwxNzgzMTczNjA1fDA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Maria Kovalets",
+          "authorUrl": "https://unsplash.com/@marylooo?utm_source=PhotoMaker&utm_medium=referral"
         }
       ]
     },
