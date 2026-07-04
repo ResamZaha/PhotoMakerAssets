@@ -1,5 +1,5 @@
 {
-  "version": 817,
+  "version": 819,
   "categories": [
     {
       "name": "Abstract",
@@ -4286,6 +4286,28 @@
           ],
           "author": "Hai Nguyen",
           "authorUrl": "https://unsplash.com/@hai_nguyen?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_TTOxVvBOHEs",
+          "name": "Shadows cast on a tiled floor in black and white.",
+          "thumb": "https://images.unsplash.com/photo-1759803526018-49bad8efb5a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwNDJ8MHwxfHNlYXJjaHwyNHx8YWJzdHJhY3QlMjBzaGFkb3clMjBwYXR0ZXJuc3xlbnwwfDF8fHwxNzgzMTc0MTczfDA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_TTOxVvBOHEs.jpg",
+            "https://images.unsplash.com/photo-1759803526018-49bad8efb5a6?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwNDJ8MHwxfHNlYXJjaHwyNHx8YWJzdHJhY3QlMjBzaGFkb3clMjBwYXR0ZXJuc3xlbnwwfDF8fHwxNzgzMTc0MTczfDA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Turquo Cabbit",
+          "authorUrl": "https://unsplash.com/@turquocabbit?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_6p_5zDApTOk",
+          "name": "Shadows of a window frame on a wall",
+          "thumb": "https://images.unsplash.com/photo-1764701913299-baf332d9d773?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwNDJ8MHwxfHNlYXJjaHw2fHxhYnN0cmFjdCUyMHNoYWRvdyUyMHBhdHRlcm5zfGVufDB8MXx8fDE3ODMxNzQxNzN8MA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_6p_5zDApTOk.jpg",
+            "https://images.unsplash.com/photo-1764701913299-baf332d9d773?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwNDJ8MHwxfHNlYXJjaHw2fHxhYnN0cmFjdCUyMHNoYWRvdyUyMHBhdHRlcm5zfGVufDB8MXx8fDE3ODMxNzQxNzN8MA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Mohit Deorukhkar",
+          "authorUrl": "https://unsplash.com/@mohitd33?utm_source=PhotoMaker&utm_medium=referral"
         }
       ]
     },
