@@ -1,5 +1,5 @@
 {
-  "version": 689,
+  "version": 749,
   "categories": [
     {
       "name": "Abstract",
@@ -2878,6 +2878,666 @@
           ],
           "author": "Claudio Schwarz",
           "authorUrl": "https://unsplash.com/@purzlbaum?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_jAWfDKxRraI",
+          "name": "a black and white photo of a concrete wall",
+          "thumb": "https://images.unsplash.com/photo-1565710545039-46c9a7d22959?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzh8MHwxfHNlYXJjaHwxfHxzdHVkaW8lMjBiYWNrZHJvcHxlbnwwfDF8fHwxNzgzMTczNzgyfDA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_jAWfDKxRraI.jpg",
+            "https://images.unsplash.com/photo-1565710545039-46c9a7d22959?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzh8MHwxfHNlYXJjaHwxfHxzdHVkaW8lMjBiYWNrZHJvcHxlbnwwfDF8fHwxNzgzMTczNzgyfDA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Tina Dawson",
+          "authorUrl": "https://unsplash.com/@leyameera?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_RnCPiXixooY",
+          "name": "multicolored hallway",
+          "thumb": "https://images.unsplash.com/photo-1500462918059-b1a0cb512f1d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzh8MHwxfHNlYXJjaHw0fHxzdHVkaW8lMjBiYWNrZHJvcHxlbnwwfDF8fHwxNzgzMTczNzgyfDA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_RnCPiXixooY.jpg",
+            "https://images.unsplash.com/photo-1500462918059-b1a0cb512f1d?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzh8MHwxfHNlYXJjaHw0fHxzdHVkaW8lMjBiYWNrZHJvcHxlbnwwfDF8fHwxNzgzMTczNzgyfDA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Efe Kurnaz",
+          "authorUrl": "https://unsplash.com/@efekurnaz?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_qgroY21I-vM",
+          "name": "A living room with a couch and a table",
+          "thumb": "https://images.unsplash.com/photo-1736580602219-03866c53ec2d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzh8MHwxfHNlYXJjaHw4fHxzdHVkaW8lMjBiYWNrZHJvcHxlbnwwfDF8fHwxNzgzMTczNzgyfDA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_qgroY21I-vM.jpg",
+            "https://images.unsplash.com/photo-1736580602219-03866c53ec2d?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzh8MHwxfHNlYXJjaHw4fHxzdHVkaW8lMjBiYWNrZHJvcHxlbnwwfDF8fHwxNzgzMTczNzgyfDA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Neon Wang",
+          "authorUrl": "https://unsplash.com/@neonwangphotography?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_CLvkkjb-i3g",
+          "name": "a red background with a rough texture of paper",
+          "thumb": "https://images.unsplash.com/photo-1537204319452-fdbd29e2ccc7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzh8MHwxfHNlYXJjaHwyfHxzdHVkaW8lMjBiYWNrZHJvcHxlbnwwfDF8fHwxNzgzMTczNzgyfDA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_CLvkkjb-i3g.jpg",
+            "https://images.unsplash.com/photo-1537204319452-fdbd29e2ccc7?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzh8MHwxfHNlYXJjaHwyfHxzdHVkaW8lMjBiYWNrZHJvcHxlbnwwfDF8fHwxNzgzMTczNzgyfDA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Valentin Salja",
+          "authorUrl": "https://unsplash.com/@valentinsalja?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_Zre04MQTBjA",
+          "name": "A photo studio with a white backdrop and light",
+          "thumb": "https://images.unsplash.com/photo-1736580602204-b940bb0423ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzh8MHwxfHNlYXJjaHwxMXx8c3R1ZGlvJTIwYmFja2Ryb3B8ZW58MHwxfHx8MTc4MzE3Mzc4Mnww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_Zre04MQTBjA.jpg",
+            "https://images.unsplash.com/photo-1736580602204-b940bb0423ec?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzh8MHwxfHNlYXJjaHwxMXx8c3R1ZGlvJTIwYmFja2Ryb3B8ZW58MHwxfHx8MTc4MzE3Mzc4Mnww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Neon Wang",
+          "authorUrl": "https://unsplash.com/@neonwangphotography?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_rwehU5A43SM",
+          "name": "edge of black and brown chair",
+          "thumb": "https://images.unsplash.com/photo-1571771826380-5c6d2ab513b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzh8MHwxfHNlYXJjaHw2fHxzdHVkaW8lMjBiYWNrZHJvcHxlbnwwfDF8fHwxNzgzMTczNzgyfDA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_rwehU5A43SM.jpg",
+            "https://images.unsplash.com/photo-1571771826380-5c6d2ab513b5?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzh8MHwxfHNlYXJjaHw2fHxzdHVkaW8lMjBiYWNrZHJvcHxlbnwwfDF8fHwxNzgzMTczNzgyfDA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Giorgio Trovato",
+          "authorUrl": "https://unsplash.com/@giorgiotrovato?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_AwsdyjRm-kw",
+          "name": "a red curtain with a black background",
+          "thumb": "https://images.unsplash.com/photo-1705944601101-fdb49dbf884c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzh8MHwxfHNlYXJjaHw3fHxzdHVkaW8lMjBiYWNrZHJvcHxlbnwwfDF8fHwxNzgzMTczNzgyfDA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_AwsdyjRm-kw.jpg",
+            "https://images.unsplash.com/photo-1705944601101-fdb49dbf884c?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzh8MHwxfHNlYXJjaHw3fHxzdHVkaW8lMjBiYWNrZHJvcHxlbnwwfDF8fHwxNzgzMTczNzgyfDA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Ambitious Studio* | Rick Barrett",
+          "authorUrl": "https://unsplash.com/@weareambitious?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_v1eZxr2AsVc",
+          "name": "brown wooden cabinet near white wall",
+          "thumb": "https://images.unsplash.com/photo-1608145607835-2af9282732c3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzh8MHwxfHNlYXJjaHwxNnx8c3R1ZGlvJTIwYmFja2Ryb3B8ZW58MHwxfHx8MTc4MzE3Mzc4Mnww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_v1eZxr2AsVc.jpg",
+            "https://images.unsplash.com/photo-1608145607835-2af9282732c3?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzh8MHwxfHNlYXJjaHwxNnx8c3R1ZGlvJTIwYmFja2Ryb3B8ZW58MHwxfHx8MTc4MzE3Mzc4Mnww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Blake Carpenter",
+          "authorUrl": "https://unsplash.com/@blakepnw?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_xHIFWYFJCII",
+          "name": "A white room with a chair and a curtain",
+          "thumb": "https://images.unsplash.com/photo-1736580602062-885256588e01?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzh8MHwxfHNlYXJjaHwyM3x8c3R1ZGlvJTIwYmFja2Ryb3B8ZW58MHwxfHx8MTc4MzE3Mzc4Mnww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_xHIFWYFJCII.jpg",
+            "https://images.unsplash.com/photo-1736580602062-885256588e01?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzh8MHwxfHNlYXJjaHwyM3x8c3R1ZGlvJTIwYmFja2Ryb3B8ZW58MHwxfHx8MTc4MzE3Mzc4Mnww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Neon Wang",
+          "authorUrl": "https://unsplash.com/@neonwangphotography?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_lOFxkKR3xBU",
+          "name": "A bunch of different colored umbrellas on a white floor",
+          "thumb": "https://images.unsplash.com/photo-1736580602099-c9367f32feaa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzh8MHwxfHNlYXJjaHwyMHx8c3R1ZGlvJTIwYmFja2Ryb3B8ZW58MHwxfHx8MTc4MzE3Mzc4Mnww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_lOFxkKR3xBU.jpg",
+            "https://images.unsplash.com/photo-1736580602099-c9367f32feaa?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzh8MHwxfHNlYXJjaHwyMHx8c3R1ZGlvJTIwYmFja2Ryb3B8ZW58MHwxfHx8MTc4MzE3Mzc4Mnww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Neon Wang",
+          "authorUrl": "https://unsplash.com/@neonwangphotography?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_gL1m6tB42pQ",
+          "name": "A room with a white table and a white light",
+          "thumb": "https://images.unsplash.com/photo-1736580602638-c5f157d6d6fb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzh8MHwxfHNlYXJjaHwyN3x8c3R1ZGlvJTIwYmFja2Ryb3B8ZW58MHwxfHx8MTc4MzE3MzgwNHww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_gL1m6tB42pQ.jpg",
+            "https://images.unsplash.com/photo-1736580602638-c5f157d6d6fb?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzh8MHwxfHNlYXJjaHwyN3x8c3R1ZGlvJTIwYmFja2Ryb3B8ZW58MHwxfHx8MTc4MzE3MzgwNHww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Neon Wang",
+          "authorUrl": "https://unsplash.com/@neonwangphotography?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_GD6aZtARTeo",
+          "name": "a disco ball sitting on top of a chair",
+          "thumb": "https://images.unsplash.com/photo-1677022738268-bcaf14850d23?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzh8MHwxfHNlYXJjaHwzNnx8c3R1ZGlvJTIwYmFja2Ryb3B8ZW58MHwxfHx8MTc4MzE3MzgwNHww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_GD6aZtARTeo.jpg",
+            "https://images.unsplash.com/photo-1677022738268-bcaf14850d23?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzh8MHwxfHNlYXJjaHwzNnx8c3R1ZGlvJTIwYmFja2Ryb3B8ZW58MHwxfHx8MTc4MzE3MzgwNHww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Marissa Lewis",
+          "authorUrl": "https://unsplash.com/@doscocoslocos?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_rOJHxNP6zJI",
+          "name": "A photo shoot of a table and stool in a room",
+          "thumb": "https://images.unsplash.com/photo-1736580602037-5c1da2d7e388?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzh8MHwxfHNlYXJjaHwyNXx8c3R1ZGlvJTIwYmFja2Ryb3B8ZW58MHwxfHx8MTc4MzE3MzgwNHww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_rOJHxNP6zJI.jpg",
+            "https://images.unsplash.com/photo-1736580602037-5c1da2d7e388?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzh8MHwxfHNlYXJjaHwyNXx8c3R1ZGlvJTIwYmFja2Ryb3B8ZW58MHwxfHx8MTc4MzE3MzgwNHww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Neon Wang",
+          "authorUrl": "https://unsplash.com/@neonwangphotography?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_0AJIHdm2sCM",
+          "name": "A single dark gray egg on a light background",
+          "thumb": "https://images.unsplash.com/photo-1772168145496-7c1cc298eadb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzh8MHwxfHNlYXJjaHw0NXx8c3R1ZGlvJTIwYmFja2Ryb3B8ZW58MHwxfHx8MTc4MzE3MzgwNHww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_0AJIHdm2sCM.jpg",
+            "https://images.unsplash.com/photo-1772168145496-7c1cc298eadb?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzh8MHwxfHNlYXJjaHw0NXx8c3R1ZGlvJTIwYmFja2Ryb3B8ZW58MHwxfHx8MTc4MzE3MzgwNHww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Szobota Zsuzsi",
+          "authorUrl": "https://unsplash.com/@zsszobota?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash__kdTyfnUFAc",
+          "name": "light bulb illustration",
+          "thumb": "https://images.unsplash.com/photo-1529310399831-ed472b81d589?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzh8MHwxfHNlYXJjaHw0OHx8c3R1ZGlvJTIwYmFja2Ryb3B8ZW58MHwxfHx8MTc4MzE3MzgwNHww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash__kdTyfnUFAc.jpg",
+            "https://images.unsplash.com/photo-1529310399831-ed472b81d589?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzh8MHwxfHNlYXJjaHw0OHx8c3R1ZGlvJTIwYmFja2Ryb3B8ZW58MHwxfHx8MTc4MzE3MzgwNHww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Alessandro Bianchi",
+          "authorUrl": "https://unsplash.com/@ale_s_bianchi?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_ob3zds-6ZtI",
+          "name": "Chair and plant with vintage television on red background",
+          "thumb": "https://images.unsplash.com/photo-1764945170731-b2dfdef87904?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzh8MHwxfHNlYXJjaHwzNHx8c3R1ZGlvJTIwYmFja2Ryb3B8ZW58MHwxfHx8MTc4MzE3MzgwNHww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_ob3zds-6ZtI.jpg",
+            "https://images.unsplash.com/photo-1764945170731-b2dfdef87904?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzh8MHwxfHNlYXJjaHwzNHx8c3R1ZGlvJTIwYmFja2Ryb3B8ZW58MHwxfHx8MTc4MzE3MzgwNHww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Laura Geror",
+          "authorUrl": "https://unsplash.com/@laura_geror?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_3TLl_97HNJo",
+          "name": "woman wearing black crew-neck shirt",
+          "thumb": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzh8MHwxfHNlYXJjaHwxfHxjb2xvciUyMGdlbCUyMHBvcnRyYWl0JTIwbGlnaHRpbmd8ZW58MHwxfHx8MTc4MzE3MzgyNnww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_3TLl_97HNJo.jpg",
+            "https://images.unsplash.com/photo-1534528741775-53994a69daeb?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzh8MHwxfHNlYXJjaHwxfHxjb2xvciUyMGdlbCUyMHBvcnRyYWl0JTIwbGlnaHRpbmd8ZW58MHwxfHx8MTc4MzE3MzgyNnww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Aiony Haust",
+          "authorUrl": "https://unsplash.com/@aiony?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_X631ETaQXBE",
+          "name": "woman in black and multicolored collared top",
+          "thumb": "https://images.unsplash.com/photo-1579118176084-b75a61497ff5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzh8MHwxfHNlYXJjaHw4fHxjb2xvciUyMGdlbCUyMHBvcnRyYWl0JTIwbGlnaHRpbmd8ZW58MHwxfHx8MTc4MzE3MzgyNnww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_X631ETaQXBE.jpg",
+            "https://images.unsplash.com/photo-1579118176084-b75a61497ff5?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzh8MHwxfHNlYXJjaHw4fHxjb2xvciUyMGdlbCUyMHBvcnRyYWl0JTIwbGlnaHRpbmd8ZW58MHwxfHx8MTc4MzE3MzgyNnww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Mia Cambriello",
+          "authorUrl": "https://unsplash.com/@mcambriello?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_7A56uYxFPVA",
+          "name": "a man in a black shirt is holding a cell phone",
+          "thumb": "https://images.unsplash.com/photo-1703124686929-ab5f6109e07d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzh8MHwxfHNlYXJjaHwxMXx8Y29sb3IlMjBnZWwlMjBwb3J0cmFpdCUyMGxpZ2h0aW5nfGVufDB8MXx8fDE3ODMxNzM4MjZ8MA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_7A56uYxFPVA.jpg",
+            "https://images.unsplash.com/photo-1703124686929-ab5f6109e07d?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzh8MHwxfHNlYXJjaHwxMXx8Y29sb3IlMjBnZWwlMjBwb3J0cmFpdCUyMGxpZ2h0aW5nfGVufDB8MXx8fDE3ODMxNzM4MjZ8MA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Joshua Carl",
+          "authorUrl": "https://unsplash.com/@horizonimpressions?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_ZXfUUM_LR0k",
+          "name": "selective focus photo of woman wearing black scoop-neck top",
+          "thumb": "https://images.unsplash.com/photo-1499155286265-79a9dc9c6380?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzh8MHwxfHNlYXJjaHwzfHxjb2xvciUyMGdlbCUyMHBvcnRyYWl0JTIwbGlnaHRpbmd8ZW58MHwxfHx8MTc4MzE3MzgyNnww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_ZXfUUM_LR0k.jpg",
+            "https://images.unsplash.com/photo-1499155286265-79a9dc9c6380?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzh8MHwxfHNlYXJjaHwzfHxjb2xvciUyMGdlbCUyMHBvcnRyYWl0JTIwbGlnaHRpbmd8ZW58MHwxfHx8MTc4MzE3MzgyNnww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Ben Blennerhassett",
+          "authorUrl": "https://unsplash.com/@benblenner?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash__E7SIrSTpXM",
+          "name": "a blurry image of a woman with a ponytail",
+          "thumb": "https://images.unsplash.com/photo-1653443673814-a8d18180451f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzh8MHwxfHNlYXJjaHwxfHxkcmFtYXRpYyUyMGNvbG9yZWQlMjBzaGFkb3dzfGVufDB8MXx8fDE3ODMxNzM4NTV8MA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash__E7SIrSTpXM.jpg",
+            "https://images.unsplash.com/photo-1653443673814-a8d18180451f?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzh8MHwxfHNlYXJjaHwxfHxkcmFtYXRpYyUyMGNvbG9yZWQlMjBzaGFkb3dzfGVufDB8MXx8fDE3ODMxNzM4NTV8MA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Igor Rand",
+          "authorUrl": "https://unsplash.com/@igorrand?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_pvdVM2v2YCI",
+          "name": "Two deep red roses with shadows on wall",
+          "thumb": "https://images.unsplash.com/photo-1773600412785-4e6bf4f4806e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzh8MHwxfHNlYXJjaHw0fHxkcmFtYXRpYyUyMGNvbG9yZWQlMjBzaGFkb3dzfGVufDB8MXx8fDE3ODMxNzM4NTV8MA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_pvdVM2v2YCI.jpg",
+            "https://images.unsplash.com/photo-1773600412785-4e6bf4f4806e?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzh8MHwxfHNlYXJjaHw0fHxkcmFtYXRpYyUyMGNvbG9yZWQlMjBzaGFkb3dzfGVufDB8MXx8fDE3ODMxNzM4NTV8MA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Nino Korkelia",
+          "authorUrl": "https://unsplash.com/@ninoo8?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_6fOm57LW-ac",
+          "name": "A lone tree silhouetted against a vibrant golden sunset.",
+          "thumb": "https://images.unsplash.com/photo-1781728323382-9e3af0e63465?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzh8MHwxfHNlYXJjaHw1fHxkcmFtYXRpYyUyMGNvbG9yZWQlMjBzaGFkb3dzfGVufDB8MXx8fDE3ODMxNzM4NTV8MA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_6fOm57LW-ac.jpg",
+            "https://images.unsplash.com/photo-1781728323382-9e3af0e63465?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzh8MHwxfHNlYXJjaHw1fHxkcmFtYXRpYyUyMGNvbG9yZWQlMjBzaGFkb3dzfGVufDB8MXx8fDE3ODMxNzM4NTV8MA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Rafael Peier",
+          "authorUrl": "https://unsplash.com/@rafaelpeier?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_4Lh_wtA_c_E",
+          "name": "Golden clouds illuminated by sunset against a dark blue sky.",
+          "thumb": "https://images.unsplash.com/photo-1771266730660-bffe81c4756e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzh8MHwxfHNlYXJjaHw5fHxkcmFtYXRpYyUyMGNvbG9yZWQlMjBzaGFkb3dzfGVufDB8MXx8fDE3ODMxNzM4NTV8MA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_4Lh_wtA_c_E.jpg",
+            "https://images.unsplash.com/photo-1771266730660-bffe81c4756e?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzh8MHwxfHNlYXJjaHw5fHxkcmFtYXRpYyUyMGNvbG9yZWQlMjBzaGFkb3dzfGVufDB8MXx8fDE3ODMxNzM4NTV8MA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Taryn Kaahanui",
+          "authorUrl": "https://unsplash.com/@itstarynnnn?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_NzJizxr1L7Q",
+          "name": "Silhouette of a woman on a beach at sunset",
+          "thumb": "https://images.unsplash.com/photo-1773858427856-b725c1984770?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzh8MHwxfHNlYXJjaHwxNnx8ZHJhbWF0aWMlMjBjb2xvcmVkJTIwc2hhZG93c3xlbnwwfDF8fHwxNzgzMTczODU1fDA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_NzJizxr1L7Q.jpg",
+            "https://images.unsplash.com/photo-1773858427856-b725c1984770?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzh8MHwxfHNlYXJjaHwxNnx8ZHJhbWF0aWMlMjBjb2xvcmVkJTIwc2hhZG93c3xlbnwwfDF8fHwxNzgzMTczODU1fDA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Andrés Beltrán Espinosa",
+          "authorUrl": "https://unsplash.com/@darkres?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_cAX6WCHkJXE",
+          "name": "Silhouette of a woman dancing at sunset on the beach",
+          "thumb": "https://images.unsplash.com/photo-1773858427874-ccc2facd18c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzh8MHwxfHNlYXJjaHwxN3x8ZHJhbWF0aWMlMjBjb2xvcmVkJTIwc2hhZG93c3xlbnwwfDF8fHwxNzgzMTczODU1fDA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_cAX6WCHkJXE.jpg",
+            "https://images.unsplash.com/photo-1773858427874-ccc2facd18c9?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzh8MHwxfHNlYXJjaHwxN3x8ZHJhbWF0aWMlMjBjb2xvcmVkJTIwc2hhZG93c3xlbnwwfDF8fHwxNzgzMTczODU1fDA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Andrés Beltrán Espinosa",
+          "authorUrl": "https://unsplash.com/@darkres?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_vxxEySFlJSA",
+          "name": "Sunset behind silhouetted trees over water",
+          "thumb": "https://images.unsplash.com/photo-1762014192845-24ae78874334?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzh8MHwxfHNlYXJjaHwxOHx8ZHJhbWF0aWMlMjBjb2xvcmVkJTIwc2hhZG93c3xlbnwwfDF8fHwxNzgzMTczODU1fDA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_vxxEySFlJSA.jpg",
+            "https://images.unsplash.com/photo-1762014192845-24ae78874334?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzh8MHwxfHNlYXJjaHwxOHx8ZHJhbWF0aWMlMjBjb2xvcmVkJTIwc2hhZG93c3xlbnwwfDF8fHwxNzgzMTczODU1fDA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Luan Fonseca",
+          "authorUrl": "https://unsplash.com/@luanfonsecavisuals?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_stzrfbcWPP8",
+          "name": "a shadow of a person standing on a sidewalk",
+          "thumb": "https://images.unsplash.com/photo-1708516711073-f8cad6c34bde?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzh8MHwxfHNlYXJjaHwyMXx8ZHJhbWF0aWMlMjBjb2xvcmVkJTIwc2hhZG93c3xlbnwwfDF8fHwxNzgzMTczODU1fDA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_stzrfbcWPP8.jpg",
+            "https://images.unsplash.com/photo-1708516711073-f8cad6c34bde?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzh8MHwxfHNlYXJjaHwyMXx8ZHJhbWF0aWMlMjBjb2xvcmVkJTIwc2hhZG93c3xlbnwwfDF8fHwxNzgzMTczODU1fDA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Fabio Troyli",
+          "authorUrl": "https://unsplash.com/@fabiotroyli?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_6_ocaecXPu0",
+          "name": "a close up of a colorful umbrella with a blurry background",
+          "thumb": "https://images.unsplash.com/photo-1711049139470-08fa75a87150?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzh8MHwxfHNlYXJjaHwyNHx8ZHJhbWF0aWMlMjBjb2xvcmVkJTIwc2hhZG93c3xlbnwwfDF8fHwxNzgzMTczODU1fDA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_6_ocaecXPu0.jpg",
+            "https://images.unsplash.com/photo-1711049139470-08fa75a87150?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzh8MHwxfHNlYXJjaHwyNHx8ZHJhbWF0aWMlMjBjb2xvcmVkJTIwc2hhZG93c3xlbnwwfDF8fHwxNzgzMTczODU1fDA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Jason Leung",
+          "authorUrl": "https://unsplash.com/@ninjason?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_D690r_6_CEU",
+          "name": "the shadow of an umbrella is cast on the ground",
+          "thumb": "https://images.unsplash.com/photo-1671432837614-e1b61bd4642f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzh8MHwxfHNlYXJjaHwzNHx8ZHJhbWF0aWMlMjBjb2xvcmVkJTIwc2hhZG93c3xlbnwwfDF8fHwxNzgzMTczODc1fDA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_D690r_6_CEU.jpg",
+            "https://images.unsplash.com/photo-1671432837614-e1b61bd4642f?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzh8MHwxfHNlYXJjaHwzNHx8ZHJhbWF0aWMlMjBjb2xvcmVkJTIwc2hhZG93c3xlbnwwfDF8fHwxNzgzMTczODc1fDA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Susan Q Yin",
+          "authorUrl": "https://unsplash.com/@syinq?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_XTrN7j_W0I8",
+          "name": "A shadow of a street light on a wall",
+          "thumb": "https://images.unsplash.com/photo-1730945999724-f6812b29e407?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzh8MHwxfHNlYXJjaHwyNnx8ZHJhbWF0aWMlMjBjb2xvcmVkJTIwc2hhZG93c3xlbnwwfDF8fHwxNzgzMTczODc1fDA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_XTrN7j_W0I8.jpg",
+            "https://images.unsplash.com/photo-1730945999724-f6812b29e407?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzh8MHwxfHNlYXJjaHwyNnx8ZHJhbWF0aWMlMjBjb2xvcmVkJTIwc2hhZG93c3xlbnwwfDF8fHwxNzgzMTczODc1fDA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Sirius Harrison",
+          "authorUrl": "https://unsplash.com/@siriusharrison?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_AQ7IgSX7TOA",
+          "name": "persons shadow on blue pink and green textile",
+          "thumb": "https://images.unsplash.com/photo-1582358437509-4b5c6ef62b89?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzh8MHwxfHNlYXJjaHwzNnx8ZHJhbWF0aWMlMjBjb2xvcmVkJTIwc2hhZG93c3xlbnwwfDF8fHwxNzgzMTczODc1fDA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_AQ7IgSX7TOA.jpg",
+            "https://images.unsplash.com/photo-1582358437509-4b5c6ef62b89?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzh8MHwxfHNlYXJjaHwzNnx8ZHJhbWF0aWMlMjBjb2xvcmVkJTIwc2hhZG93c3xlbnwwfDF8fHwxNzgzMTczODc1fDA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Caleb Kastein",
+          "authorUrl": "https://unsplash.com/@cjkastein?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_AKaaA7hBJlo",
+          "name": "Geometric shadows cast on an orange textured wall.",
+          "thumb": "https://images.unsplash.com/photo-1779244184709-f193022e05d6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzh8MHwxfHNlYXJjaHwzM3x8ZHJhbWF0aWMlMjBjb2xvcmVkJTIwc2hhZG93c3xlbnwwfDF8fHwxNzgzMTczODc1fDA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_AKaaA7hBJlo.jpg",
+            "https://images.unsplash.com/photo-1779244184709-f193022e05d6?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzh8MHwxfHNlYXJjaHwzM3x8ZHJhbWF0aWMlMjBjb2xvcmVkJTIwc2hhZG93c3xlbnwwfDF8fHwxNzgzMTczODc1fDA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Tasha Kostyuk",
+          "authorUrl": "https://unsplash.com/@tashakostyuk?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_YVfZ1w1xHoM",
+          "name": "Rolled pink and yellow paper with green background",
+          "thumb": "https://images.unsplash.com/photo-1770975765649-8cab4ed675b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzh8MHwxfHNlYXJjaHwyfHx2aWJyYW50JTIwc2VhbWxlc3MlMjBwYXBlciUyMHdhbGx8ZW58MHwxfHx8MTc4MzE3Mzg4OHww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_YVfZ1w1xHoM.jpg",
+            "https://images.unsplash.com/photo-1770975765649-8cab4ed675b3?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzh8MHwxfHNlYXJjaHwyfHx2aWJyYW50JTIwc2VhbWxlc3MlMjBwYXBlciUyMHdhbGx8ZW58MHwxfHx8MTc4MzE3Mzg4OHww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Saifee Art",
+          "authorUrl": "https://unsplash.com/@saifee_art?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_Dd5DHnp7OEE",
+          "name": "a bunch of different colored papers on a table",
+          "thumb": "https://images.unsplash.com/photo-1636312811920-cdfa08331564?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzh8MHwxfHNlYXJjaHwxfHx2aWJyYW50JTIwc2VhbWxlc3MlMjBwYXBlciUyMHdhbGx8ZW58MHwxfHx8MTc4MzE3Mzg4OHww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_Dd5DHnp7OEE.jpg",
+            "https://images.unsplash.com/photo-1636312811920-cdfa08331564?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzh8MHwxfHNlYXJjaHwxfHx2aWJyYW50JTIwc2VhbWxlc3MlMjBwYXBlciUyMHdhbGx8ZW58MHwxfHx8MTc4MzE3Mzg4OHww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "milos tomasevic",
+          "authorUrl": "https://unsplash.com/@tomash88?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_YbWFB1o91ow",
+          "name": "white and brown wooden table with white ceramic mugs",
+          "thumb": "https://images.unsplash.com/photo-1621506616010-3b45b6649ce1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzh8MHwxfHNlYXJjaHw0fHx2aWJyYW50JTIwc2VhbWxlc3MlMjBwYXBlciUyMHdhbGx8ZW58MHwxfHx8MTc4MzE3Mzg4OHww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_YbWFB1o91ow.jpg",
+            "https://images.unsplash.com/photo-1621506616010-3b45b6649ce1?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzh8MHwxfHNlYXJjaHw0fHx2aWJyYW50JTIwc2VhbWxlc3MlMjBwYXBlciUyMHdhbGx8ZW58MHwxfHx8MTc4MzE3Mzg4OHww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "yeonhee",
+          "authorUrl": "https://unsplash.com/@onh?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_Hu3qWAjW8m0",
+          "name": "a close up of a roll of colored paper",
+          "thumb": "https://images.unsplash.com/photo-1704283746188-6ca57b3a3335?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzh8MHwxfHNlYXJjaHw1fHx2aWJyYW50JTIwc2VhbWxlc3MlMjBwYXBlciUyMHdhbGx8ZW58MHwxfHx8MTc4MzE3Mzg4OHww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_Hu3qWAjW8m0.jpg",
+            "https://images.unsplash.com/photo-1704283746188-6ca57b3a3335?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzh8MHwxfHNlYXJjaHw1fHx2aWJyYW50JTIwc2VhbWxlc3MlMjBwYXBlciUyMHdhbGx8ZW58MHwxfHx8MTc4MzE3Mzg4OHww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Jakub Żerdzicki",
+          "authorUrl": "https://unsplash.com/@jakubzerdzicki?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_JDhv_wmEt5Y",
+          "name": "a corner of a room with a yellow wall",
+          "thumb": "https://images.unsplash.com/photo-1714900864053-3879bd44c69b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzh8MHwxfHNlYXJjaHw4fHx2aWJyYW50JTIwc2VhbWxlc3MlMjBwYXBlciUyMHdhbGx8ZW58MHwxfHx8MTc4MzE3Mzg4OHww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_JDhv_wmEt5Y.jpg",
+            "https://images.unsplash.com/photo-1714900864053-3879bd44c69b?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzh8MHwxfHNlYXJjaHw4fHx2aWJyYW50JTIwc2VhbWxlc3MlMjBwYXBlciUyMHdhbGx8ZW58MHwxfHx8MTc4MzE3Mzg4OHww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "ESMA // 에스마",
+          "authorUrl": "https://unsplash.com/@esima1311?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_HmDCJsx2zoE",
+          "name": "a close up of a multicolored floor with a phone",
+          "thumb": "https://images.unsplash.com/photo-1706593673043-80abdcd2aa4f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzh8MHwxfHNlYXJjaHwxMHx8dmlicmFudCUyMHNlYW1sZXNzJTIwcGFwZXIlMjB3YWxsfGVufDB8MXx8fDE3ODMxNzM4ODh8MA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_HmDCJsx2zoE.jpg",
+            "https://images.unsplash.com/photo-1706593673043-80abdcd2aa4f?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzh8MHwxfHNlYXJjaHwxMHx8dmlicmFudCUyMHNlYW1sZXNzJTIwcGFwZXIlMjB3YWxsfGVufDB8MXx8fDE3ODMxNzM4ODh8MA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Hamza Khan",
+          "authorUrl": "https://unsplash.com/@humcode88?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_j4df6-DS3II",
+          "name": "a close up of a multicolored piece of cloth",
+          "thumb": "https://images.unsplash.com/photo-1548318557-71f6a1f5a6aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzh8MHwxfHNlYXJjaHwxMnx8dmlicmFudCUyMHNlYW1sZXNzJTIwcGFwZXIlMjB3YWxsfGVufDB8MXx8fDE3ODMxNzM4ODh8MA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_j4df6-DS3II.jpg",
+            "https://images.unsplash.com/photo-1548318557-71f6a1f5a6aa?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzh8MHwxfHNlYXJjaHwxMnx8dmlicmFudCUyMHNlYW1sZXNzJTIwcGFwZXIlMjB3YWxsfGVufDB8MXx8fDE3ODMxNzM4ODh8MA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Faris Mohammed",
+          "authorUrl": "https://unsplash.com/@pkmfaris?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_zaQC8-U9eZI",
+          "name": "a bunch of white paper stacked on top of each other",
+          "thumb": "https://images.unsplash.com/photo-1714924969657-861f71dcbaed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzh8MHwxfHNlYXJjaHwxMXx8dmlicmFudCUyMHNlYW1sZXNzJTIwcGFwZXIlMjB3YWxsfGVufDB8MXx8fDE3ODMxNzM4ODh8MA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_zaQC8-U9eZI.jpg",
+            "https://images.unsplash.com/photo-1714924969657-861f71dcbaed?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzh8MHwxfHNlYXJjaHwxMXx8dmlicmFudCUyMHNlYW1sZXNzJTIwcGFwZXIlMjB3YWxsfGVufDB8MXx8fDE3ODMxNzM4ODh8MA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Pawel Czerwinski",
+          "authorUrl": "https://unsplash.com/@pawel_czerwinski?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_Z7srGedY5xk",
+          "name": "person in black pants walking on multi colored stairs",
+          "thumb": "https://images.unsplash.com/photo-1607316484934-713e23cf5074?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzh8MHwxfHNlYXJjaHwxOXx8dmlicmFudCUyMHNlYW1sZXNzJTIwcGFwZXIlMjB3YWxsfGVufDB8MXx8fDE3ODMxNzM4ODh8MA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_Z7srGedY5xk.jpg",
+            "https://images.unsplash.com/photo-1607316484934-713e23cf5074?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzh8MHwxfHNlYXJjaHwxOXx8dmlicmFudCUyMHNlYW1sZXNzJTIwcGFwZXIlMjB3YWxsfGVufDB8MXx8fDE3ODMxNzM4ODh8MA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Agustin  Gunawan",
+          "authorUrl": "https://unsplash.com/@ags_sss?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_IbL7t8OiLeA",
+          "name": "Rolls of colorful patterned fabric stacked neatly.",
+          "thumb": "https://images.unsplash.com/photo-1771098403216-ca0c3c2858c0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzh8MHwxfHNlYXJjaHwyMnx8dmlicmFudCUyMHNlYW1sZXNzJTIwcGFwZXIlMjB3YWxsfGVufDB8MXx8fDE3ODMxNzM4ODh8MA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_IbL7t8OiLeA.jpg",
+            "https://images.unsplash.com/photo-1771098403216-ca0c3c2858c0?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzh8MHwxfHNlYXJjaHwyMnx8dmlicmFudCUyMHNlYW1sZXNzJTIwcGFwZXIlMjB3YWxsfGVufDB8MXx8fDE3ODMxNzM4ODh8MA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Bernd 📷 Dittrich",
+          "authorUrl": "https://unsplash.com/@hdbernd?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_DDFwQ213XaM",
+          "name": "Silhouette of buildings against a bright sunset sky",
+          "thumb": "https://images.unsplash.com/photo-1760544728191-d436a6ef01ca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzh8MHwxfHNlYXJjaHwxMnx8ZHJhbWF0aWMlMjBjb2xvcmVkJTIwc2hhZG93c3xlbnwwfDF8fHwxNzgzMTczODU1fDA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_DDFwQ213XaM.jpg",
+            "https://images.unsplash.com/photo-1760544728191-d436a6ef01ca?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzh8MHwxfHNlYXJjaHwxMnx8ZHJhbWF0aWMlMjBjb2xvcmVkJTIwc2hhZG93c3xlbnwwfDF8fHwxNzgzMTczODU1fDA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Marvin Tendies",
+          "authorUrl": "https://unsplash.com/@slowstory?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_gQzjD2DAlfk",
+          "name": "multicolored painted wall",
+          "thumb": "https://images.unsplash.com/photo-1561192107-cc743ae3549e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzh8MHwxfHNlYXJjaHwyM3x8dmlicmFudCUyMHNlYW1sZXNzJTIwcGFwZXIlMjB3YWxsfGVufDB8MXx8fDE3ODMxNzM4ODh8MA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_gQzjD2DAlfk.jpg",
+            "https://images.unsplash.com/photo-1561192107-cc743ae3549e?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzh8MHwxfHNlYXJjaHwyM3x8dmlicmFudCUyMHNlYW1sZXNzJTIwcGFwZXIlMjB3YWxsfGVufDB8MXx8fDE3ODMxNzM4ODh8MA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Derek Wenmoth",
+          "authorUrl": "https://unsplash.com/@dwenmoth?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_Fjmk4NeYu3E",
+          "name": "two people standing in front of a colorful wall",
+          "thumb": "https://images.unsplash.com/photo-1641981077677-417e871d75c2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzh8MHwxfHNlYXJjaHwyMXx8dmlicmFudCUyMHNlYW1sZXNzJTIwcGFwZXIlMjB3YWxsfGVufDB8MXx8fDE3ODMxNzM4ODh8MA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_Fjmk4NeYu3E.jpg",
+            "https://images.unsplash.com/photo-1641981077677-417e871d75c2?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzh8MHwxfHNlYXJjaHwyMXx8dmlicmFudCUyMHNlYW1sZXNzJTIwcGFwZXIlMjB3YWxsfGVufDB8MXx8fDE3ODMxNzM4ODh8MA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Illia Kholin",
+          "authorUrl": "https://unsplash.com/@illiakholin?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_H5z2zLBSn3o",
+          "name": "a close up of a purple vase on a table",
+          "thumb": "https://images.unsplash.com/photo-1707379147140-22f2afdfb688?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzh8MHwxfHNlYXJjaHwxM3x8dmlicmFudCUyMHNlYW1sZXNzJTIwcGFwZXIlMjB3YWxsfGVufDB8MXx8fDE3ODMxNzM4ODh8MA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_H5z2zLBSn3o.jpg",
+            "https://images.unsplash.com/photo-1707379147140-22f2afdfb688?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzh8MHwxfHNlYXJjaHwxM3x8dmlicmFudCUyMHNlYW1sZXNzJTIwcGFwZXIlMjB3YWxsfGVufDB8MXx8fDE3ODMxNzM4ODh8MA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Jakub Żerdzicki",
+          "authorUrl": "https://unsplash.com/@jakubzerdzicki?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_G_bhfVudFSk",
+          "name": "multicolored painted wall",
+          "thumb": "https://images.unsplash.com/photo-1551243264-8205b031253f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzh8MHwxfHNlYXJjaHwyMHx8dmlicmFudCUyMHNlYW1sZXNzJTIwcGFwZXIlMjB3YWxsfGVufDB8MXx8fDE3ODMxNzM4ODh8MA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_G_bhfVudFSk.jpg",
+            "https://images.unsplash.com/photo-1551243264-8205b031253f?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzh8MHwxfHNlYXJjaHwyMHx8dmlicmFudCUyMHNlYW1sZXNzJTIwcGFwZXIlMjB3YWxsfGVufDB8MXx8fDE3ODMxNzM4ODh8MA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Lysander Yuen",
+          "authorUrl": "https://unsplash.com/@lysanderyuen?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_uZvgUfNmW8I",
+          "name": "a plane flying through a cloudy sky on a cloudy day",
+          "thumb": "https://images.unsplash.com/photo-1696255400336-05e8eb84f01a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzl8MHwxfHNlYXJjaHwxfHxzbW9rZSUyMGJvbWIlMjBiYWNrZ3JvdW5kJTIwdGV4dHVyZXxlbnwwfDF8fHwxNzgzMTczOTY5fDA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_uZvgUfNmW8I.jpg",
+            "https://images.unsplash.com/photo-1696255400336-05e8eb84f01a?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzl8MHwxfHNlYXJjaHwxfHxzbW9rZSUyMGJvbWIlMjBiYWNrZ3JvdW5kJTIwdGV4dHVyZXxlbnwwfDF8fHwxNzgzMTczOTY5fDA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Kristin O Karlsen",
+          "authorUrl": "https://unsplash.com/@kristinokarlsen?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_wMFnqEb6nCg",
+          "name": "a close-up of a fetus",
+          "thumb": "https://images.unsplash.com/photo-1656687204755-495c7201a6ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzl8MHwxfHNlYXJjaHw0fHxzbW9rZSUyMGJvbWIlMjBiYWNrZ3JvdW5kJTIwdGV4dHVyZXxlbnwwfDF8fHwxNzgzMTczOTY5fDA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_wMFnqEb6nCg.jpg",
+            "https://images.unsplash.com/photo-1656687204755-495c7201a6ef?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzl8MHwxfHNlYXJjaHw0fHxzbW9rZSUyMGJvbWIlMjBiYWNrZ3JvdW5kJTIwdGV4dHVyZXxlbnwwfDF8fHwxNzgzMTczOTY5fDA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Arjun MJ",
+          "authorUrl": "https://unsplash.com/@arjun_mj?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_jZc5eTXnYLU",
+          "name": "white cotton on white textile",
+          "thumb": "https://images.unsplash.com/photo-1585644156378-72d15fa33be5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzl8MHwxfHNlYXJjaHwyfHxzbW9rZSUyMGJvbWIlMjBiYWNrZ3JvdW5kJTIwdGV4dHVyZXxlbnwwfDF8fHwxNzgzMTczOTY5fDA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_jZc5eTXnYLU.jpg",
+            "https://images.unsplash.com/photo-1585644156378-72d15fa33be5?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzl8MHwxfHNlYXJjaHwyfHxzbW9rZSUyMGJvbWIlMjBiYWNrZ3JvdW5kJTIwdGV4dHVyZXxlbnwwfDF8fHwxNzgzMTczOTY5fDA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Corina Rainer",
+          "authorUrl": "https://unsplash.com/@corina_rainer_?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_YUl--06ItZc",
+          "name": "white smoke on blue sky",
+          "thumb": "https://images.unsplash.com/photo-1612052828302-b10880f8e3db?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzl8MHwxfHNlYXJjaHw4fHxzbW9rZSUyMGJvbWIlMjBiYWNrZ3JvdW5kJTIwdGV4dHVyZXxlbnwwfDF8fHwxNzgzMTczOTY5fDA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_YUl--06ItZc.jpg",
+            "https://images.unsplash.com/photo-1612052828302-b10880f8e3db?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzl8MHwxfHNlYXJjaHw4fHxzbW9rZSUyMGJvbWIlMjBiYWNrZ3JvdW5kJTIwdGV4dHVyZXxlbnwwfDF8fHwxNzgzMTczOTY5fDA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Helen Ngoc N.",
+          "authorUrl": "https://unsplash.com/@helenngoc?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_PS9eBTGbg70",
+          "name": "brown and gray clouds during daytime",
+          "thumb": "https://images.unsplash.com/photo-1616684553549-d8c5873a1876?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzl8MHwxfHNlYXJjaHwzfHxzbW9rZSUyMGJvbWIlMjBiYWNrZ3JvdW5kJTIwdGV4dHVyZXxlbnwwfDF8fHwxNzgzMTczOTY5fDA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_PS9eBTGbg70.jpg",
+            "https://images.unsplash.com/photo-1616684553549-d8c5873a1876?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzl8MHwxfHNlYXJjaHwzfHxzbW9rZSUyMGJvbWIlMjBiYWNrZ3JvdW5kJTIwdGV4dHVyZXxlbnwwfDF8fHwxNzgzMTczOTY5fDA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Colin Lloyd",
+          "authorUrl": "https://unsplash.com/@onthesearchforpineapples?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_D8_WAt8YxFQ",
+          "name": "a black background with a lot of smoke coming out of it",
+          "thumb": "https://images.unsplash.com/photo-1672623761758-c0dee2ce4c9d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzl8MHwxfHNlYXJjaHwxMnx8c21va2UlMjBib21iJTIwYmFja2dyb3VuZCUyMHRleHR1cmV8ZW58MHwxfHx8MTc4MzE3Mzk2OXww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_D8_WAt8YxFQ.jpg",
+            "https://images.unsplash.com/photo-1672623761758-c0dee2ce4c9d?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzl8MHwxfHNlYXJjaHwxMnx8c21va2UlMjBib21iJTIwYmFja2dyb3VuZCUyMHRleHR1cmV8ZW58MHwxfHx8MTc4MzE3Mzk2OXww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Sufyan",
+          "authorUrl": "https://unsplash.com/@blenderdesigner?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_BvxTpTj0QlA",
+          "name": "black smoke",
+          "thumb": "https://images.unsplash.com/photo-1542400275-f0f2796b253f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzl8MHwxfHNlYXJjaHw1fHxzbW9rZSUyMGJvbWIlMjBiYWNrZ3JvdW5kJTIwdGV4dHVyZXxlbnwwfDF8fHwxNzgzMTczOTY5fDA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_BvxTpTj0QlA.jpg",
+            "https://images.unsplash.com/photo-1542400275-f0f2796b253f?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzl8MHwxfHNlYXJjaHw1fHxzbW9rZSUyMGJvbWIlMjBiYWNrZ3JvdW5kJTIwdGV4dHVyZXxlbnwwfDF8fHwxNzgzMTczOTY5fDA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Lieselot. Dalle",
+          "authorUrl": "https://unsplash.com/@lieselot_dalle?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_H5PnIYI_1I0",
+          "name": "purple smoke",
+          "thumb": "https://images.unsplash.com/photo-1508898578281-774ac4893c0c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzl8MHwxfHNlYXJjaHw5fHxzbW9rZSUyMGJvbWIlMjBiYWNrZ3JvdW5kJTIwdGV4dHVyZXxlbnwwfDF8fHwxNzgzMTczOTY5fDA&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_H5PnIYI_1I0.jpg",
+            "https://images.unsplash.com/photo-1508898578281-774ac4893c0c?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzl8MHwxfHNlYXJjaHw5fHxzbW9rZSUyMGJvbWIlMjBiYWNrZ3JvdW5kJTIwdGV4dHVyZXxlbnwwfDF8fHwxNzgzMTczOTY5fDA&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Camille Couvez",
+          "authorUrl": "https://unsplash.com/@camille_couvez?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_w_xAmMPjnyc",
+          "name": "white and blue smoke in close up photography",
+          "thumb": "https://images.unsplash.com/photo-1613011723212-c4b6f4be9b49?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzl8MHwxfHNlYXJjaHwxM3x8c21va2UlMjBib21iJTIwYmFja2dyb3VuZCUyMHRleHR1cmV8ZW58MHwxfHx8MTc4MzE3Mzk2OXww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_w_xAmMPjnyc.jpg",
+            "https://images.unsplash.com/photo-1613011723212-c4b6f4be9b49?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzl8MHwxfHNlYXJjaHwxM3x8c21va2UlMjBib21iJTIwYmFja2dyb3VuZCUyMHRleHR1cmV8ZW58MHwxfHx8MTc4MzE3Mzk2OXww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Adam Kring",
+          "authorUrl": "https://unsplash.com/@adamkring?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_nIpXq_LGi_8",
+          "name": "a black and white photo of a fire hydrant",
+          "thumb": "https://images.unsplash.com/photo-1571404075956-dbd9aa1a8ed6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzl8MHwxfHNlYXJjaHwyMHx8c21va2UlMjBib21iJTIwYmFja2dyb3VuZCUyMHRleHR1cmV8ZW58MHwxfHx8MTc4MzE3Mzk2OXww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_nIpXq_LGi_8.jpg",
+            "https://images.unsplash.com/photo-1571404075956-dbd9aa1a8ed6?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzl8MHwxfHNlYXJjaHwyMHx8c21va2UlMjBib21iJTIwYmFja2dyb3VuZCUyMHRleHR1cmV8ZW58MHwxfHx8MTc4MzE3Mzk2OXww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Rinck Content Studio",
+          "authorUrl": "https://unsplash.com/@rinckad?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_fsBbjhY37pU",
+          "name": "A blue and white smoke texture on a black background",
+          "thumb": "https://images.unsplash.com/photo-1722842657471-55d522bcc0f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzl8MHwxfHNlYXJjaHwxMHx8c21va2UlMjBib21iJTIwYmFja2dyb3VuZCUyMHRleHR1cmV8ZW58MHwxfHx8MTc4MzE3Mzk2OXww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_fsBbjhY37pU.jpg",
+            "https://images.unsplash.com/photo-1722842657471-55d522bcc0f2?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzl8MHwxfHNlYXJjaHwxMHx8c21va2UlMjBib21iJTIwYmFja2dyb3VuZCUyMHRleHR1cmV8ZW58MHwxfHx8MTc4MzE3Mzk2OXww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Alexandros Giannakakis",
+          "authorUrl": "https://unsplash.com/@alegi__?utm_source=PhotoMaker&utm_medium=referral"
+        },
+        {
+          "id": "unsplash_k9KT9sAPlXE",
+          "name": "black, pink, and blue abstract painting",
+          "thumb": "https://images.unsplash.com/photo-1528459340391-4727d99e740d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTIwMzl8MHwxfHNlYXJjaHwxOHx8c21va2UlMjBib21iJTIwYmFja2dyb3VuZCUyMHRleHR1cmV8ZW58MHwxfHx8MTc4MzE3Mzk2OXww&ixlib=rb-4.1.0&q=80&w=400",
+          "mirrors": [
+            "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/background/Studio/unsplash_k9KT9sAPlXE.jpg",
+            "https://images.unsplash.com/photo-1528459340391-4727d99e740d?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5OTIwMzl8MHwxfHNlYXJjaHwxOHx8c21va2UlMjBib21iJTIwYmFja2dyb3VuZCUyMHRleHR1cmV8ZW58MHwxfHx8MTc4MzE3Mzk2OXww&ixlib=rb-4.1.0&q=85"
+          ],
+          "author": "Annie Spratt",
+          "authorUrl": "https://unsplash.com/@anniespratt?utm_source=PhotoMaker&utm_medium=referral"
         }
       ]
     },
