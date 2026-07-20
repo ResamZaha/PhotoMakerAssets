@@ -1,5 +1,5 @@
 {
-  "version": 6,
+  "version": 7,
   "heroRotationMs": null,
   "heroPool": [
     "MOSAIC",
@@ -112,9 +112,9 @@
     "deep_dive"
   ],
   "recipeRows": [
-    "crisp_pop",
-    "vintage_fade",
-    "dreamy_glow"
+    "golden_hour_glow",
+    "angel_glow",
+    "crisp_pop"
   ],
   "newFeatures": [
     {
