@@ -1,0 +1,3350 @@
+{
+  "version": 6,
+  "heroRotationMs": null,
+  "heroPool": [
+    "MOSAIC",
+    "DAILY_EDIT",
+    "WEEK",
+    "MOOD"
+  ],
+  "stories": [
+    {
+      "id": "story_reshape",
+      "label": "Reshape",
+      "icon": "style_icons/Abstract/A3.webp",
+      "tool": "RESHAPE",
+      "addedMs": 1784419200000
+    },
+    {
+      "id": "story_portrait",
+      "label": "Portrait",
+      "icon": "style_icons/Classic/C24.webp",
+      "tool": "PORTRAIT",
+      "addedMs": 1784332800000
+    },
+    {
+      "id": "story_draw",
+      "label": "Draw",
+      "icon": "style_icons/Drawing/D8.webp",
+      "tool": "DRAW",
+      "addedMs": 1784246400000
+    },
+    {
+      "id": "story_selective",
+      "label": "Selective",
+      "icon": "style_icons/Landscape/LS-22.webp",
+      "tool": "SELECTIVE",
+      "addedMs": 1784160000000
+    },
+    {
+      "id": "story_background",
+      "label": "Background",
+      "icon": "style_icons/Winter/W3.webp",
+      "tool": "BACKGROUND",
+      "addedMs": 1784073600000
+    },
+    {
+      "id": "story_blend",
+      "label": "Blend",
+      "icon": "style_icons/Bloom/B4.webp",
+      "tool": "BLEND",
+      "addedMs": 1783987200000
+    },
+    {
+      "id": "story_double_exposure",
+      "label": "Double Expo",
+      "icon": "style_icons/Abstract/A14.webp",
+      "tool": "DOUBLE_EXPOSURE",
+      "addedMs": 1783900800000
+    },
+    {
+      "id": "story_curves",
+      "label": "Curves",
+      "icon": "style_icons/Landscape/LS-7.webp",
+      "tool": "CURVES",
+      "addedMs": 1783814400000
+    }
+  ],
+  "dailyChallenges": [
+    "film_classic",
+    "golden_hour",
+    "crisp_pop",
+    "noir_grain",
+    "dreamy_glow",
+    "bw_mood",
+    "cinema_teal",
+    "vintage_fade"
+  ],
+  "projectRail": [
+    "golden_hour",
+    "film_classic",
+    "cinema_teal",
+    "noir_grain",
+    "moody_matte",
+    "teal_punch",
+    "pastel_air",
+    "silver_screen",
+    "warm_amber",
+    "arctic_ice",
+    "sepia_postcard",
+    "retro_71",
+    "rosy_bloom",
+    "hdr_drama",
+    "sunny_side",
+    "emerald_film",
+    "midnight_velvet",
+    "cream_haze",
+    "carmine_kiss",
+    "urban_grit",
+    "peach_sunset",
+    "indie_fade",
+    "daydream",
+    "autumn_rust",
+    "spring_meadow",
+    "misty_morning",
+    "bronze_age",
+    "polaroid_memory",
+    "cinema_noir",
+    "drama_scape",
+    "retrolux_dust",
+    "summer_leak",
+    "street_mono",
+    "deep_dive"
+  ],
+  "recipeRows": [
+    "crisp_pop",
+    "vintage_fade",
+    "dreamy_glow"
+  ],
+  "newFeatures": [
+    {
+      "id": "feat_reshape",
+      "title": "Liquify reshape",
+      "subtitle": "Push, grow, and shrink with a brush",
+      "icon": "",
+      "tool": "RESHAPE"
+    },
+    {
+      "id": "feat_portrait",
+      "title": "Portrait retouch",
+      "subtitle": "Face-aware spotlight and skin smoothing",
+      "icon": "",
+      "tool": "PORTRAIT"
+    },
+    {
+      "id": "feat_background",
+      "title": "Background changer",
+      "subtitle": "Cut the subject, swap the backdrop",
+      "icon": "",
+      "tool": "BACKGROUND"
+    }
+  ],
+  "recipes": [
+    {
+      "id": "film_classic",
+      "title": "Classic film look",
+      "subtitle": "Warm LUT, grain, and a soft vignette",
+      "badge": "3 steps",
+      "thumb": "home/recipe_thumbs/film_classic.jpg",
+      "steps": [
+        {
+          "tool": "EFFECTS",
+          "presetId": "filters/Classic/Koi.jpg",
+          "params": {
+            "opacity": "0.85",
+            "category": "Classic"
+          }
+        },
+        {
+          "tool": "GRAINY_FILM",
+          "presetId": "grainy_films/Kodak/KG1.png",
+          "params": {
+            "category": "Kodak",
+            "strength": "60",
+            "grain": "40",
+            "grainSize": "30",
+            "grainTexture": "25",
+            "grainBlur": "0"
+          }
+        },
+        {
+          "tool": "VIGNETTE",
+          "params": {
+            "vig_AMOUNT": "-40"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/film_classic.jpg"
+      ]
+    },
+    {
+      "id": "crisp_pop",
+      "title": "Crisp & punchy",
+      "subtitle": "Clean sharpening with a tone boost",
+      "badge": "3 steps",
+      "thumb": "home/recipe_thumbs/crisp_pop.jpg",
+      "steps": [
+        {
+          "tool": "EFFECTS",
+          "presetId": "filters/Simple/Crisp.jpg",
+          "params": {
+            "opacity": "1.0",
+            "category": "Simple"
+          }
+        },
+        {
+          "tool": "ADJUST",
+          "params": {
+            "adj_TEXTURE": "25",
+            "adj_CLARITY": "20",
+            "adj_CONTRAST": "12",
+            "adj_VIBRANCE": "15"
+          }
+        },
+        {
+          "tool": "VIGNETTE",
+          "params": {
+            "vig_AMOUNT": "-25"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/crisp_pop.jpg"
+      ]
+    },
+    {
+      "id": "bw_mood",
+      "title": "Moody black & white",
+      "subtitle": "Timeless monochrome with depth",
+      "badge": "2 steps",
+      "thumb": "home/recipe_thumbs/bw_mood.jpg",
+      "steps": [
+        {
+          "tool": "EFFECTS",
+          "presetId": "filters/Classic/B&W.jpg",
+          "params": {
+            "opacity": "1.0",
+            "category": "Classic"
+          }
+        },
+        {
+          "tool": "VIGNETTE",
+          "params": {
+            "vig_AMOUNT": "-55",
+            "vig_FEATHER": "65"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/bw_mood.jpg"
+      ]
+    },
+    {
+      "id": "golden_hour",
+      "title": "Golden hour",
+      "subtitle": "Sun-warmed color with a soft glow",
+      "badge": "3 steps",
+      "thumb": "home/recipe_thumbs/golden_hour.jpg",
+      "steps": [
+        {
+          "tool": "EFFECTS",
+          "presetId": "filters/Classic/Summer.jpg",
+          "params": {
+            "opacity": "0.9",
+            "category": "Classic"
+          }
+        },
+        {
+          "tool": "GLOW",
+          "presetId": "4",
+          "params": {
+            "amount": "45",
+            "warmth": "58",
+            "saturation": "-20"
+          }
+        },
+        {
+          "tool": "VIGNETTE",
+          "params": {
+            "vig_AMOUNT": "-30"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/golden_hour.jpg"
+      ]
+    },
+    {
+      "id": "vintage_fade",
+      "title": "Faded vintage",
+      "subtitle": "Washed-out tones and analog grain",
+      "badge": "3 steps",
+      "thumb": "home/recipe_thumbs/vintage_fade.jpg",
+      "steps": [
+        {
+          "tool": "EFFECTS",
+          "presetId": "filters/Simple/VIN2.jpg",
+          "params": {
+            "opacity": "0.9",
+            "category": "Simple"
+          }
+        },
+        {
+          "tool": "ADJUST",
+          "params": {
+            "adj_FADE": "40",
+            "adj_CONTRAST": "-10",
+            "adj_SATURATION": "-15"
+          }
+        },
+        {
+          "tool": "GRAINY_FILM",
+          "presetId": "grainy_films/Vintage/V05.png",
+          "params": {
+            "category": "Vintage",
+            "strength": "55",
+            "grain": "45",
+            "grainSize": "35",
+            "grainTexture": "30",
+            "grainBlur": "0"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/vintage_fade.jpg"
+      ]
+    },
+    {
+      "id": "noir_grain",
+      "title": "Film noir",
+      "subtitle": "Hard shadows, heavy grain, deep vignette",
+      "badge": "3 steps",
+      "thumb": "home/recipe_thumbs/noir_grain.jpg",
+      "steps": [
+        {
+          "tool": "EFFECTS",
+          "presetId": "filters/Classic/Silvered.jpg",
+          "params": {
+            "opacity": "1.0",
+            "category": "Classic"
+          }
+        },
+        {
+          "tool": "GRAINY_FILM",
+          "presetId": "grainy_films/Noir/N03.png",
+          "params": {
+            "category": "Noir",
+            "strength": "70",
+            "grain": "55",
+            "grainSize": "40",
+            "grainTexture": "35",
+            "grainBlur": "0"
+          }
+        },
+        {
+          "tool": "VIGNETTE",
+          "params": {
+            "vig_AMOUNT": "-60",
+            "vig_FEATHER": "55"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/noir_grain.jpg"
+      ]
+    },
+    {
+      "id": "dreamy_glow",
+      "title": "Soft dream",
+      "subtitle": "Hazy highlights and a gentle bloom",
+      "badge": "3 steps",
+      "thumb": "home/recipe_thumbs/dreamy_glow.jpg",
+      "steps": [
+        {
+          "tool": "EFFECTS",
+          "presetId": "filters/Classic/Dream.jpg",
+          "params": {
+            "opacity": "0.8",
+            "category": "Classic"
+          }
+        },
+        {
+          "tool": "GLOW",
+          "presetId": "0",
+          "params": {
+            "amount": "35",
+            "warmth": "0",
+            "saturation": "-25"
+          }
+        },
+        {
+          "tool": "ADJUST",
+          "params": {
+            "adj_HIGHLIGHTS": "-20",
+            "adj_SHADOWS": "15"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/dreamy_glow.jpg"
+      ]
+    },
+    {
+      "id": "cinema_teal",
+      "title": "Cinematic teal & orange",
+      "subtitle": "Blockbuster split-toned color grade",
+      "badge": "3 steps",
+      "thumb": "home/recipe_thumbs/cinema_teal.jpg",
+      "steps": [
+        {
+          "tool": "EFFECTS",
+          "presetId": "filters/Cinematic/CM-3.png",
+          "params": {
+            "opacity": "0.9",
+            "category": "Cinematic"
+          }
+        },
+        {
+          "tool": "SPLIT_TONE",
+          "params": {
+            "st_shadowHue": "200",
+            "st_shadowSat": "30",
+            "st_highlightHue": "45",
+            "st_highlightSat": "20",
+            "st_balance": "0"
+          }
+        },
+        {
+          "tool": "VIGNETTE",
+          "params": {
+            "vig_AMOUNT": "-35"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/cinema_teal.jpg"
+      ]
+    },
+    {
+      "id": "moody_matte",
+      "title": "Moody matte",
+      "subtitle": "Lifted blacks, muted color",
+      "badge": "2 steps",
+      "thumb": "home/recipe_thumbs/moody_matte.jpg",
+      "steps": [
+        {
+          "tool": "ADJUST",
+          "params": {
+            "adj_FADE": "45",
+            "adj_CONTRAST": "12",
+            "adj_SATURATION": "-25",
+            "adj_SHADOWS": "10"
+          }
+        },
+        {
+          "tool": "VIGNETTE",
+          "params": {
+            "vig_AMOUNT": "-25"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/moody_matte.jpg"
+      ]
+    },
+    {
+      "id": "teal_punch",
+      "title": "Teal & orange",
+      "subtitle": "Blockbuster color grade",
+      "badge": "2 steps",
+      "thumb": "home/recipe_thumbs/teal_punch.jpg",
+      "steps": [
+        {
+          "tool": "SPLIT_TONE",
+          "params": {
+            "st_shadowHue": "190",
+            "st_shadowSat": "45",
+            "st_highlightHue": "30",
+            "st_highlightSat": "40",
+            "st_balance": "0"
+          }
+        },
+        {
+          "tool": "ADJUST",
+          "params": {
+            "adj_CONTRAST": "20",
+            "adj_VIBRANCE": "30"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/teal_punch.jpg"
+      ]
+    },
+    {
+      "id": "pastel_air",
+      "title": "Pastel air",
+      "subtitle": "Bright, soft, and airy",
+      "badge": "2 steps",
+      "thumb": "home/recipe_thumbs/pastel_air.jpg",
+      "steps": [
+        {
+          "tool": "EFFECTS",
+          "presetId": "filters/Classic/Pastel.jpg",
+          "params": {
+            "opacity": "0.85",
+            "category": "Classic"
+          }
+        },
+        {
+          "tool": "ADJUST",
+          "params": {
+            "adj_EXPOSURE": "12",
+            "adj_HIGHLIGHTS": "-18"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/pastel_air.jpg"
+      ]
+    },
+    {
+      "id": "silver_screen",
+      "title": "Silver screen",
+      "subtitle": "Classic Hollywood mono",
+      "badge": "3 steps",
+      "thumb": "home/recipe_thumbs/silver_screen.jpg",
+      "steps": [
+        {
+          "tool": "EFFECTS",
+          "presetId": "filters/Classic/B&W.jpg",
+          "params": {
+            "opacity": "1.0",
+            "category": "Classic"
+          }
+        },
+        {
+          "tool": "GRAINY_FILM",
+          "presetId": "grainy_films/Noir/N02.png",
+          "params": {
+            "category": "Noir",
+            "strength": "65",
+            "grain": "45",
+            "grainSize": "35",
+            "grainTexture": "30",
+            "grainBlur": "0"
+          }
+        },
+        {
+          "tool": "VIGNETTE",
+          "params": {
+            "vig_AMOUNT": "-35"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/silver_screen.jpg"
+      ]
+    },
+    {
+      "id": "warm_amber",
+      "title": "Warm amber",
+      "subtitle": "Honeyed golden warmth",
+      "badge": "2 steps",
+      "thumb": "home/recipe_thumbs/warm_amber.jpg",
+      "steps": [
+        {
+          "tool": "EFFECTS",
+          "presetId": "filters/Simple/Warm Amber.jpg",
+          "params": {
+            "opacity": "0.9",
+            "category": "Simple"
+          }
+        },
+        {
+          "tool": "GLOW",
+          "presetId": "0",
+          "params": {
+            "amount": "30",
+            "warmth": "40",
+            "saturation": "-10"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/warm_amber.jpg"
+      ]
+    },
+    {
+      "id": "arctic_ice",
+      "title": "Arctic ice",
+      "subtitle": "Cool crystalline blues",
+      "badge": "2 steps",
+      "thumb": "home/recipe_thumbs/arctic_ice.jpg",
+      "steps": [
+        {
+          "tool": "EFFECTS",
+          "presetId": "filters/Simple/ICY2.jpg",
+          "params": {
+            "opacity": "0.9",
+            "category": "Simple"
+          }
+        },
+        {
+          "tool": "SPLIT_TONE",
+          "params": {
+            "st_shadowHue": "210",
+            "st_shadowSat": "35",
+            "st_highlightHue": "200",
+            "st_highlightSat": "20",
+            "st_balance": "0"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/arctic_ice.jpg"
+      ]
+    },
+    {
+      "id": "sepia_postcard",
+      "title": "Sepia postcard",
+      "subtitle": "Aged travel-photo tone",
+      "badge": "3 steps",
+      "thumb": "home/recipe_thumbs/sepia_postcard.jpg",
+      "steps": [
+        {
+          "tool": "EFFECTS",
+          "presetId": "filters/Simple/Sepia.jpg",
+          "params": {
+            "opacity": "0.95",
+            "category": "Simple"
+          }
+        },
+        {
+          "tool": "VIGNETTE",
+          "params": {
+            "vig_AMOUNT": "-45"
+          }
+        },
+        {
+          "tool": "ADJUST",
+          "params": {
+            "adj_GRAIN": "30"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/sepia_postcard.jpg"
+      ]
+    },
+    {
+      "id": "retro_71",
+      "title": "'71 retro",
+      "subtitle": "Faded seventies chrome",
+      "badge": "2 steps",
+      "thumb": "home/recipe_thumbs/retro_71.jpg",
+      "steps": [
+        {
+          "tool": "EFFECTS",
+          "presetId": "filters/Simple/1971.jpg",
+          "params": {
+            "opacity": "0.9",
+            "category": "Simple"
+          }
+        },
+        {
+          "tool": "GRAINY_FILM",
+          "presetId": "grainy_films/Retro/PD1.png",
+          "params": {
+            "category": "Retro",
+            "strength": "55",
+            "grain": "35",
+            "grainSize": "40",
+            "grainTexture": "20",
+            "grainBlur": "0"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/retro_71.jpg"
+      ]
+    },
+    {
+      "id": "rosy_bloom",
+      "title": "Rosy bloom",
+      "subtitle": "Blushing highlights, soft glow",
+      "badge": "2 steps",
+      "thumb": "home/recipe_thumbs/rosy_bloom.jpg",
+      "steps": [
+        {
+          "tool": "EFFECTS",
+          "presetId": "filters/Charm/C7.jpg",
+          "params": {
+            "opacity": "0.8",
+            "category": "Charm"
+          }
+        },
+        {
+          "tool": "GLOW",
+          "presetId": "0",
+          "params": {
+            "amount": "40",
+            "warmth": "15",
+            "saturation": "5"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/rosy_bloom.jpg"
+      ]
+    },
+    {
+      "id": "hdr_drama",
+      "title": "Drama HDR",
+      "subtitle": "Gritty local contrast",
+      "badge": "2 steps",
+      "thumb": "home/recipe_thumbs/hdr_drama.jpg",
+      "steps": [
+        {
+          "tool": "EFFECTS",
+          "presetId": "filters/HDR/HDR_3.jpg",
+          "params": {
+            "opacity": "0.85",
+            "category": "HDR"
+          }
+        },
+        {
+          "tool": "ADJUST",
+          "params": {
+            "adj_CLARITY": "40",
+            "adj_DEHAZE": "20"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/hdr_drama.jpg"
+      ]
+    },
+    {
+      "id": "sunny_side",
+      "title": "Sunny side",
+      "subtitle": "Cheerful summer warmth",
+      "badge": "3 steps",
+      "thumb": "home/recipe_thumbs/sunny_side.jpg",
+      "steps": [
+        {
+          "tool": "EFFECTS",
+          "presetId": "filters/Simple/Sunny.jpg",
+          "params": {
+            "opacity": "0.9",
+            "category": "Simple"
+          }
+        },
+        {
+          "tool": "ADJUST",
+          "params": {
+            "adj_VIBRANCE": "25"
+          }
+        },
+        {
+          "tool": "VIGNETTE",
+          "params": {
+            "vig_AMOUNT": "-15"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/sunny_side.jpg"
+      ]
+    },
+    {
+      "id": "emerald_film",
+      "title": "Emerald film",
+      "subtitle": "Green-shifted Fuji stock",
+      "badge": "2 steps",
+      "thumb": "home/recipe_thumbs/emerald_film.jpg",
+      "steps": [
+        {
+          "tool": "GRAINY_FILM",
+          "presetId": "grainy_films/Fuji/FS1.png",
+          "params": {
+            "category": "Fuji",
+            "strength": "70",
+            "grain": "35",
+            "grainSize": "30",
+            "grainTexture": "25",
+            "grainBlur": "0"
+          }
+        },
+        {
+          "tool": "SPLIT_TONE",
+          "params": {
+            "st_shadowHue": "150",
+            "st_shadowSat": "30",
+            "st_highlightHue": "90",
+            "st_highlightSat": "15",
+            "st_balance": "-10"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/emerald_film.jpg"
+      ]
+    },
+    {
+      "id": "midnight_velvet",
+      "title": "Midnight velvet",
+      "subtitle": "Deep cinematic shadows",
+      "badge": "3 steps",
+      "thumb": "home/recipe_thumbs/midnight_velvet.jpg",
+      "steps": [
+        {
+          "tool": "EFFECTS",
+          "presetId": "filters/Cinematic/CM-4.png",
+          "params": {
+            "opacity": "0.9",
+            "category": "Cinematic"
+          }
+        },
+        {
+          "tool": "VIGNETTE",
+          "params": {
+            "vig_AMOUNT": "-50",
+            "vig_MIDPOINT": "40"
+          }
+        },
+        {
+          "tool": "ADJUST",
+          "params": {
+            "adj_SHADOWS": "-15"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/midnight_velvet.jpg"
+      ]
+    },
+    {
+      "id": "cream_haze",
+      "title": "Cream haze",
+      "subtitle": "Dreamlike milky wash",
+      "badge": "3 steps",
+      "thumb": "home/recipe_thumbs/cream_haze.jpg",
+      "steps": [
+        {
+          "tool": "EFFECTS",
+          "presetId": "filters/Classic/Haze.jpg",
+          "params": {
+            "opacity": "0.85",
+            "category": "Classic"
+          }
+        },
+        {
+          "tool": "ADJUST",
+          "params": {
+            "adj_FADE": "30"
+          }
+        },
+        {
+          "tool": "GLOW",
+          "presetId": "0",
+          "params": {
+            "amount": "25",
+            "warmth": "20",
+            "saturation": "0"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/cream_haze.jpg"
+      ]
+    },
+    {
+      "id": "carmine_kiss",
+      "title": "Carmine kiss",
+      "subtitle": "Red-toned romance",
+      "badge": "2 steps",
+      "thumb": "home/recipe_thumbs/carmine_kiss.jpg",
+      "steps": [
+        {
+          "tool": "EFFECTS",
+          "presetId": "filters/Classic/Carmine.jpg",
+          "params": {
+            "opacity": "0.85",
+            "category": "Classic"
+          }
+        },
+        {
+          "tool": "SPLIT_TONE",
+          "params": {
+            "st_shadowHue": "340",
+            "st_shadowSat": "25",
+            "st_highlightHue": "20",
+            "st_highlightSat": "20",
+            "st_balance": "0"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/carmine_kiss.jpg"
+      ]
+    },
+    {
+      "id": "urban_grit",
+      "title": "Urban grit",
+      "subtitle": "Desaturated street edge",
+      "badge": "2 steps",
+      "thumb": "home/recipe_thumbs/urban_grit.jpg",
+      "steps": [
+        {
+          "tool": "ADJUST",
+          "params": {
+            "adj_CLARITY": "45",
+            "adj_DEHAZE": "25",
+            "adj_SATURATION": "-30",
+            "adj_CONTRAST": "15"
+          }
+        },
+        {
+          "tool": "GRAINY_FILM",
+          "presetId": "grainy_films/Noir/N09.png",
+          "params": {
+            "category": "Noir",
+            "strength": "50",
+            "grain": "45",
+            "grainSize": "25",
+            "grainTexture": "30",
+            "grainBlur": "0"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/urban_grit.jpg"
+      ]
+    },
+    {
+      "id": "peach_sunset",
+      "title": "Peach sunset",
+      "subtitle": "Warm split-tone glow",
+      "badge": "2 steps",
+      "thumb": "home/recipe_thumbs/peach_sunset.jpg",
+      "steps": [
+        {
+          "tool": "SPLIT_TONE",
+          "params": {
+            "st_shadowHue": "25",
+            "st_shadowSat": "30",
+            "st_highlightHue": "45",
+            "st_highlightSat": "45",
+            "st_balance": "10"
+          }
+        },
+        {
+          "tool": "GLOW",
+          "presetId": "0",
+          "params": {
+            "amount": "35",
+            "warmth": "45",
+            "saturation": "-5"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/peach_sunset.jpg"
+      ]
+    },
+    {
+      "id": "indie_fade",
+      "title": "Indie fade",
+      "subtitle": "Muted indie-album tone",
+      "badge": "2 steps",
+      "thumb": "home/recipe_thumbs/indie_fade.jpg",
+      "steps": [
+        {
+          "tool": "EFFECTS",
+          "presetId": "filters/Classic/Indie1.jpg",
+          "params": {
+            "opacity": "0.9",
+            "category": "Classic"
+          }
+        },
+        {
+          "tool": "ADJUST",
+          "params": {
+            "adj_FADE": "25",
+            "adj_CONTRAST": "-8"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/indie_fade.jpg"
+      ]
+    },
+    {
+      "id": "daydream",
+      "title": "Daydream",
+      "subtitle": "Hazy dream-pop softness",
+      "badge": "2 steps",
+      "thumb": "home/recipe_thumbs/daydream.jpg",
+      "steps": [
+        {
+          "tool": "EFFECTS",
+          "presetId": "filters/Classic/Dream.jpg",
+          "params": {
+            "opacity": "0.85",
+            "category": "Classic"
+          }
+        },
+        {
+          "tool": "GLOW",
+          "presetId": "0",
+          "params": {
+            "amount": "45",
+            "warmth": "10",
+            "saturation": "10"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/daydream.jpg"
+      ]
+    },
+    {
+      "id": "autumn_rust",
+      "title": "Autumn rust",
+      "subtitle": "Copper leaves, warm shade",
+      "badge": "2 steps",
+      "thumb": "home/recipe_thumbs/autumn_rust.jpg",
+      "steps": [
+        {
+          "tool": "EFFECTS",
+          "presetId": "filters/Classic/Autumn.jpg",
+          "params": {
+            "opacity": "0.9",
+            "category": "Classic"
+          }
+        },
+        {
+          "tool": "VIGNETTE",
+          "params": {
+            "vig_AMOUNT": "-30"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/autumn_rust.jpg"
+      ]
+    },
+    {
+      "id": "spring_meadow",
+      "title": "Spring meadow",
+      "subtitle": "Fresh greens, light air",
+      "badge": "2 steps",
+      "thumb": "home/recipe_thumbs/spring_meadow.jpg",
+      "steps": [
+        {
+          "tool": "EFFECTS",
+          "presetId": "filters/Classic/Spring.jpg",
+          "params": {
+            "opacity": "0.9",
+            "category": "Classic"
+          }
+        },
+        {
+          "tool": "ADJUST",
+          "params": {
+            "adj_VIBRANCE": "20",
+            "adj_EXPOSURE": "8"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/spring_meadow.jpg"
+      ]
+    },
+    {
+      "id": "misty_morning",
+      "title": "Misty morning",
+      "subtitle": "Soft fog and gentle light",
+      "badge": "2 steps",
+      "thumb": "home/recipe_thumbs/misty_morning.jpg",
+      "steps": [
+        {
+          "tool": "EFFECTS",
+          "presetId": "filters/Classic/Misty.jpg",
+          "params": {
+            "opacity": "0.9",
+            "category": "Classic"
+          }
+        },
+        {
+          "tool": "ADJUST",
+          "params": {
+            "adj_FADE": "20",
+            "adj_EXPOSURE": "10"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/misty_morning.jpg"
+      ]
+    },
+    {
+      "id": "bronze_age",
+      "title": "Bronze age",
+      "subtitle": "Burnished metallic warmth",
+      "badge": "2 steps",
+      "thumb": "home/recipe_thumbs/bronze_age.jpg",
+      "steps": [
+        {
+          "tool": "EFFECTS",
+          "presetId": "filters/Simple/BRNZ2.jpg",
+          "params": {
+            "opacity": "0.9",
+            "category": "Simple"
+          }
+        },
+        {
+          "tool": "VIGNETTE",
+          "params": {
+            "vig_AMOUNT": "-30"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/bronze_age.jpg"
+      ]
+    },
+    {
+      "id": "polaroid_memory",
+      "title": "Polaroid memory",
+      "subtitle": "Instant-photo nostalgia",
+      "badge": "2 steps",
+      "thumb": "home/recipe_thumbs/polaroid_memory.jpg",
+      "steps": [
+        {
+          "tool": "EFFECTS",
+          "presetId": "filters/Classic/Memory.jpg",
+          "params": {
+            "opacity": "0.9",
+            "category": "Classic"
+          }
+        },
+        {
+          "tool": "GRAINY_FILM",
+          "presetId": "grainy_films/Vintage/V05.png",
+          "params": {
+            "category": "Vintage",
+            "strength": "60",
+            "grain": "30",
+            "grainSize": "35",
+            "grainTexture": "25",
+            "grainBlur": "0"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/polaroid_memory.jpg"
+      ]
+    },
+    {
+      "id": "cinema_noir",
+      "title": "Cinema noir",
+      "subtitle": "Washed monochrome drama",
+      "badge": "1 steps",
+      "thumb": "home/recipe_thumbs/cinema_noir.jpg",
+      "steps": [
+        {
+          "tool": "PRO_FILTERS",
+          "params": {
+            "p0": "100",
+            "p1": "0",
+            "p2": "25",
+            "p3": "0",
+            "p4": "0",
+            "p5": "0",
+            "p6": "0",
+            "p7": "0",
+            "p8": "100",
+            "p9": "0",
+            "p10": "25",
+            "p11": "0",
+            "p12": "0",
+            "p13": "0",
+            "p14": "35",
+            "p15": "0",
+            "p16": "0",
+            "p17": "0",
+            "p18": "0",
+            "p19": "0",
+            "p20": "0",
+            "p21": "20",
+            "p22": "40"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/cinema_noir.jpg"
+      ]
+    },
+    {
+      "id": "drama_scape",
+      "title": "Drama scape",
+      "subtitle": "Punchy tone-mapped scape",
+      "badge": "1 steps",
+      "thumb": "home/recipe_thumbs/drama_scape.jpg",
+      "steps": [
+        {
+          "tool": "PRO_FILTERS",
+          "params": {
+            "p0": "100",
+            "p1": "0",
+            "p2": "10",
+            "p3": "10",
+            "p4": "0",
+            "p5": "0",
+            "p6": "0",
+            "p7": "0",
+            "p8": "0",
+            "p9": "0",
+            "p10": "0",
+            "p11": "55",
+            "p12": "35",
+            "p13": "0",
+            "p14": "0",
+            "p15": "0",
+            "p16": "0",
+            "p17": "0",
+            "p18": "0",
+            "p19": "0",
+            "p20": "0",
+            "p21": "0",
+            "p22": "0"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/drama_scape.jpg"
+      ]
+    },
+    {
+      "id": "retrolux_dust",
+      "title": "Retrolux dust",
+      "subtitle": "Scratches, leaks, projector glow",
+      "badge": "1 steps",
+      "thumb": "home/recipe_thumbs/retrolux_dust.jpg",
+      "steps": [
+        {
+          "tool": "PRO_FILTERS",
+          "params": {
+            "p0": "100",
+            "p1": "0",
+            "p2": "0",
+            "p3": "0",
+            "p4": "20",
+            "p5": "0",
+            "p6": "0",
+            "p7": "0",
+            "p8": "0",
+            "p9": "0",
+            "p10": "0",
+            "p11": "0",
+            "p12": "0",
+            "p13": "40",
+            "p14": "30",
+            "p15": "30",
+            "p16": "2",
+            "p17": "45",
+            "p18": "12",
+            "p19": "30",
+            "p20": "1",
+            "p21": "15",
+            "p22": "0"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/retrolux_dust.jpg"
+      ]
+    },
+    {
+      "id": "summer_leak",
+      "title": "Summer leak",
+      "subtitle": "Sun-flared analog burn",
+      "badge": "1 steps",
+      "thumb": "home/recipe_thumbs/summer_leak.jpg",
+      "steps": [
+        {
+          "tool": "PRO_FILTERS",
+          "params": {
+            "p0": "100",
+            "p1": "0",
+            "p2": "0",
+            "p3": "0",
+            "p4": "35",
+            "p5": "0",
+            "p6": "20",
+            "p7": "0",
+            "p8": "0",
+            "p9": "0",
+            "p10": "0",
+            "p11": "0",
+            "p12": "0",
+            "p13": "0",
+            "p14": "0",
+            "p15": "55",
+            "p16": "1",
+            "p17": "0",
+            "p18": "0",
+            "p19": "0",
+            "p20": "0",
+            "p21": "10",
+            "p22": "0"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/summer_leak.jpg"
+      ]
+    },
+    {
+      "id": "street_mono",
+      "title": "Street mono",
+      "subtitle": "High-contrast city grain",
+      "badge": "2 steps",
+      "thumb": "home/recipe_thumbs/street_mono.jpg",
+      "steps": [
+        {
+          "tool": "GRAINY_FILM",
+          "presetId": "grainy_films/Noir/N13.png",
+          "params": {
+            "category": "Noir",
+            "strength": "75",
+            "grain": "50",
+            "grainSize": "20",
+            "grainTexture": "35",
+            "grainBlur": "0"
+          }
+        },
+        {
+          "tool": "ADJUST",
+          "params": {
+            "adj_CONTRAST": "25"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/street_mono.jpg"
+      ]
+    },
+    {
+      "id": "deep_dive",
+      "title": "Deep dive",
+      "subtitle": "Aquatic teal immersion",
+      "badge": "2 steps",
+      "thumb": "home/recipe_thumbs/deep_dive.jpg",
+      "steps": [
+        {
+          "tool": "EFFECTS",
+          "presetId": "filters/Classic/Aquatic.jpg",
+          "params": {
+            "opacity": "0.9",
+            "category": "Classic"
+          }
+        },
+        {
+          "tool": "SPLIT_TONE",
+          "params": {
+            "st_shadowHue": "200",
+            "st_shadowSat": "40",
+            "st_highlightHue": "190",
+            "st_highlightSat": "25",
+            "st_balance": "0"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/deep_dive.jpg"
+      ]
+    },
+    {
+      "id": "soft_bloom_dream",
+      "title": "Soft bloom dream",
+      "subtitle": "Airy highlight bloom over a pastel grade",
+      "badge": "4 steps",
+      "thumb": "home/recipe_thumbs/soft_bloom_dream.jpg",
+      "steps": [
+        {
+          "tool": "EFFECTS",
+          "presetId": "filters/Classic/Pastel.jpg",
+          "params": {
+            "opacity": "0.9",
+            "category": "Classic"
+          }
+        },
+        {
+          "tool": "CURVES",
+          "params": {
+            "cv_preset": "faded"
+          }
+        },
+        {
+          "tool": "BLOOM",
+          "params": {
+            "bloom_strength": "45",
+            "bloom_size": "60",
+            "bloom_range": "52",
+            "bloom_softness": "32"
+          }
+        },
+        {
+          "tool": "VIGNETTE",
+          "params": {
+            "vig_AMOUNT": "-22",
+            "vig_FEATHER": "60"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/soft_bloom_dream.jpg"
+      ]
+    },
+    {
+      "id": "angel_glow",
+      "title": "Angel glow",
+      "subtitle": "Diffused glow with a warm lift",
+      "badge": "3 steps",
+      "thumb": "home/recipe_thumbs/angel_glow.jpg",
+      "steps": [
+        {
+          "tool": "EFFECTS",
+          "presetId": "filters/Classic/Dream.jpg",
+          "params": {
+            "opacity": "1",
+            "category": "Classic"
+          }
+        },
+        {
+          "tool": "GLOW",
+          "params": {
+            "amount": "50",
+            "warmth": "22",
+            "saturation": "-6"
+          }
+        },
+        {
+          "tool": "BLOOM",
+          "params": {
+            "bloom_strength": "30",
+            "bloom_size": "55",
+            "bloom_range": "50",
+            "bloom_softness": "30"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/angel_glow.jpg"
+      ]
+    },
+    {
+      "id": "porcelain_light",
+      "title": "Porcelain light",
+      "subtitle": "Bright bloom, lifted blacks, cool skin",
+      "badge": "3 steps",
+      "thumb": "home/recipe_thumbs/porcelain_light.jpg",
+      "steps": [
+        {
+          "tool": "CURVES",
+          "params": {
+            "cv_preset": "brighten"
+          }
+        },
+        {
+          "tool": "ADJUST",
+          "params": {
+            "adj_EXPOSURE": "6",
+            "adj_SHADOWS": "18",
+            "adj_VIBRANCE": "10"
+          }
+        },
+        {
+          "tool": "BLOOM",
+          "params": {
+            "bloom_strength": "38",
+            "bloom_size": "58",
+            "bloom_range": "48",
+            "bloom_softness": "34"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/porcelain_light.jpg"
+      ]
+    },
+    {
+      "id": "halcyon",
+      "title": "Halcyon",
+      "subtitle": "Golden halation on a warm film base",
+      "badge": "3 steps",
+      "thumb": "home/recipe_thumbs/halcyon.jpg",
+      "steps": [
+        {
+          "tool": "EFFECTS",
+          "presetId": "filters/Simple/Warm Amber.jpg",
+          "params": {
+            "opacity": "0.9",
+            "category": "Simple"
+          }
+        },
+        {
+          "tool": "HALATION",
+          "params": {
+            "hal_strength": "42",
+            "hal_size": "68",
+            "hal_hardness": "48",
+            "hal_grain": "10",
+            "hal_sourceRange": "58",
+            "hal_destRange": "64",
+            "hal_shift": "0",
+            "hal_hue": "22"
+          }
+        },
+        {
+          "tool": "VIGNETTE",
+          "params": {
+            "vig_AMOUNT": "-28"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/halcyon.jpg"
+      ]
+    },
+    {
+      "id": "ember_halation",
+      "title": "Ember halation",
+      "subtitle": "Red halation spill for cinematic warmth",
+      "badge": "3 steps",
+      "thumb": "home/recipe_thumbs/ember_halation.jpg",
+      "steps": [
+        {
+          "tool": "EFFECTS",
+          "presetId": "filters/Cinematic/CM-3.png",
+          "params": {
+            "opacity": "0.95",
+            "category": "Cinematic"
+          }
+        },
+        {
+          "tool": "HALATION",
+          "params": {
+            "hal_strength": "48",
+            "hal_size": "70",
+            "hal_hardness": "52",
+            "hal_grain": "0",
+            "hal_sourceRange": "60",
+            "hal_destRange": "66",
+            "hal_shift": "10",
+            "hal_hue": "12"
+          }
+        },
+        {
+          "tool": "TONAL_CONTRAST",
+          "params": {
+            "tc_high": "0",
+            "tc_mid": "18",
+            "tc_low": "-10",
+            "tc_protectShadows": "0",
+            "tc_protectHighlights": "30"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/ember_halation.jpg"
+      ]
+    },
+    {
+      "id": "mist_and_bloom",
+      "title": "Mist & bloom",
+      "subtitle": "Hazy bloom with faded curves",
+      "badge": "4 steps",
+      "thumb": "home/recipe_thumbs/mist_and_bloom.jpg",
+      "steps": [
+        {
+          "tool": "EFFECTS",
+          "presetId": "filters/Classic/Haze.jpg",
+          "params": {
+            "opacity": "0.95",
+            "category": "Classic"
+          }
+        },
+        {
+          "tool": "CURVES",
+          "params": {
+            "cv_preset": "faded"
+          }
+        },
+        {
+          "tool": "BLOOM",
+          "params": {
+            "bloom_strength": "40",
+            "bloom_size": "64",
+            "bloom_range": "55",
+            "bloom_softness": "36"
+          }
+        },
+        {
+          "tool": "GLOW",
+          "params": {
+            "amount": "24",
+            "warmth": "12",
+            "saturation": "0"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/mist_and_bloom.jpg"
+      ]
+    },
+    {
+      "id": "dreamlit_portrait",
+      "title": "Dreamlit portrait",
+      "subtitle": "Skin-kind glow + gentle contrast",
+      "badge": "3 steps",
+      "thumb": "home/recipe_thumbs/dreamlit_portrait.jpg",
+      "steps": [
+        {
+          "tool": "EFFECTS",
+          "presetId": "filters/Selfie/S3.png",
+          "params": {
+            "opacity": "0.85",
+            "category": "Selfie"
+          }
+        },
+        {
+          "tool": "GLOW",
+          "params": {
+            "amount": "44",
+            "warmth": "18",
+            "saturation": "4"
+          }
+        },
+        {
+          "tool": "TONAL_CONTRAST",
+          "params": {
+            "tc_high": "14",
+            "tc_mid": "10",
+            "tc_low": "0",
+            "tc_protectShadows": "35",
+            "tc_protectHighlights": "30"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/dreamlit_portrait.jpg"
+      ]
+    },
+    {
+      "id": "silk_highlights",
+      "title": "Silk highlights",
+      "subtitle": "Bloom that melts hard highlights",
+      "badge": "3 steps",
+      "thumb": "home/recipe_thumbs/silk_highlights.jpg",
+      "steps": [
+        {
+          "tool": "ADJUST",
+          "params": {
+            "adj_HIGHLIGHTS": "-18",
+            "adj_CLARITY": "8"
+          }
+        },
+        {
+          "tool": "BLOOM",
+          "params": {
+            "bloom_strength": "52",
+            "bloom_size": "66",
+            "bloom_range": "58",
+            "bloom_softness": "38"
+          }
+        },
+        {
+          "tool": "VIGNETTE",
+          "params": {
+            "vig_AMOUNT": "-20",
+            "vig_FEATHER": "65"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/silk_highlights.jpg"
+      ]
+    },
+    {
+      "id": "radial_focus",
+      "title": "Radial focus",
+      "subtitle": "Sharp center, soft dreamy edges",
+      "badge": "3 steps",
+      "thumb": "home/recipe_thumbs/radial_focus.jpg",
+      "steps": [
+        {
+          "tool": "EFFECTS",
+          "presetId": "filters/Classic/Vivid.jpg",
+          "params": {
+            "opacity": "0.9",
+            "category": "Classic"
+          }
+        },
+        {
+          "tool": "BLUR",
+          "params": {
+            "blur_mode": "0",
+            "blur_maskShape": "1",
+            "blur_amount": "60",
+            "blur_feather": "60",
+            "blur_cx": "0.5",
+            "blur_cy": "0.5",
+            "blur_radius": "0.4",
+            "blur_angle": "0",
+            "blur_bandHalf": "0.2"
+          }
+        },
+        {
+          "tool": "VIGNETTE",
+          "params": {
+            "vig_AMOUNT": "-26"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/radial_focus.jpg"
+      ]
+    },
+    {
+      "id": "tilt_shift_toy",
+      "title": "Tilt-shift toy",
+      "subtitle": "Miniature look with a linear focus band",
+      "badge": "3 steps",
+      "thumb": "home/recipe_thumbs/tilt_shift_toy.jpg",
+      "steps": [
+        {
+          "tool": "ADJUST",
+          "params": {
+            "adj_SATURATION": "18",
+            "adj_CONTRAST": "12"
+          }
+        },
+        {
+          "tool": "BLUR",
+          "params": {
+            "blur_mode": "0",
+            "blur_maskShape": "2",
+            "blur_amount": "70",
+            "blur_feather": "55",
+            "blur_cx": "0.5",
+            "blur_cy": "0.5",
+            "blur_radius": "0.35",
+            "blur_angle": "0",
+            "blur_bandHalf": "0.18"
+          }
+        },
+        {
+          "tool": "VIGNETTE",
+          "params": {
+            "vig_AMOUNT": "-30"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/tilt_shift_toy.jpg"
+      ]
+    },
+    {
+      "id": "spin_energy",
+      "title": "Spin energy",
+      "subtitle": "Spun motion around a crisp center",
+      "badge": "2 steps",
+      "thumb": "home/recipe_thumbs/spin_energy.jpg",
+      "steps": [
+        {
+          "tool": "EFFECTS",
+          "presetId": "filters/Simple/Drama.jpg",
+          "params": {
+            "opacity": "0.9",
+            "category": "Simple"
+          }
+        },
+        {
+          "tool": "BLUR",
+          "params": {
+            "blur_mode": "3",
+            "blur_maskShape": "1",
+            "blur_amount": "55",
+            "blur_feather": "50",
+            "blur_cx": "0.5",
+            "blur_cy": "0.5",
+            "blur_radius": "0.32",
+            "blur_angle": "0",
+            "blur_bandHalf": "0.2"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/spin_energy.jpg"
+      ]
+    },
+    {
+      "id": "zoom_rush",
+      "title": "Zoom rush",
+      "subtitle": "Explosive zoom blur from the center",
+      "badge": "3 steps",
+      "thumb": "home/recipe_thumbs/zoom_rush.jpg",
+      "steps": [
+        {
+          "tool": "EFFECTS",
+          "presetId": "filters/Cinematic/CM-6.png",
+          "params": {
+            "opacity": "0.9",
+            "category": "Cinematic"
+          }
+        },
+        {
+          "tool": "BLUR",
+          "params": {
+            "blur_mode": "2",
+            "blur_maskShape": "1",
+            "blur_amount": "60",
+            "blur_feather": "55",
+            "blur_cx": "0.5",
+            "blur_cy": "0.5",
+            "blur_radius": "0.3",
+            "blur_angle": "0",
+            "blur_bandHalf": "0.2"
+          }
+        },
+        {
+          "tool": "TONAL_CONTRAST",
+          "params": {
+            "tc_high": "12",
+            "tc_mid": "0",
+            "tc_low": "-8",
+            "tc_protectShadows": "0",
+            "tc_protectHighlights": "0"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/zoom_rush.jpg"
+      ]
+    },
+    {
+      "id": "motion_streak",
+      "title": "Motion streak",
+      "subtitle": "Horizontal motion drag for speed",
+      "badge": "3 steps",
+      "thumb": "home/recipe_thumbs/motion_streak.jpg",
+      "steps": [
+        {
+          "tool": "ADJUST",
+          "params": {
+            "adj_CONTRAST": "14",
+            "adj_CLARITY": "10"
+          }
+        },
+        {
+          "tool": "BLUR",
+          "params": {
+            "blur_mode": "1",
+            "blur_maskShape": "0",
+            "blur_amount": "45",
+            "blur_feather": "55",
+            "blur_cx": "0.5",
+            "blur_cy": "0.5",
+            "blur_radius": "0.35",
+            "blur_angle": "0",
+            "blur_bandHalf": "0.2"
+          }
+        },
+        {
+          "tool": "VIGNETTE",
+          "params": {
+            "vig_AMOUNT": "-22"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/motion_streak.jpg"
+      ]
+    },
+    {
+      "id": "bokeh_backdrop",
+      "title": "Bokeh backdrop",
+      "subtitle": "Blurred edges with a glowing bokeh overlay",
+      "badge": "3 steps",
+      "thumb": "home/recipe_thumbs/bokeh_backdrop.jpg",
+      "steps": [
+        {
+          "tool": "BLUR",
+          "params": {
+            "blur_mode": "4",
+            "blur_maskShape": "1",
+            "blur_amount": "55",
+            "blur_feather": "60",
+            "blur_cx": "0.5",
+            "blur_cy": "0.5",
+            "blur_radius": "0.38",
+            "blur_angle": "0",
+            "blur_bandHalf": "0.2"
+          }
+        },
+        {
+          "tool": "OVERLAYS",
+          "params": {
+            "ov_id": "bokeh",
+            "ov_blendMode": "0",
+            "ov_opacity": "0.55"
+          }
+        },
+        {
+          "tool": "GLOW",
+          "params": {
+            "amount": "22",
+            "warmth": "16",
+            "saturation": "0"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/bokeh_backdrop.jpg"
+      ]
+    },
+    {
+      "id": "soft_edge_glow",
+      "title": "Soft-edge glow",
+      "subtitle": "Radial blur plus bloom for a daydream",
+      "badge": "3 steps",
+      "thumb": "home/recipe_thumbs/soft_edge_glow.jpg",
+      "steps": [
+        {
+          "tool": "CURVES",
+          "params": {
+            "cv_preset": "soft_contrast"
+          }
+        },
+        {
+          "tool": "BLUR",
+          "params": {
+            "blur_mode": "0",
+            "blur_maskShape": "1",
+            "blur_amount": "48",
+            "blur_feather": "65",
+            "blur_cx": "0.5",
+            "blur_cy": "0.5",
+            "blur_radius": "0.45",
+            "blur_angle": "0",
+            "blur_bandHalf": "0.2"
+          }
+        },
+        {
+          "tool": "BLOOM",
+          "params": {
+            "bloom_strength": "30",
+            "bloom_size": "55",
+            "bloom_range": "50",
+            "bloom_softness": "30"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/soft_edge_glow.jpg"
+      ]
+    },
+    {
+      "id": "red_isolation",
+      "title": "Red isolation",
+      "subtitle": "Keep only reds, mute the rest",
+      "badge": "3 steps",
+      "thumb": "home/recipe_thumbs/red_isolation.jpg",
+      "steps": [
+        {
+          "tool": "ADJUST",
+          "params": {
+            "adj_CONTRAST": "10"
+          }
+        },
+        {
+          "tool": "COLOR_POP",
+          "params": {
+            "cp_keepCount": "1",
+            "cp_amount": "100",
+            "cp_range": "42",
+            "cp_invert": "0",
+            "cp_keep0": "0.86,0.16,0.14"
+          }
+        },
+        {
+          "tool": "TONAL_CONTRAST",
+          "params": {
+            "tc_high": "0",
+            "tc_mid": "12",
+            "tc_low": "0",
+            "tc_protectShadows": "0",
+            "tc_protectHighlights": "25"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/red_isolation.jpg"
+      ]
+    },
+    {
+      "id": "yellow_cab",
+      "title": "Yellow cab",
+      "subtitle": "Street mono with a punch of yellow",
+      "badge": "3 steps",
+      "thumb": "home/recipe_thumbs/yellow_cab.jpg",
+      "steps": [
+        {
+          "tool": "EFFECTS",
+          "presetId": "filters/Simple/1971.jpg",
+          "params": {
+            "opacity": "0.6",
+            "category": "Simple"
+          }
+        },
+        {
+          "tool": "COLOR_POP",
+          "params": {
+            "cp_keepCount": "1",
+            "cp_amount": "100",
+            "cp_range": "40",
+            "cp_invert": "0",
+            "cp_keep0": "0.96,0.82,0.22"
+          }
+        },
+        {
+          "tool": "VIGNETTE",
+          "params": {
+            "vig_AMOUNT": "-30"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/yellow_cab.jpg"
+      ]
+    },
+    {
+      "id": "teal_pop",
+      "title": "Teal pop",
+      "subtitle": "Isolate teal tones on a cool grade",
+      "badge": "3 steps",
+      "thumb": "home/recipe_thumbs/teal_pop.jpg",
+      "steps": [
+        {
+          "tool": "CURVES",
+          "params": {
+            "cv_preset": "u01"
+          }
+        },
+        {
+          "tool": "COLOR_POP",
+          "params": {
+            "cp_keepCount": "2",
+            "cp_amount": "100",
+            "cp_range": "48",
+            "cp_invert": "0",
+            "cp_keep0": "0.12,0.62,0.6",
+            "cp_keep1": "0.16,0.36,0.82"
+          }
+        },
+        {
+          "tool": "TONAL_CONTRAST",
+          "params": {
+            "tc_high": "10",
+            "tc_mid": "0",
+            "tc_low": "-6",
+            "tc_protectShadows": "0",
+            "tc_protectHighlights": "0"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/teal_pop.jpg"
+      ]
+    },
+    {
+      "id": "crimson_focus",
+      "title": "Crimson focus",
+      "subtitle": "Radial focus with kept crimson",
+      "badge": "3 steps",
+      "thumb": "home/recipe_thumbs/crimson_focus.jpg",
+      "steps": [
+        {
+          "tool": "BLUR",
+          "params": {
+            "blur_mode": "0",
+            "blur_maskShape": "1",
+            "blur_amount": "50",
+            "blur_feather": "60",
+            "blur_cx": "0.5",
+            "blur_cy": "0.5",
+            "blur_radius": "0.42",
+            "blur_angle": "0",
+            "blur_bandHalf": "0.2"
+          }
+        },
+        {
+          "tool": "COLOR_POP",
+          "params": {
+            "cp_keepCount": "2",
+            "cp_amount": "100",
+            "cp_range": "44",
+            "cp_invert": "0",
+            "cp_keep0": "0.86,0.16,0.14",
+            "cp_keep1": "0.95,0.42,0.62"
+          }
+        },
+        {
+          "tool": "VIGNETTE",
+          "params": {
+            "vig_AMOUNT": "-28"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/crimson_focus.jpg"
+      ]
+    },
+    {
+      "id": "green_only",
+      "title": "Green world",
+      "subtitle": "Foliage greens kept, everything else grey",
+      "badge": "3 steps",
+      "thumb": "home/recipe_thumbs/green_only.jpg",
+      "steps": [
+        {
+          "tool": "ADJUST",
+          "params": {
+            "adj_VIBRANCE": "12"
+          }
+        },
+        {
+          "tool": "COLOR_POP",
+          "params": {
+            "cp_keepCount": "1",
+            "cp_amount": "100",
+            "cp_range": "50",
+            "cp_invert": "0",
+            "cp_keep0": "0.24,0.62,0.28"
+          }
+        },
+        {
+          "tool": "CURVES",
+          "params": {
+            "cv_preset": "l01"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/green_only.jpg"
+      ]
+    },
+    {
+      "id": "pop_and_bloom",
+      "title": "Pop & bloom",
+      "subtitle": "Kept warm tones under a soft bloom",
+      "badge": "3 steps",
+      "thumb": "home/recipe_thumbs/pop_and_bloom.jpg",
+      "steps": [
+        {
+          "tool": "COLOR_POP",
+          "params": {
+            "cp_keepCount": "2",
+            "cp_amount": "95",
+            "cp_range": "46",
+            "cp_invert": "0",
+            "cp_keep0": "0.95,0.52,0.16",
+            "cp_keep1": "0.96,0.82,0.22"
+          }
+        },
+        {
+          "tool": "BLOOM",
+          "params": {
+            "bloom_strength": "34",
+            "bloom_size": "56",
+            "bloom_range": "52",
+            "bloom_softness": "30"
+          }
+        },
+        {
+          "tool": "VIGNETTE",
+          "params": {
+            "vig_AMOUNT": "-20"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/pop_and_bloom.jpg"
+      ]
+    },
+    {
+      "id": "neon_isolate",
+      "title": "Neon isolate",
+      "subtitle": "Purple/cyan neon kept for night shots",
+      "badge": "3 steps",
+      "thumb": "home/recipe_thumbs/neon_isolate.jpg",
+      "steps": [
+        {
+          "tool": "EFFECTS",
+          "presetId": "filters/Cinematic/CM-8.png",
+          "params": {
+            "opacity": "0.85",
+            "category": "Cinematic"
+          }
+        },
+        {
+          "tool": "COLOR_POP",
+          "params": {
+            "cp_keepCount": "2",
+            "cp_amount": "100",
+            "cp_range": "50",
+            "cp_invert": "0",
+            "cp_keep0": "0.52,0.26,0.72",
+            "cp_keep1": "0.2,0.7,0.85"
+          }
+        },
+        {
+          "tool": "GLOW",
+          "params": {
+            "amount": "28",
+            "warmth": "-8",
+            "saturation": "6"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/neon_isolate.jpg"
+      ]
+    },
+    {
+      "id": "warm_leak",
+      "title": "Warm light leak",
+      "subtitle": "Vintage film with a warm corner leak",
+      "badge": "3 steps",
+      "thumb": "home/recipe_thumbs/warm_leak.jpg",
+      "steps": [
+        {
+          "tool": "EFFECTS",
+          "presetId": "filters/Classic/Summer.jpg",
+          "params": {
+            "opacity": "0.9",
+            "category": "Classic"
+          }
+        },
+        {
+          "tool": "GRAINY_FILM",
+          "presetId": "grainy_films/Vintage/V04.png",
+          "params": {
+            "category": "Vintage",
+            "strength": "55",
+            "grain": "32",
+            "grainSize": "30",
+            "grainTexture": "25",
+            "grainBlur": "0"
+          }
+        },
+        {
+          "tool": "OVERLAYS",
+          "params": {
+            "ov_id": "leak_warm",
+            "ov_blendMode": "0",
+            "ov_opacity": "0.6"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/warm_leak.jpg"
+      ]
+    },
+    {
+      "id": "crimson_flare",
+      "title": "Crimson flare",
+      "subtitle": "Bold red streak across a moody grade",
+      "badge": "3 steps",
+      "thumb": "home/recipe_thumbs/crimson_flare.jpg",
+      "steps": [
+        {
+          "tool": "EFFECTS",
+          "presetId": "filters/Cinematic/CM-2.png",
+          "params": {
+            "opacity": "0.9",
+            "category": "Cinematic"
+          }
+        },
+        {
+          "tool": "OVERLAYS",
+          "params": {
+            "ov_id": "leak_crimson",
+            "ov_blendMode": "0",
+            "ov_opacity": "0.55"
+          }
+        },
+        {
+          "tool": "VIGNETTE",
+          "params": {
+            "vig_AMOUNT": "-32"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/crimson_flare.jpg"
+      ]
+    },
+    {
+      "id": "golden_edge",
+      "title": "Golden edge",
+      "subtitle": "Top-down golden wash",
+      "badge": "3 steps",
+      "thumb": "home/recipe_thumbs/golden_edge.jpg",
+      "steps": [
+        {
+          "tool": "CURVES",
+          "params": {
+            "cv_preset": "r01"
+          }
+        },
+        {
+          "tool": "OVERLAYS",
+          "params": {
+            "ov_id": "golden",
+            "ov_blendMode": "0",
+            "ov_opacity": "0.5"
+          }
+        },
+        {
+          "tool": "GLOW",
+          "params": {
+            "amount": "20",
+            "warmth": "20",
+            "saturation": "0"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/golden_edge.jpg"
+      ]
+    },
+    {
+      "id": "cool_flare_pop",
+      "title": "Cool flare",
+      "subtitle": "Blue lens flare with crisp tone",
+      "badge": "3 steps",
+      "thumb": "home/recipe_thumbs/cool_flare_pop.jpg",
+      "steps": [
+        {
+          "tool": "ADJUST",
+          "params": {
+            "adj_CONTRAST": "12",
+            "adj_VIBRANCE": "10"
+          }
+        },
+        {
+          "tool": "OVERLAYS",
+          "params": {
+            "ov_id": "cool_flare",
+            "ov_blendMode": "0",
+            "ov_opacity": "0.5"
+          }
+        },
+        {
+          "tool": "TONAL_CONTRAST",
+          "params": {
+            "tc_high": "10",
+            "tc_mid": "0",
+            "tc_low": "-8",
+            "tc_protectShadows": "0",
+            "tc_protectHighlights": "0"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/cool_flare_pop.jpg"
+      ]
+    },
+    {
+      "id": "sunset_wash",
+      "title": "Sunset wash",
+      "subtitle": "Purple-to-orange sky gradient",
+      "badge": "3 steps",
+      "thumb": "home/recipe_thumbs/sunset_wash.jpg",
+      "steps": [
+        {
+          "tool": "EFFECTS",
+          "presetId": "filters/Simple/Sunny.jpg",
+          "params": {
+            "opacity": "0.85",
+            "category": "Simple"
+          }
+        },
+        {
+          "tool": "OVERLAYS",
+          "params": {
+            "ov_id": "sunset",
+            "ov_blendMode": "2",
+            "ov_opacity": "0.5"
+          }
+        },
+        {
+          "tool": "VIGNETTE",
+          "params": {
+            "vig_AMOUNT": "-24"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/sunset_wash.jpg"
+      ]
+    },
+    {
+      "id": "teal_fade_leak",
+      "title": "Teal fade",
+      "subtitle": "Diagonal teal fade for a modern look",
+      "badge": "3 steps",
+      "thumb": "home/recipe_thumbs/teal_fade_leak.jpg",
+      "steps": [
+        {
+          "tool": "CURVES",
+          "params": {
+            "cv_preset": "faded"
+          }
+        },
+        {
+          "tool": "OVERLAYS",
+          "params": {
+            "ov_id": "teal_fade",
+            "ov_blendMode": "0",
+            "ov_opacity": "0.45"
+          }
+        },
+        {
+          "tool": "GLOW",
+          "params": {
+            "amount": "18",
+            "warmth": "-6",
+            "saturation": "0"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/teal_fade_leak.jpg"
+      ]
+    },
+    {
+      "id": "film_dust",
+      "title": "Film dust",
+      "subtitle": "Old-print dust and speckle overlay",
+      "badge": "3 steps",
+      "thumb": "home/recipe_thumbs/film_dust.jpg",
+      "steps": [
+        {
+          "tool": "EFFECTS",
+          "presetId": "filters/Classic/Autumn.jpg",
+          "params": {
+            "opacity": "0.9",
+            "category": "Classic"
+          }
+        },
+        {
+          "tool": "OVERLAYS",
+          "params": {
+            "ov_id": "dust",
+            "ov_blendMode": "0",
+            "ov_opacity": "0.6"
+          }
+        },
+        {
+          "tool": "GRAINY_FILM",
+          "presetId": "grainy_films/Vintage/V11.png",
+          "params": {
+            "category": "Vintage",
+            "strength": "50",
+            "grain": "30",
+            "grainSize": "28",
+            "grainTexture": "22",
+            "grainBlur": "0"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/film_dust.jpg"
+      ]
+    },
+    {
+      "id": "scratched_reel",
+      "title": "Scratched reel",
+      "subtitle": "Analog scratches over a noir base",
+      "badge": "3 steps",
+      "thumb": "home/recipe_thumbs/scratched_reel.jpg",
+      "steps": [
+        {
+          "tool": "EFFECTS",
+          "presetId": "filters/Classic/B&W.jpg",
+          "params": {
+            "opacity": "1",
+            "category": "Classic"
+          }
+        },
+        {
+          "tool": "OVERLAYS",
+          "params": {
+            "ov_id": "scratch_3",
+            "ov_blendMode": "0",
+            "ov_opacity": "0.5"
+          }
+        },
+        {
+          "tool": "VIGNETTE",
+          "params": {
+            "vig_AMOUNT": "-40",
+            "vig_FEATHER": "60"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/scratched_reel.jpg"
+      ]
+    },
+    {
+      "id": "grunge_press",
+      "title": "Grunge press",
+      "subtitle": "Gritty grunge texture, punchy tone",
+      "badge": "3 steps",
+      "thumb": "home/recipe_thumbs/grunge_press.jpg",
+      "steps": [
+        {
+          "tool": "EFFECTS",
+          "presetId": "filters/Simple/Drama.jpg",
+          "params": {
+            "opacity": "0.9",
+            "category": "Simple"
+          }
+        },
+        {
+          "tool": "OVERLAYS",
+          "params": {
+            "ov_id": "grunge_2",
+            "ov_blendMode": "1",
+            "ov_opacity": "0.4"
+          }
+        },
+        {
+          "tool": "TONAL_CONTRAST",
+          "params": {
+            "tc_high": "16",
+            "tc_mid": "10",
+            "tc_low": "8",
+            "tc_protectShadows": "0",
+            "tc_protectHighlights": "0"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/grunge_press.jpg"
+      ]
+    },
+    {
+      "id": "leak_no7",
+      "title": "Analog leak",
+      "subtitle": "Bundled photographic light leak",
+      "badge": "3 steps",
+      "thumb": "home/recipe_thumbs/leak_no7.jpg",
+      "steps": [
+        {
+          "tool": "EFFECTS",
+          "presetId": "filters/Classic/Memory.jpg",
+          "params": {
+            "opacity": "0.9",
+            "category": "Classic"
+          }
+        },
+        {
+          "tool": "OVERLAYS",
+          "params": {
+            "ov_id": "ll_7",
+            "ov_blendMode": "0",
+            "ov_opacity": "0.55"
+          }
+        },
+        {
+          "tool": "GLOW",
+          "params": {
+            "amount": "20",
+            "warmth": "14",
+            "saturation": "0"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/leak_no7.jpg"
+      ]
+    },
+    {
+      "id": "matte_fade",
+      "title": "Matte fade",
+      "subtitle": "Lifted-black matte with soft contrast",
+      "badge": "3 steps",
+      "thumb": "home/recipe_thumbs/matte_fade.jpg",
+      "steps": [
+        {
+          "tool": "CURVES",
+          "params": {
+            "cv_preset": "f02"
+          }
+        },
+        {
+          "tool": "ADJUST",
+          "params": {
+            "adj_FADE": "14",
+            "adj_VIBRANCE": "8"
+          }
+        },
+        {
+          "tool": "VIGNETTE",
+          "params": {
+            "vig_AMOUNT": "-18",
+            "vig_FEATHER": "65"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/matte_fade.jpg"
+      ]
+    },
+    {
+      "id": "hard_contrast_bw",
+      "title": "Hard mono",
+      "subtitle": "High-contrast black & white",
+      "badge": "3 steps",
+      "thumb": "home/recipe_thumbs/hard_contrast_bw.jpg",
+      "steps": [
+        {
+          "tool": "EFFECTS",
+          "presetId": "filters/Classic/B&W.jpg",
+          "params": {
+            "opacity": "1",
+            "category": "Classic"
+          }
+        },
+        {
+          "tool": "CURVES",
+          "params": {
+            "cv_preset": "hard_contrast"
+          }
+        },
+        {
+          "tool": "TONAL_CONTRAST",
+          "params": {
+            "tc_high": "18",
+            "tc_mid": "0",
+            "tc_low": "-14",
+            "tc_protectShadows": "0",
+            "tc_protectHighlights": "0"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/hard_contrast_bw.jpg"
+      ]
+    },
+    {
+      "id": "warm_curve_film",
+      "title": "Warm curve film",
+      "subtitle": "Film-warm curves with grain",
+      "badge": "3 steps",
+      "thumb": "home/recipe_thumbs/warm_curve_film.jpg",
+      "steps": [
+        {
+          "tool": "CURVES",
+          "params": {
+            "cv_preset": "f01"
+          }
+        },
+        {
+          "tool": "GRAINY_FILM",
+          "presetId": "grainy_films/Kodak/KG1.png",
+          "params": {
+            "category": "Kodak",
+            "strength": "55",
+            "grain": "35",
+            "grainSize": "30",
+            "grainTexture": "25",
+            "grainBlur": "0"
+          }
+        },
+        {
+          "tool": "VIGNETTE",
+          "params": {
+            "vig_AMOUNT": "-24"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/warm_curve_film.jpg"
+      ]
+    },
+    {
+      "id": "teal_orange_curve",
+      "title": "Teal & orange",
+      "subtitle": "Cinematic split via curves",
+      "badge": "3 steps",
+      "thumb": "home/recipe_thumbs/teal_orange_curve.jpg",
+      "steps": [
+        {
+          "tool": "CURVES",
+          "params": {
+            "cv_preset": "u02"
+          }
+        },
+        {
+          "tool": "SPLIT_TONE",
+          "params": {
+            "st_shadowHue": "195",
+            "st_shadowSat": "35",
+            "st_highlightHue": "35",
+            "st_highlightSat": "30",
+            "st_balance": "10"
+          }
+        },
+        {
+          "tool": "TONAL_CONTRAST",
+          "params": {
+            "tc_high": "10",
+            "tc_mid": "0",
+            "tc_low": "-8",
+            "tc_protectShadows": "0",
+            "tc_protectHighlights": "0"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/teal_orange_curve.jpg"
+      ]
+    },
+    {
+      "id": "earthy_curve",
+      "title": "Earthy",
+      "subtitle": "Green-lifted landscape curves",
+      "badge": "3 steps",
+      "thumb": "home/recipe_thumbs/earthy_curve.jpg",
+      "steps": [
+        {
+          "tool": "CURVES",
+          "params": {
+            "cv_preset": "e02"
+          }
+        },
+        {
+          "tool": "ADJUST",
+          "params": {
+            "adj_VIBRANCE": "12",
+            "adj_CLARITY": "10"
+          }
+        },
+        {
+          "tool": "TONAL_CONTRAST",
+          "params": {
+            "tc_high": "0",
+            "tc_mid": "14",
+            "tc_low": "0",
+            "tc_protectShadows": "30",
+            "tc_protectHighlights": "0"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/earthy_curve.jpg"
+      ]
+    },
+    {
+      "id": "bright_airy_curve",
+      "title": "Bright & airy",
+      "subtitle": "Brightened curves with a bloom",
+      "badge": "3 steps",
+      "thumb": "home/recipe_thumbs/bright_airy_curve.jpg",
+      "steps": [
+        {
+          "tool": "CURVES",
+          "params": {
+            "cv_preset": "brighten"
+          }
+        },
+        {
+          "tool": "BLOOM",
+          "params": {
+            "bloom_strength": "28",
+            "bloom_size": "54",
+            "bloom_range": "48",
+            "bloom_softness": "30"
+          }
+        },
+        {
+          "tool": "VIGNETTE",
+          "params": {
+            "vig_AMOUNT": "-16",
+            "vig_FEATHER": "68"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/bright_airy_curve.jpg"
+      ]
+    },
+    {
+      "id": "gritty_structure",
+      "title": "Gritty structure",
+      "subtitle": "Punchy local contrast, protected tones",
+      "badge": "3 steps",
+      "thumb": "home/recipe_thumbs/gritty_structure.jpg",
+      "steps": [
+        {
+          "tool": "EFFECTS",
+          "presetId": "filters/Simple/Retro.jpg",
+          "params": {
+            "opacity": "0.8",
+            "category": "Simple"
+          }
+        },
+        {
+          "tool": "TONAL_CONTRAST",
+          "params": {
+            "tc_high": "30",
+            "tc_mid": "24",
+            "tc_low": "20",
+            "tc_protectShadows": "35",
+            "tc_protectHighlights": "35"
+          }
+        },
+        {
+          "tool": "VIGNETTE",
+          "params": {
+            "vig_AMOUNT": "-28"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/gritty_structure.jpg"
+      ]
+    },
+    {
+      "id": "hdr_pop",
+      "title": "HDR pop",
+      "subtitle": "Big structure with an HDR filter",
+      "badge": "3 steps",
+      "thumb": "home/recipe_thumbs/hdr_pop.jpg",
+      "steps": [
+        {
+          "tool": "EFFECTS",
+          "presetId": "filters/HDR/HDR_7.jpg",
+          "params": {
+            "opacity": "0.9",
+            "category": "HDR"
+          }
+        },
+        {
+          "tool": "TONAL_CONTRAST",
+          "params": {
+            "tc_high": "26",
+            "tc_mid": "22",
+            "tc_low": "18",
+            "tc_protectShadows": "30",
+            "tc_protectHighlights": "30"
+          }
+        },
+        {
+          "tool": "ADJUST",
+          "params": {
+            "adj_VIBRANCE": "10"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/hdr_pop.jpg"
+      ]
+    },
+    {
+      "id": "stone_and_steel",
+      "title": "Stone & steel",
+      "subtitle": "Cool desaturated structure",
+      "badge": "3 steps",
+      "thumb": "home/recipe_thumbs/stone_and_steel.jpg",
+      "steps": [
+        {
+          "tool": "ADJUST",
+          "params": {
+            "adj_SATURATION": "-18",
+            "adj_CONTRAST": "12"
+          }
+        },
+        {
+          "tool": "TONAL_CONTRAST",
+          "params": {
+            "tc_high": "28",
+            "tc_mid": "20",
+            "tc_low": "16",
+            "tc_protectShadows": "30",
+            "tc_protectHighlights": "0"
+          }
+        },
+        {
+          "tool": "SPLIT_TONE",
+          "params": {
+            "st_shadowHue": "210",
+            "st_shadowSat": "20",
+            "st_highlightHue": "210",
+            "st_highlightSat": "10",
+            "st_balance": "0"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/stone_and_steel.jpg"
+      ]
+    },
+    {
+      "id": "clarity_bloom",
+      "title": "Clarity bloom",
+      "subtitle": "Local contrast plus a soft glow",
+      "badge": "3 steps",
+      "thumb": "home/recipe_thumbs/clarity_bloom.jpg",
+      "steps": [
+        {
+          "tool": "TONAL_CONTRAST",
+          "params": {
+            "tc_high": "22",
+            "tc_mid": "18",
+            "tc_low": "0",
+            "tc_protectShadows": "30",
+            "tc_protectHighlights": "30"
+          }
+        },
+        {
+          "tool": "BLOOM",
+          "params": {
+            "bloom_strength": "30",
+            "bloom_size": "55",
+            "bloom_range": "50",
+            "bloom_softness": "30"
+          }
+        },
+        {
+          "tool": "VIGNETTE",
+          "params": {
+            "vig_AMOUNT": "-20"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/clarity_bloom.jpg"
+      ]
+    },
+    {
+      "id": "cine_teal_bloom",
+      "title": "Cinema teal bloom",
+      "subtitle": "Teal grade, structure, halation",
+      "badge": "3 steps",
+      "thumb": "home/recipe_thumbs/cine_teal_bloom.jpg",
+      "steps": [
+        {
+          "tool": "EFFECTS",
+          "presetId": "filters/Cinematic/CM-4.png",
+          "params": {
+            "opacity": "0.9",
+            "category": "Cinematic"
+          }
+        },
+        {
+          "tool": "TONAL_CONTRAST",
+          "params": {
+            "tc_high": "16",
+            "tc_mid": "0",
+            "tc_low": "-10",
+            "tc_protectShadows": "0",
+            "tc_protectHighlights": "30"
+          }
+        },
+        {
+          "tool": "HALATION",
+          "params": {
+            "hal_strength": "30",
+            "hal_size": "66",
+            "hal_hardness": "50",
+            "hal_grain": "0",
+            "hal_sourceRange": "55",
+            "hal_destRange": "62",
+            "hal_shift": "0",
+            "hal_hue": "18"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/cine_teal_bloom.jpg"
+      ]
+    },
+    {
+      "id": "dream_pop_leak",
+      "title": "Dream pop leak",
+      "subtitle": "Pastel bloom, kept pinks, warm leak",
+      "badge": "4 steps",
+      "thumb": "home/recipe_thumbs/dream_pop_leak.jpg",
+      "steps": [
+        {
+          "tool": "CURVES",
+          "params": {
+            "cv_preset": "faded"
+          }
+        },
+        {
+          "tool": "COLOR_POP",
+          "params": {
+            "cp_keepCount": "2",
+            "cp_amount": "90",
+            "cp_range": "46",
+            "cp_invert": "0",
+            "cp_keep0": "0.95,0.42,0.62",
+            "cp_keep1": "0.86,0.16,0.14"
+          }
+        },
+        {
+          "tool": "BLOOM",
+          "params": {
+            "bloom_strength": "30",
+            "bloom_size": "55",
+            "bloom_range": "50",
+            "bloom_softness": "30"
+          }
+        },
+        {
+          "tool": "OVERLAYS",
+          "params": {
+            "ov_id": "leak_warm",
+            "ov_blendMode": "0",
+            "ov_opacity": "0.45"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/dream_pop_leak.jpg"
+      ]
+    },
+    {
+      "id": "noir_focus",
+      "title": "Noir focus",
+      "subtitle": "Mono radial focus with scratches",
+      "badge": "4 steps",
+      "thumb": "home/recipe_thumbs/noir_focus.jpg",
+      "steps": [
+        {
+          "tool": "EFFECTS",
+          "presetId": "filters/Classic/B&W.jpg",
+          "params": {
+            "opacity": "1",
+            "category": "Classic"
+          }
+        },
+        {
+          "tool": "BLUR",
+          "params": {
+            "blur_mode": "0",
+            "blur_maskShape": "1",
+            "blur_amount": "52",
+            "blur_feather": "60",
+            "blur_cx": "0.5",
+            "blur_cy": "0.5",
+            "blur_radius": "0.4",
+            "blur_angle": "0",
+            "blur_bandHalf": "0.2"
+          }
+        },
+        {
+          "tool": "OVERLAYS",
+          "params": {
+            "ov_id": "scratch_5",
+            "ov_blendMode": "0",
+            "ov_opacity": "0.4"
+          }
+        },
+        {
+          "tool": "VIGNETTE",
+          "params": {
+            "vig_AMOUNT": "-44"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/noir_focus.jpg"
+      ]
+    },
+    {
+      "id": "golden_hour_glow",
+      "title": "Golden hour glow",
+      "subtitle": "Warm curves, halation, golden leak",
+      "badge": "4 steps",
+      "thumb": "home/recipe_thumbs/golden_hour_glow.jpg",
+      "steps": [
+        {
+          "tool": "CURVES",
+          "params": {
+            "cv_preset": "r02"
+          }
+        },
+        {
+          "tool": "HALATION",
+          "params": {
+            "hal_strength": "34",
+            "hal_size": "66",
+            "hal_hardness": "48",
+            "hal_grain": "0",
+            "hal_sourceRange": "56",
+            "hal_destRange": "62",
+            "hal_shift": "0",
+            "hal_hue": "20"
+          }
+        },
+        {
+          "tool": "OVERLAYS",
+          "params": {
+            "ov_id": "golden",
+            "ov_blendMode": "0",
+            "ov_opacity": "0.4"
+          }
+        },
+        {
+          "tool": "VIGNETTE",
+          "params": {
+            "vig_AMOUNT": "-22"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/golden_hour_glow.jpg"
+      ]
+    },
+    {
+      "id": "retro_tilt",
+      "title": "Retro tilt",
+      "subtitle": "Vintage grade with a tilt-shift band",
+      "badge": "3 steps",
+      "thumb": "home/recipe_thumbs/retro_tilt.jpg",
+      "steps": [
+        {
+          "tool": "EFFECTS",
+          "presetId": "filters/Simple/VIN2.jpg",
+          "params": {
+            "opacity": "0.85",
+            "category": "Simple"
+          }
+        },
+        {
+          "tool": "GRAINY_FILM",
+          "presetId": "grainy_films/Vintage/V07.png",
+          "params": {
+            "category": "Vintage",
+            "strength": "50",
+            "grain": "30",
+            "grainSize": "28",
+            "grainTexture": "22",
+            "grainBlur": "0"
+          }
+        },
+        {
+          "tool": "BLUR",
+          "params": {
+            "blur_mode": "0",
+            "blur_maskShape": "2",
+            "blur_amount": "55",
+            "blur_feather": "55",
+            "blur_cx": "0.5",
+            "blur_cy": "0.5",
+            "blur_radius": "0.35",
+            "blur_angle": "0",
+            "blur_bandHalf": "0.2"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/retro_tilt.jpg"
+      ]
+    },
+    {
+      "id": "electric_night",
+      "title": "Electric night",
+      "subtitle": "Neon pop, cool flare, bloom",
+      "badge": "4 steps",
+      "thumb": "home/recipe_thumbs/electric_night.jpg",
+      "steps": [
+        {
+          "tool": "EFFECTS",
+          "presetId": "filters/Cinematic/CM-9.png",
+          "params": {
+            "opacity": "0.9",
+            "category": "Cinematic"
+          }
+        },
+        {
+          "tool": "COLOR_POP",
+          "params": {
+            "cp_keepCount": "2",
+            "cp_amount": "100",
+            "cp_range": "50",
+            "cp_invert": "0",
+            "cp_keep0": "0.2,0.7,0.85",
+            "cp_keep1": "0.52,0.26,0.72"
+          }
+        },
+        {
+          "tool": "OVERLAYS",
+          "params": {
+            "ov_id": "cool_flare",
+            "ov_blendMode": "0",
+            "ov_opacity": "0.45"
+          }
+        },
+        {
+          "tool": "BLOOM",
+          "params": {
+            "bloom_strength": "26",
+            "bloom_size": "52",
+            "bloom_range": "50",
+            "bloom_softness": "28"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/electric_night.jpg"
+      ]
+    },
+    {
+      "id": "faded_memory",
+      "title": "Faded memory",
+      "subtitle": "Soft matte, dust, gentle glow",
+      "badge": "4 steps",
+      "thumb": "home/recipe_thumbs/faded_memory.jpg",
+      "steps": [
+        {
+          "tool": "CURVES",
+          "params": {
+            "cv_preset": "f02"
+          }
+        },
+        {
+          "tool": "OVERLAYS",
+          "params": {
+            "ov_id": "dust",
+            "ov_blendMode": "0",
+            "ov_opacity": "0.5"
+          }
+        },
+        {
+          "tool": "GLOW",
+          "params": {
+            "amount": "22",
+            "warmth": "14",
+            "saturation": "0"
+          }
+        },
+        {
+          "tool": "VIGNETTE",
+          "params": {
+            "vig_AMOUNT": "-18",
+            "vig_FEATHER": "66"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/faded_memory.jpg"
+      ]
+    },
+    {
+      "id": "crimson_cinema",
+      "title": "Crimson cinema",
+      "subtitle": "Dramatic red halation and structure",
+      "badge": "4 steps",
+      "thumb": "home/recipe_thumbs/crimson_cinema.jpg",
+      "steps": [
+        {
+          "tool": "EFFECTS",
+          "presetId": "filters/Cinematic/CM-1.png",
+          "params": {
+            "opacity": "0.95",
+            "category": "Cinematic"
+          }
+        },
+        {
+          "tool": "TONAL_CONTRAST",
+          "params": {
+            "tc_high": "18",
+            "tc_mid": "12",
+            "tc_low": "8",
+            "tc_protectShadows": "0",
+            "tc_protectHighlights": "30"
+          }
+        },
+        {
+          "tool": "HALATION",
+          "params": {
+            "hal_strength": "46",
+            "hal_size": "70",
+            "hal_hardness": "54",
+            "hal_grain": "0",
+            "hal_sourceRange": "60",
+            "hal_destRange": "66",
+            "hal_shift": "8",
+            "hal_hue": "10"
+          }
+        },
+        {
+          "tool": "VIGNETTE",
+          "params": {
+            "vig_AMOUNT": "-30"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/crimson_cinema.jpg"
+      ]
+    }
+  ],
+  "weekMissions": [
+    "golden_hour",
+    "film_classic",
+    "noir_grain",
+    "dreamy_glow"
+  ],
+  "moods": [
+    {
+      "id": "mood_analog",
+      "label": "Analog",
+      "recipeId": "film_classic"
+    },
+    {
+      "id": "mood_dreamy",
+      "label": "Dreamy",
+      "recipeId": "dreamy_glow"
+    },
+    {
+      "id": "mood_bold",
+      "label": "Bold",
+      "recipeId": "crisp_pop"
+    },
+    {
+      "id": "mood_quiet",
+      "label": "Quiet",
+      "recipeId": "misty_morning"
+    },
+    {
+      "id": "mood_noir",
+      "label": "Noir",
+      "recipeId": "noir_grain"
+    }
+  ]
+}
