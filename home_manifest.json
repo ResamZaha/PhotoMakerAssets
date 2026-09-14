@@ -1,5 +1,5 @@
 {
-  "version": 7,
+  "version": 13,
   "heroRotationMs": null,
   "heroPool": [
     "MOSAIC",
@@ -76,40 +76,46 @@
     "vintage_fade"
   ],
   "projectRail": [
+    "eighties_faded_portrait",
+    "eighties_pastel_summer",
+    "eighties_summer_bloom",
+    "eighties_neon_86",
+    "eighties_video_club",
+    "eighties_pop_magazine",
+    "cinema_teal",
+    "teal_punch",
+    "arctic_ice",
+    "hdr_drama",
+    "carmine_kiss",
     "golden_hour",
     "film_classic",
-    "cinema_teal",
-    "noir_grain",
-    "moody_matte",
-    "teal_punch",
     "pastel_air",
     "silver_screen",
-    "warm_amber",
-    "arctic_ice",
     "sepia_postcard",
-    "retro_71",
     "rosy_bloom",
-    "hdr_drama",
-    "sunny_side",
     "emerald_film",
     "midnight_velvet",
     "cream_haze",
-    "carmine_kiss",
-    "urban_grit",
-    "peach_sunset",
     "indie_fade",
     "daydream",
-    "autumn_rust",
     "spring_meadow",
-    "misty_morning",
-    "bronze_age",
-    "polaroid_memory",
     "cinema_noir",
+    "deep_dive",
+    "noir_grain",
+    "moody_matte",
+    "warm_amber",
+    "sunny_side",
+    "peach_sunset",
+    "bronze_age",
     "drama_scape",
-    "retrolux_dust",
-    "summer_leak",
     "street_mono",
-    "deep_dive"
+    "retro_71",
+    "urban_grit",
+    "autumn_rust",
+    "polaroid_memory",
+    "misty_morning",
+    "summer_leak",
+    "retrolux_dust"
   ],
   "recipeRows": [
     "golden_hour_glow",
@@ -122,24 +128,313 @@
       "title": "Liquify reshape",
       "subtitle": "Push, grow, and shrink with a brush",
       "icon": "",
-      "tool": "RESHAPE"
+      "tool": "RESHAPE",
+      "demo": "MASK",
+      "demoBefore": "home/hero/lessons/lesson_reshape_before.jpg",
+      "demoAfter": "home/hero/lessons/lesson_reshape_after_a.jpg",
+      "cta": ""
     },
     {
       "id": "feat_portrait",
       "title": "Portrait retouch",
       "subtitle": "Face-aware spotlight and skin smoothing",
       "icon": "",
-      "tool": "PORTRAIT"
+      "tool": "PORTRAIT",
+      "demo": "SLIDER",
+      "demoBefore": "home/hero/2.jpg",
+      "demoAfter": "home/hero/lessons/portrait_after_a.png",
+      "cta": ""
     },
     {
       "id": "feat_background",
       "title": "Background changer",
       "subtitle": "Cut the subject, swap the backdrop",
       "icon": "",
-      "tool": "BACKGROUND"
+      "tool": "BACKGROUND",
+      "demo": "WIPE",
+      "demoBefore": "home/hero/lessons/lesson_background_before.jpg",
+      "demoAfter": "home/hero/lessons/background_change_a.png",
+      "cta": ""
     }
   ],
   "recipes": [
+    {
+      "id": "eighties_faded_portrait",
+      "title": "Faded Eighties",
+      "subtitle": "Soft printed portraits with cool faded shadows",
+      "badge": "",
+      "thumb": "home/recipe_thumbs/eighties_faded_portrait.jpg",
+      "steps": [
+        {
+          "tool": "STYLES",
+          "presetId": "Winter/W8",
+          "params": {
+            "v": "1",
+            "engine": "microast",
+            "opacity": "0.9",
+            "region": "FULL"
+          }
+        },
+        {
+          "tool": "ADJUST",
+          "params": {
+            "adj_FADE": "8",
+            "adj_CONTRAST": "-4",
+            "adj_TEMPERATURE": "3"
+          }
+        },
+        {
+          "tool": "GRAINY_FILM",
+          "params": {
+            "grain": "14",
+            "grainSize": "20",
+            "grainTexture": "15"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/eighties_faded_portrait.jpg"
+      ]
+    },
+    {
+      "id": "eighties_pastel_summer",
+      "title": "Pastel ’85",
+      "subtitle": "Pastel pinks and blues with a soft printed finish",
+      "badge": "",
+      "thumb": "home/recipe_thumbs/eighties_pastel_summer.jpg",
+      "steps": [
+        {
+          "tool": "STYLES",
+          "presetId": "Pop Art/PA-5",
+          "params": {
+            "v": "1",
+            "engine": "microast",
+            "opacity": "0.9",
+            "region": "FULL"
+          }
+        },
+        {
+          "tool": "ADJUST",
+          "params": {
+            "adj_FADE": "6",
+            "adj_VIBRANCE": "5"
+          }
+        },
+        {
+          "tool": "GRAINY_FILM",
+          "params": {
+            "grain": "12",
+            "grainSize": "18",
+            "grainTexture": "12"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/eighties_pastel_summer.jpg"
+      ]
+    },
+    {
+      "id": "eighties_summer_bloom",
+      "title": "Summer ’84",
+      "subtitle": "Warm painted color and softly worn summer memories",
+      "badge": "",
+      "thumb": "home/recipe_thumbs/eighties_summer_bloom.jpg",
+      "steps": [
+        {
+          "tool": "STYLES",
+          "presetId": "Bloom/B4",
+          "params": {
+            "v": "1",
+            "engine": "microast",
+            "opacity": "0.9",
+            "region": "FULL"
+          }
+        },
+        {
+          "tool": "ADJUST",
+          "params": {
+            "adj_FADE": "8",
+            "adj_SATURATION": "-5"
+          }
+        },
+        {
+          "tool": "GRAINY_FILM",
+          "params": {
+            "grain": "12",
+            "grainSize": "20",
+            "grainTexture": "15"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/eighties_summer_bloom.jpg"
+      ]
+    },
+    {
+      "id": "eighties_neon_86",
+      "title": "Neon ’86",
+      "subtitle": "Cyan shadows, pink highlights, neon bloom",
+      "badge": "",
+      "thumb": "home/recipe_thumbs/eighties_neon_86.jpg",
+      "steps": [
+        {
+          "tool": "ADJUST",
+          "params": {
+            "adj_CONTRAST": "18",
+            "adj_VIBRANCE": "22",
+            "adj_FADE": "10"
+          }
+        },
+        {
+          "tool": "SPLIT_TONE",
+          "params": {
+            "st_shadowHue": "190",
+            "st_shadowSat": "55",
+            "st_highlightHue": "320",
+            "st_highlightSat": "42",
+            "st_balance": "-5"
+          }
+        },
+        {
+          "tool": "BLOOM",
+          "params": {
+            "bloom_strength": "34",
+            "bloom_size": "65",
+            "bloom_range": "55",
+            "bloom_softness": "45"
+          }
+        },
+        {
+          "tool": "GRAINY_FILM",
+          "params": {
+            "grain": "24",
+            "grainSize": "22",
+            "grainTexture": "18"
+          }
+        },
+        {
+          "tool": "VIGNETTE",
+          "params": {
+            "vig_AMOUNT": "-24",
+            "vig_FEATHER": "70"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/eighties_neon_86.jpg"
+      ]
+    },
+    {
+      "id": "eighties_video_club",
+      "title": "Video Club",
+      "subtitle": "Faded tape color, warm light leaks, soft grain",
+      "badge": "",
+      "thumb": "home/recipe_thumbs/eighties_video_club.jpg",
+      "steps": [
+        {
+          "tool": "ADJUST",
+          "params": {
+            "adj_CONTRAST": "-8",
+            "adj_SATURATION": "-14",
+            "adj_FADE": "26",
+            "adj_TEMPERATURE": "12"
+          }
+        },
+        {
+          "tool": "SPLIT_TONE",
+          "params": {
+            "st_shadowHue": "225",
+            "st_shadowSat": "25",
+            "st_highlightHue": "35",
+            "st_highlightSat": "26"
+          }
+        },
+        {
+          "tool": "BLOOM",
+          "params": {
+            "bloom_strength": "22",
+            "bloom_size": "50",
+            "bloom_range": "50",
+            "bloom_softness": "40"
+          }
+        },
+        {
+          "tool": "OVERLAYS",
+          "params": {
+            "ov_id": "leak_warm",
+            "ov_blendMode": "0",
+            "ov_opacity": "0.23"
+          }
+        },
+        {
+          "tool": "GRAINY_FILM",
+          "params": {
+            "grain": "38",
+            "grainSize": "28",
+            "grainTexture": "30"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/eighties_video_club.jpg"
+      ]
+    },
+    {
+      "id": "eighties_pop_magazine",
+      "title": "Pop Magazine",
+      "subtitle": "AI pop illustration with textured eighties color",
+      "badge": "",
+      "thumb": "home/recipe_thumbs/eighties_pop_magazine.jpg",
+      "steps": [
+        {
+          "tool": "STYLES",
+          "presetId": "Pop Art/PA-8",
+          "params": {
+            "v": "1",
+            "engine": "microast",
+            "opacity": "0.72",
+            "region": "FULL"
+          }
+        },
+        {
+          "tool": "ADJUST",
+          "params": {
+            "adj_CONTRAST": "12",
+            "adj_VIBRANCE": "12",
+            "adj_SATURATION": "0",
+            "adj_FADE": "12",
+            "adj_CLARITY": "10"
+          }
+        },
+        {
+          "tool": "SPLIT_TONE",
+          "params": {
+            "st_shadowHue": "275",
+            "st_shadowSat": "28",
+            "st_highlightHue": "48",
+            "st_highlightSat": "22"
+          }
+        },
+        {
+          "tool": "GRAINY_FILM",
+          "params": {
+            "grain": "32",
+            "grainSize": "22",
+            "grainTexture": "35"
+          }
+        },
+        {
+          "tool": "VIGNETTE",
+          "params": {
+            "vig_AMOUNT": "-18",
+            "vig_FEATHER": "75"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/eighties_pop_magazine.jpg"
+      ]
+    },
     {
       "id": "film_classic",
       "title": "Classic film look",
