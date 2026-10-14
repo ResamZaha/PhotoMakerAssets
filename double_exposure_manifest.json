@@ -1,0 +1,565 @@
+{
+ "version": 1,
+ "items": [
+  {
+   "id": "px_8379668",
+   "category": "city",
+   "blend": "multiply",
+   "mirrors": [
+    "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/double_exposure/px_8379668.jpg"
+   ]
+  },
+  {
+   "id": "px_8949053",
+   "category": "city",
+   "blend": "screen",
+   "mirrors": [
+    "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/double_exposure/px_8949053.jpg"
+   ]
+  },
+  {
+   "id": "px_10014177",
+   "category": "city",
+   "blend": "multiply",
+   "mirrors": [
+    "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/double_exposure/px_10014177.jpg"
+   ]
+  },
+  {
+   "id": "px_5425855",
+   "category": "city",
+   "blend": "multiply",
+   "mirrors": [
+    "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/double_exposure/px_5425855.jpg"
+   ]
+  },
+  {
+   "id": "px_413687",
+   "category": "city",
+   "blend": "multiply",
+   "mirrors": [
+    "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/double_exposure/px_413687.jpg"
+   ]
+  },
+  {
+   "id": "px_1868135",
+   "category": "city",
+   "blend": "screen",
+   "mirrors": [
+    "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/double_exposure/px_1868135.jpg"
+   ]
+  },
+  {
+   "id": "px_9793057",
+   "category": "city",
+   "blend": "multiply",
+   "mirrors": [
+    "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/double_exposure/px_9793057.jpg"
+   ]
+  },
+  {
+   "id": "px_5302623",
+   "category": "city",
+   "blend": "multiply",
+   "mirrors": [
+    "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/double_exposure/px_5302623.jpg"
+   ]
+  },
+  {
+   "id": "ref_07",
+   "category": "city",
+   "blend": "multiply",
+   "mirrors": [
+    "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/double_exposure/ref_07.jpg"
+   ]
+  },
+  {
+   "id": "ref_11",
+   "category": "city",
+   "blend": "multiply",
+   "mirrors": [
+    "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/double_exposure/ref_11.jpg"
+   ]
+  },
+  {
+   "id": "ref_24",
+   "category": "city",
+   "blend": "screen",
+   "mirrors": [
+    "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/double_exposure/ref_24.jpg"
+   ]
+  },
+  {
+   "id": "px_1835402",
+   "category": "forest",
+   "blend": "screen",
+   "mirrors": [
+    "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/double_exposure/px_1835402.jpg"
+   ]
+  },
+  {
+   "id": "px_5302291",
+   "category": "forest",
+   "blend": "screen",
+   "mirrors": [
+    "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/double_exposure/px_5302291.jpg"
+   ]
+  },
+  {
+   "id": "px_1220491",
+   "category": "forest",
+   "blend": "screen",
+   "mirrors": [
+    "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/double_exposure/px_1220491.jpg"
+   ]
+  },
+  {
+   "id": "px_7720825",
+   "category": "forest",
+   "blend": "screen",
+   "mirrors": [
+    "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/double_exposure/px_7720825.jpg"
+   ]
+  },
+  {
+   "id": "px_6122490",
+   "category": "forest",
+   "blend": "screen",
+   "mirrors": [
+    "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/double_exposure/px_6122490.jpg"
+   ]
+  },
+  {
+   "id": "ref_02",
+   "category": "forest",
+   "blend": "screen",
+   "mirrors": [
+    "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/double_exposure/ref_02.jpg"
+   ]
+  },
+  {
+   "id": "ref_10",
+   "category": "forest",
+   "blend": "screen",
+   "mirrors": [
+    "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/double_exposure/ref_10.jpg"
+   ]
+  },
+  {
+   "id": "ref_13",
+   "category": "forest",
+   "blend": "screen",
+   "mirrors": [
+    "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/double_exposure/ref_13.jpg"
+   ]
+  },
+  {
+   "id": "px_7496901",
+   "category": "mountains",
+   "blend": "screen",
+   "mirrors": [
+    "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/double_exposure/px_7496901.jpg"
+   ]
+  },
+  {
+   "id": "px_4490071",
+   "category": "mountains",
+   "blend": "screen",
+   "mirrors": [
+    "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/double_exposure/px_4490071.jpg"
+   ]
+  },
+  {
+   "id": "px_4605201",
+   "category": "mountains",
+   "blend": "screen",
+   "mirrors": [
+    "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/double_exposure/px_4605201.jpg"
+   ]
+  },
+  {
+   "id": "px_10430190",
+   "category": "mountains",
+   "blend": "screen",
+   "mirrors": [
+    "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/double_exposure/px_10430190.jpg"
+   ]
+  },
+  {
+   "id": "px_7532602",
+   "category": "mountains",
+   "blend": "screen",
+   "mirrors": [
+    "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/double_exposure/px_7532602.jpg"
+   ]
+  },
+  {
+   "id": "px_858503",
+   "category": "mountains",
+   "blend": "screen",
+   "mirrors": [
+    "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/double_exposure/px_858503.jpg"
+   ]
+  },
+  {
+   "id": "ref_19",
+   "category": "mountains",
+   "blend": "screen",
+   "mirrors": [
+    "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/double_exposure/ref_19.jpg"
+   ]
+  },
+  {
+   "id": "ref_20",
+   "category": "mountains",
+   "blend": "screen",
+   "mirrors": [
+    "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/double_exposure/ref_20.jpg"
+   ]
+  },
+  {
+   "id": "ref_22",
+   "category": "mountains",
+   "blend": "multiply",
+   "mirrors": [
+    "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/double_exposure/ref_22.jpg"
+   ]
+  },
+  {
+   "id": "px_4492536",
+   "category": "sunset",
+   "blend": "screen",
+   "mirrors": [
+    "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/double_exposure/px_4492536.jpg"
+   ]
+  },
+  {
+   "id": "px_1113822",
+   "category": "sunset",
+   "blend": "screen",
+   "mirrors": [
+    "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/double_exposure/px_1113822.jpg"
+   ]
+  },
+  {
+   "id": "px_3443807",
+   "category": "sunset",
+   "blend": "screen",
+   "mirrors": [
+    "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/double_exposure/px_3443807.jpg"
+   ]
+  },
+  {
+   "id": "px_2098934",
+   "category": "sunset",
+   "blend": "screen",
+   "mirrors": [
+    "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/double_exposure/px_2098934.jpg"
+   ]
+  },
+  {
+   "id": "px_8507566",
+   "category": "sunset",
+   "blend": "screen",
+   "mirrors": [
+    "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/double_exposure/px_8507566.jpg"
+   ]
+  },
+  {
+   "id": "ref_21",
+   "category": "sunset",
+   "blend": "screen",
+   "mirrors": [
+    "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/double_exposure/ref_21.jpg"
+   ]
+  },
+  {
+   "id": "ref_12",
+   "category": "nature",
+   "blend": "screen",
+   "mirrors": [
+    "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/double_exposure/ref_12.jpg"
+   ]
+  },
+  {
+   "id": "ref_15",
+   "category": "nature",
+   "blend": "screen",
+   "mirrors": [
+    "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/double_exposure/ref_15.jpg"
+   ]
+  },
+  {
+   "id": "ref_16",
+   "category": "nature",
+   "blend": "screen",
+   "mirrors": [
+    "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/double_exposure/ref_16.jpg"
+   ]
+  },
+  {
+   "id": "ref_23",
+   "category": "nature",
+   "blend": "screen",
+   "mirrors": [
+    "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/double_exposure/ref_23.jpg"
+   ]
+  },
+  {
+   "id": "px_9858983",
+   "category": "birds",
+   "blend": "screen",
+   "mirrors": [
+    "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/double_exposure/px_9858983.jpg"
+   ]
+  },
+  {
+   "id": "px_1090835",
+   "category": "birds",
+   "blend": "screen",
+   "mirrors": [
+    "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/double_exposure/px_1090835.jpg"
+   ]
+  },
+  {
+   "id": "px_5366034",
+   "category": "birds",
+   "blend": "screen",
+   "mirrors": [
+    "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/double_exposure/px_5366034.jpg"
+   ]
+  },
+  {
+   "id": "px_5333546",
+   "category": "birds",
+   "blend": "multiply",
+   "mirrors": [
+    "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/double_exposure/px_5333546.jpg"
+   ]
+  },
+  {
+   "id": "px_7946058",
+   "category": "floral",
+   "blend": "screen",
+   "mirrors": [
+    "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/double_exposure/px_7946058.jpg"
+   ]
+  },
+  {
+   "id": "px_10204654",
+   "category": "floral",
+   "blend": "screen",
+   "mirrors": [
+    "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/double_exposure/px_10204654.jpg"
+   ]
+  },
+  {
+   "id": "px_1368187",
+   "category": "floral",
+   "blend": "multiply",
+   "mirrors": [
+    "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/double_exposure/px_1368187.jpg"
+   ]
+  },
+  {
+   "id": "px_7957017",
+   "category": "floral",
+   "blend": "screen",
+   "mirrors": [
+    "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/double_exposure/px_7957017.jpg"
+   ]
+  },
+  {
+   "id": "ref_18",
+   "category": "floral",
+   "blend": "screen",
+   "mirrors": [
+    "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/double_exposure/ref_18.jpg"
+   ]
+  },
+  {
+   "id": "px_1867616",
+   "category": "night",
+   "blend": "screen",
+   "mirrors": [
+    "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/double_exposure/px_1867616.jpg"
+   ]
+  },
+  {
+   "id": "px_9767930",
+   "category": "night",
+   "blend": "screen",
+   "mirrors": [
+    "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/double_exposure/px_9767930.jpg"
+   ]
+  },
+  {
+   "id": "px_1866822",
+   "category": "night",
+   "blend": "screen",
+   "mirrors": [
+    "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/double_exposure/px_1866822.jpg"
+   ]
+  },
+  {
+   "id": "px_2048727",
+   "category": "night",
+   "blend": "screen",
+   "mirrors": [
+    "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/double_exposure/px_2048727.jpg"
+   ]
+  },
+  {
+   "id": "px_9263545",
+   "category": "night",
+   "blend": "screen",
+   "mirrors": [
+    "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/double_exposure/px_9263545.jpg"
+   ]
+  },
+  {
+   "id": "ref_14",
+   "category": "night",
+   "blend": "screen",
+   "mirrors": [
+    "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/double_exposure/ref_14.jpg"
+   ]
+  },
+  {
+   "id": "ref_17",
+   "category": "night",
+   "blend": "screen",
+   "mirrors": [
+    "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/double_exposure/ref_17.jpg"
+   ]
+  },
+  {
+   "id": "px_1934897",
+   "category": "trees",
+   "blend": "screen",
+   "mirrors": [
+    "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/double_exposure/px_1934897.jpg"
+   ]
+  },
+  {
+   "id": "px_5358904",
+   "category": "trees",
+   "blend": "multiply",
+   "mirrors": [
+    "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/double_exposure/px_5358904.jpg"
+   ]
+  },
+  {
+   "id": "px_5850298",
+   "category": "trees",
+   "blend": "screen",
+   "mirrors": [
+    "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/double_exposure/px_5850298.jpg"
+   ]
+  },
+  {
+   "id": "px_3397210",
+   "category": "trees",
+   "blend": "screen",
+   "mirrors": [
+    "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/double_exposure/px_3397210.jpg"
+   ]
+  },
+  {
+   "id": "px_9153488",
+   "category": "trees",
+   "blend": "screen",
+   "mirrors": [
+    "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/double_exposure/px_9153488.jpg"
+   ]
+  },
+  {
+   "id": "px_5499649",
+   "category": "waves",
+   "blend": "screen",
+   "mirrors": [
+    "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/double_exposure/px_5499649.jpg"
+   ]
+  },
+  {
+   "id": "px_4242303",
+   "category": "waves",
+   "blend": "screen",
+   "mirrors": [
+    "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/double_exposure/px_4242303.jpg"
+   ]
+  },
+  {
+   "id": "px_5473869",
+   "category": "waves",
+   "blend": "screen",
+   "mirrors": [
+    "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/double_exposure/px_5473869.jpg"
+   ]
+  },
+  {
+   "id": "px_7107112",
+   "category": "waves",
+   "blend": "multiply",
+   "mirrors": [
+    "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/double_exposure/px_7107112.jpg"
+   ]
+  },
+  {
+   "id": "ref_09",
+   "category": "waves",
+   "blend": "screen",
+   "mirrors": [
+    "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/double_exposure/ref_09.jpg"
+   ]
+  },
+  {
+   "id": "ref_08",
+   "category": "art",
+   "blend": "screen",
+   "mirrors": [
+    "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/double_exposure/ref_08.jpg"
+   ]
+  },
+  {
+   "id": "ref_25",
+   "category": "art",
+   "blend": "screen",
+   "mirrors": [
+    "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/double_exposure/ref_25.jpg"
+   ]
+  },
+  {
+   "id": "ref_03",
+   "category": "seasonal",
+   "blend": "multiply",
+   "mirrors": [
+    "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/double_exposure/ref_03.jpg"
+   ]
+  },
+  {
+   "id": "ref_04",
+   "category": "seasonal",
+   "blend": "multiply",
+   "mirrors": [
+    "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/double_exposure/ref_04.jpg"
+   ]
+  },
+  {
+   "id": "ref_05",
+   "category": "seasonal",
+   "blend": "screen",
+   "mirrors": [
+    "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/double_exposure/ref_05.jpg"
+   ]
+  },
+  {
+   "id": "ref_06",
+   "category": "seasonal",
+   "blend": "screen",
+   "mirrors": [
+    "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/double_exposure/ref_06.jpg"
+   ]
+  }
+ ]
+}
