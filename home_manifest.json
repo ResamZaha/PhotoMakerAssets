@@ -1,5 +1,5 @@
 {
-  "version": 16,
+  "version": 19,
   "heroRotationMs": null,
   "heroPool": [
     "MOSAIC",
@@ -3641,6 +3641,270 @@
       "imgbb": "https://i.ibb.co/gZ5XpFcw/crimson-cinema-jpg.jpg",
       "imgbb_thumb": "https://i.ibb.co/8gWRp4Q2/crimson-cinema-jpg.jpg",
       "imgbb_display_url": "https://i.ibb.co/gZ5XpFcw/crimson-cinema-jpg.jpg"
+    },
+    {
+      "id": "backlit_sunset",
+      "title": "Sunset backlight",
+      "subtitle": "Sun behind the head, warm glowing edges",
+      "badge": "",
+      "thumb": "home/looks_thumbs/backlit_sunset_v2.jpg",
+      "steps": [
+        {
+          "tool": "BACKLIGHT",
+          "params": {
+            "v": "1",
+            "strength": "85.0",
+            "spread": "45.0",
+            "subject": "60.0",
+            "background": "20.0",
+            "haze": "10.0",
+            "ambient": "25.0",
+            "rim": "80.0",
+            "rays": "0.0",
+            "sun": "60.0",
+            "strands": "60.0",
+            "ground": "0.0",
+            "fabric": "0.0",
+            "skin": "40.0",
+            "color": "ffffc266",
+            "auto_color": "0"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/backlit_sunset_v2.jpg"
+      ]
+    },
+    {
+      "id": "backlit_studio",
+      "title": "Studio rim",
+      "subtitle": "Black backdrop and a thin halo of light",
+      "badge": "",
+      "thumb": "home/looks_thumbs/backlit_studio_v2.jpg",
+      "steps": [
+        {
+          "tool": "BACKLIGHT",
+          "params": {
+            "v": "1",
+            "strength": "80.0",
+            "spread": "8.0",
+            "subject": "65.0",
+            "background": "100.0",
+            "haze": "0.0",
+            "ambient": "20.0",
+            "rim": "100.0",
+            "rays": "0.0",
+            "sun": "0.0",
+            "strands": "70.0",
+            "ground": "0.0",
+            "fabric": "0.0",
+            "skin": "0.0",
+            "color": "ffffffff",
+            "auto_color": "0"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/backlit_studio_v2.jpg"
+      ]
+    },
+    {
+      "id": "backlit_rays",
+      "title": "God rays",
+      "subtitle": "Light shafts bursting from behind",
+      "badge": "",
+      "thumb": "home/looks_thumbs/backlit_rays_v2.jpg",
+      "steps": [
+        {
+          "tool": "BACKLIGHT",
+          "params": {
+            "v": "1",
+            "strength": "75.0",
+            "spread": "35.0",
+            "subject": "60.0",
+            "background": "55.0",
+            "haze": "30.0",
+            "ambient": "30.0",
+            "rim": "70.0",
+            "rays": "85.0",
+            "sun": "0.0",
+            "strands": "0.0",
+            "ground": "0.0",
+            "fabric": "0.0",
+            "skin": "0.0",
+            "color": "ffffffff",
+            "auto_color": "0"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/backlit_rays_v2.jpg"
+      ]
+    },
+    {
+      "id": "backlit_fog",
+      "title": "Fog silhouette",
+      "subtitle": "A dark figure in glowing mist",
+      "badge": "",
+      "thumb": "home/looks_thumbs/backlit_fog_v2.jpg",
+      "steps": [
+        {
+          "tool": "BACKLIGHT",
+          "params": {
+            "v": "1",
+            "strength": "85.0",
+            "spread": "35.0",
+            "subject": "60.0",
+            "background": "20.0",
+            "haze": "45.0",
+            "ambient": "30.0",
+            "rim": "60.0",
+            "rays": "0.0",
+            "sun": "0.0",
+            "strands": "0.0",
+            "ground": "0.0",
+            "fabric": "0.0",
+            "skin": "0.0",
+            "color": "ffffffff",
+            "auto_color": "0"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/backlit_fog_v2.jpg"
+      ]
+    },
+    {
+      "id": "sun_rays_forest",
+      "title": "Sunbeams",
+      "subtitle": "Sun and light rays for any scene",
+      "badge": "",
+      "thumb": "home/looks_thumbs/sun_rays_forest_v2.jpg",
+      "steps": [
+        {
+          "tool": "SUN_RAYS",
+          "params": {
+            "v": "1",
+            "strength": "70.0",
+            "spread": "40.0",
+            "subject": "0.0",
+            "background": "0.0",
+            "haze": "20.0",
+            "ambient": "0.0",
+            "rim": "0.0",
+            "rays": "60.0",
+            "sun": "45.0",
+            "strands": "0.0",
+            "ground": "0.0",
+            "fabric": "0.0",
+            "skin": "0.0",
+            "color": "ffffc266",
+            "auto_color": "0"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/sun_rays_forest_v2.jpg"
+      ]
+    },
+    {
+      "id": "backlit_halo",
+      "title": "Halo glow",
+      "subtitle": "A glowing disc behind the head on black",
+      "badge": "",
+      "thumb": "home/looks_thumbs/backlit_halo_v2.jpg",
+      "steps": [
+        {
+          "tool": "BACKLIGHT",
+          "params": {
+            "v": "1",
+            "strength": "85.0",
+            "spread": "20.0",
+            "subject": "65.0",
+            "background": "100.0",
+            "haze": "0.0",
+            "ambient": "20.0",
+            "rim": "100.0",
+            "rays": "0.0",
+            "sun": "100.0",
+            "strands": "60.0",
+            "ground": "0.0",
+            "fabric": "0.0",
+            "skin": "0.0",
+            "color": "ffffedcc",
+            "auto_color": "0"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/backlit_halo_v2.jpg"
+      ]
+    },
+    {
+      "id": "backlit_stage",
+      "title": "Stage beams",
+      "subtitle": "Concert light beams on a black stage",
+      "badge": "",
+      "thumb": "home/looks_thumbs/backlit_stage_v2.jpg",
+      "steps": [
+        {
+          "tool": "BACKLIGHT",
+          "params": {
+            "v": "1",
+            "strength": "75.0",
+            "spread": "20.0",
+            "subject": "60.0",
+            "background": "100.0",
+            "haze": "0.0",
+            "ambient": "20.0",
+            "rim": "85.0",
+            "rays": "90.0",
+            "sun": "0.0",
+            "strands": "0.0",
+            "ground": "0.0",
+            "fabric": "0.0",
+            "skin": "0.0",
+            "color": "ffffffff",
+            "auto_color": "0"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/backlit_stage_v2.jpg"
+      ]
+    },
+    {
+      "id": "backlit_moon",
+      "title": "Moonlight",
+      "subtitle": "Night falls and a moon glows behind you",
+      "badge": "",
+      "thumb": "home/looks_thumbs/backlit_moon_v2.jpg",
+      "steps": [
+        {
+          "tool": "BACKLIGHT",
+          "params": {
+            "v": "1",
+            "strength": "70.0",
+            "spread": "35.0",
+            "subject": "60.0",
+            "background": "75.0",
+            "haze": "0.0",
+            "ambient": "30.0",
+            "rim": "90.0",
+            "rays": "0.0",
+            "sun": "30.0",
+            "strands": "60.0",
+            "ground": "0.0",
+            "fabric": "0.0",
+            "skin": "0.0",
+            "color": "ffa9c8ff",
+            "auto_color": "0"
+          }
+        }
+      ],
+      "thumbUrls": [
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/backlit_moon_v2.jpg"
+      ]
     }
   ],
   "weekMissions": [
