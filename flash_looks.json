@@ -1,5 +1,5 @@
 {
- "version": 1,
+ "version": 2,
  "looks": [
   {
    "id": "clean",
@@ -56,12 +56,18 @@
     "ar": "فلاش أحمر",
     "hi": "लाल फ़्लैश"
    },
-   "flash": 50,
+   "flash": 60,
    "ambient": -75,
-   "softness": 50,
+   "softness": 65,
    "reach": 35,
+   "ambientTone": -75,
    "halo": {
     "strength": 36
+   },
+   "finish": {
+    "contrast": 14,
+    "saturation": -6,
+    "grain": 14
    }
   },
   {
