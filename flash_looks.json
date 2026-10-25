@@ -1,0 +1,212 @@
+{
+ "version": 1,
+ "looks": [
+  {
+   "id": "clean",
+   "name": {
+    "en": "Clean",
+    "es": "Limpio",
+    "zh-CN": "清晰",
+    "pt": "Nítido",
+    "fr": "Net",
+    "de": "Klar",
+    "ja": "クリア",
+    "ko": "선명하게",
+    "ru": "Чистый",
+    "ar": "نقي",
+    "hi": "साफ़"
+   },
+   "flash": 45,
+   "ambient": -70,
+   "softness": 85,
+   "reach": 45
+  },
+  {
+   "id": "soft_fill",
+   "name": {
+    "en": "Soft fill",
+    "es": "Relleno suave",
+    "zh-CN": "柔和补光",
+    "pt": "Preenchimento suave",
+    "fr": "Éclairage doux",
+    "de": "Sanftes Licht",
+    "ja": "ソフトフィル",
+    "ko": "부드러운 보조광",
+    "ru": "Мягкое заполнение",
+    "ar": "إضاءة ناعمة",
+    "hi": "हल्का भराव"
+   },
+   "flash": 25,
+   "ambient": -35,
+   "softness": 100,
+   "reach": 65
+  },
+  {
+   "id": "red_flash",
+   "name": {
+    "en": "Red flash",
+    "es": "Flash rojo",
+    "zh-CN": "红色闪光",
+    "pt": "Flash vermelho",
+    "fr": "Flash rouge",
+    "de": "Roter Blitz",
+    "ja": "レッドフラッシュ",
+    "ko": "레드 플래시",
+    "ru": "Красная вспышка",
+    "ar": "فلاش أحمر",
+    "hi": "लाल फ़्लैश"
+   },
+   "flash": 50,
+   "ambient": -75,
+   "softness": 50,
+   "reach": 35,
+   "halo": {
+    "strength": 36
+   }
+  },
+  {
+   "id": "canon_sd1000",
+   "name": {
+    "en": "Canon SD1000"
+   },
+   "flash": 45,
+   "ambient": -85,
+   "softness": 40,
+   "reach": 35,
+   "finish": {
+    "contrast": 18,
+    "saturation": 18,
+    "warmth": 12,
+    "tint": 12,
+    "vignette": 18,
+    "grain": 10,
+    "grainSize": 25
+   }
+  },
+  {
+   "id": "sony_w80",
+   "name": {
+    "en": "Sony W80"
+   },
+   "flash": 50,
+   "ambient": -90,
+   "softness": 30,
+   "reach": 40,
+   "finish": {
+    "contrast": 20,
+    "warmth": -35,
+    "tint": -6,
+    "vignette": 15,
+    "grain": 16
+   }
+  },
+  {
+   "id": "kodak_c743",
+   "name": {
+    "en": "Kodak C743"
+   },
+   "flash": 45,
+   "ambient": -75,
+   "softness": 45,
+   "reach": 45,
+   "finish": {
+    "contrast": 10,
+    "saturation": 22,
+    "warmth": 32,
+    "tint": -4,
+    "fade": 6,
+    "vignette": 15,
+    "grain": 14
+   }
+  },
+  {
+   "id": "nikon_s200",
+   "name": {
+    "en": "Nikon S200"
+   },
+   "flash": 40,
+   "ambient": -70,
+   "softness": 55,
+   "reach": 45,
+   "finish": {
+    "saturation": -15,
+    "warmth": 4,
+    "fade": 18,
+    "vignette": 10,
+    "grain": 22
+   }
+  },
+  {
+   "id": "olympus_720sw",
+   "name": {
+    "en": "Olympus 720 SW"
+   },
+   "flash": 45,
+   "ambient": -80,
+   "softness": 40,
+   "reach": 35,
+   "finish": {
+    "contrast": 12,
+    "saturation": 10,
+    "warmth": -14,
+    "tint": -20,
+    "vignette": 14,
+    "grain": 12
+   }
+  },
+  {
+   "id": "fuji_z5",
+   "name": {
+    "en": "Fujifilm Z5"
+   },
+   "flash": 40,
+   "ambient": -80,
+   "softness": 55,
+   "reach": 40,
+   "finish": {
+    "contrast": 6,
+    "saturation": 24,
+    "warmth": 4,
+    "tint": 16,
+    "vignette": 10,
+    "grain": 8
+   }
+  },
+  {
+   "id": "casio_z75",
+   "name": {
+    "en": "Casio Z75"
+   },
+   "flash": 60,
+   "ambient": -95,
+   "softness": 15,
+   "reach": 30,
+   "finish": {
+    "contrast": 30,
+    "saturation": 12,
+    "warmth": 6,
+    "vignette": 28,
+    "grain": 24,
+    "grainSize": 45
+   }
+  },
+  {
+   "id": "lumix_fx33",
+   "name": {
+    "en": "Lumix FX33"
+   },
+   "flash": 40,
+   "ambient": -65,
+   "softness": 65,
+   "reach": 50,
+   "finish": {
+    "brightness": 6,
+    "saturation": 4,
+    "warmth": -8,
+    "fade": 6,
+    "vignette": 6,
+    "grain": 10
+   }
+  }
+ ]
+}
