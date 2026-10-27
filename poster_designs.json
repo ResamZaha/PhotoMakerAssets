@@ -1,5 +1,5 @@
 {
- "version": 4,
+ "version": 5,
  "designs": [
   {
    "id": "triangle",
@@ -139,18 +139,13 @@
    "ink": 100,
    "inkDetail": 35,
    "shape": "circle",
-   "centerX": 50,
-   "centerY": 40,
-   "size": 85,
+   "centerX": 49,
+   "centerY": 45,
+   "size": 77,
    "width": 100,
-   "top": "#F10B13",
-   "bottom": "#F10B13",
-   "ground": "#EAE5D9",
-   "subject": {
-    "x": 0.075,
-    "y": 0.075,
-    "scale": 0.85
-   },
+   "top": "#F70404",
+   "bottom": "#F70404",
+   "ground": "#C0BAAE",
    "outfit": {
     "color": "off"
    }
@@ -670,9 +665,9 @@
    "ink": 100,
    "inkDetail": 35,
    "shape": "circle",
-   "centerX": 50,
-   "centerY": 40,
-   "size": 85,
+   "centerX": 49,
+   "centerY": 45,
+   "size": 77,
    "width": 100,
    "top": "#2F5FB3",
    "bottom": "#2F5FB3",
