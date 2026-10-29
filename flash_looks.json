@@ -1,5 +1,5 @@
 {
- "version": 2,
+ "version": 3,
  "looks": [
   {
    "id": "clean",
@@ -68,6 +68,247 @@
     "contrast": 14,
     "saturation": -6,
     "grain": 14
+   }
+  },
+  {
+   "id": "blue_hour",
+   "name": {
+    "en": "Blue hour",
+    "es": "Hora azul",
+    "zh-CN": "蓝调时刻",
+    "pt": "Hora azul",
+    "fr": "Heure bleue",
+    "de": "Blaue Stunde",
+    "ja": "ブルーアワー",
+    "ko": "블루 아워",
+    "ru": "Синий час",
+    "ar": "الساعة الزرقاء",
+    "hi": "ब्लू आवर"
+   },
+   "flash": 70,
+   "ambient": -100,
+   "softness": 60,
+   "reach": 20,
+   "ambientTone": -40,
+   "finish": {
+    "contrast": 6,
+    "saturation": -10,
+    "warmth": 15,
+    "grain": 18
+   }
+  },
+  {
+   "id": "glossy",
+   "name": {
+    "en": "Glossy",
+    "es": "Brillo",
+    "zh-CN": "光泽",
+    "pt": "Brilho",
+    "fr": "Brillant",
+    "de": "Glanz",
+    "ja": "ツヤ",
+    "ko": "글로시",
+    "ru": "Глянец",
+    "ar": "لامع",
+    "hi": "चमकदार"
+   },
+   "flash": 70,
+   "ambient": -85,
+   "softness": 45,
+   "reach": 25,
+   "finish": {
+    "contrast": 18,
+    "saturation": -10,
+    "grain": 8
+   }
+  },
+  {
+   "id": "party",
+   "name": {
+    "en": "Party",
+    "es": "Fiesta",
+    "zh-CN": "派对",
+    "pt": "Festa",
+    "fr": "Soirée",
+    "de": "Party",
+    "ja": "パーティー",
+    "ko": "파티",
+    "ru": "Вечеринка",
+    "ar": "حفلة",
+    "hi": "पार्टी"
+   },
+   "flash": 90,
+   "ambient": -75,
+   "softness": 10,
+   "reach": 35,
+   "finish": {
+    "contrast": 24,
+    "saturation": -15,
+    "warmth": -6,
+    "tint": 8,
+    "fade": 4,
+    "vignette": 35,
+    "grain": 20
+   }
+  },
+  {
+   "id": "day_fill",
+   "name": {
+    "en": "Day fill",
+    "es": "Relleno de día",
+    "zh-CN": "日光补光",
+    "pt": "Luz do dia",
+    "fr": "Lumière du jour",
+    "de": "Tageslicht",
+    "ja": "デイライト",
+    "ko": "주광 보조",
+    "ru": "Дневной свет",
+    "ar": "إضاءة نهارية",
+    "hi": "दिन का भराव"
+   },
+   "flash": 25,
+   "ambient": -35,
+   "softness": 100,
+   "reach": 40,
+   "finish": {
+    "contrast": 8,
+    "saturation": 18,
+    "warmth": 8
+   }
+  },
+  {
+   "id": "sunset",
+   "name": {
+    "en": "Sunset",
+    "es": "Atardecer",
+    "zh-CN": "日落",
+    "pt": "Pôr do sol",
+    "fr": "Couchant",
+    "de": "Abendrot",
+    "ja": "サンセット",
+    "ko": "선셋",
+    "ru": "Закат",
+    "ar": "غروب",
+    "hi": "सूर्यास्त"
+   },
+   "flash": 75,
+   "ambient": -70,
+   "softness": 60,
+   "reach": 20,
+   "finish": {
+    "contrast": 8,
+    "saturation": -20,
+    "grain": 8
+   }
+  },
+  {
+   "id": "documentary",
+   "name": {
+    "en": "Documentary",
+    "es": "Documental",
+    "zh-CN": "纪实",
+    "pt": "Documental",
+    "fr": "Reportage",
+    "de": "Reportage",
+    "ja": "ドキュメンタリー",
+    "ko": "다큐",
+    "ru": "Репортаж",
+    "ar": "وثائقي",
+    "hi": "डॉक्यूमेंट्री"
+   },
+   "flash": 70,
+   "ambient": -65,
+   "softness": 50,
+   "reach": 55,
+   "finish": {
+    "contrast": 12,
+    "saturation": -12,
+    "tint": 6,
+    "fade": 6,
+    "grain": 14
+   }
+  },
+  {
+   "id": "editorial",
+   "name": {
+    "en": "Editorial",
+    "es": "Editorial",
+    "zh-CN": "大片",
+    "pt": "Editorial",
+    "fr": "Éditorial",
+    "de": "Editorial",
+    "ja": "エディトリアル",
+    "ko": "에디토리얼",
+    "ru": "Эдиториал",
+    "ar": "تحريري",
+    "hi": "एडिटोरियल"
+   },
+   "flash": 30,
+   "ambient": -100,
+   "softness": 50,
+   "reach": 25,
+   "ambientTone": -40,
+   "finish": {
+    "contrast": 26,
+    "saturation": -50,
+    "warmth": -30,
+    "grain": 8
+   }
+  },
+  {
+   "id": "soft_night",
+   "name": {
+    "en": "Soft night",
+    "es": "Noche suave",
+    "zh-CN": "柔和夜色",
+    "pt": "Noite suave",
+    "fr": "Nuit douce",
+    "de": "Sanfte Nacht",
+    "ja": "ソフトナイト",
+    "ko": "소프트 나이트",
+    "ru": "Мягкая ночь",
+    "ar": "ليل ناعم",
+    "hi": "नरम रात"
+   },
+   "flash": 35,
+   "ambient": -100,
+   "softness": 100,
+   "reach": 20,
+   "finish": {
+    "contrast": 6,
+    "saturation": 15,
+    "warmth": 30,
+    "vignette": 45,
+    "grain": 6
+   }
+  },
+  {
+   "id": "gritty",
+   "name": {
+    "en": "Gritty",
+    "es": "Granulado",
+    "zh-CN": "粗粝",
+    "pt": "Granulado",
+    "fr": "Brut",
+    "de": "Rau",
+    "ja": "ラフ",
+    "ko": "거친 질감",
+    "ru": "Зернистый",
+    "ar": "خشن",
+    "hi": "दानेदार"
+   },
+   "flash": 75,
+   "ambient": -70,
+   "softness": 30,
+   "reach": 35,
+   "finish": {
+    "contrast": 10,
+    "saturation": -25,
+    "warmth": -4,
+    "fade": 16,
+    "vignette": 15,
+    "grain": 28,
+    "grainSize": 55
    }
   },
   {

@@ -1,5 +1,5 @@
 {
- "version": 4,
+ "version": 6,
  "designs": [
   {
    "id": "triangle",
@@ -139,18 +139,13 @@
    "ink": 100,
    "inkDetail": 35,
    "shape": "circle",
-   "centerX": 50,
-   "centerY": 40,
-   "size": 85,
+   "centerX": 49,
+   "centerY": 45,
+   "size": 77,
    "width": 100,
-   "top": "#F10B13",
-   "bottom": "#F10B13",
-   "ground": "#EAE5D9",
-   "subject": {
-    "x": 0.075,
-    "y": 0.075,
-    "scale": 0.85
-   },
+   "top": "#F70404",
+   "bottom": "#F70404",
+   "ground": "#C0BAAE",
    "outfit": {
     "color": "off"
    }
@@ -670,15 +665,59 @@
    "ink": 100,
    "inkDetail": 35,
    "shape": "circle",
-   "centerX": 50,
-   "centerY": 40,
-   "size": 85,
+   "centerX": 49,
+   "centerY": 45,
+   "size": 77,
    "width": 100,
    "top": "#2F5FB3",
    "bottom": "#2F5FB3",
    "ground": "#E9EEF5",
    "outfit": {
     "color": "off"
+   }
+  },
+  {
+   "id": "blood_moon",
+   "name": {
+    "en": "Blood moon",
+    "es": "Luna de sangre",
+    "zh-CN": "血月",
+    "pt": "Lua de sangue",
+    "fr": "Lune de sang",
+    "de": "Blutmond",
+    "ja": "ブラッドムーン",
+    "ko": "블러드 문",
+    "ru": "Кровавая луна",
+    "ar": "قمر الدم",
+    "hi": "ब्लड मून"
+   },
+   "icon": "poster_design_icons/blood_moon.webp",
+   "layout": "red_sun",
+   "panelAngle": 14,
+   "gold": 100,
+   "panelColor": "#101315",
+   "goldColor": "#D6A366",
+   "ink": 100,
+   "inkDetail": 20,
+   "shape": "circle",
+   "centerX": 41,
+   "centerY": 32,
+   "size": 61,
+   "width": 100,
+   "top": "#EF1A03",
+   "bottom": "#EF1A03",
+   "ground": "#0E1516",
+   "craters": 40,
+   "craterColor": "#085770",
+   "drips": 60,
+   "inkShadow": "#030507",
+   "inkLight": "#10586A",
+   "outfit": {
+    "color": "off"
+   },
+   "fit": {
+    "top": 0.4,
+    "sunDrop": -0.17
    }
   },
   {
