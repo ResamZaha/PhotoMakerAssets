@@ -1,5 +1,5 @@
 {
-  "version": 19,
+  "version": 20,
   "heroRotationMs": null,
   "heroPool": [
     "MOSAIC",
@@ -7,57 +7,6 @@
     "WEEK",
     "MAKE_IT_YOURS",
     "REMOVE_OBJECT"
-  ],
-  "stories": [
-    {
-      "id": "story_reshape",
-      "label": "Reshape",
-      "icon": "style_icons/Abstract/A3.webp",
-      "tool": "RESHAPE",
-      "addedMs": 1784419200000
-    },
-    {
-      "id": "story_portrait",
-      "label": "Portrait",
-      "icon": "style_icons/Classic/C24.webp",
-      "tool": "PORTRAIT",
-      "addedMs": 1784332800000
-    },
-    {
-      "id": "story_draw",
-      "label": "Draw",
-      "icon": "style_icons/Drawing/D8.webp",
-      "tool": "DRAW",
-      "addedMs": 1784246400000
-    },
-    {
-      "id": "story_selective",
-      "label": "Selective",
-      "icon": "style_icons/Landscape/LS-22.webp",
-      "tool": "SELECTIVE",
-      "addedMs": 1784160000000
-    },
-    {
-      "id": "story_background",
-      "label": "Background",
-      "icon": "style_icons/Winter/W3.webp",
-      "tool": "BACKGROUND",
-      "addedMs": 1784073600000
-    },
-    {
-      "id": "story_double_exposure",
-      "label": "Double Expo",
-      "icon": "style_icons/Abstract/A14.webp",
-      "tool": "DOUBLE_EXPOSURE",
-      "addedMs": 1783900800000
-    },
-    {
-      "id": "story_curves",
-      "label": "Curves",
-      "icon": "style_icons/Landscape/LS-7.webp",
-      "tool": "CURVES",
-      "addedMs": 1783814400000
-    }
   ],
   "dailyChallenges": [
     "film_classic",
@@ -112,48 +61,13 @@
     "angel_glow",
     "crisp_pop"
   ],
-  "newFeatures": [
-    {
-      "id": "feat_reshape",
-      "title": "Liquify reshape",
-      "subtitle": "Push, grow, and shrink with a brush",
-      "icon": "",
-      "tool": "RESHAPE",
-      "demo": "MASK",
-      "demoBefore": "home/hero/lessons/lesson_reshape_before.jpg",
-      "demoAfter": "home/hero/lessons/lesson_reshape_after_a.jpg",
-      "cta": ""
-    },
-    {
-      "id": "feat_portrait",
-      "title": "Portrait retouch",
-      "subtitle": "Face-aware spotlight and skin smoothing",
-      "icon": "",
-      "tool": "PORTRAIT",
-      "demo": "SLIDER",
-      "demoBefore": "home/hero/2.jpg",
-      "demoAfter": "home/hero/lessons/portrait_after_a.png",
-      "cta": ""
-    },
-    {
-      "id": "feat_background",
-      "title": "Background changer",
-      "subtitle": "Cut the subject, swap the backdrop",
-      "icon": "",
-      "tool": "BACKGROUND",
-      "demo": "WIPE",
-      "demoBefore": "home/hero/lessons/lesson_background_before.jpg",
-      "demoAfter": "home/hero/lessons/background_change_a.png",
-      "cta": ""
-    }
-  ],
   "recipes": [
     {
       "id": "eighties_neon_86",
       "title": "Neon ’86",
       "subtitle": "Cyan shadows, pink highlights, neon bloom",
       "badge": "",
-      "thumb": "home/looks_thumbs/eighties_neon_86.jpg",
+      "thumb": "home/looks_thumbs/eighties_neon_86_v3.jpg",
       "steps": [
         {
           "tool": "ADJUST",
@@ -199,7 +113,7 @@
         }
       ],
       "thumbUrls": [
-        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/eighties_neon_86.jpg"
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/eighties_neon_86_v3.jpg"
       ]
     },
     {
@@ -207,7 +121,7 @@
       "title": "Video Club",
       "subtitle": "Faded tape color, warm light leaks, soft grain",
       "badge": "",
-      "thumb": "home/looks_thumbs/eighties_video_club.jpg",
+      "thumb": "home/looks_thumbs/eighties_video_club_v3.jpg",
       "steps": [
         {
           "tool": "ADJUST",
@@ -254,15 +168,15 @@
         }
       ],
       "thumbUrls": [
-        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/eighties_video_club.jpg"
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/eighties_video_club_v3.jpg"
       ]
     },
     {
       "id": "film_classic",
       "title": "Classic film look",
-      "subtitle": "Warm LUT, grain, and a soft vignette",
+      "subtitle": "Warm film tone, grain, and a soft vignette",
       "badge": "3 steps",
-      "thumb": "home/looks_thumbs/film_classic.jpg",
+      "thumb": "home/looks_thumbs/film_classic_v3.jpg",
       "steps": [
         {
           "tool": "EFFECTS",
@@ -292,7 +206,7 @@
         }
       ],
       "thumbUrls": [
-        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/film_classic.jpg"
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/film_classic_v3.jpg"
       ]
     },
     {
@@ -300,7 +214,7 @@
       "title": "Crisp & punchy",
       "subtitle": "Clean sharpening with a tone boost",
       "badge": "3 steps",
-      "thumb": "home/looks_thumbs/crisp_pop.jpg",
+      "thumb": "home/looks_thumbs/crisp_pop_v3.jpg",
       "steps": [
         {
           "tool": "EFFECTS",
@@ -327,7 +241,7 @@
         }
       ],
       "thumbUrls": [
-        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/crisp_pop.jpg"
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/crisp_pop_v3.jpg"
       ]
     },
     {
@@ -335,7 +249,7 @@
       "title": "Moody black & white",
       "subtitle": "Timeless monochrome with depth",
       "badge": "2 steps",
-      "thumb": "home/looks_thumbs/bw_mood.jpg",
+      "thumb": "home/looks_thumbs/bw_mood_v3.jpg",
       "steps": [
         {
           "tool": "EFFECTS",
@@ -354,7 +268,7 @@
         }
       ],
       "thumbUrls": [
-        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/bw_mood.jpg"
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/bw_mood_v3.jpg"
       ]
     },
     {
@@ -362,7 +276,7 @@
       "title": "Golden hour",
       "subtitle": "Sun-warmed color with a soft glow",
       "badge": "3 steps",
-      "thumb": "home/looks_thumbs/golden_hour.jpg",
+      "thumb": "home/looks_thumbs/golden_hour_v3.jpg",
       "steps": [
         {
           "tool": "EFFECTS",
@@ -389,7 +303,7 @@
         }
       ],
       "thumbUrls": [
-        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/golden_hour.jpg"
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/golden_hour_v3.jpg"
       ]
     },
     {
@@ -397,7 +311,7 @@
       "title": "Faded vintage",
       "subtitle": "Washed-out tones and analog grain",
       "badge": "3 steps",
-      "thumb": "home/looks_thumbs/vintage_fade.jpg",
+      "thumb": "home/looks_thumbs/vintage_fade_v3.jpg",
       "steps": [
         {
           "tool": "EFFECTS",
@@ -429,7 +343,7 @@
         }
       ],
       "thumbUrls": [
-        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/vintage_fade.jpg"
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/vintage_fade_v3.jpg"
       ]
     },
     {
@@ -437,7 +351,7 @@
       "title": "Film noir",
       "subtitle": "Hard shadows, heavy grain, deep vignette",
       "badge": "3 steps",
-      "thumb": "home/looks_thumbs/noir_grain.jpg",
+      "thumb": "home/looks_thumbs/noir_grain_v3.jpg",
       "steps": [
         {
           "tool": "EFFECTS",
@@ -468,7 +382,7 @@
         }
       ],
       "thumbUrls": [
-        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/noir_grain.jpg"
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/noir_grain_v3.jpg"
       ]
     },
     {
@@ -476,7 +390,7 @@
       "title": "Soft dream",
       "subtitle": "Hazy highlights and a gentle bloom",
       "badge": "3 steps",
-      "thumb": "home/looks_thumbs/dreamy_glow.jpg",
+      "thumb": "home/looks_thumbs/dreamy_glow_v3.jpg",
       "steps": [
         {
           "tool": "EFFECTS",
@@ -504,7 +418,7 @@
         }
       ],
       "thumbUrls": [
-        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/dreamy_glow.jpg"
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/dreamy_glow_v3.jpg"
       ]
     },
     {
@@ -512,7 +426,7 @@
       "title": "Cinematic teal & orange",
       "subtitle": "Blockbuster split-toned color grade",
       "badge": "3 steps",
-      "thumb": "home/looks_thumbs/cinema_teal.jpg",
+      "thumb": "home/looks_thumbs/cinema_teal_v3.jpg",
       "steps": [
         {
           "tool": "EFFECTS",
@@ -540,7 +454,7 @@
         }
       ],
       "thumbUrls": [
-        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/cinema_teal.jpg"
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/cinema_teal_v3.jpg"
       ]
     },
     {
@@ -548,7 +462,7 @@
       "title": "Moody matte",
       "subtitle": "Lifted blacks, muted color",
       "badge": "2 steps",
-      "thumb": "home/recipe_thumbs/moody_matte.jpg",
+      "thumb": "home/looks_thumbs/moody_matte_v3.jpg",
       "steps": [
         {
           "tool": "ADJUST",
@@ -567,19 +481,15 @@
         }
       ],
       "thumbUrls": [
-        "https://i.ibb.co/tTqMcNS2/moody-matte-jpg.jpg",
-        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/moody_matte.jpg"
-      ],
-      "imgbb": "https://i.ibb.co/tTqMcNS2/moody-matte-jpg.jpg",
-      "imgbb_thumb": "https://i.ibb.co/Tx4BRnZ0/moody-matte-jpg.jpg",
-      "imgbb_display_url": "https://i.ibb.co/tTqMcNS2/moody-matte-jpg.jpg"
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/moody_matte_v3.jpg"
+      ]
     },
     {
       "id": "teal_punch",
       "title": "Teal & orange",
       "subtitle": "Blockbuster color grade",
       "badge": "2 steps",
-      "thumb": "home/recipe_thumbs/teal_punch.jpg",
+      "thumb": "home/looks_thumbs/teal_punch_v3.jpg",
       "steps": [
         {
           "tool": "SPLIT_TONE",
@@ -600,19 +510,15 @@
         }
       ],
       "thumbUrls": [
-        "https://i.ibb.co/v6JwBgjz/teal-punch-jpg.jpg",
-        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/teal_punch.jpg"
-      ],
-      "imgbb": "https://i.ibb.co/v6JwBgjz/teal-punch-jpg.jpg",
-      "imgbb_thumb": "https://i.ibb.co/1t9vnhm2/teal-punch-jpg.jpg",
-      "imgbb_display_url": "https://i.ibb.co/v6JwBgjz/teal-punch-jpg.jpg"
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/teal_punch_v3.jpg"
+      ]
     },
     {
       "id": "pastel_air",
       "title": "Pastel air",
       "subtitle": "Bright, soft, and airy",
       "badge": "2 steps",
-      "thumb": "home/recipe_thumbs/pastel_air.jpg",
+      "thumb": "home/looks_thumbs/pastel_air_v3.jpg",
       "steps": [
         {
           "tool": "EFFECTS",
@@ -631,19 +537,15 @@
         }
       ],
       "thumbUrls": [
-        "https://i.ibb.co/CptJdS39/pastel-air-jpg.jpg",
-        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/pastel_air.jpg"
-      ],
-      "imgbb": "https://i.ibb.co/CptJdS39/pastel-air-jpg.jpg",
-      "imgbb_thumb": "https://i.ibb.co/DPbGXjHM/pastel-air-jpg.jpg",
-      "imgbb_display_url": "https://i.ibb.co/CptJdS39/pastel-air-jpg.jpg"
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/pastel_air_v3.jpg"
+      ]
     },
     {
       "id": "silver_screen",
       "title": "Silver screen",
       "subtitle": "Classic Hollywood mono",
       "badge": "3 steps",
-      "thumb": "home/looks_thumbs/silver_screen.jpg",
+      "thumb": "home/looks_thumbs/silver_screen_v3.jpg",
       "steps": [
         {
           "tool": "EFFECTS",
@@ -673,7 +575,7 @@
         }
       ],
       "thumbUrls": [
-        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/silver_screen.jpg"
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/silver_screen_v3.jpg"
       ]
     },
     {
@@ -681,7 +583,7 @@
       "title": "Warm amber",
       "subtitle": "Honeyed golden warmth",
       "badge": "2 steps",
-      "thumb": "home/looks_thumbs/warm_amber.jpg",
+      "thumb": "home/looks_thumbs/warm_amber_v3.jpg",
       "steps": [
         {
           "tool": "EFFECTS",
@@ -702,7 +604,7 @@
         }
       ],
       "thumbUrls": [
-        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/warm_amber.jpg"
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/warm_amber_v3.jpg"
       ]
     },
     {
@@ -710,7 +612,7 @@
       "title": "Arctic ice",
       "subtitle": "Cool crystalline blues",
       "badge": "2 steps",
-      "thumb": "home/looks_thumbs/arctic_ice.jpg",
+      "thumb": "home/looks_thumbs/arctic_ice_v3.jpg",
       "steps": [
         {
           "tool": "EFFECTS",
@@ -732,7 +634,7 @@
         }
       ],
       "thumbUrls": [
-        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/arctic_ice.jpg"
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/arctic_ice_v3.jpg"
       ]
     },
     {
@@ -740,7 +642,7 @@
       "title": "Sepia postcard",
       "subtitle": "Aged travel-photo tone",
       "badge": "3 steps",
-      "thumb": "home/looks_thumbs/sepia_postcard.jpg",
+      "thumb": "home/looks_thumbs/sepia_postcard_v3.jpg",
       "steps": [
         {
           "tool": "EFFECTS",
@@ -764,7 +666,7 @@
         }
       ],
       "thumbUrls": [
-        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/sepia_postcard.jpg"
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/sepia_postcard_v3.jpg"
       ]
     },
     {
@@ -772,7 +674,7 @@
       "title": "'71 retro",
       "subtitle": "Faded seventies chrome",
       "badge": "2 steps",
-      "thumb": "home/looks_thumbs/retro_71.jpg",
+      "thumb": "home/looks_thumbs/retro_71_v3.jpg",
       "steps": [
         {
           "tool": "EFFECTS",
@@ -796,7 +698,7 @@
         }
       ],
       "thumbUrls": [
-        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/retro_71.jpg"
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/retro_71_v3.jpg"
       ]
     },
     {
@@ -804,7 +706,7 @@
       "title": "Rosy bloom",
       "subtitle": "Blushing highlights, soft glow",
       "badge": "2 steps",
-      "thumb": "home/looks_thumbs/rosy_bloom.jpg",
+      "thumb": "home/looks_thumbs/rosy_bloom_v3.jpg",
       "steps": [
         {
           "tool": "EFFECTS",
@@ -825,7 +727,7 @@
         }
       ],
       "thumbUrls": [
-        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/rosy_bloom.jpg"
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/rosy_bloom_v3.jpg"
       ]
     },
     {
@@ -833,7 +735,7 @@
       "title": "Drama HDR",
       "subtitle": "Gritty local contrast",
       "badge": "2 steps",
-      "thumb": "home/looks_thumbs/hdr_drama.jpg",
+      "thumb": "home/looks_thumbs/hdr_drama_v3.jpg",
       "steps": [
         {
           "tool": "EFFECTS",
@@ -852,7 +754,7 @@
         }
       ],
       "thumbUrls": [
-        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/hdr_drama.jpg"
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/hdr_drama_v3.jpg"
       ]
     },
     {
@@ -860,7 +762,7 @@
       "title": "Sunny side",
       "subtitle": "Cheerful summer warmth",
       "badge": "3 steps",
-      "thumb": "home/looks_thumbs/sunny_side.jpg",
+      "thumb": "home/looks_thumbs/sunny_side_v3.jpg",
       "steps": [
         {
           "tool": "EFFECTS",
@@ -884,7 +786,7 @@
         }
       ],
       "thumbUrls": [
-        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/sunny_side.jpg"
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/sunny_side_v3.jpg"
       ]
     },
     {
@@ -892,7 +794,7 @@
       "title": "Emerald film",
       "subtitle": "Green-shifted Fuji stock",
       "badge": "2 steps",
-      "thumb": "home/looks_thumbs/emerald_film.jpg",
+      "thumb": "home/looks_thumbs/emerald_film_v3.jpg",
       "steps": [
         {
           "tool": "GRAINY_FILM",
@@ -918,7 +820,7 @@
         }
       ],
       "thumbUrls": [
-        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/emerald_film.jpg"
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/emerald_film_v3.jpg"
       ]
     },
     {
@@ -963,7 +865,7 @@
       "title": "Cream haze",
       "subtitle": "Dreamlike milky wash",
       "badge": "3 steps",
-      "thumb": "home/looks_thumbs/cream_haze.jpg",
+      "thumb": "home/looks_thumbs/cream_haze_v3.jpg",
       "steps": [
         {
           "tool": "EFFECTS",
@@ -990,7 +892,7 @@
         }
       ],
       "thumbUrls": [
-        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/cream_haze.jpg"
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/cream_haze_v3.jpg"
       ]
     },
     {
@@ -998,7 +900,7 @@
       "title": "Carmine kiss",
       "subtitle": "Red-toned romance",
       "badge": "2 steps",
-      "thumb": "home/recipe_thumbs/carmine_kiss.jpg",
+      "thumb": "home/looks_thumbs/carmine_kiss_v3.jpg",
       "steps": [
         {
           "tool": "EFFECTS",
@@ -1020,12 +922,8 @@
         }
       ],
       "thumbUrls": [
-        "https://i.ibb.co/LDw0DH5x/carmine-kiss-jpg.jpg",
-        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/carmine_kiss.jpg"
-      ],
-      "imgbb": "https://i.ibb.co/LDw0DH5x/carmine-kiss-jpg.jpg",
-      "imgbb_thumb": "https://i.ibb.co/JWLcWgQv/carmine-kiss-jpg.jpg",
-      "imgbb_display_url": "https://i.ibb.co/LDw0DH5x/carmine-kiss-jpg.jpg"
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/carmine_kiss_v3.jpg"
+      ]
     },
     {
       "id": "urban_grit",
@@ -1104,7 +1002,7 @@
       "title": "Indie fade",
       "subtitle": "Muted indie-album tone",
       "badge": "2 steps",
-      "thumb": "home/looks_thumbs/indie_fade.jpg",
+      "thumb": "home/looks_thumbs/indie_fade_v3.jpg",
       "steps": [
         {
           "tool": "EFFECTS",
@@ -1123,7 +1021,7 @@
         }
       ],
       "thumbUrls": [
-        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/indie_fade.jpg"
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/indie_fade_v3.jpg"
       ]
     },
     {
@@ -1164,7 +1062,7 @@
       "title": "Autumn rust",
       "subtitle": "Copper leaves, warm shade",
       "badge": "2 steps",
-      "thumb": "home/looks_thumbs/autumn_rust.jpg",
+      "thumb": "home/looks_thumbs/autumn_rust_v3.jpg",
       "steps": [
         {
           "tool": "EFFECTS",
@@ -1182,7 +1080,7 @@
         }
       ],
       "thumbUrls": [
-        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/autumn_rust.jpg"
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/autumn_rust_v3.jpg"
       ]
     },
     {
@@ -1190,7 +1088,7 @@
       "title": "Spring meadow",
       "subtitle": "Fresh greens, light air",
       "badge": "2 steps",
-      "thumb": "home/looks_thumbs/spring_meadow.jpg",
+      "thumb": "home/looks_thumbs/spring_meadow_v3.jpg",
       "steps": [
         {
           "tool": "EFFECTS",
@@ -1209,7 +1107,7 @@
         }
       ],
       "thumbUrls": [
-        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/spring_meadow.jpg"
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/spring_meadow_v3.jpg"
       ]
     },
     {
@@ -1274,7 +1172,7 @@
       "title": "Polaroid memory",
       "subtitle": "Instant-photo nostalgia",
       "badge": "2 steps",
-      "thumb": "home/looks_thumbs/polaroid_memory.jpg",
+      "thumb": "home/looks_thumbs/polaroid_memory_v3.jpg",
       "steps": [
         {
           "tool": "EFFECTS",
@@ -1298,7 +1196,7 @@
         }
       ],
       "thumbUrls": [
-        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/polaroid_memory.jpg"
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/polaroid_memory_v3.jpg"
       ]
     },
     {
@@ -1306,7 +1204,7 @@
       "title": "Cinema noir",
       "subtitle": "Washed monochrome drama",
       "badge": "1 steps",
-      "thumb": "home/looks_thumbs/cinema_noir.jpg",
+      "thumb": "home/looks_thumbs/cinema_noir_v3.jpg",
       "steps": [
         {
           "tool": "PRO_FILTERS",
@@ -1338,7 +1236,7 @@
         }
       ],
       "thumbUrls": [
-        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/cinema_noir.jpg"
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/cinema_noir_v3.jpg"
       ]
     },
     {
@@ -1346,7 +1244,7 @@
       "title": "Drama scape",
       "subtitle": "Punchy tone-mapped scape",
       "badge": "1 steps",
-      "thumb": "home/looks_thumbs/drama_scape.jpg",
+      "thumb": "home/looks_thumbs/drama_scape_v3.jpg",
       "steps": [
         {
           "tool": "PRO_FILTERS",
@@ -1378,7 +1276,7 @@
         }
       ],
       "thumbUrls": [
-        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/drama_scape.jpg"
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/drama_scape_v3.jpg"
       ]
     },
     {
@@ -1386,7 +1284,7 @@
       "title": "Retrolux dust",
       "subtitle": "Scratches, leaks, projector glow",
       "badge": "1 steps",
-      "thumb": "home/looks_thumbs/retrolux_dust.jpg",
+      "thumb": "home/looks_thumbs/retrolux_dust_v3.jpg",
       "steps": [
         {
           "tool": "PRO_FILTERS",
@@ -1418,7 +1316,7 @@
         }
       ],
       "thumbUrls": [
-        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/retrolux_dust.jpg"
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/retrolux_dust_v3.jpg"
       ]
     },
     {
@@ -1426,7 +1324,7 @@
       "title": "Summer leak",
       "subtitle": "Sun-flared analog burn",
       "badge": "1 steps",
-      "thumb": "home/looks_thumbs/summer_leak.jpg",
+      "thumb": "home/looks_thumbs/summer_leak_v3.jpg",
       "steps": [
         {
           "tool": "PRO_FILTERS",
@@ -1458,7 +1356,7 @@
         }
       ],
       "thumbUrls": [
-        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/summer_leak.jpg"
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/summer_leak_v3.jpg"
       ]
     },
     {
@@ -1466,7 +1364,7 @@
       "title": "Street mono",
       "subtitle": "High-contrast city grain",
       "badge": "2 steps",
-      "thumb": "home/looks_thumbs/street_mono.jpg",
+      "thumb": "home/looks_thumbs/street_mono_v3.jpg",
       "steps": [
         {
           "tool": "GRAINY_FILM",
@@ -1488,7 +1386,7 @@
         }
       ],
       "thumbUrls": [
-        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/street_mono.jpg"
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/street_mono_v3.jpg"
       ]
     },
     {
@@ -1576,7 +1474,7 @@
       "title": "Angel glow",
       "subtitle": "Diffused glow with a warm lift",
       "badge": "3 steps",
-      "thumb": "home/recipe_thumbs/angel_glow.jpg",
+      "thumb": "home/looks_thumbs/angel_glow_v3.jpg",
       "steps": [
         {
           "tool": "EFFECTS",
@@ -1605,19 +1503,15 @@
         }
       ],
       "thumbUrls": [
-        "https://i.ibb.co/VchBVySG/angel-glow-jpg.jpg",
-        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/angel_glow.jpg"
-      ],
-      "imgbb": "https://i.ibb.co/VchBVySG/angel-glow-jpg.jpg",
-      "imgbb_thumb": "https://i.ibb.co/tTNCBfs6/angel-glow-jpg.jpg",
-      "imgbb_display_url": "https://i.ibb.co/VchBVySG/angel-glow-jpg.jpg"
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/angel_glow_v3.jpg"
+      ]
     },
     {
       "id": "porcelain_light",
       "title": "Porcelain light",
       "subtitle": "Bright bloom, lifted blacks, cool skin",
       "badge": "3 steps",
-      "thumb": "home/recipe_thumbs/porcelain_light.jpg",
+      "thumb": "home/looks_thumbs/porcelain_light_v3.jpg",
       "steps": [
         {
           "tool": "CURVES",
@@ -1644,19 +1538,15 @@
         }
       ],
       "thumbUrls": [
-        "https://i.ibb.co/ycCbDbg6/porcelain-light-jpg.jpg",
-        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/porcelain_light.jpg"
-      ],
-      "imgbb": "https://i.ibb.co/ycCbDbg6/porcelain-light-jpg.jpg",
-      "imgbb_thumb": "https://i.ibb.co/sd4MhMsK/porcelain-light-jpg.jpg",
-      "imgbb_display_url": "https://i.ibb.co/ycCbDbg6/porcelain-light-jpg.jpg"
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/porcelain_light_v3.jpg"
+      ]
     },
     {
       "id": "halcyon",
       "title": "Halcyon",
       "subtitle": "Golden halation on a warm film base",
       "badge": "3 steps",
-      "thumb": "home/looks_thumbs/halcyon.jpg",
+      "thumb": "home/looks_thumbs/halcyon_v3.jpg",
       "steps": [
         {
           "tool": "EFFECTS",
@@ -1687,7 +1577,7 @@
         }
       ],
       "thumbUrls": [
-        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/halcyon.jpg"
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/halcyon_v3.jpg"
       ]
     },
     {
@@ -1742,7 +1632,7 @@
       "title": "Mist & bloom",
       "subtitle": "Hazy bloom with faded curves",
       "badge": "4 steps",
-      "thumb": "home/recipe_thumbs/mist_and_bloom.jpg",
+      "thumb": "home/looks_thumbs/mist_and_bloom_v3.jpg",
       "steps": [
         {
           "tool": "EFFECTS",
@@ -1777,19 +1667,15 @@
         }
       ],
       "thumbUrls": [
-        "https://i.ibb.co/M5QQ7grt/mist-and-bloom-jpg.jpg",
-        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/mist_and_bloom.jpg"
-      ],
-      "imgbb": "https://i.ibb.co/M5QQ7grt/mist-and-bloom-jpg.jpg",
-      "imgbb_thumb": "https://i.ibb.co/93SSWp61/mist-and-bloom-jpg.jpg",
-      "imgbb_display_url": "https://i.ibb.co/M5QQ7grt/mist-and-bloom-jpg.jpg"
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/mist_and_bloom_v3.jpg"
+      ]
     },
     {
       "id": "dreamlit_portrait",
       "title": "Dreamlit portrait",
       "subtitle": "Skin-kind glow + gentle contrast",
       "badge": "3 steps",
-      "thumb": "home/recipe_thumbs/dreamlit_portrait.jpg",
+      "thumb": "home/looks_thumbs/dreamlit_portrait_v3.jpg",
       "steps": [
         {
           "tool": "EFFECTS",
@@ -1819,19 +1705,15 @@
         }
       ],
       "thumbUrls": [
-        "https://i.ibb.co/d0gfCYkd/dreamlit-portrait-jpg.jpg",
-        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/dreamlit_portrait.jpg"
-      ],
-      "imgbb": "https://i.ibb.co/d0gfCYkd/dreamlit-portrait-jpg.jpg",
-      "imgbb_thumb": "https://i.ibb.co/PZQrXH17/dreamlit-portrait-jpg.jpg",
-      "imgbb_display_url": "https://i.ibb.co/d0gfCYkd/dreamlit-portrait-jpg.jpg"
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/dreamlit_portrait_v3.jpg"
+      ]
     },
     {
       "id": "silk_highlights",
       "title": "Silk highlights",
       "subtitle": "Bloom that melts hard highlights",
       "badge": "3 steps",
-      "thumb": "home/recipe_thumbs/silk_highlights.jpg",
+      "thumb": "home/looks_thumbs/silk_highlights_v3.jpg",
       "steps": [
         {
           "tool": "ADJUST",
@@ -1858,12 +1740,8 @@
         }
       ],
       "thumbUrls": [
-        "https://i.ibb.co/7x6RdfSS/silk-highlights-jpg.jpg",
-        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/silk_highlights.jpg"
-      ],
-      "imgbb": "https://i.ibb.co/7x6RdfSS/silk-highlights-jpg.jpg",
-      "imgbb_thumb": "https://i.ibb.co/Kc3LpP55/silk-highlights-jpg.jpg",
-      "imgbb_display_url": "https://i.ibb.co/7x6RdfSS/silk-highlights-jpg.jpg"
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/silk_highlights_v3.jpg"
+      ]
     },
     {
       "id": "radial_focus",
@@ -1914,7 +1792,7 @@
       "title": "Tilt-shift toy",
       "subtitle": "Miniature look with a linear focus band",
       "badge": "3 steps",
-      "thumb": "home/recipe_thumbs/tilt_shift_toy.jpg",
+      "thumb": "home/looks_thumbs/tilt_shift_toy_v3.jpg",
       "steps": [
         {
           "tool": "ADJUST",
@@ -1945,12 +1823,8 @@
         }
       ],
       "thumbUrls": [
-        "https://i.ibb.co/mrSXJFwW/tilt-shift-toy-jpg.jpg",
-        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/tilt_shift_toy.jpg"
-      ],
-      "imgbb": "https://i.ibb.co/mrSXJFwW/tilt-shift-toy-jpg.jpg",
-      "imgbb_thumb": "https://i.ibb.co/rKvckfSr/tilt-shift-toy-jpg.jpg",
-      "imgbb_display_url": "https://i.ibb.co/mrSXJFwW/tilt-shift-toy-jpg.jpg"
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/tilt_shift_toy_v3.jpg"
+      ]
     },
     {
       "id": "spin_energy",
@@ -1995,7 +1869,7 @@
       "title": "Zoom rush",
       "subtitle": "Explosive zoom blur from the center",
       "badge": "3 steps",
-      "thumb": "home/recipe_thumbs/zoom_rush.jpg",
+      "thumb": "home/looks_thumbs/zoom_rush_v3.jpg",
       "steps": [
         {
           "tool": "EFFECTS",
@@ -2031,12 +1905,8 @@
         }
       ],
       "thumbUrls": [
-        "https://i.ibb.co/kVqgS11N/zoom-rush-jpg.jpg",
-        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/zoom_rush.jpg"
-      ],
-      "imgbb": "https://i.ibb.co/kVqgS11N/zoom-rush-jpg.jpg",
-      "imgbb_thumb": "https://i.ibb.co/SDVX3rrF/zoom-rush-jpg.jpg",
-      "imgbb_display_url": "https://i.ibb.co/kVqgS11N/zoom-rush-jpg.jpg"
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/zoom_rush_v3.jpg"
+      ]
     },
     {
       "id": "motion_streak",
@@ -2086,7 +1956,7 @@
       "title": "Bokeh backdrop",
       "subtitle": "Blurred edges with a glowing bokeh overlay",
       "badge": "3 steps",
-      "thumb": "home/recipe_thumbs/bokeh_backdrop.jpg",
+      "thumb": "home/looks_thumbs/bokeh_backdrop_v3.jpg",
       "steps": [
         {
           "tool": "BLUR",
@@ -2120,12 +1990,8 @@
         }
       ],
       "thumbUrls": [
-        "https://i.ibb.co/Wp7x2Pyc/bokeh-backdrop-jpg.jpg",
-        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/bokeh_backdrop.jpg"
-      ],
-      "imgbb": "https://i.ibb.co/Wp7x2Pyc/bokeh-backdrop-jpg.jpg",
-      "imgbb_thumb": "https://i.ibb.co/HpRFHxzr/bokeh-backdrop-jpg.jpg",
-      "imgbb_display_url": "https://i.ibb.co/Wp7x2Pyc/bokeh-backdrop-jpg.jpg"
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/bokeh_backdrop_v3.jpg"
+      ]
     },
     {
       "id": "soft_edge_glow",
@@ -2302,7 +2168,7 @@
       "title": "Crimson focus",
       "subtitle": "Radial focus with kept crimson",
       "badge": "3 steps",
-      "thumb": "home/recipe_thumbs/crimson_focus.jpg",
+      "thumb": "home/looks_thumbs/crimson_focus_v3.jpg",
       "steps": [
         {
           "tool": "BLUR",
@@ -2337,12 +2203,8 @@
         }
       ],
       "thumbUrls": [
-        "https://i.ibb.co/N6yb1gt7/crimson-focus-jpg.jpg",
-        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/crimson_focus.jpg"
-      ],
-      "imgbb": "https://i.ibb.co/N6yb1gt7/crimson-focus-jpg.jpg",
-      "imgbb_thumb": "https://i.ibb.co/mCcgvrbS/crimson-focus-jpg.jpg",
-      "imgbb_display_url": "https://i.ibb.co/N6yb1gt7/crimson-focus-jpg.jpg"
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/crimson_focus_v3.jpg"
+      ]
     },
     {
       "id": "green_only",
@@ -2387,7 +2249,7 @@
       "title": "Pop & bloom",
       "subtitle": "Kept warm tones under a soft bloom",
       "badge": "3 steps",
-      "thumb": "home/recipe_thumbs/pop_and_bloom.jpg",
+      "thumb": "home/looks_thumbs/pop_and_bloom_v3.jpg",
       "steps": [
         {
           "tool": "COLOR_POP",
@@ -2417,12 +2279,8 @@
         }
       ],
       "thumbUrls": [
-        "https://i.ibb.co/9FT7R63/pop-and-bloom-jpg.jpg",
-        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/pop_and_bloom.jpg"
-      ],
-      "imgbb": "https://i.ibb.co/9FT7R63/pop-and-bloom-jpg.jpg",
-      "imgbb_thumb": "https://i.ibb.co/MYVmqr5/pop-and-bloom-jpg.jpg",
-      "imgbb_display_url": "https://i.ibb.co/9FT7R63/pop-and-bloom-jpg.jpg"
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/pop_and_bloom_v3.jpg"
+      ]
     },
     {
       "id": "neon_isolate",
@@ -2472,7 +2330,7 @@
       "title": "Warm light leak",
       "subtitle": "Vintage film with a warm corner leak",
       "badge": "3 steps",
-      "thumb": "home/looks_thumbs/warm_leak.jpg",
+      "thumb": "home/looks_thumbs/warm_leak_v3.jpg",
       "steps": [
         {
           "tool": "EFFECTS",
@@ -2504,7 +2362,7 @@
         }
       ],
       "thumbUrls": [
-        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/warm_leak.jpg"
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/warm_leak_v3.jpg"
       ]
     },
     {
@@ -2512,7 +2370,7 @@
       "title": "Crimson flare",
       "subtitle": "Bold red streak across a moody grade",
       "badge": "3 steps",
-      "thumb": "home/recipe_thumbs/crimson_flare.jpg",
+      "thumb": "home/looks_thumbs/crimson_flare_v3.jpg",
       "steps": [
         {
           "tool": "EFFECTS",
@@ -2538,12 +2396,8 @@
         }
       ],
       "thumbUrls": [
-        "https://i.ibb.co/23RQNjyH/crimson-flare-jpg.jpg",
-        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/crimson_flare.jpg"
-      ],
-      "imgbb": "https://i.ibb.co/23RQNjyH/crimson-flare-jpg.jpg",
-      "imgbb_thumb": "https://i.ibb.co/SwH8rKPG/crimson-flare-jpg.jpg",
-      "imgbb_display_url": "https://i.ibb.co/23RQNjyH/crimson-flare-jpg.jpg"
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/crimson_flare_v3.jpg"
+      ]
     },
     {
       "id": "golden_edge",
@@ -2667,7 +2521,7 @@
       "title": "Teal fade",
       "subtitle": "Diagonal teal fade for a modern look",
       "badge": "3 steps",
-      "thumb": "home/recipe_thumbs/teal_fade_leak.jpg",
+      "thumb": "home/looks_thumbs/teal_fade_leak_v3.jpg",
       "steps": [
         {
           "tool": "CURVES",
@@ -2693,19 +2547,15 @@
         }
       ],
       "thumbUrls": [
-        "https://i.ibb.co/WW1qKMZw/teal-fade-leak-jpg.jpg",
-        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/teal_fade_leak.jpg"
-      ],
-      "imgbb": "https://i.ibb.co/WW1qKMZw/teal-fade-leak-jpg.jpg",
-      "imgbb_thumb": "https://i.ibb.co/99jzY16L/teal-fade-leak-jpg.jpg",
-      "imgbb_display_url": "https://i.ibb.co/WW1qKMZw/teal-fade-leak-jpg.jpg"
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/teal_fade_leak_v3.jpg"
+      ]
     },
     {
       "id": "film_dust",
       "title": "Film dust",
       "subtitle": "Old-print dust and speckle overlay",
       "badge": "3 steps",
-      "thumb": "home/looks_thumbs/film_dust.jpg",
+      "thumb": "home/looks_thumbs/film_dust_v3.jpg",
       "steps": [
         {
           "tool": "EFFECTS",
@@ -2737,7 +2587,7 @@
         }
       ],
       "thumbUrls": [
-        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/film_dust.jpg"
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/film_dust_v3.jpg"
       ]
     },
     {
@@ -2745,7 +2595,7 @@
       "title": "Scratched reel",
       "subtitle": "Analog scratches over a noir base",
       "badge": "3 steps",
-      "thumb": "home/looks_thumbs/scratched_reel.jpg",
+      "thumb": "home/looks_thumbs/scratched_reel_v3.jpg",
       "steps": [
         {
           "tool": "EFFECTS",
@@ -2772,7 +2622,7 @@
         }
       ],
       "thumbUrls": [
-        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/scratched_reel.jpg"
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/scratched_reel_v3.jpg"
       ]
     },
     {
@@ -2780,7 +2630,7 @@
       "title": "Grunge press",
       "subtitle": "Gritty grunge texture, punchy tone",
       "badge": "3 steps",
-      "thumb": "home/looks_thumbs/grunge_press.jpg",
+      "thumb": "home/looks_thumbs/grunge_press_v3.jpg",
       "steps": [
         {
           "tool": "EFFECTS",
@@ -2810,7 +2660,7 @@
         }
       ],
       "thumbUrls": [
-        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/grunge_press.jpg"
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/grunge_press_v3.jpg"
       ]
     },
     {
@@ -2894,7 +2744,7 @@
       "title": "Hard mono",
       "subtitle": "High-contrast black & white",
       "badge": "3 steps",
-      "thumb": "home/looks_thumbs/hard_contrast_bw.jpg",
+      "thumb": "home/looks_thumbs/hard_contrast_bw_v3.jpg",
       "steps": [
         {
           "tool": "EFFECTS",
@@ -2922,7 +2772,7 @@
         }
       ],
       "thumbUrls": [
-        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/hard_contrast_bw.jpg"
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/hard_contrast_bw_v3.jpg"
       ]
     },
     {
@@ -2930,7 +2780,7 @@
       "title": "Warm curve film",
       "subtitle": "Film-warm curves with grain",
       "badge": "3 steps",
-      "thumb": "home/looks_thumbs/warm_curve_film.jpg",
+      "thumb": "home/looks_thumbs/warm_curve_film_v3.jpg",
       "steps": [
         {
           "tool": "CURVES",
@@ -2958,7 +2808,7 @@
         }
       ],
       "thumbUrls": [
-        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/warm_curve_film.jpg"
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/warm_curve_film_v3.jpg"
       ]
     },
     {
@@ -3208,7 +3058,7 @@
       "title": "Clarity bloom",
       "subtitle": "Local contrast plus a soft glow",
       "badge": "3 steps",
-      "thumb": "home/recipe_thumbs/clarity_bloom.jpg",
+      "thumb": "home/looks_thumbs/clarity_bloom_v3.jpg",
       "steps": [
         {
           "tool": "TONAL_CONTRAST",
@@ -3237,19 +3087,15 @@
         }
       ],
       "thumbUrls": [
-        "https://i.ibb.co/5XBpRS5Q/clarity-bloom-jpg.jpg",
-        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/clarity_bloom.jpg"
-      ],
-      "imgbb": "https://i.ibb.co/5XBpRS5Q/clarity-bloom-jpg.jpg",
-      "imgbb_thumb": "https://i.ibb.co/9msKr1qx/clarity-bloom-jpg.jpg",
-      "imgbb_display_url": "https://i.ibb.co/5XBpRS5Q/clarity-bloom-jpg.jpg"
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/clarity_bloom_v3.jpg"
+      ]
     },
     {
       "id": "cine_teal_bloom",
       "title": "Cinema teal bloom",
       "subtitle": "Teal grade, structure, halation",
       "badge": "3 steps",
-      "thumb": "home/recipe_thumbs/cine_teal_bloom.jpg",
+      "thumb": "home/looks_thumbs/cine_teal_bloom_v3.jpg",
       "steps": [
         {
           "tool": "EFFECTS",
@@ -3284,12 +3130,8 @@
         }
       ],
       "thumbUrls": [
-        "https://i.ibb.co/V0pSBBVZ/cine-teal-bloom-jpg.jpg",
-        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/cine_teal_bloom.jpg"
-      ],
-      "imgbb": "https://i.ibb.co/V0pSBBVZ/cine-teal-bloom-jpg.jpg",
-      "imgbb_thumb": "https://i.ibb.co/6cJPssYx/cine-teal-bloom-jpg.jpg",
-      "imgbb_display_url": "https://i.ibb.co/V0pSBBVZ/cine-teal-bloom-jpg.jpg"
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/cine_teal_bloom_v3.jpg"
+      ]
     },
     {
       "id": "dream_pop_leak",
@@ -3346,7 +3188,7 @@
       "title": "Noir focus",
       "subtitle": "Mono radial focus with scratches",
       "badge": "4 steps",
-      "thumb": "home/recipe_thumbs/noir_focus.jpg",
+      "thumb": "home/looks_thumbs/noir_focus_v3.jpg",
       "steps": [
         {
           "tool": "EFFECTS",
@@ -3386,19 +3228,15 @@
         }
       ],
       "thumbUrls": [
-        "https://i.ibb.co/0RZSnRkj/noir-focus-jpg.jpg",
-        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/noir_focus.jpg"
-      ],
-      "imgbb": "https://i.ibb.co/0RZSnRkj/noir-focus-jpg.jpg",
-      "imgbb_thumb": "https://i.ibb.co/tTctHTSM/noir-focus-jpg.jpg",
-      "imgbb_display_url": "https://i.ibb.co/0RZSnRkj/noir-focus-jpg.jpg"
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/noir_focus_v3.jpg"
+      ]
     },
     {
       "id": "golden_hour_glow",
       "title": "Golden hour glow",
       "subtitle": "Warm curves, halation, golden leak",
       "badge": "4 steps",
-      "thumb": "home/recipe_thumbs/golden_hour_glow.jpg",
+      "thumb": "home/looks_thumbs/golden_hour_glow_v3.jpg",
       "steps": [
         {
           "tool": "CURVES",
@@ -3435,19 +3273,15 @@
         }
       ],
       "thumbUrls": [
-        "https://i.ibb.co/wZMsP6WN/golden-hour-glow-jpg.jpg",
-        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/golden_hour_glow.jpg"
-      ],
-      "imgbb": "https://i.ibb.co/wZMsP6WN/golden-hour-glow-jpg.jpg",
-      "imgbb_thumb": "https://i.ibb.co/9mst1YT9/golden-hour-glow-jpg.jpg",
-      "imgbb_display_url": "https://i.ibb.co/wZMsP6WN/golden-hour-glow-jpg.jpg"
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/golden_hour_glow_v3.jpg"
+      ]
     },
     {
       "id": "retro_tilt",
       "title": "Retro tilt",
       "subtitle": "Vintage grade with a tilt-shift band",
       "badge": "3 steps",
-      "thumb": "home/recipe_thumbs/retro_tilt.jpg",
+      "thumb": "home/looks_thumbs/retro_tilt_v3.jpg",
       "steps": [
         {
           "tool": "EFFECTS",
@@ -3485,12 +3319,8 @@
         }
       ],
       "thumbUrls": [
-        "https://i.ibb.co/20zH2M7L/retro-tilt-jpg.jpg",
-        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/recipe_thumbs/retro_tilt.jpg"
-      ],
-      "imgbb": "https://i.ibb.co/20zH2M7L/retro-tilt-jpg.jpg",
-      "imgbb_thumb": "https://i.ibb.co/wZnjHQNb/retro-tilt-jpg.jpg",
-      "imgbb_display_url": "https://i.ibb.co/20zH2M7L/retro-tilt-jpg.jpg"
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/retro_tilt_v3.jpg"
+      ]
     },
     {
       "id": "electric_night",
@@ -3647,7 +3477,7 @@
       "title": "Sunset backlight",
       "subtitle": "Sun behind the head, warm glowing edges",
       "badge": "",
-      "thumb": "home/looks_thumbs/backlit_sunset_v2.jpg",
+      "thumb": "home/looks_thumbs/backlit_sunset_v3.jpg",
       "steps": [
         {
           "tool": "BACKLIGHT",
@@ -3672,7 +3502,7 @@
         }
       ],
       "thumbUrls": [
-        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/backlit_sunset_v2.jpg"
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/backlit_sunset_v3.jpg"
       ]
     },
     {
@@ -3680,7 +3510,7 @@
       "title": "Studio rim",
       "subtitle": "Black backdrop and a thin halo of light",
       "badge": "",
-      "thumb": "home/looks_thumbs/backlit_studio_v2.jpg",
+      "thumb": "home/looks_thumbs/backlit_studio_v3.jpg",
       "steps": [
         {
           "tool": "BACKLIGHT",
@@ -3705,7 +3535,7 @@
         }
       ],
       "thumbUrls": [
-        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/backlit_studio_v2.jpg"
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/backlit_studio_v3.jpg"
       ]
     },
     {
@@ -3713,7 +3543,7 @@
       "title": "God rays",
       "subtitle": "Light shafts bursting from behind",
       "badge": "",
-      "thumb": "home/looks_thumbs/backlit_rays_v2.jpg",
+      "thumb": "home/looks_thumbs/backlit_rays_v3.jpg",
       "steps": [
         {
           "tool": "BACKLIGHT",
@@ -3738,7 +3568,7 @@
         }
       ],
       "thumbUrls": [
-        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/backlit_rays_v2.jpg"
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/backlit_rays_v3.jpg"
       ]
     },
     {
@@ -3746,7 +3576,7 @@
       "title": "Fog silhouette",
       "subtitle": "A dark figure in glowing mist",
       "badge": "",
-      "thumb": "home/looks_thumbs/backlit_fog_v2.jpg",
+      "thumb": "home/looks_thumbs/backlit_fog_v3.jpg",
       "steps": [
         {
           "tool": "BACKLIGHT",
@@ -3771,7 +3601,7 @@
         }
       ],
       "thumbUrls": [
-        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/backlit_fog_v2.jpg"
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/backlit_fog_v3.jpg"
       ]
     },
     {
@@ -3812,7 +3642,7 @@
       "title": "Halo glow",
       "subtitle": "A glowing disc behind the head on black",
       "badge": "",
-      "thumb": "home/looks_thumbs/backlit_halo_v2.jpg",
+      "thumb": "home/looks_thumbs/backlit_halo_v3.jpg",
       "steps": [
         {
           "tool": "BACKLIGHT",
@@ -3837,7 +3667,7 @@
         }
       ],
       "thumbUrls": [
-        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/backlit_halo_v2.jpg"
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/backlit_halo_v3.jpg"
       ]
     },
     {
@@ -3845,7 +3675,7 @@
       "title": "Stage beams",
       "subtitle": "Concert light beams on a black stage",
       "badge": "",
-      "thumb": "home/looks_thumbs/backlit_stage_v2.jpg",
+      "thumb": "home/looks_thumbs/backlit_stage_v3.jpg",
       "steps": [
         {
           "tool": "BACKLIGHT",
@@ -3870,7 +3700,7 @@
         }
       ],
       "thumbUrls": [
-        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/backlit_stage_v2.jpg"
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/backlit_stage_v3.jpg"
       ]
     },
     {
@@ -3878,7 +3708,7 @@
       "title": "Moonlight",
       "subtitle": "Night falls and a moon glows behind you",
       "badge": "",
-      "thumb": "home/looks_thumbs/backlit_moon_v2.jpg",
+      "thumb": "home/looks_thumbs/backlit_moon_v3.jpg",
       "steps": [
         {
           "tool": "BACKLIGHT",
@@ -3903,7 +3733,7 @@
         }
       ],
       "thumbUrls": [
-        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/backlit_moon_v2.jpg"
+        "https://raw.githubusercontent.com/ResamZaha/PhotoMakerAssets/main/home/looks_thumbs/backlit_moon_v3.jpg"
       ]
     }
   ],

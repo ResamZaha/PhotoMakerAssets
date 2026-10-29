@@ -1,0 +1,217 @@
+{
+  "version": 1,
+  "cards": [
+    {
+      "id": "backlight_moon",
+      "tool": "BACKLIGHT",
+      "since": "2026-10-23",
+      "until": null,
+      "neighbors": [
+        "SUN_RAYS",
+        "SPARKLE"
+      ],
+      "before": "home/whats_new/backlight_moon_before.webp",
+      "after": "home/whats_new/backlight_moon_after.webp",
+      "captions": [
+        {
+          "en": "By the water at night. A bit flat.",
+          "es": "Junto al agua de noche. Algo apagada.",
+          "zh-CN": "夜晚的水边，有点平淡。",
+          "pt": "À beira d'água à noite. Meio sem graça.",
+          "fr": "Au bord de l'eau, la nuit. Un peu terne.",
+          "de": "Nachts am Wasser. Etwas flach.",
+          "ja": "夜の水辺。ちょっと物足りない。",
+          "ko": "밤의 물가. 조금 밋밋해요.",
+          "ru": "Ночь у воды. Немного плоско.",
+          "ar": "بجانب الماء ليلًا. باهتة قليلًا.",
+          "hi": "रात में पानी के किनारे। थोड़ी फीकी।"
+        },
+        {
+          "en": "Open Backlight and pick Moon.",
+          "es": "Abre Contraluz y elige Luna.",
+          "zh-CN": "打开“逆光”，选择“月光”。",
+          "pt": "Abra Contraluz e escolha Lua.",
+          "fr": "Ouvrez Contre-jour et choisissez Lune.",
+          "de": "Öffne Gegenlicht und wähle Mond.",
+          "ja": "「逆光」を開いて「月」を選ぶ。",
+          "ko": "역광을 열고 달을 고르세요.",
+          "ru": "Откройте «Контровой свет» и выберите «Луна».",
+          "ar": "افتح إضاءة خلفية واختر قمر.",
+          "hi": "बैकलाइट खोलें और चाँद चुनें।"
+        },
+        {
+          "en": "The moon rises right behind him.",
+          "es": "La luna sale justo detrás de él.",
+          "zh-CN": "月亮就在他身后升起。",
+          "pt": "A lua nasce bem atrás dele.",
+          "fr": "La lune se lève juste derrière lui.",
+          "de": "Der Mond geht direkt hinter ihm auf.",
+          "ja": "彼のすぐ後ろに月が昇る。",
+          "ko": "그의 바로 뒤로 달이 떠올라요.",
+          "ru": "Луна встаёт прямо за ним.",
+          "ar": "يشرق القمر خلفه مباشرة.",
+          "hi": "उसके ठीक पीछे चाँद निकल आता है।"
+        }
+      ]
+    },
+    {
+      "id": "sun_rays_forest",
+      "tool": "SUN_RAYS",
+      "since": "2026-10-23",
+      "until": null,
+      "neighbors": [
+        "BACKLIGHT",
+        "SKY"
+      ],
+      "before": "home/whats_new/sun_rays_forest_before.webp",
+      "after": "home/whats_new/sun_rays_forest_after.webp",
+      "captions": [
+        {
+          "en": "A forest path in flat light.",
+          "es": "Un sendero en el bosque con luz plana.",
+          "zh-CN": "光线平淡的林间小路。",
+          "pt": "Uma trilha na floresta com luz chapada.",
+          "fr": "Un sentier en forêt, lumière terne.",
+          "de": "Ein Waldweg in flachem Licht.",
+          "ja": "光が平坦な森の小道。",
+          "ko": "밋밋한 빛 속 숲길.",
+          "ru": "Лесная тропа в ровном свете.",
+          "ar": "ممر في الغابة بإضاءة باهتة.",
+          "hi": "सपाट रोशनी में जंगल का रास्ता।"
+        },
+        {
+          "en": "Open Sun Rays and drag the sun.",
+          "es": "Abre Rayos de sol y arrastra el sol.",
+          "zh-CN": "打开“阳光射线”，拖动太阳。",
+          "pt": "Abra Raios de sol e arraste o sol.",
+          "fr": "Ouvrez Rayons de soleil et faites glisser le soleil.",
+          "de": "Öffne Sonnenstrahlen und zieh die Sonne.",
+          "ja": "「サンレイ」を開いて太陽をドラッグ。",
+          "ko": "햇살을 열고 해를 끌어 보세요.",
+          "ru": "Откройте «Солнечные лучи» и перетащите солнце.",
+          "ar": "افتح أشعة الشمس واسحب الشمس.",
+          "hi": "सूरज की किरणें खोलें और सूरज को खींचें।"
+        },
+        {
+          "en": "Golden beams through the trees.",
+          "es": "Rayos dorados entre los árboles.",
+          "zh-CN": "金色光束穿过树林。",
+          "pt": "Feixes dourados entre as árvores.",
+          "fr": "Des rayons dorés à travers les arbres.",
+          "de": "Goldene Strahlen durch die Bäume.",
+          "ja": "木々の間から黄金の光。",
+          "ko": "나무 사이로 황금빛 햇살.",
+          "ru": "Золотые лучи сквозь деревья.",
+          "ar": "أشعة ذهبية بين الأشجار.",
+          "hi": "पेड़ों के बीच से सुनहरी किरणें।"
+        }
+      ]
+    },
+    {
+      "id": "remove_cone",
+      "tool": "OBJECT_REMOVER",
+      "since": "2026-10-26",
+      "until": null,
+      "neighbors": [
+        "BACKGROUND",
+        "SPARKLE"
+      ],
+      "before": "home/whats_new/remove_cone_before.webp",
+      "after": "home/whats_new/remove_cone_after.webp",
+      "captions": [
+        {
+          "en": "Great street. One cone too many.",
+          "es": "Una calle preciosa. Sobra un cono.",
+          "zh-CN": "很美的街道，只是多了个路锥。",
+          "pt": "Rua linda. Um cone a mais.",
+          "fr": "Belle rue. Un cône de trop.",
+          "de": "Tolle Gasse. Ein Hütchen zu viel.",
+          "ja": "素敵な路地。コーンが余計。",
+          "ko": "멋진 골목. 고깔 하나가 옥에 티.",
+          "ru": "Отличная улочка. Лишний конус.",
+          "ar": "شارع رائع. مخروط زائد واحد.",
+          "hi": "शानदार गली। बस एक कोन ज़्यादा।"
+        },
+        {
+          "en": "Open Remove and tap the cone.",
+          "es": "Abre Quitar y toca el cono.",
+          "zh-CN": "打开“移除”，点一下路锥。",
+          "pt": "Abra Remover e toque no cone.",
+          "fr": "Ouvrez Supprimer et touchez le cône.",
+          "de": "Öffne Entfernen und tippe auf das Hütchen.",
+          "ja": "「削除」を開いてコーンをタップ。",
+          "ko": "제거를 열고 고깔을 탭하세요.",
+          "ru": "Откройте «Удалить» и коснитесь конуса.",
+          "ar": "افتح إزالة واضغط على المخروط.",
+          "hi": "हटाएँ खोलें और कोन पर टैप करें।"
+        },
+        {
+          "en": "What cone?",
+          "es": "¿Qué cono?",
+          "zh-CN": "路锥？什么路锥？",
+          "pt": "Que cone?",
+          "fr": "Quel cône ?",
+          "de": "Welches Hütchen?",
+          "ja": "コーンって何のこと？",
+          "ko": "고깔이 어디 있었죠?",
+          "ru": "Какой конус?",
+          "ar": "أي مخروط؟",
+          "hi": "कौन-सा कोन?"
+        }
+      ]
+    },
+    {
+      "id": "poster_red_on_yellow",
+      "tool": "POSTER",
+      "since": "2026-10-26",
+      "until": null,
+      "neighbors": [
+        "BACKGROUND",
+        "SKY"
+      ],
+      "before": "home/whats_new/poster_red_on_yellow_before.webp",
+      "after": "home/whats_new/poster_red_on_yellow_after.webp",
+      "captions": [
+        {
+          "en": "Plain wall, plain tee.",
+          "es": "Pared lisa, camiseta lisa.",
+          "zh-CN": "素墙，素T。",
+          "pt": "Parede lisa, camiseta lisa.",
+          "fr": "Mur uni, t-shirt uni.",
+          "de": "Schlichte Wand, schlichtes Shirt.",
+          "ja": "無地の壁に無地のTシャツ。",
+          "ko": "밋밋한 벽, 밋밋한 티셔츠.",
+          "ru": "Простая стена, простая футболка.",
+          "ar": "جدار عادي، وقميص عادي.",
+          "hi": "सादी दीवार, सादी टी-शर्ट।"
+        },
+        {
+          "en": "Open Poster and pick Red on yellow.",
+          "es": "Abre Póster y elige Rojo sobre amarillo.",
+          "zh-CN": "打开“海报”，选择“黄底红”。",
+          "pt": "Abra Pôster e escolha Vermelho no amarelo.",
+          "fr": "Ouvrez Affiche et choisissez Rouge sur jaune.",
+          "de": "Öffne Poster und wähle Rot auf Gelb.",
+          "ja": "「ポスター」を開いて「黄に赤」を選ぶ。",
+          "ko": "포스터를 열고 노랑 위 빨강을 고르세요.",
+          "ru": "Откройте «Постер» и выберите «Красное на жёлтом».",
+          "ar": "افتح ملصق واختر أحمر على أصفر.",
+          "hi": "पोस्टर खोलें और पीले पर लाल चुनें।"
+        },
+        {
+          "en": "Bold shapes, and the tee turns red.",
+          "es": "Formas audaces, y la camiseta se vuelve roja.",
+          "zh-CN": "大胆的图形，T恤也变红了。",
+          "pt": "Formas marcantes, e a camiseta fica vermelha.",
+          "fr": "Des formes audacieuses, et le t-shirt devient rouge.",
+          "de": "Kräftige Formen, und das Shirt wird rot.",
+          "ja": "大胆な図形に、Tシャツも赤に。",
+          "ko": "과감한 도형, 티셔츠도 빨갛게.",
+          "ru": "Смелые формы, и футболка становится красной.",
+          "ar": "أشكال جريئة، ويتحول القميص إلى الأحمر.",
+          "hi": "बोल्ड आकार, और टी-शर्ट लाल हो जाती है।"
+        }
+      ]
+    }
+  ]
+}
