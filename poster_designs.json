@@ -1,5 +1,5 @@
 {
- "version": 6,
+ "version": 9,
  "designs": [
   {
    "id": "triangle",
@@ -1227,6 +1227,1031 @@
      "color": "#D9BE8E"
     }
    ]
+  },
+  {
+   "id": "bw_editorial",
+   "name": {
+    "en": "Editorial B&W",
+    "es": "Editorial B/N",
+    "zh-CN": "杂志黑白",
+    "pt": "Editorial P&B",
+    "fr": "Éditorial N&B",
+    "de": "Editorial S/W",
+    "ja": "エディトリアル白黒",
+    "ko": "에디토리얼 흑백",
+    "ru": "Чёрно-белый журнал",
+    "ar": "تحريري أبيض وأسود",
+    "hi": "एडिटोरियल श्वेत-श्याम"
+   },
+   "icon": "poster_design_icons/bw_editorial.webp",
+   "layout": "plain",
+   "panelAngle": 14,
+   "gold": 100,
+   "panelColor": "#101315",
+   "goldColor": "#D6A366",
+   "ink": 100,
+   "inkDetail": 35,
+   "shape": "circle",
+   "centerX": 50.0,
+   "centerY": 41.7,
+   "size": 85.5,
+   "width": 100,
+   "top": "#F34E2A",
+   "bottom": "#F04E2B",
+   "ground": "#004053",
+   "inkShadow": "#121212",
+   "inkLight": "#F2F2F2",
+   "inkStyle": "photo",
+   "accents": [
+    {
+     "shape": "ring",
+     "centerX": 50.0,
+     "centerY": 41.7,
+     "w": 94.1,
+     "h": 94.1,
+     "color": "#F8E5C5"
+    }
+   ],
+   "outfit": {
+    "color": "off"
+   }
+  },
+  {
+   "id": "neon_echo",
+   "name": {
+    "en": "Neon echo",
+    "es": "Eco neón",
+    "zh-CN": "霓虹回响",
+    "pt": "Eco neon",
+    "fr": "Écho néon",
+    "de": "Neon-Echo",
+    "ja": "ネオンエコー",
+    "ko": "네온 에코",
+    "ru": "Неоновое эхо",
+    "ar": "صدى نيون",
+    "hi": "नियॉन गूँज"
+   },
+   "icon": "poster_design_icons/neon_echo.webp",
+   "layout": "plain",
+   "panelAngle": 14,
+   "gold": 100,
+   "panelColor": "#101315",
+   "goldColor": "#D6A366",
+   "ink": 100,
+   "inkDetail": 35,
+   "shape": "triangle_up",
+   "centerX": 48.9,
+   "centerY": 49.3,
+   "size": 101.2,
+   "width": 70.1,
+   "outline": 4.55,
+   "glow": 0.83,
+   "top": "#FF02E7",
+   "bottom": "#F900DB",
+   "ground": "#0F000C",
+   "inkShadow": "#121212",
+   "inkLight": "#F2F2F2",
+   "inkStyle": "photo",
+   "accents": [
+    {
+     "shape": "triangle_up",
+     "centerX": 66.5,
+     "centerY": 45.2,
+     "w": 48.9,
+     "h": 66.7,
+     "color": "#1CC7E2"
+    }
+   ],
+   "outfit": {
+    "color": "off"
+   }
+  },
+  {
+   "id": "mustard_arch",
+   "name": {
+    "en": "Mustard arch",
+    "es": "Arco mostaza",
+    "zh-CN": "芥末黄拱门",
+    "pt": "Arco mostarda",
+    "fr": "Arche moutarde",
+    "de": "Senfbogen",
+    "ja": "マスタードアーチ",
+    "ko": "머스터드 아치",
+    "ru": "Горчичная арка",
+    "ar": "قوس خردلي",
+    "hi": "सरसों मेहराब"
+   },
+   "icon": "poster_design_icons/mustard_arch.webp",
+   "layout": "plain",
+   "panelAngle": 14,
+   "gold": 100,
+   "panelColor": "#101315",
+   "goldColor": "#D6A366",
+   "ink": 100,
+   "inkDetail": 35,
+   "shape": "arch",
+   "centerX": 49.9,
+   "centerY": 35.8,
+   "size": 83.6,
+   "width": 100,
+   "stretch": 300,
+   "top": "#E3931A",
+   "bottom": "#E2931A",
+   "ground": "#C9573A",
+   "inkShadow": "#121212",
+   "inkLight": "#F2F2F2",
+   "inkStyle": "photo",
+   "accents": [
+    {
+     "shape": "circle",
+     "centerX": 8.12,
+     "centerY": 41.3,
+     "w": 8.91,
+     "h": 8.91,
+     "color": "#6D6833",
+     "front": true
+    },
+    {
+     "shape": "circle",
+     "centerX": 91.8,
+     "centerY": 75.9,
+     "w": 8.91,
+     "h": 8.91,
+     "color": "#6D6833",
+     "front": true
+    }
+   ],
+   "outfit": {
+    "color": "off"
+   }
+  },
+  {
+   "id": "blue_and_yellow",
+   "name": {
+    "en": "Blue and yellow",
+    "es": "Azul y amarillo",
+    "zh-CN": "蓝与黄",
+    "pt": "Azul e amarelo",
+    "fr": "Bleu et jaune",
+    "de": "Blau und Gelb",
+    "ja": "ブルーとイエロー",
+    "ko": "파랑과 노랑",
+    "ru": "Синий и жёлтый",
+    "ar": "أزرق وأصفر",
+    "hi": "नीला और पीला"
+   },
+   "icon": "poster_design_icons/blue_and_yellow.webp",
+   "layout": "plain",
+   "panelAngle": 14,
+   "gold": 100,
+   "panelColor": "#101315",
+   "goldColor": "#D6A366",
+   "ink": 0,
+   "inkDetail": 35,
+   "shape": "half_disc",
+   "centerX": 50.0,
+   "centerY": 77.3,
+   "size": 83.3,
+   "width": 104.6,
+   "top": "#DF071B",
+   "bottom": "#DF071B",
+   "ground": "#FFFFFF",
+   "accents": [
+    {
+     "shape": "rect",
+     "centerX": 25.1,
+     "centerY": 50,
+     "w": 50.2,
+     "h": 140,
+     "color": "#00419D"
+    },
+    {
+     "shape": "rect",
+     "centerX": 75.1,
+     "centerY": 41.3,
+     "w": 49.8,
+     "h": 136.9,
+     "color": "#FFE30E"
+    }
+   ],
+   "outfit": {
+    "color": "off"
+   }
+  },
+  {
+   "id": "coral_fusion",
+   "name": {
+    "en": "Coral fusion",
+    "es": "Fusión coral",
+    "zh-CN": "珊瑚融合",
+    "pt": "Fusão coral",
+    "fr": "Fusion corail",
+    "de": "Korallenfusion",
+    "ja": "コーラルフュージョン",
+    "ko": "코럴 퓨전",
+    "ru": "Коралловое слияние",
+    "ar": "اندماج مرجاني",
+    "hi": "कोरल फ़्यूज़न"
+   },
+   "icon": "poster_design_icons/coral_fusion.webp",
+   "layout": "plain",
+   "panelAngle": 14,
+   "gold": 100,
+   "panelColor": "#101315",
+   "goldColor": "#D6A366",
+   "ink": 0,
+   "inkDetail": 35,
+   "shape": "diamond",
+   "centerX": 50.0,
+   "centerY": 49.6,
+   "size": 132.2,
+   "width": 72.0,
+   "top": "#F6604B",
+   "bottom": "#F6624D",
+   "ground": "#F7D9D6",
+   "outfit": {
+    "color": "match"
+   }
+  },
+  {
+   "id": "bauhaus",
+   "name": {
+    "en": "Bauhaus",
+    "es": "Bauhaus",
+    "zh-CN": "包豪斯",
+    "pt": "Bauhaus",
+    "fr": "Bauhaus",
+    "de": "Bauhaus",
+    "ja": "バウハウス",
+    "ko": "바우하우스",
+    "ru": "Баухаус",
+    "ar": "باوهاوس",
+    "hi": "बाउहाउस"
+   },
+   "icon": "poster_design_icons/bauhaus.webp",
+   "requires": [
+    "path"
+   ],
+   "layout": "plain",
+   "panelAngle": 14,
+   "gold": 100,
+   "panelColor": "#101315",
+   "goldColor": "#D6A366",
+   "ink": 100,
+   "inkDetail": 35,
+   "shape": "circle",
+   "centerX": 50.1,
+   "centerY": 29.8,
+   "size": 73.3,
+   "width": 100,
+   "top": "#DA2B19",
+   "bottom": "#DA2B19",
+   "ground": "#F2ECE0",
+   "inkShadow": "#121212",
+   "inkLight": "#F2F2F2",
+   "inkStyle": "photo",
+   "accents": [
+    {
+     "shape": "path",
+     "d": "M0 100 C0 30.1 40.8 0 100 0 V26.1 C100 65.5 75.5 100 47.5 100 H0 Z",
+     "centerX": 49.0,
+     "centerY": 72.7,
+     "w": 73.6,
+     "h": 56.5,
+     "color": "#F7C21B"
+    },
+    {
+     "shape": "rect",
+     "centerX": 50,
+     "centerY": 52.1,
+     "w": 300,
+     "h": 14.1,
+     "color": "#070506",
+     "front": true
+    }
+   ],
+   "outfit": {
+    "color": "off"
+   }
+  },
+  {
+   "id": "target_rings",
+   "name": {
+    "en": "Target rings",
+    "es": "Anillos diana",
+    "zh-CN": "靶心圆环",
+    "pt": "Anéis de alvo",
+    "fr": "Anneaux cible",
+    "de": "Zielscheibe",
+    "ja": "ターゲットリング",
+    "ko": "과녁 링",
+    "ru": "Мишень",
+    "ar": "حلقات الهدف",
+    "hi": "निशाना छल्ले"
+   },
+   "icon": "poster_design_icons/target_rings.webp",
+   "layout": "plain",
+   "panelAngle": 14,
+   "gold": 100,
+   "panelColor": "#101315",
+   "goldColor": "#D6A366",
+   "ink": 100,
+   "inkDetail": 35,
+   "shape": "circle",
+   "centerX": 50.8,
+   "centerY": 44.5,
+   "size": 56.9,
+   "width": 100,
+   "top": "#0D3220",
+   "bottom": "#0D3220",
+   "ground": "#0D3221",
+   "inkShadow": "#121212",
+   "inkLight": "#F2F2F2",
+   "inkStyle": "photo",
+   "accents": [
+    {
+     "shape": "circle",
+     "centerX": 50.8,
+     "centerY": 52.0,
+     "w": 132.2,
+     "h": 132.2,
+     "color": "#EFEDDA"
+    },
+    {
+     "shape": "circle",
+     "centerX": 50.8,
+     "centerY": 46.4,
+     "w": 123.2,
+     "h": 123.2,
+     "color": "#87A18A"
+    },
+    {
+     "shape": "circle",
+     "centerX": 50.8,
+     "centerY": 44.5,
+     "w": 89.8,
+     "h": 89.8,
+     "color": "#EFEDDA"
+    }
+   ],
+   "outfit": {
+    "color": "off"
+   }
+  },
+  {
+   "id": "speed_stripes",
+   "name": {
+    "en": "Speed stripes",
+    "es": "Rayas de velocidad",
+    "zh-CN": "速度条纹",
+    "pt": "Listras de velocidade",
+    "fr": "Rayures vitesse",
+    "de": "Tempo-Streifen",
+    "ja": "スピードストライプ",
+    "ko": "스피드 스트라이프",
+    "ru": "Скоростные полосы",
+    "ar": "خطوط السرعة",
+    "hi": "स्पीड धारियाँ"
+   },
+   "icon": "poster_design_icons/speed_stripes.webp",
+   "layout": "plain",
+   "panelAngle": 14,
+   "gold": 100,
+   "panelColor": "#101315",
+   "goldColor": "#D6A366",
+   "ink": 100,
+   "inkDetail": 35,
+   "shape": "circle",
+   "centerX": 48.5,
+   "centerY": 49.5,
+   "size": 84.4,
+   "width": 100,
+   "top": "#FEFDFE",
+   "bottom": "#FEFDFE",
+   "ground": "#000D1E",
+   "inkShadow": "#121212",
+   "inkLight": "#F2F2F2",
+   "inkStyle": "photo",
+   "accents": [
+    {
+     "shape": "rect",
+     "centerX": 33.3,
+     "centerY": 50,
+     "w": 12.3,
+     "h": 300,
+     "rotation": 26.2,
+     "color": "#FE8912",
+     "front": true
+    },
+    {
+     "shape": "rect",
+     "centerX": 46.5,
+     "centerY": 50,
+     "w": 12.3,
+     "h": 300,
+     "rotation": 26.2,
+     "color": "#FA4A8B",
+     "front": true
+    },
+    {
+     "shape": "rect",
+     "centerX": 59.7,
+     "centerY": 50,
+     "w": 12.3,
+     "h": 300,
+     "rotation": 26.2,
+     "color": "#6A1DCB",
+     "front": true
+    }
+   ],
+   "outfit": {
+    "color": "off"
+   }
+  },
+  {
+   "id": "layered_peaks",
+   "name": {
+    "en": "Layered peaks",
+    "es": "Picos en capas",
+    "zh-CN": "层叠山峰",
+    "pt": "Picos em camadas",
+    "fr": "Sommets en couches",
+    "de": "Bergketten",
+    "ja": "重なる山並み",
+    "ko": "겹겹 산봉우리",
+    "ru": "Горные слои",
+    "ar": "قمم متراكبة",
+    "hi": "परतदार चोटियाँ"
+   },
+   "icon": "poster_design_icons/layered_peaks.webp",
+   "layout": "plain",
+   "panelAngle": 14,
+   "gold": 100,
+   "panelColor": "#101315",
+   "goldColor": "#D6A366",
+   "ink": 0,
+   "inkDetail": 35,
+   "shape": "circle",
+   "centerX": 50.1,
+   "centerY": 32.2,
+   "size": 57.4,
+   "width": 100,
+   "top": "#FACCA9",
+   "bottom": "#FACDAB",
+   "ground": "#FAEFE1",
+   "accents": [
+    {
+     "shape": "triangle_up",
+     "centerX": 22.4,
+     "centerY": 58.5,
+     "w": 125.0,
+     "h": 62.4,
+     "color": "#6391AF",
+     "front": true
+    },
+    {
+     "shape": "triangle_up",
+     "centerX": 83.5,
+     "centerY": 59.8,
+     "w": 115.4,
+     "h": 57.5,
+     "color": "#6391AF",
+     "front": true
+    },
+    {
+     "shape": "triangle_up",
+     "centerX": 50.3,
+     "centerY": 78.5,
+     "w": 299.8,
+     "h": 150,
+     "color": "#6492B0",
+     "front": true
+    },
+    {
+     "shape": "triangle_up",
+     "centerX": 50.3,
+     "centerY": 87.5,
+     "w": 299.8,
+     "h": 150,
+     "color": "#4B7B99",
+     "front": true
+    },
+    {
+     "shape": "triangle_up",
+     "centerX": 50.3,
+     "centerY": 96.5,
+     "w": 299.8,
+     "h": 150,
+     "color": "#346484",
+     "front": true
+    },
+    {
+     "shape": "triangle_up",
+     "centerX": 50.3,
+     "centerY": 105.6,
+     "w": 299.8,
+     "h": 150,
+     "color": "#18415C",
+     "front": true
+    }
+   ],
+   "outfit": {
+    "color": "off"
+   }
+  },
+  {
+   "id": "swiss_blue",
+   "name": {
+    "en": "Swiss blue",
+    "es": "Azul suizo",
+    "zh-CN": "瑞士蓝",
+    "pt": "Azul suíço",
+    "fr": "Bleu suisse",
+    "de": "Schweizer Blau",
+    "ja": "スイスブルー",
+    "ko": "스위스 블루",
+    "ru": "Швейцарский синий",
+    "ar": "أزرق سويسري",
+    "hi": "स्विस नीला"
+   },
+   "icon": "poster_design_icons/swiss_blue.webp",
+   "layout": "plain",
+   "panelAngle": 14,
+   "gold": 100,
+   "panelColor": "#101315",
+   "goldColor": "#D6A366",
+   "ink": 100,
+   "inkDetail": 35,
+   "shape": "circle",
+   "centerX": 36.8,
+   "centerY": 27.5,
+   "size": 73.4,
+   "width": 100,
+   "top": "#003B9B",
+   "bottom": "#003B9B",
+   "ground": "#EFEBE7",
+   "inkShadow": "#121212",
+   "inkLight": "#F2F2F2",
+   "inkStyle": "photo",
+   "accents": [
+    {
+     "shape": "rect",
+     "centerX": 55.0,
+     "centerY": 7.51,
+     "w": 36.5,
+     "h": 46.7,
+     "color": "#003B9C"
+    },
+    {
+     "shape": "rect",
+     "centerX": 70.6,
+     "centerY": 68.0,
+     "w": 1.93,
+     "h": 112.1,
+     "color": "#312F2B"
+    }
+   ],
+   "outfit": {
+    "color": "off"
+   }
+  },
+  {
+   "id": "arch_tunnel",
+   "name": {
+    "en": "Arch tunnel",
+    "es": "Túnel de arcos",
+    "zh-CN": "拱门隧道",
+    "pt": "Túnel de arcos",
+    "fr": "Tunnel d'arches",
+    "de": "Bogentunnel",
+    "ja": "アーチトンネル",
+    "ko": "아치 터널",
+    "ru": "Тоннель арок",
+    "ar": "نفق الأقواس",
+    "hi": "मेहराब सुरंग"
+   },
+   "icon": "poster_design_icons/arch_tunnel.webp",
+   "requires": [
+    "path"
+   ],
+   "layout": "plain",
+   "panelAngle": 14,
+   "gold": 100,
+   "panelColor": "#101315",
+   "goldColor": "#D6A366",
+   "ink": 0,
+   "inkDetail": 35,
+   "shape": "arch",
+   "centerX": 50.1,
+   "centerY": 39.1,
+   "size": 80.2,
+   "width": 100,
+   "stretch": 167.8,
+   "top": "#BA6946",
+   "bottom": "#BA6946",
+   "ground": "#84391E",
+   "accents": [
+    {
+     "shape": "path",
+     "d": "M0 100 V35.08 C0 15.71 22.38 0 50 0 C77.62 0 100 15.71 100 35.08 V100 Z",
+     "centerX": 50.0,
+     "centerY": 51.2,
+     "w": 58.8,
+     "h": 83.8,
+     "color": "#D18E73",
+     "front": true
+    },
+    {
+     "shape": "path",
+     "d": "M0 100 V31.96 C0 14.31 22.38 0 50 0 C77.62 0 100 14.31 100 31.96 V100 Z",
+     "centerX": 50.0,
+     "centerY": 52.8,
+     "w": 41.4,
+     "h": 64.8,
+     "color": "#DFAE9D",
+     "front": true
+    },
+    {
+     "shape": "path",
+     "d": "M0 100 V27.12 C0 12.14 22.38 0 50 0 C77.62 0 100 12.14 100 27.12 V100 Z",
+     "centerX": 50.0,
+     "centerY": 53.8,
+     "w": 26.6,
+     "h": 49.1,
+     "color": "#E6C7BE",
+     "front": true
+    }
+   ],
+   "outfit": {
+    "color": "off"
+   }
+  },
+  {
+   "id": "sunburst",
+   "name": {
+    "en": "Sunburst",
+    "es": "Rayos de sol",
+    "zh-CN": "旭日光芒",
+    "pt": "Raios de sol",
+    "fr": "Rayons de soleil",
+    "de": "Sonnenstrahlen",
+    "ja": "サンバースト",
+    "ko": "선버스트",
+    "ru": "Солнечные лучи",
+    "ar": "أشعة الشمس",
+    "hi": "सूर्य किरणें"
+   },
+   "icon": "poster_design_icons/sunburst.webp",
+   "requires": [
+    "path"
+   ],
+   "layout": "plain",
+   "panelAngle": 14,
+   "gold": 100,
+   "panelColor": "#101315",
+   "goldColor": "#D6A366",
+   "ink": 0,
+   "inkDetail": 35,
+   "shape": "circle",
+   "centerX": 49.8,
+   "centerY": 47.8,
+   "size": 19.9,
+   "width": 100,
+   "top": "#E04038",
+   "bottom": "#E04038",
+   "ground": "#F3ECD9",
+   "accents": [
+    {
+     "shape": "path",
+     "d": "M50 50 L120.78 74.81 L113.61 89.74 Z M50 50 L103.01 103.06 L90.07 113.40 Z M50 50 L74.73 120.80 L58.59 124.51 Z M50 50 L41.56 124.52 L25.41 120.86 Z M50 50 L10.06 113.48 L-2.89 103.17 Z M50 50 L-13.52 89.87 L-20.73 74.95 Z M50 50 L-24.53 58.36 L-24.55 41.80 Z M50 50 L-20.78 25.19 L-13.61 10.26 Z M50 50 L-3.01 -3.06 L9.93 -13.40 Z M50 50 L25.27 -20.80 L41.41 -24.51 Z M50 50 L58.44 -24.52 L74.59 -20.86 Z M50 50 L89.94 -13.48 L102.89 -3.17 Z M50 50 L113.52 10.13 L120.73 25.05 Z M50 50 L124.53 41.64 L124.55 58.20 Z",
+     "centerX": 49.8,
+     "centerY": 47.8,
+     "w": 300,
+     "h": 300,
+     "color": "#E04038"
+    }
+   ],
+   "outfit": {
+    "color": "off"
+   }
+  },
+  {
+   "id": "mint_diagonal",
+   "name": {
+    "en": "Mint diagonal",
+    "es": "Diagonal menta",
+    "zh-CN": "薄荷斜分",
+    "pt": "Diagonal menta",
+    "fr": "Diagonale menthe",
+    "de": "Mint-Diagonale",
+    "ja": "ミントダイアゴナル",
+    "ko": "민트 대각선",
+    "ru": "Мятная диагональ",
+    "ar": "قطري نعناعي",
+    "hi": "पुदीना तिरछा"
+   },
+   "icon": "poster_design_icons/mint_diagonal.webp",
+   "requires": [
+    "path"
+   ],
+   "layout": "plain",
+   "panelAngle": 14,
+   "gold": 100,
+   "panelColor": "#101315",
+   "goldColor": "#D6A366",
+   "ink": 100,
+   "inkDetail": 35,
+   "shape": "circle",
+   "centerX": 20.0,
+   "centerY": 58.9,
+   "size": 10,
+   "width": 100,
+   "top": "#F5C90A",
+   "bottom": "#F5C609",
+   "ground": "#012B22",
+   "inkShadow": "#121212",
+   "inkLight": "#F2F2F2",
+   "inkStyle": "photo",
+   "accents": [
+    {
+     "shape": "path",
+     "d": "M0 0 H100 V0.00 L0 75.38 Z",
+     "centerX": 50,
+     "centerY": 50,
+     "w": 100,
+     "h": 133.3,
+     "color": "#72BFA1"
+    }
+   ],
+   "outfit": {
+    "color": "off"
+   }
+  },
+  {
+   "id": "crescent_moon",
+   "name": {
+    "en": "Crescent moon",
+    "es": "Luna creciente",
+    "zh-CN": "新月",
+    "pt": "Lua crescente",
+    "fr": "Croissant de lune",
+    "de": "Mondsichel",
+    "ja": "三日月",
+    "ko": "초승달",
+    "ru": "Полумесяц",
+    "ar": "هلال",
+    "hi": "अर्धचंद्र"
+   },
+   "icon": "poster_design_icons/crescent_moon.webp",
+   "requires": [
+    "plate"
+   ],
+   "layout": "plain",
+   "panelAngle": 14,
+   "gold": 100,
+   "panelColor": "#101315",
+   "goldColor": "#D6A366",
+   "ink": 100,
+   "inkDetail": 0,
+   "plate": {
+    "asset": "poster_plates/crescent_moon.webp"
+   },
+   "ground": "#081727",
+   "inkShadow": "#05070C",
+   "inkLight": "#0B1020",
+   "outfit": {
+    "color": "off"
+   }
+  },
+  {
+   "id": "dripping_sun",
+   "name": {
+    "en": "Dripping sun",
+    "es": "Sol que gotea",
+    "zh-CN": "滴落的太阳",
+    "pt": "Sol escorrendo",
+    "fr": "Soleil qui coule",
+    "de": "Tropfende Sonne",
+    "ja": "したたる太陽",
+    "ko": "흘러내리는 태양",
+    "ru": "Тающее солнце",
+    "ar": "شمس تقطر",
+    "hi": "टपकता सूरज"
+   },
+   "icon": "poster_design_icons/dripping_sun.webp",
+   "requires": [
+    "plate"
+   ],
+   "layout": "plain",
+   "panelAngle": 14,
+   "gold": 100,
+   "panelColor": "#101315",
+   "goldColor": "#D6A366",
+   "ink": 100,
+   "inkDetail": 35,
+   "plate": {
+    "asset": "poster_plates/dripping_sun.webp"
+   },
+   "ground": "#BFB8B2",
+   "inkShadow": "#121212",
+   "inkLight": "#F2F2F2",
+   "inkStyle": "photo",
+   "outfit": {
+    "color": "off"
+   }
+  },
+  {
+   "id": "synthwave_sun",
+   "name": {
+    "en": "Synthwave",
+    "es": "Synthwave",
+    "zh-CN": "合成波",
+    "pt": "Synthwave",
+    "fr": "Synthwave",
+    "de": "Synthwave",
+    "ja": "シンセウェイブ",
+    "ko": "신스웨이브",
+    "ru": "Синтвейв",
+    "ar": "سينثويف",
+    "hi": "सिंथवेव"
+   },
+   "icon": "poster_design_icons/synthwave_sun.webp",
+   "requires": [
+    "plate"
+   ],
+   "layout": "plain",
+   "panelAngle": 14,
+   "gold": 100,
+   "panelColor": "#101315",
+   "goldColor": "#D6A366",
+   "ink": 100,
+   "inkDetail": 35,
+   "plate": {
+    "asset": "poster_plates/synthwave_sun.webp"
+   },
+   "ground": "#E2007F",
+   "inkShadow": "#121212",
+   "inkLight": "#F2F2F2",
+   "inkStyle": "photo",
+   "outfit": {
+    "color": "off"
+   }
+  },
+  {
+   "id": "memphis_pastel",
+   "name": {
+    "en": "Pastel Memphis",
+    "es": "Memphis pastel",
+    "zh-CN": "粉彩孟菲斯",
+    "pt": "Memphis pastel",
+    "fr": "Memphis pastel",
+    "de": "Pastell-Memphis",
+    "ja": "パステルメンフィス",
+    "ko": "파스텔 멤피스",
+    "ru": "Пастельный Мемфис",
+    "ar": "ممفيس باستيل",
+    "hi": "पेस्टल मेम्फ़िस"
+   },
+   "icon": "poster_design_icons/memphis_pastel.webp",
+   "requires": [
+    "plate"
+   ],
+   "layout": "plain",
+   "panelAngle": 14,
+   "gold": 100,
+   "panelColor": "#101315",
+   "goldColor": "#D6A366",
+   "ink": 100,
+   "inkDetail": 35,
+   "plate": {
+    "asset": "poster_plates/memphis_pastel.webp"
+   },
+   "ground": "#F6C2C8",
+   "inkShadow": "#121212",
+   "inkLight": "#F2F2F2",
+   "inkStyle": "photo",
+   "outfit": {
+    "color": "off"
+   }
+  },
+  {
+   "id": "neon_portal",
+   "name": {
+    "en": "Neon portal",
+    "es": "Portal neón",
+    "zh-CN": "霓虹之门",
+    "pt": "Portal neon",
+    "fr": "Portail néon",
+    "de": "Neon-Portal",
+    "ja": "ネオンポータル",
+    "ko": "네온 포털",
+    "ru": "Неоновый портал",
+    "ar": "بوابة نيون",
+    "hi": "नियॉन द्वार"
+   },
+   "icon": "poster_design_icons/neon_portal.webp",
+   "requires": [
+    "plate"
+   ],
+   "layout": "plain",
+   "panelAngle": 14,
+   "gold": 100,
+   "panelColor": "#101315",
+   "goldColor": "#D6A366",
+   "ink": 100,
+   "inkDetail": 0,
+   "plate": {
+    "asset": "poster_plates/neon_portal.webp"
+   },
+   "ground": "#03080C",
+   "inkShadow": "#05070C",
+   "inkLight": "#0B1020",
+   "outfit": {
+    "color": "off"
+   }
+  },
+  {
+   "id": "riso_pink",
+   "name": {
+    "en": "Riso pink",
+    "es": "Riso rosa",
+    "zh-CN": "孔版粉",
+    "pt": "Riso rosa",
+    "fr": "Riso rose",
+    "de": "Riso-Rosa",
+    "ja": "リソピンク",
+    "ko": "리소 핑크",
+    "ru": "Ризо розовый",
+    "ar": "ريزو وردي",
+    "hi": "रिसो गुलाबी"
+   },
+   "icon": "poster_design_icons/riso_pink.webp",
+   "layout": "plain",
+   "panelAngle": 14,
+   "gold": 100,
+   "panelColor": "#101315",
+   "goldColor": "#D6A366",
+   "ink": 100,
+   "inkDetail": 35,
+   "shape": "circle",
+   "centerX": 50,
+   "centerY": 50,
+   "size": 96,
+   "width": 100,
+   "top": "#FF5C93",
+   "bottom": "#FF5C93",
+   "ground": "#F4EEE3",
+   "inkShadow": "#1C2C77",
+   "inkLight": "#F6A9C8",
+   "outfit": {
+    "color": "off"
+   }
+  },
+  {
+   "id": "eclipse",
+   "name": {
+    "en": "Eclipse",
+    "es": "Eclipse",
+    "zh-CN": "日食",
+    "pt": "Eclipse",
+    "fr": "Éclipse",
+    "de": "Finsternis",
+    "ja": "日食",
+    "ko": "일식",
+    "ru": "Затмение",
+    "ar": "كسوف",
+    "hi": "ग्रहण"
+   },
+   "icon": "poster_design_icons/eclipse.webp",
+   "layout": "plain",
+   "panelAngle": 14,
+   "gold": 100,
+   "panelColor": "#101315",
+   "goldColor": "#D6A366",
+   "ink": 0,
+   "inkDetail": 35,
+   "shape": "circle",
+   "centerX": 50,
+   "centerY": 38,
+   "size": 74,
+   "width": 100,
+   "top": "#FFB347",
+   "bottom": "#FF5E2C",
+   "ground": "#0B0B10",
+   "accents": [
+    {
+     "shape": "circle",
+     "centerX": 52.5,
+     "centerY": 36.8,
+     "w": 70,
+     "h": 70,
+     "color": "#0B0B10",
+     "front": true
+    }
+   ],
+   "outfit": {
+    "color": "off"
+   }
   }
  ]
 }
