@@ -1,5 +1,5 @@
 {
- "version": 3,
+ "version": 4,
  "looks": [
   {
    "id": "clean",
@@ -60,9 +60,11 @@
    "ambient": -75,
    "softness": 65,
    "reach": 35,
-   "ambientTone": -75,
+   "ambientTone": -35,
    "halo": {
-    "strength": 36
+    "strength": 30,
+    "size": 15,
+    "hardness": 40
    },
    "finish": {
     "contrast": 14,
