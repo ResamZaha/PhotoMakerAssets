@@ -1,5 +1,5 @@
 {
- "version": 4,
+ "version": 5,
  "looks": [
   {
    "id": "clean",
@@ -19,7 +19,16 @@
    "flash": 45,
    "ambient": -70,
    "softness": 85,
-   "reach": 45
+   "reach": 45,
+   "depth": {
+    "flash": 53,
+    "ambient": -60,
+    "softness": 50,
+    "reach": 50,
+    "beam": 36,
+    "shine": 50,
+    "shadow": 50
+   }
   },
   {
    "id": "soft_fill",
@@ -39,7 +48,16 @@
    "flash": 25,
    "ambient": -35,
    "softness": 100,
-   "reach": 65
+   "reach": 65,
+   "depth": {
+    "flash": 36,
+    "ambient": -33,
+    "softness": 100,
+    "reach": 67,
+    "beam": 71,
+    "shine": 30,
+    "shadow": 30
+   }
   },
   {
    "id": "red_flash",
@@ -70,6 +88,15 @@
     "contrast": 14,
     "saturation": -6,
     "grain": 14
+   },
+   "depth": {
+    "flash": 51,
+    "ambient": -84,
+    "softness": 65,
+    "reach": 40,
+    "beam": 51,
+    "shine": 48,
+    "shadow": 44
    }
   },
   {
@@ -97,6 +124,15 @@
     "saturation": -10,
     "warmth": 15,
     "grain": 18
+   },
+   "depth": {
+    "flash": 57,
+    "ambient": -100,
+    "softness": 60,
+    "reach": 17,
+    "beam": 48,
+    "shine": 50,
+    "shadow": 46
    }
   },
   {
@@ -122,6 +158,15 @@
     "contrast": 18,
     "saturation": -10,
     "grain": 8
+   },
+   "depth": {
+    "flash": 63,
+    "ambient": -92,
+    "softness": 45,
+    "reach": 30,
+    "beam": 40,
+    "shine": 58,
+    "shadow": 52
    }
   },
   {
@@ -151,6 +196,15 @@
     "fade": 4,
     "vignette": 35,
     "grain": 20
+   },
+   "depth": {
+    "flash": 80,
+    "ambient": -87,
+    "softness": 20,
+    "reach": 33,
+    "beam": 14,
+    "shine": 80,
+    "shadow": 70
    }
   },
   {
@@ -176,6 +230,15 @@
     "contrast": 8,
     "saturation": 18,
     "warmth": 8
+   },
+   "depth": {
+    "flash": 28,
+    "ambient": -32,
+    "softness": 100,
+    "reach": 45,
+    "beam": 71,
+    "shine": 30,
+    "shadow": 30
    }
   },
   {
@@ -201,6 +264,15 @@
     "contrast": 8,
     "saturation": -20,
     "grain": 8
+   },
+   "depth": {
+    "flash": 62,
+    "ambient": -75,
+    "softness": 60,
+    "reach": 25,
+    "beam": 48,
+    "shine": 50,
+    "shadow": 46
    }
   },
   {
@@ -228,6 +300,15 @@
     "tint": 6,
     "fade": 6,
     "grain": 14
+   },
+   "depth": {
+    "flash": 71,
+    "ambient": -77,
+    "softness": 50,
+    "reach": 60,
+    "beam": 42,
+    "shine": 55,
+    "shadow": 50
    }
   },
   {
@@ -255,6 +336,15 @@
     "saturation": -50,
     "warmth": -30,
     "grain": 8
+   },
+   "depth": {
+    "flash": 35,
+    "ambient": -98,
+    "softness": 50,
+    "reach": 30,
+    "beam": 42,
+    "shine": 55,
+    "shadow": 50
    }
   },
   {
@@ -282,6 +372,15 @@
     "warmth": 30,
     "vignette": 45,
     "grain": 6
+   },
+   "depth": {
+    "flash": 28,
+    "ambient": -100,
+    "softness": 100,
+    "reach": 20,
+    "beam": 71,
+    "shine": 30,
+    "shadow": 30
    }
   },
   {
@@ -311,6 +410,15 @@
     "vignette": 15,
     "grain": 28,
     "grainSize": 55
+   },
+   "depth": {
+    "flash": 80,
+    "ambient": -70,
+    "softness": 30,
+    "reach": 40,
+    "beam": 31,
+    "shine": 65,
+    "shadow": 58
    }
   },
   {
@@ -330,6 +438,15 @@
     "vignette": 18,
     "grain": 10,
     "grainSize": 25
+   },
+   "depth": {
+    "flash": 50,
+    "ambient": -83,
+    "softness": 40,
+    "reach": 40,
+    "beam": 37,
+    "shine": 60,
+    "shadow": 54
    }
   },
   {
@@ -347,6 +464,15 @@
     "tint": -6,
     "vignette": 15,
     "grain": 16
+   },
+   "depth": {
+    "flash": 59,
+    "ambient": -89,
+    "softness": 30,
+    "reach": 45,
+    "beam": 31,
+    "shine": 65,
+    "shadow": 58
    }
   },
   {
@@ -366,6 +492,15 @@
     "fade": 6,
     "vignette": 15,
     "grain": 14
+   },
+   "depth": {
+    "flash": 51,
+    "ambient": -75,
+    "softness": 45,
+    "reach": 50,
+    "beam": 40,
+    "shine": 58,
+    "shadow": 52
    }
   },
   {
@@ -383,6 +518,15 @@
     "fade": 18,
     "vignette": 10,
     "grain": 22
+   },
+   "depth": {
+    "flash": 44,
+    "ambient": -69,
+    "softness": 55,
+    "reach": 50,
+    "beam": 45,
+    "shine": 52,
+    "shadow": 48
    }
   },
   {
@@ -401,6 +545,15 @@
     "tint": -20,
     "vignette": 14,
     "grain": 12
+   },
+   "depth": {
+    "flash": 50,
+    "ambient": -76,
+    "softness": 40,
+    "reach": 40,
+    "beam": 37,
+    "shine": 60,
+    "shadow": 54
    }
   },
   {
@@ -419,6 +572,15 @@
     "tint": 16,
     "vignette": 10,
     "grain": 8
+   },
+   "depth": {
+    "flash": 43,
+    "ambient": -81,
+    "softness": 55,
+    "reach": 45,
+    "beam": 45,
+    "shine": 52,
+    "shadow": 48
    }
   },
   {
@@ -437,6 +599,15 @@
     "vignette": 28,
     "grain": 24,
     "grainSize": 45
+   },
+   "depth": {
+    "flash": 73,
+    "ambient": -88,
+    "softness": 15,
+    "reach": 35,
+    "beam": 23,
+    "shine": 72,
+    "shadow": 64
    }
   },
   {
@@ -455,6 +626,15 @@
     "fade": 6,
     "vignette": 6,
     "grain": 10
+   },
+   "depth": {
+    "flash": 42,
+    "ambient": -67,
+    "softness": 65,
+    "reach": 55,
+    "beam": 51,
+    "shine": 48,
+    "shadow": 44
    }
   }
  ]
